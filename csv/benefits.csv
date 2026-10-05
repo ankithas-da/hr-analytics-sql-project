@@ -1,0 +1,7 @@
+benefit_id,benefit_name,benefit_category,annual_cost_per_employee
+1,Health Insurance,Insurance,30000
+2,Life Insurance,Insurance,12000
+3,Provident Fund,Retirement,0
+4,Meal Allowance,Allowance,18000
+5,Transport Allowance,Allowance,24000
+6,Wellness Program,Wellness,6000

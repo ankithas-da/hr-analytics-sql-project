@@ -1,0 +1,143 @@
+promotion_id,employee_id,promotion_date,previous_role_id,new_role_id,promotion_reason
+1,15,2025-06-30,5,6,Business Need
+2,18,2024-06-30,10,11,Business Need
+3,35,2025-06-30,12,13,Performance
+4,62,2025-06-30,16,17,Business Need
+5,70,2025-06-30,12,13,Career Progression
+6,79,2023-06-30,3,4,Business Need
+7,87,2022-06-30,10,11,Career Progression
+8,103,2024-06-30,7,8,Business Need
+9,109,2023-06-30,10,11,Career Progression
+10,122,2024-06-30,1,2,Career Progression
+11,122,2025-06-30,1,2,Performance
+12,131,2024-06-30,14,15,Career Progression
+13,158,2024-06-30,5,6,Business Need
+14,158,2025-06-30,5,6,Performance
+15,166,2025-06-30,10,11,Performance
+16,167,2023-06-30,9,11,Business Need
+17,169,2022-06-30,10,11,Career Progression
+18,188,2022-06-30,16,17,Career Progression
+19,196,2023-06-30,3,4,Business Need
+20,211,2024-06-30,9,11,Performance
+21,213,2025-06-30,14,15,Performance
+22,218,2024-06-30,12,13,Career Progression
+23,224,2025-06-30,9,11,Career Progression
+24,226,2025-06-30,9,11,Performance
+25,235,2025-06-30,5,6,Career Progression
+26,261,2023-06-30,10,11,Business Need
+27,261,2024-06-30,10,11,Performance
+28,262,2024-06-30,16,17,Business Need
+29,270,2024-06-30,1,2,Performance
+30,270,2025-06-30,1,2,Business Need
+31,282,2025-06-30,16,17,Performance
+32,290,2024-06-30,10,11,Performance
+33,306,2024-06-30,5,6,Career Progression
+34,309,2023-06-30,12,13,Performance
+35,314,2024-06-30,9,11,Career Progression
+36,317,2024-06-30,14,15,Business Need
+37,326,2023-06-30,10,11,Business Need
+38,329,2025-06-30,12,13,Business Need
+39,349,2022-06-30,10,11,Career Progression
+40,355,2024-06-30,5,6,Career Progression
+41,358,2022-06-30,1,2,Performance
+42,396,2025-06-30,10,11,Career Progression
+43,397,2025-06-30,7,8,Career Progression
+44,403,2024-06-30,9,11,Career Progression
+45,423,2025-06-30,16,17,Career Progression
+46,425,2024-06-30,10,11,Business Need
+47,427,2024-06-30,12,13,Performance
+48,441,2024-06-30,9,11,Business Need
+49,444,2024-06-30,12,13,Career Progression
+50,450,2024-06-30,12,13,Career Progression
+51,452,2022-06-30,3,4,Performance
+52,463,2025-06-30,14,15,Performance
+53,473,2023-06-30,14,15,Performance
+54,473,2025-06-30,14,15,Career Progression
+55,474,2022-06-30,9,11,Career Progression
+56,485,2024-06-30,9,11,Performance
+57,489,2022-06-30,9,11,Career Progression
+58,489,2023-06-30,9,11,Career Progression
+59,490,2025-06-30,9,11,Business Need
+60,498,2024-06-30,10,11,Career Progression
+61,502,2025-06-30,12,13,Performance
+62,514,2025-06-30,10,11,Business Need
+63,518,2024-06-30,10,11,Career Progression
+64,522,2023-06-30,5,6,Business Need
+65,525,2022-06-30,14,15,Performance
+66,525,2024-06-30,14,15,Career Progression
+67,537,2024-06-30,7,8,Performance
+68,539,2024-06-30,9,11,Business Need
+69,566,2023-06-30,12,13,Business Need
+70,584,2024-06-30,5,6,Career Progression
+71,590,2025-06-30,10,11,Career Progression
+72,609,2022-06-30,9,11,Business Need
+73,612,2025-06-30,10,11,Career Progression
+74,620,2025-06-30,12,13,Career Progression
+75,626,2023-06-30,7,8,Performance
+76,628,2024-06-30,9,11,Business Need
+77,637,2025-06-30,5,6,Performance
+78,638,2025-06-30,10,11,Career Progression
+79,661,2025-06-30,7,8,Career Progression
+80,676,2025-06-30,12,13,Career Progression
+81,685,2025-06-30,5,6,Business Need
+82,686,2024-06-30,14,15,Performance
+83,686,2025-06-30,14,15,Business Need
+84,688,2025-06-30,1,2,Performance
+85,701,2025-06-30,5,6,Business Need
+86,733,2025-06-30,9,11,Business Need
+87,744,2022-06-30,14,15,Business Need
+88,758,2024-06-30,9,11,Career Progression
+89,791,2023-06-30,7,8,Career Progression
+90,791,2024-06-30,7,8,Career Progression
+91,805,2024-06-30,10,11,Career Progression
+92,812,2024-06-30,5,6,Performance
+93,818,2025-06-30,12,13,Performance
+94,840,2025-06-30,1,2,Business Need
+95,845,2025-06-30,10,11,Performance
+96,859,2024-06-30,9,11,Performance
+97,866,2023-06-30,14,15,Business Need
+98,866,2024-06-30,14,15,Career Progression
+99,890,2023-06-30,7,8,Performance
+100,896,2023-06-30,1,2,Career Progression
+101,906,2025-06-30,9,11,Career Progression
+102,913,2024-06-30,7,8,Business Need
+103,914,2023-06-30,16,17,Performance
+104,919,2025-06-30,9,11,Career Progression
+105,925,2023-06-30,1,2,Business Need
+106,928,2024-06-30,14,15,Career Progression
+107,937,2024-06-30,5,6,Business Need
+108,944,2025-06-30,7,8,Performance
+109,950,2024-06-30,7,8,Business Need
+110,952,2024-06-30,1,2,Career Progression
+111,955,2025-06-30,9,11,Performance
+112,962,2023-06-30,1,2,Career Progression
+113,965,2024-06-30,1,2,Business Need
+114,969,2025-06-30,14,15,Performance
+115,977,2024-06-30,14,15,Performance
+116,980,2025-06-30,9,11,Career Progression
+117,990,2023-06-30,9,11,Performance
+118,990,2025-06-30,9,11,Performance
+119,995,2025-06-30,12,13,Career Progression
+120,1019,2024-06-30,14,15,Career Progression
+121,1028,2023-06-30,1,2,Business Need
+122,1032,2025-06-30,9,11,Business Need
+123,1055,2025-06-30,7,8,Business Need
+124,1070,2024-06-30,7,8,Career Progression
+125,1079,2025-06-30,10,11,Career Progression
+126,1081,2022-06-30,5,6,Performance
+127,1086,2025-06-30,1,2,Career Progression
+128,1090,2025-06-30,3,4,Business Need
+129,1096,2023-06-30,14,15,Business Need
+130,1101,2023-06-30,10,11,Business Need
+131,1128,2025-06-30,9,11,Career Progression
+132,1136,2024-06-30,7,8,Career Progression
+133,1141,2023-06-30,3,4,Career Progression
+134,1157,2022-06-30,14,15,Performance
+135,1163,2023-06-30,7,8,Career Progression
+136,1168,2024-06-30,14,15,Career Progression
+137,1173,2024-06-30,3,4,Career Progression
+138,1174,2024-06-30,1,2,Career Progression
+139,1175,2022-06-30,16,17,Performance
+140,1177,2024-06-30,7,8,Performance
+141,1196,2024-06-30,7,8,Performance
+142,1198,2022-06-30,5,6,Business Need

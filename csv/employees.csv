@@ -1,0 +1,1201 @@
+employee_id,employee_name,gender,hire_date,exit_date,department_id,role_id,manager_id,location_id,employment_status,recruitment_source,education_level,grade_id,current_salary
+1,Sonali Saxena,Male,2023-04-12,,2,3,799,6,Active,Employee Referral,MBA/PGDM,3,915000
+2,Nisha Shinde,Female,2023-07-11,,3,6,972,1,Active,Campus Hiring,Bachelor's,4,1065000
+3,Trisha Patel,Female,2025-04-17,,1,1,170,4,Active,Naukri,Diploma,1,475000
+4,Ananya Thakur,Female,2023-10-03,2025-01-05,4,8,318,3,Resigned,Recruitment Agency,Master's,4,1215000
+5,Vaishnavi Menon,Female,2024-09-19,,1,1,1036,3,Active,LinkedIn,MBA/PGDM,2,715000
+6,Sameer Thakur,Male,2022-07-01,,5,11,363,1,Active,Employee Referral,Diploma,5,1675000
+7,Arjun Joshi,Female,2023-08-27,,7,14,335,6,Active,LinkedIn,Bachelor's,2,540000
+8,Varun Menon,Female,2025-03-09,2025-06-14,2,3,697,3,Terminated,Employee Referral,MBA/PGDM,2,710000
+9,Rohit Kapoor,Female,2021-12-25,2024-05-07,1,2,642,1,Resigned,Recruitment Agency,Diploma,4,1020000
+10,Neha Singh,Male,2025-11-25,,4,8,99,5,Active,Employee Referral,Bachelor's,5,1470000
+11,Priya Pawar,Male,2025-08-28,,7,14,905,2,Active,Recruitment Agency,Bachelor's,1,390000
+12,Isha Singh,Male,2024-02-20,2024-05-01,7,14,55,3,Resigned,LinkedIn,MBA/PGDM,2,585000
+13,Varun Kulkarni,Male,2025-07-18,,6,13,843,6,Active,Recruitment Agency,MBA/PGDM,4,1010000
+14,Amit Shinde,Female,2023-04-18,,5,11,1024,3,Active,Naukri,MBA/PGDM,5,1700000
+15,Dhruv Kapoor,Female,2023-04-02,,3,5,649,2,Active,Recruitment Agency,Master's,1,475000
+16,Arjun Pawar,Male,2021-10-27,,6,13,247,2,Active,Company Website,Bachelor's,4,1120000
+17,Sneha Jain,Male,2022-10-15,,1,1,1140,2,Active,Naukri,Diploma,2,660000
+18,Rohit Singh,Male,2023-12-18,,5,10,190,1,Active,Company Website,MBA/PGDM,4,1205000
+19,Isha Naik,Male,2024-10-04,2025-06-15,6,13,260,1,Resigned,Employee Referral,Diploma,4,1385000
+20,Aniket Bansal,Male,2021-01-22,2023-04-04,6,13,908,1,Terminated,Company Website,Master's,5,1430000
+21,Priya Khan,Female,2025-09-01,2025-11-23,4,7,795,2,Resigned,LinkedIn,Diploma,2,540000
+22,Vivek Shinde,Female,2024-04-15,2025-11-03,4,7,879,1,Resigned,Company Website,Master's,3,835000
+23,Amit Pawar,Male,2023-08-26,,3,5,1062,6,Active,Campus Hiring,MBA/PGDM,1,460000
+24,Varun Jain,Male,2025-10-07,,1,1,680,6,Active,Campus Hiring,MBA/PGDM,2,675000
+25,Yash Menon,Female,2022-01-25,,5,11,491,2,Active,Campus Hiring,Bachelor's,5,1590000
+26,Meera Jain,Male,2021-08-19,,3,6,214,6,Active,Employee Referral,Bachelor's,4,1225000
+27,Ananya Singh,Male,2023-03-13,,4,8,308,6,Active,Recruitment Agency,MBA/PGDM,3,910000
+28,Sneha Jadhav,Male,2025-04-22,,3,6,1034,4,Active,Campus Hiring,Bachelor's,4,1240000
+29,Aditi Sharma,Male,2021-02-23,,1,2,1071,3,Active,Employee Referral,Master's,3,900000
+30,Riya Chopra,Male,2021-09-25,2023-02-09,1,1,233,8,Resigned,Company Website,MBA/PGDM,2,580000
+31,Ananya Mishra,Female,2025-09-16,,8,17,561,3,Active,Company Website,Diploma,4,1325000
+32,Karan Reddy,Female,2025-01-17,2025-07-14,6,12,187,1,Resigned,Campus Hiring,Master's,1,480000
+33,Arjun Mishra,Male,2025-09-24,,7,15,377,4,Active,LinkedIn,MBA/PGDM,4,1260000
+34,Tanvi Iyer,Male,2023-12-30,,5,11,589,6,Active,Recruitment Agency,Bachelor's,5,1535000
+35,Shreya Bansal,Female,2022-02-08,,6,12,1102,2,Active,Campus Hiring,Diploma,2,680000
+36,Vaishnavi Jadhav,Male,2024-01-21,,6,13,331,1,Active,Recruitment Agency,Master's,3,935000
+37,Aniket Malhotra,Female,2022-10-03,2023-11-06,7,15,935,1,Resigned,Employee Referral,Master's,4,1255000
+38,Vaishnavi Khan,Female,2024-09-17,2025-11-08,3,6,52,4,Resigned,LinkedIn,Master's,5,1495000
+39,Tanvi Pawar,Female,2025-11-28,,5,10,34,6,Active,Employee Referral,MBA/PGDM,3,895000
+40,Anjali Pillai,Male,2023-12-29,,2,4,1059,1,Active,Company Website,Diploma,4,1060000
+41,Shreya Menon,Female,2025-10-12,,5,11,354,6,Active,Company Website,MBA/PGDM,5,1625000
+42,Dev Rao,Female,2025-01-29,,7,15,149,3,Active,Campus Hiring,Master's,4,1025000
+43,Priya Mishra,Male,2022-10-19,,3,5,78,1,Active,Company Website,Bachelor's,2,740000
+44,Sakshi Saxena,Female,2025-09-20,2025-12-05,5,11,1135,2,Resigned,Recruitment Agency,Master's,5,1465000
+45,Aditi Nair,Female,2021-02-28,,7,14,664,2,Active,LinkedIn,Master's,1,480000
+46,Dev Gupta,Male,2021-08-12,2022-01-08,1,1,680,3,Resigned,Company Website,Diploma,1,465000
+47,Zoya Mishra,Female,2021-06-29,,6,12,187,4,Active,Recruitment Agency,Diploma,2,515000
+48,Vivek Joshi,Male,2024-07-04,2024-11-16,2,4,675,3,Resigned,Company Website,Diploma,4,1135000
+49,Pallavi Pillai,Male,2023-08-03,,5,11,190,5,Active,Naukri,MBA/PGDM,5,1575000
+50,Aditi Singh,Female,2025-03-26,,7,15,321,1,Active,Company Website,Diploma,4,1155000
+51,Dev Sawant,Male,2021-03-03,,3,6,529,7,Active,LinkedIn,Diploma,5,1420000
+52,Pooja Mishra,Male,2022-10-12,,3,6,28,1,Active,LinkedIn,Master's,4,1225000
+53,Nisha Sharma,Male,2023-01-01,2025-01-11,6,13,16,1,Terminated,Naukri,Master's,4,1370000
+54,Sahil Verma,Female,2024-09-12,,3,5,181,1,Active,Company Website,MBA/PGDM,3,790000
+55,Rhea Naik,Female,2022-12-22,,7,15,706,3,Active,Naukri,Bachelor's,3,895000
+56,Rohan Joshi,Female,2025-08-22,,6,12,142,1,Active,Employee Referral,Master's,1,460000
+57,Sanjay Joshi,Male,2022-03-16,2022-09-07,2,3,692,1,Resigned,Recruitment Agency,Bachelor's,2,730000
+58,Sonali Shinde,Male,2021-12-04,,4,7,604,1,Active,Company Website,Bachelor's,2,730000
+59,Sonali Deshmukh,Female,2022-08-30,2025-05-25,3,5,622,3,Resigned,Recruitment Agency,MBA/PGDM,2,735000
+60,Shreya Shinde,Male,2023-01-28,,3,5,957,3,Active,LinkedIn,Diploma,2,745000
+61,Varun More,Male,2022-06-09,2023-01-03,4,7,73,2,Resigned,Employee Referral,Diploma,3,850000
+62,Harsh Naik,Female,2021-08-16,,8,16,230,1,Active,Campus Hiring,Diploma,2,750000
+63,Pallavi Jadhav,Female,2023-11-20,2025-06-07,5,10,659,1,Resigned,Recruitment Agency,Diploma,4,1230000
+64,Sakshi Singh,Female,2024-08-18,,5,10,712,8,Active,Company Website,Master's,3,895000
+65,Ashish Verma,Male,2025-04-26,,1,1,635,2,Active,Naukri,Bachelor's,2,720000
+66,Ananya Mehta,Male,2025-09-09,,5,9,540,4,Active,LinkedIn,Master's,3,975000
+67,Nikhil Thakur,Male,2023-04-29,,5,10,472,7,Active,Company Website,Diploma,3,930000
+68,Trisha Nair,Male,2025-02-09,,1,1,85,3,Active,Campus Hiring,Bachelor's,2,620000
+69,Manish Iyer,Male,2024-08-27,,5,9,354,4,Active,Recruitment Agency,Master's,3,835000
+70,Nisha Rao,Male,2022-01-08,,6,12,743,5,Active,Employee Referral,Diploma,1,485000
+71,Rhea Naik,Male,2021-07-13,,5,11,1018,6,Active,Employee Referral,Master's,5,1720000
+72,Varun Shinde,Male,2022-10-10,,1,1,801,1,Active,Naukri,MBA/PGDM,2,515000
+73,Maya Jadhav,Male,2023-05-05,,4,8,91,2,Active,Company Website,Master's,5,1480000
+74,Abhishek Rao,Female,2022-08-24,2023-03-03,5,11,284,2,Resigned,Recruitment Agency,Diploma,4,1265000
+75,Manish Joshi,Female,2023-05-09,,3,5,754,8,Active,Naukri,MBA/PGDM,2,745000
+76,Dev Thakur,Female,2022-08-04,,5,10,554,1,Active,Naukri,Diploma,3,830000
+77,Dev Naik,Female,2024-04-07,,5,11,456,2,Active,Company Website,Master's,5,1985000
+78,Amit Chopra,Male,2023-04-14,,3,6,792,2,Active,Naukri,MBA/PGDM,4,1335000
+79,Dhruv Khan,Female,2021-11-21,2024-02-26,2,3,1143,3,Resigned,LinkedIn,Diploma,2,720000
+80,Diya Deshmukh,Female,2022-09-28,,6,13,752,5,Active,LinkedIn,Bachelor's,3,995000
+81,Mohit Bansal,Male,2025-02-25,2025-07-25,6,12,752,1,Resigned,LinkedIn,Bachelor's,1,475000
+82,Amit Rao,Female,2022-07-16,,7,15,336,5,Active,Recruitment Agency,MBA/PGDM,3,860000
+83,Priya Joshi,Male,2024-03-28,,4,7,298,3,Active,Employee Referral,MBA/PGDM,3,895000
+84,Akash Joshi,Male,2022-10-12,,3,6,1155,4,Active,Campus Hiring,Master's,5,1595000
+85,Maya Pawar,Female,2022-12-02,,1,2,745,4,Active,Company Website,Diploma,3,965000
+86,Vidya Malhotra,Male,2024-12-14,,7,14,414,4,Active,Employee Referral,Master's,2,605000
+87,Sanjay Gupta,Male,2021-05-08,,5,10,1153,1,Active,Naukri,MBA/PGDM,4,1230000
+88,Sanjay Thakur,Male,2021-07-06,2025-01-25,6,13,1064,3,Resigned,Naukri,Master's,4,1070000
+89,Sonali Rao,Male,2022-01-05,,1,1,1015,1,Active,Naukri,Master's,2,620000
+90,Tanvi Pawar,Male,2023-07-15,,2,4,180,3,Active,Naukri,Bachelor's,5,1585000
+91,Karan Pillai,Male,2021-02-20,2025-05-27,4,8,989,1,Resigned,Employee Referral,Master's,5,1650000
+92,Rohan Sharma,Male,2024-10-11,,7,15,362,4,Active,Campus Hiring,Master's,3,920000
+93,Isha Chopra,Female,2021-06-07,2024-08-16,3,6,864,2,Resigned,Company Website,Diploma,4,1055000
+94,Dhruv Naik,Male,2023-01-16,,7,15,449,6,Active,LinkedIn,Bachelor's,4,1195000
+95,Dev Kapoor,Male,2025-08-20,2025-11-14,6,13,702,2,Resigned,LinkedIn,MBA/PGDM,4,1140000
+96,Kavya Mehta,Female,2022-06-10,,5,11,540,6,Active,Company Website,Bachelor's,4,1160000
+97,Vaishnavi Naik,Female,2024-10-24,,5,11,150,7,Active,Company Website,MBA/PGDM,5,1410000
+98,Tanya Iyer,Female,2025-01-31,,5,10,910,1,Active,Campus Hiring,Bachelor's,3,870000
+99,Karan Thakur,Female,2024-08-26,2025-06-19,4,8,467,1,Resigned,Campus Hiring,Bachelor's,5,1655000
+100,Kavya Pawar,Male,2023-03-11,,5,11,363,3,Active,Recruitment Agency,MBA/PGDM,5,1500000
+101,Isha Singh,Female,2024-10-20,,5,9,737,5,Active,Campus Hiring,Bachelor's,4,1055000
+102,Rohan Khan,Male,2025-09-21,2025-12-03,8,17,240,2,Resigned,LinkedIn,Master's,4,1180000
+103,Yash Saxena,Male,2021-01-07,,4,7,476,2,Active,Employee Referral,Bachelor's,3,880000
+104,Trisha Malhotra,Male,2025-10-21,2025-12-26,3,5,106,4,Resigned,Recruitment Agency,Master's,2,665000
+105,Aarav Verma,Female,2021-08-12,,3,6,629,3,Active,Naukri,MBA/PGDM,3,880000
+106,Abhishek Jadhav,Male,2024-01-22,,3,6,385,4,Active,Company Website,Diploma,4,1115000
+107,Rhea Deshmukh,Male,2025-06-08,2025-12-31,5,9,6,3,Resigned,LinkedIn,Master's,2,695000
+108,Maya Pawar,Male,2023-06-25,,5,10,591,7,Active,Recruitment Agency,Master's,2,655000
+109,Sanjay Iyer,Female,2022-08-20,,5,10,49,1,Active,Recruitment Agency,Master's,3,900000
+110,Diya Mishra,Female,2021-11-23,,7,15,973,3,Active,Naukri,Diploma,4,1175000
+111,Sneha Patel,Male,2021-03-08,2023-10-17,5,11,183,5,Terminated,Naukri,MBA/PGDM,5,1445000
+112,Riya Sawant,Male,2025-05-28,,3,5,348,5,Active,LinkedIn,Bachelor's,2,700000
+113,Riya Reddy,Female,2022-04-21,,5,10,524,1,Active,Recruitment Agency,Diploma,3,920000
+114,Ashish Gupta,Male,2025-10-22,,5,11,439,2,Active,Employee Referral,Master's,4,1330000
+115,Riya Bansal,Female,2025-07-28,,3,6,754,7,Active,Naukri,Diploma,4,1005000
+116,Ashish Malhotra,Female,2025-05-07,,5,9,726,1,Active,Company Website,Bachelor's,3,870000
+117,Diya Deshmukh,Male,2024-02-01,,3,6,1057,1,Active,Company Website,Diploma,4,1225000
+118,Tanvi Joshi,Male,2023-05-02,,5,9,100,2,Active,LinkedIn,MBA/PGDM,3,930000
+119,Manish More,Male,2025-07-15,,6,13,503,1,Active,Employee Referral,Diploma,4,1080000
+120,Rhea Sawant,Female,2025-06-24,2025-12-26,3,5,200,1,Resigned,Naukri,Master's,2,635000
+121,Rohit Rao,Female,2023-10-28,2025-06-16,5,11,868,2,Terminated,Campus Hiring,Diploma,5,1675000
+122,Aditya More,Male,2021-08-02,,1,1,1192,1,Active,LinkedIn,Bachelor's,2,625000
+123,Nikhil Mishra,Male,2022-06-16,,7,15,909,6,Active,Company Website,Master's,4,1145000
+124,Anjali Singh,Male,2023-11-29,,5,9,1001,1,Active,Naukri,MBA/PGDM,4,1030000
+125,Arjun Iyer,Female,2023-11-25,,5,9,128,7,Active,Company Website,Bachelor's,3,920000
+126,Neha Nair,Female,2023-06-01,,5,11,549,3,Active,LinkedIn,Master's,4,1290000
+127,Ashish Mishra,Female,2024-07-08,,7,15,755,3,Active,Naukri,Master's,3,935000
+128,Meera Sharma,Female,2024-07-07,,5,11,970,4,Active,Employee Referral,Bachelor's,4,1295000
+129,Vidya Rao,Female,2023-08-03,,7,15,1111,6,Active,LinkedIn,Master's,3,970000
+130,Abhishek Saxena,Female,2025-02-08,2025-04-14,7,15,714,4,Resigned,LinkedIn,Diploma,4,1285000
+131,Ashish Verma,Male,2021-12-31,,7,14,392,1,Active,LinkedIn,Diploma,1,390000
+132,Varun Sharma,Male,2022-11-29,,6,12,742,8,Active,LinkedIn,Bachelor's,2,610000
+133,Ananya Chopra,Female,2022-09-26,2023-12-27,5,11,985,4,Terminated,Recruitment Agency,MBA/PGDM,4,1275000
+134,Abhishek Chopra,Female,2024-01-11,,1,1,662,3,Active,Naukri,Diploma,2,660000
+135,Meera Jadhav,Male,2022-06-12,,5,9,723,6,Active,Company Website,Master's,3,790000
+136,Ankita Mehta,Male,2024-02-10,2024-12-07,2,4,832,1,Resigned,Recruitment Agency,Master's,4,1060000
+137,Sakshi Chopra,Male,2024-09-23,,6,12,80,2,Active,Employee Referral,Master's,3,775000
+138,Pallavi Verma,Male,2021-09-24,,5,10,535,8,Active,LinkedIn,Bachelor's,4,1025000
+139,Vivek Verma,Female,2023-10-27,,7,14,575,4,Active,Campus Hiring,Diploma,2,620000
+140,Rohan Reddy,Female,2024-07-08,,7,14,238,1,Active,Recruitment Agency,Diploma,1,410000
+141,Abhishek Reddy,Female,2021-03-05,,5,11,751,2,Active,Company Website,Master's,4,1360000
+142,Vidya Malhotra,Female,2025-09-21,,6,13,151,2,Active,Company Website,Diploma,5,1410000
+143,Karan Jadhav,Female,2023-06-22,,3,6,771,3,Active,Employee Referral,Bachelor's,5,1595000
+144,Kavya Kapoor,Male,2025-11-03,,4,7,399,3,Active,Company Website,Master's,2,725000
+145,Trisha Verma,Male,2025-08-07,,7,14,127,1,Active,Naukri,Bachelor's,1,360000
+146,Kavya Shinde,Male,2021-06-13,,7,15,176,7,Active,LinkedIn,MBA/PGDM,4,1025000
+147,Meera Thakur,Male,2023-05-20,,7,15,578,2,Active,Naukri,MBA/PGDM,3,790000
+148,Akash Iyer,Male,2025-02-17,2025-05-31,6,13,164,2,Resigned,Naukri,Bachelor's,4,1125000
+149,Priya Iyer,Male,2022-02-03,,7,15,494,2,Active,Company Website,Bachelor's,4,1270000
+150,Tanvi Pillai,Male,2021-02-15,2025-09-05,5,11,712,4,Resigned,Company Website,Master's,4,1160000
+151,Pallavi Khan,Female,2021-01-24,,6,13,244,1,Active,LinkedIn,MBA/PGDM,5,1410000
+152,Pooja Sharma,Female,2025-02-27,,7,14,414,1,Active,Employee Referral,Master's,2,575000
+153,Shreya Nair,Male,2023-01-28,,2,4,613,3,Active,LinkedIn,Diploma,5,1735000
+154,Rohan Nair,Female,2024-10-07,2025-01-25,2,4,831,1,Resigned,Naukri,Master's,5,1525000
+155,Anjali Saxena,Female,2025-08-13,,4,7,99,3,Active,Campus Hiring,MBA/PGDM,3,755000
+156,Arjun Sharma,Male,2023-05-19,2025-10-26,5,11,41,5,Resigned,Employee Referral,MBA/PGDM,4,1200000
+157,Sneha Shinde,Female,2021-03-29,,6,13,1150,2,Active,Naukri,Master's,4,1235000
+158,Aditi Jadhav,Female,2022-12-16,,3,5,1011,6,Active,Employee Referral,MBA/PGDM,1,490000
+159,Sakshi Pillai,Female,2022-01-31,,2,4,799,4,Active,Campus Hiring,MBA/PGDM,5,1710000
+160,Kavya Jain,Female,2024-07-28,,5,9,97,4,Active,Campus Hiring,Bachelor's,3,915000
+161,Aditya Saxena,Male,2025-09-15,,3,5,1193,8,Active,Naukri,MBA/PGDM,2,595000
+162,Shreya Sawant,Male,2021-03-03,,5,9,14,2,Active,Recruitment Agency,MBA/PGDM,4,1060000
+163,Ashish More,Female,2025-11-23,,6,13,482,7,Active,Naukri,Diploma,4,1390000
+164,Vaishnavi Deshmukh,Male,2021-01-10,,6,13,350,7,Active,Employee Referral,Bachelor's,4,1250000
+165,Zoya Mishra,Female,2021-10-05,,3,6,143,8,Active,Recruitment Agency,Diploma,4,1220000
+166,Rhea Khan,Male,2023-12-20,,5,10,886,1,Active,LinkedIn,Bachelor's,4,1030000
+167,Sameer Saxena,Female,2022-10-17,,5,9,549,2,Active,Company Website,Bachelor's,3,955000
+168,Vidya Shinde,Male,2025-10-22,,6,12,517,1,Active,Employee Referral,Bachelor's,2,565000
+169,Vaishnavi Patel,Male,2021-07-22,2022-11-27,5,10,985,3,Resigned,LinkedIn,Bachelor's,3,755000
+170,Mohit Gupta,Male,2023-03-01,,1,2,776,8,Active,Employee Referral,Bachelor's,4,1335000
+171,Sanjay Joshi,Male,2025-01-10,,1,1,170,7,Active,Recruitment Agency,MBA/PGDM,2,600000
+172,Pallavi Patel,Female,2021-12-15,2022-09-11,7,15,405,5,Resigned,Employee Referral,Master's,4,1245000
+173,Dhruv Pillai,Male,2022-07-05,,2,3,724,5,Active,Naukri,Master's,3,870000
+174,Rhea Kulkarni,Female,2023-01-22,2025-01-19,6,12,1120,5,Resigned,Recruitment Agency,Master's,2,660000
+175,Sneha Nair,Male,2023-08-16,,7,14,405,2,Active,Recruitment Agency,Master's,2,540000
+176,Sameer Chopra,Male,2021-03-11,,7,15,706,4,Active,Recruitment Agency,Master's,4,1270000
+177,Vidya Saxena,Male,2022-04-16,,1,1,233,1,Active,LinkedIn,MBA/PGDM,2,650000
+178,Pallavi Mehta,Male,2025-06-11,,5,11,904,1,Active,Campus Hiring,Diploma,4,1185000
+179,Sanjay Pillai,Female,2023-03-08,,3,6,754,8,Active,Naukri,Diploma,4,1365000
+180,Sakshi Verma,Female,2021-10-17,2024-02-18,2,4,673,1,Resigned,Campus Hiring,Master's,4,1295000
+181,Maya Nair,Male,2025-04-08,,3,6,720,3,Active,Company Website,Bachelor's,5,1575000
+182,Varun Sharma,Male,2021-02-27,,8,16,568,3,Active,LinkedIn,Diploma,3,825000
+183,Diya Sawant,Male,2022-04-13,,5,11,141,2,Active,Company Website,Master's,5,1625000
+184,Amit Bansal,Female,2022-02-11,,6,12,1100,5,Active,LinkedIn,Bachelor's,2,515000
+185,Sakshi Malhotra,Male,2024-12-01,,5,10,455,6,Active,Employee Referral,Bachelor's,2,695000
+186,Sneha Bansal,Male,2021-07-07,2025-10-17,3,5,51,3,Resigned,Recruitment Agency,Bachelor's,3,785000
+187,Manish Pillai,Female,2023-12-10,,6,13,1150,6,Active,Recruitment Agency,MBA/PGDM,4,1335000
+188,Rhea Chopra,Male,2021-03-07,2025-11-27,8,16,561,6,Resigned,Naukri,MBA/PGDM,3,895000
+189,Ashish Deshmukh,Female,2023-04-30,,1,2,776,1,Active,Naukri,MBA/PGDM,3,925000
+190,Sonali Singh,Male,2021-11-09,,5,11,347,1,Active,Recruitment Agency,Master's,4,1100000
+191,Aditi Deshmukh,Male,2021-06-09,2023-11-25,7,14,513,4,Resigned,Campus Hiring,Bachelor's,2,525000
+192,Sakshi Thakur,Female,2025-07-31,2025-11-18,6,12,497,1,Resigned,Naukri,Master's,2,510000
+193,Dev Jadhav,Male,2022-03-26,2024-07-17,3,5,1155,2,Resigned,Naukri,Master's,1,465000
+194,Vivek Iyer,Male,2022-11-08,,6,13,946,5,Active,LinkedIn,Bachelor's,4,1175000
+195,Kavya Singh,Female,2025-11-01,2025-12-31,7,14,50,8,Resigned,Recruitment Agency,MBA/PGDM,1,415000
+196,Rohit Sawant,Male,2021-02-12,,2,3,734,8,Active,Company Website,Diploma,3,865000
+197,Neha Jain,Female,2022-06-12,,5,9,455,1,Active,Recruitment Agency,Diploma,2,705000
+198,Anjali Singh,Male,2022-01-30,,6,13,88,2,Active,Naukri,MBA/PGDM,5,1580000
+199,Rohit Pillai,Male,2024-02-04,,4,7,493,7,Active,LinkedIn,Diploma,3,765000
+200,Meera Shinde,Male,2021-05-23,,3,6,972,1,Active,Company Website,Master's,4,1075000
+201,Sameer Rao,Male,2023-12-14,2024-03-14,8,16,547,3,Resigned,Employee Referral,Master's,2,700000
+202,Riya Chopra,Male,2025-11-04,,5,10,439,1,Active,Employee Referral,MBA/PGDM,4,1285000
+203,Meera Shinde,Female,2023-11-09,2024-12-22,4,7,879,1,Resigned,LinkedIn,Bachelor's,2,610000
+204,Meera Deshmukh,Female,2022-11-04,,3,6,338,5,Active,Company Website,MBA/PGDM,4,1320000
+205,Ashish Nair,Female,2021-04-16,,7,14,215,3,Active,LinkedIn,Diploma,2,575000
+206,Aditya Deshmukh,Male,2024-11-09,,7,14,37,5,Active,Company Website,Bachelor's,2,610000
+207,Karan Menon,Female,2024-07-09,,5,11,591,4,Active,Company Website,Bachelor's,5,1820000
+208,Karan More,Female,2022-02-28,,5,11,710,3,Active,Naukri,MBA/PGDM,4,1160000
+209,Tanvi Pawar,Male,2024-09-04,,7,15,333,1,Active,LinkedIn,Bachelor's,3,870000
+210,Varun Patel,Male,2021-09-09,,5,9,466,6,Active,LinkedIn,Master's,3,990000
+211,Maya Menon,Male,2023-04-29,2025-02-27,5,9,483,2,Resigned,LinkedIn,Bachelor's,3,875000
+212,Amit Mehta,Male,2025-06-28,,3,5,576,1,Active,Recruitment Agency,Diploma,1,470000
+213,Tanvi Patel,Female,2024-01-20,2025-12-29,7,14,1009,4,Resigned,Campus Hiring,Diploma,2,590000
+214,Pallavi Kulkarni,Male,2021-06-11,,3,6,28,1,Active,Employee Referral,Bachelor's,4,1065000
+215,Sameer Sawant,Male,2025-07-20,2025-10-26,7,15,286,4,Resigned,Naukri,Master's,4,1105000
+216,Dev Singh,Female,2022-02-28,,3,5,558,1,Active,Naukri,Master's,1,455000
+217,Aditi Iyer,Male,2023-11-02,,4,8,690,3,Active,Campus Hiring,Bachelor's,4,1080000
+218,Mohit Bansal,Male,2023-01-23,,6,12,260,1,Active,Naukri,Diploma,1,475000
+219,Kavya Sharma,Male,2024-02-15,,3,5,880,3,Active,LinkedIn,Diploma,2,620000
+220,Rhea Malhotra,Female,2022-12-09,,8,17,741,1,Active,Recruitment Agency,Diploma,4,1030000
+221,Dhruv Joshi,Male,2024-09-02,,4,7,999,1,Active,Employee Referral,Bachelor's,2,505000
+222,Sameer Mishra,Male,2025-06-10,,1,2,662,3,Active,Company Website,Diploma,4,1195000
+223,Sameer Shinde,Female,2023-02-15,2025-02-26,1,1,837,4,Resigned,Naukri,Bachelor's,2,570000
+224,Vaishnavi Rao,Male,2023-06-23,,5,9,718,7,Active,LinkedIn,Bachelor's,3,860000
+225,Sonali Chopra,Male,2022-11-11,,7,15,281,4,Active,LinkedIn,Diploma,4,1040000
+226,Sanjay Jadhav,Male,2022-05-06,,5,9,737,1,Active,Employee Referral,Bachelor's,2,710000
+227,Ashish Thakur,Female,2023-07-14,,3,6,1062,3,Active,Employee Referral,Diploma,5,1435000
+228,Tanvi Thakur,Female,2025-03-22,,5,9,1176,2,Active,Naukri,Bachelor's,2,705000
+229,Meera Sawant,Female,2025-04-05,2025-06-15,3,5,442,1,Resigned,LinkedIn,Bachelor's,3,760000
+230,Aarav Patel,Female,2024-12-21,,8,17,500,3,Active,Naukri,MBA/PGDM,5,1505000
+231,Mohit Bansal,Female,2023-01-06,,7,15,717,2,Active,Recruitment Agency,Bachelor's,3,820000
+232,Sakshi Sharma,Male,2025-11-02,,4,7,315,1,Active,Campus Hiring,Master's,2,745000
+233,Rhea Malhotra,Male,2021-12-24,,1,2,170,2,Active,Employee Referral,Master's,4,1090000
+234,Aarav Gupta,Female,2021-04-01,,4,8,534,3,Active,LinkedIn,Master's,4,1230000
+235,Manish Patel,Male,2022-11-17,,3,5,901,1,Active,Recruitment Agency,Diploma,2,655000
+236,Ankita Jain,Male,2025-11-06,,5,9,96,3,Active,Employee Referral,Diploma,2,605000
+237,Amit Jadhav,Male,2021-11-30,,8,16,478,4,Active,Company Website,Master's,2,600000
+238,Rohit Kapoor,Female,2022-01-25,2025-03-12,7,15,717,1,Terminated,Campus Hiring,Master's,4,1060000
+239,Rohit Chopra,Male,2023-11-03,,3,5,720,3,Active,LinkedIn,MBA/PGDM,2,680000
+240,Vivek Kulkarni,Female,2025-07-13,,8,17,830,2,Active,Campus Hiring,Master's,4,1265000
+241,Anjali Sharma,Female,2024-02-27,,7,14,123,3,Active,Company Website,MBA/PGDM,1,430000
+242,Ankita Pawar,Female,2022-03-09,,7,15,1053,6,Active,Employee Referral,MBA/PGDM,4,1155000
+243,Pallavi Singh,Male,2025-10-07,,3,6,1187,1,Active,Employee Referral,Master's,4,1210000
+244,Varun Menon,Female,2025-06-18,,6,13,1073,5,Active,Campus Hiring,Diploma,3,960000
+245,Maya More,Male,2022-09-24,,2,3,1007,1,Active,Campus Hiring,Bachelor's,2,720000
+246,Tanvi Patel,Male,2022-03-12,,4,8,632,2,Active,Employee Referral,Diploma,5,1615000
+247,Mohit Pillai,Female,2025-05-07,2025-11-02,6,13,350,4,Resigned,Company Website,Bachelor's,4,1040000
+248,Sneha Deshmukh,Female,2022-04-02,,4,7,470,2,Active,Recruitment Agency,Bachelor's,2,740000
+249,Zoya Chopra,Male,2023-11-03,,1,2,801,2,Active,Naukri,MBA/PGDM,3,860000
+250,Manish Deshmukh,Male,2024-03-17,,3,5,972,4,Active,Naukri,MBA/PGDM,2,585000
+251,Nisha Nair,Male,2025-08-09,,5,11,126,1,Active,Employee Referral,Master's,5,1505000
+252,Aarav Khan,Female,2025-04-09,,1,2,1051,1,Active,Campus Hiring,Bachelor's,4,1170000
+253,Sakshi Khan,Male,2025-01-12,2025-05-25,6,13,1102,2,Resigned,LinkedIn,Master's,4,1065000
+254,Nikhil Saxena,Male,2023-10-22,,6,12,503,5,Active,Company Website,Bachelor's,3,850000
+255,Ashish Joshi,Male,2021-05-24,2023-08-08,8,16,543,4,Resigned,Campus Hiring,Master's,2,685000
+256,Zoya Jadhav,Female,2021-10-20,,7,15,130,1,Active,Company Website,Diploma,3,775000
+257,Priya Kulkarni,Male,2025-02-20,,7,14,336,2,Active,LinkedIn,MBA/PGDM,2,590000
+258,Kavya Khan,Male,2024-01-13,,6,12,157,2,Active,Recruitment Agency,Diploma,2,675000
+259,Riya Nair,Female,2023-05-05,2024-01-22,4,7,826,1,Resigned,Recruitment Agency,Master's,2,525000
+260,Priya Sharma,Female,2023-12-04,,6,13,752,1,Active,Recruitment Agency,Master's,4,1010000
+261,Meera Menon,Male,2022-11-20,2025-06-12,5,10,868,8,Resigned,Company Website,Master's,4,1155000
+262,Nisha Jain,Male,2021-12-02,,8,16,386,3,Active,Naukri,Diploma,2,715000
+263,Rhea Menon,Female,2022-12-27,,3,5,864,1,Active,Campus Hiring,MBA/PGDM,2,685000
+264,Abhishek Nair,Female,2022-08-07,,6,13,151,5,Active,LinkedIn,Diploma,4,1215000
+265,Rahul Thakur,Female,2023-07-19,,5,10,591,4,Active,Campus Hiring,Diploma,4,1140000
+266,Rahul Naik,Female,2023-05-20,,6,13,582,2,Active,Naukri,Master's,5,1485000
+267,Mohit Pillai,Female,2023-10-02,,3,6,1077,1,Active,Recruitment Agency,Bachelor's,4,1025000
+268,Harsh Kapoor,Female,2024-01-02,,5,9,71,1,Active,Naukri,Bachelor's,2,665000
+269,Aarav Jain,Female,2021-04-29,,6,12,1087,7,Active,Recruitment Agency,Bachelor's,3,765000
+270,Riya Sawant,Female,2022-01-15,,1,1,189,1,Active,Company Website,MBA/PGDM,1,490000
+271,Neha Malhotra,Male,2023-08-31,,6,12,163,2,Active,Naukri,Bachelor's,1,460000
+272,Aditi Malhotra,Female,2023-09-24,,5,9,1018,3,Active,Employee Referral,Bachelor's,2,615000
+273,Kavya Malhotra,Female,2025-07-30,,6,13,654,7,Active,Company Website,MBA/PGDM,4,1060000
+274,Aditya Bansal,Female,2025-08-29,,3,5,436,3,Active,Employee Referral,Diploma,1,465000
+275,Pallavi Sawant,Male,2025-02-25,,7,15,787,7,Active,LinkedIn,Bachelor's,4,1195000
+276,Sonali Bansal,Female,2022-05-22,,7,14,738,1,Active,Recruitment Agency,Diploma,2,570000
+277,Sneha Thakur,Female,2025-08-07,,6,13,1087,3,Active,Company Website,MBA/PGDM,4,1145000
+278,Dhruv Gupta,Male,2023-12-13,,7,15,816,1,Active,Naukri,Bachelor's,3,860000
+279,Kavya Sharma,Male,2023-12-15,,2,3,697,8,Active,Company Website,MBA/PGDM,3,845000
+280,Sneha Chopra,Male,2025-02-27,,7,14,738,5,Active,Company Website,MBA/PGDM,2,640000
+281,Aditi Joshi,Male,2022-05-09,,7,15,42,3,Active,Recruitment Agency,MBA/PGDM,3,865000
+282,Riya More,Male,2023-03-08,,8,16,230,7,Active,Recruitment Agency,Diploma,3,755000
+283,Kavya Patel,Female,2024-06-19,,4,7,493,3,Active,Employee Referral,Master's,3,785000
+284,Mohit Kulkarni,Female,2022-12-15,,5,11,540,6,Active,Recruitment Agency,Bachelor's,4,1165000
+285,Sanjay Chopra,Female,2022-08-06,,5,10,1179,1,Active,Campus Hiring,Master's,3,920000
+286,Priya Rao,Male,2022-11-29,,7,15,33,2,Active,Recruitment Agency,Bachelor's,4,1165000
+287,Abhishek Joshi,Female,2021-11-05,2022-01-26,6,12,1073,5,Resigned,Recruitment Agency,Bachelor's,3,785000
+288,Akash Patel,Female,2022-09-05,2025-03-28,5,9,97,1,Resigned,Employee Referral,Diploma,3,905000
+289,Pallavi Deshmukh,Female,2023-09-08,2024-04-17,3,5,864,1,Resigned,Naukri,Bachelor's,2,525000
+290,Aarav Thakur,Female,2023-04-21,,5,10,847,2,Active,Naukri,Bachelor's,3,805000
+291,Trisha Kulkarni,Male,2024-12-31,,5,9,111,2,Active,Company Website,Bachelor's,2,605000
+292,Vidya Kapoor,Male,2025-08-05,2025-10-04,2,4,877,4,Resigned,Employee Referral,MBA/PGDM,5,1740000
+293,Manish Nair,Male,2021-08-10,,5,10,847,2,Active,Campus Hiring,Bachelor's,4,1155000
+294,Abhishek Saxena,Female,2021-08-31,,3,6,307,2,Active,Naukri,Diploma,4,1095000
+295,Nisha Shinde,Male,2021-04-17,2023-04-01,5,9,14,4,Resigned,Campus Hiring,Master's,3,835000
+296,Priya Pillai,Male,2021-09-30,,4,8,1068,2,Active,Naukri,Diploma,4,1275000
+297,Priya Shinde,Male,2021-08-21,2022-10-22,3,5,1011,1,Resigned,Naukri,Master's,1,415000
+298,Isha Mishra,Female,2021-04-02,,4,8,73,1,Active,Campus Hiring,MBA/PGDM,5,1695000
+299,Riya Patel,Female,2021-11-14,,3,6,165,1,Active,Campus Hiring,Master's,4,1165000
+300,Vaishnavi Iyer,Male,2023-06-10,,3,5,1017,2,Active,Campus Hiring,Diploma,3,760000
+301,Manish Joshi,Female,2021-12-13,,3,5,750,1,Active,Employee Referral,MBA/PGDM,3,785000
+302,Zoya Iyer,Male,2025-04-28,,5,11,751,8,Active,Campus Hiring,Bachelor's,5,1675000
+303,Dev Malhotra,Female,2023-05-26,,4,7,763,5,Active,Campus Hiring,Bachelor's,3,820000
+304,Aditya Saxena,Female,2023-10-18,,4,8,879,5,Active,Naukri,Master's,4,1015000
+305,Zoya Sawant,Female,2025-05-10,2025-08-28,3,5,1058,2,Resigned,Employee Referral,Master's,2,740000
+306,Nikhil Pillai,Female,2021-03-15,,3,5,687,1,Active,LinkedIn,Diploma,2,615000
+307,Dev Verma,Female,2023-12-24,,3,6,370,3,Active,Employee Referral,Master's,3,960000
+308,Aditya Mehta,Male,2025-05-09,,4,8,399,2,Active,Recruitment Agency,Master's,4,1390000
+309,Tanvi Saxena,Male,2022-05-31,2024-05-21,6,12,331,6,Resigned,Employee Referral,Bachelor's,2,650000
+310,Mohit Patel,Female,2025-04-18,,6,12,1102,1,Active,Employee Referral,Bachelor's,2,710000
+311,Mohit Nair,Female,2023-07-27,,5,9,439,2,Active,LinkedIn,Master's,2,695000
+312,Tanya Pawar,Female,2023-08-24,,2,4,1134,2,Active,Naukri,Bachelor's,4,1205000
+313,Amit Sawant,Female,2021-11-03,,5,11,1027,8,Active,Campus Hiring,Diploma,5,1640000
+314,Pooja More,Female,2023-04-16,,5,9,111,2,Active,Employee Referral,Master's,2,750000
+315,Harsh Thakur,Male,2021-08-25,,4,8,1151,6,Active,LinkedIn,Diploma,5,1680000
+316,Maya Kulkarni,Male,2023-02-23,2025-11-14,5,10,424,5,Resigned,Campus Hiring,Bachelor's,4,1020000
+317,Kavya Nair,Female,2023-08-04,,7,14,405,1,Active,Company Website,Diploma,1,380000
+318,Akash Kulkarni,Male,2023-04-22,,4,8,296,3,Active,Employee Referral,MBA/PGDM,5,1515000
+319,Rohan Verma,Female,2025-09-23,,3,6,720,3,Active,Campus Hiring,Bachelor's,4,1395000
+320,Neha Iyer,Male,2022-11-02,,4,8,296,3,Active,Company Website,Master's,4,1305000
+321,Zoya Pillai,Male,2023-09-03,,7,15,94,5,Active,Naukri,Diploma,4,1075000
+322,Akash Bansal,Male,2025-10-17,,4,7,739,5,Active,Campus Hiring,MBA/PGDM,3,800000
+323,Ananya Chopra,Female,2024-12-26,,8,16,543,3,Active,Naukri,MBA/PGDM,2,720000
+324,Mohit Jadhav,Female,2021-09-19,2024-02-14,3,6,307,1,Resigned,Campus Hiring,Bachelor's,4,1125000
+325,Zoya Saxena,Female,2022-09-02,,5,11,74,1,Active,Company Website,Master's,5,1595000
+326,Aditya Menon,Male,2021-12-26,,5,10,718,3,Active,Company Website,Diploma,2,705000
+327,Tanya Mishra,Male,2022-02-25,,5,9,363,2,Active,Employee Referral,Bachelor's,3,850000
+328,Arjun Joshi,Male,2024-12-19,,3,6,922,7,Active,Employee Referral,Diploma,5,1425000
+329,Zoya Joshi,Male,2024-12-14,,6,12,53,2,Active,LinkedIn,Diploma,3,810000
+330,Neha Chopra,Female,2025-11-03,,3,6,1078,8,Active,Employee Referral,Master's,3,980000
+331,Zoya Thakur,Female,2024-04-09,2025-04-22,6,13,426,4,Terminated,Naukri,Diploma,3,985000
+332,Rhea Sharma,Female,2025-11-09,,8,16,1125,7,Active,Naukri,Bachelor's,2,560000
+333,Abhishek Rao,Female,2024-12-03,,7,15,973,2,Active,Campus Hiring,Master's,3,765000
+334,Kavya Verma,Male,2023-11-13,,3,6,84,7,Active,Recruitment Agency,Diploma,5,1450000
+335,Pallavi Singh,Male,2022-12-05,,7,15,176,7,Active,Company Website,MBA/PGDM,4,1140000
+336,Kavya Rao,Male,2022-04-11,2025-01-22,7,15,42,4,Resigned,Naukri,Diploma,4,1200000
+337,Aditi Bansal,Male,2021-01-04,,4,8,534,3,Active,Company Website,Bachelor's,5,1465000
+338,Ananya Kapoor,Female,2022-07-29,,3,6,1187,6,Active,Company Website,Master's,4,1215000
+339,Aarav Menon,Male,2025-05-08,,4,7,604,1,Active,Employee Referral,MBA/PGDM,2,570000
+340,Yash Iyer,Male,2025-06-01,,5,9,631,3,Active,Campus Hiring,MBA/PGDM,3,865000
+341,Aniket Nair,Female,2023-09-11,2025-09-15,5,9,774,1,Terminated,Naukri,MBA/PGDM,3,845000
+342,Pallavi Naik,Male,2025-04-25,,6,13,194,5,Active,Employee Referral,MBA/PGDM,4,1035000
+343,Abhishek Reddy,Female,2022-02-04,,7,15,935,2,Active,Employee Referral,MBA/PGDM,4,1030000
+344,Kavya Singh,Female,2021-11-13,,4,8,802,3,Active,Company Website,Bachelor's,4,1210000
+345,Trisha Verma,Male,2022-08-24,,4,8,470,1,Active,Naukri,Master's,4,1345000
+346,Sahil Shinde,Male,2021-01-16,,1,1,1115,6,Active,LinkedIn,Master's,2,550000
+347,Maya Gupta,Female,2023-02-02,,5,11,156,3,Active,Naukri,Diploma,4,1265000
+348,Nisha Gupta,Female,2022-08-20,,3,6,864,1,Active,Recruitment Agency,Diploma,5,1480000
+349,Maya Reddy,Male,2021-06-02,,5,10,96,6,Active,Naukri,Master's,2,680000
+350,Sanjay Iyer,Female,2022-05-31,,6,13,693,1,Active,Recruitment Agency,Master's,4,1145000
+351,Rohit Deshmukh,Male,2024-07-16,,7,14,717,2,Active,Recruitment Agency,Diploma,2,545000
+352,Riya Nair,Male,2024-02-09,,7,15,225,1,Active,Naukri,MBA/PGDM,3,905000
+353,Sameer Rao,Female,2023-04-25,,2,3,731,2,Active,Employee Referral,MBA/PGDM,3,825000
+354,Varun Singh,Female,2024-02-26,,5,11,150,1,Active,Naukri,Master's,5,1570000
+355,Aarav Deshmukh,Female,2021-04-22,,3,5,1078,3,Active,Employee Referral,MBA/PGDM,2,710000
+356,Diya Kulkarni,Male,2021-10-14,,3,5,771,2,Active,LinkedIn,Master's,3,755000
+357,Rhea Singh,Male,2021-04-19,2025-09-13,3,6,792,1,Resigned,Employee Referral,Diploma,4,1040000
+358,Pallavi Jain,Male,2021-09-21,,1,1,189,1,Active,Naukri,Bachelor's,2,655000
+359,Karan Sawant,Female,2022-03-13,,1,1,776,1,Active,Recruitment Agency,Diploma,2,655000
+360,Mohit Khan,Female,2024-06-24,,6,13,976,2,Active,Company Website,Bachelor's,5,1420000
+361,Vivek Pillai,Male,2021-02-03,,5,10,49,1,Active,Campus Hiring,Bachelor's,3,805000
+362,Trisha Pillai,Male,2025-06-18,2025-11-10,7,15,715,6,Resigned,Recruitment Agency,Bachelor's,3,815000
+363,Priya Pawar,Female,2022-08-24,,5,11,563,3,Active,Campus Hiring,Master's,5,1450000
+364,Tanya Mehta,Male,2024-12-27,,3,5,324,1,Active,LinkedIn,Bachelor's,3,780000
+365,Pallavi Reddy,Male,2022-09-16,2023-10-11,8,16,479,1,Resigned,Employee Referral,MBA/PGDM,2,515000
+366,Harsh Kulkarni,Female,2024-04-30,,8,16,623,2,Active,Naukri,Diploma,2,525000
+367,Akash Sawant,Male,2024-09-23,,3,6,1057,3,Active,LinkedIn,MBA/PGDM,4,1180000
+368,Rohit Iyer,Male,2021-05-24,2023-11-03,7,14,321,3,Resigned,Campus Hiring,Diploma,1,445000
+369,Meera Pawar,Male,2024-09-06,,5,11,904,4,Active,Employee Referral,Bachelor's,5,1980000
+370,Sonali Shinde,Female,2025-09-01,,3,6,922,1,Active,Campus Hiring,Bachelor's,5,1420000
+371,Nisha Saxena,Male,2025-11-30,,1,1,170,1,Active,Recruitment Agency,Diploma,2,680000
+372,Dev Malhotra,Male,2024-06-28,,7,14,149,3,Active,Employee Referral,Diploma,2,635000
+373,Rahul Pawar,Female,2025-02-01,,8,16,547,1,Active,LinkedIn,Bachelor's,3,825000
+374,Aarav Thakur,Male,2025-06-05,,6,12,497,3,Active,Naukri,Bachelor's,2,740000
+375,Pooja Jain,Female,2021-11-22,,5,10,737,5,Active,Employee Referral,Bachelor's,3,985000
+376,Vaishnavi Sharma,Female,2021-10-18,2023-10-24,5,10,96,8,Terminated,Naukri,Master's,4,1030000
+377,Priya Kapoor,Female,2022-06-02,,7,15,362,1,Active,Recruitment Agency,Master's,4,1045000
+378,Tanvi Deshmukh,Female,2025-06-15,2025-12-22,8,17,1125,3,Resigned,Employee Referral,Master's,4,1180000
+379,Rahul Iyer,Male,2021-10-08,2022-06-03,7,15,860,1,Resigned,Company Website,Diploma,4,1280000
+380,Sneha Rao,Female,2025-08-25,,5,10,71,3,Active,Campus Hiring,Master's,4,1230000
+381,Isha Iyer,Female,2023-07-23,,7,14,225,2,Active,LinkedIn,MBA/PGDM,2,545000
+382,Ankita Jadhav,Male,2024-10-27,2025-11-08,2,4,1134,1,Resigned,Naukri,MBA/PGDM,4,1060000
+383,Sanjay Reddy,Female,2022-02-28,,2,4,707,4,Active,Naukri,Bachelor's,5,1585000
+384,Sahil Khan,Male,2025-03-03,,5,10,1083,4,Active,Company Website,Bachelor's,3,965000
+385,Kavya Menon,Male,2021-09-16,2023-02-01,3,6,834,6,Resigned,Campus Hiring,Master's,3,870000
+386,Riya Sharma,Male,2024-05-14,2024-12-21,8,17,543,1,Resigned,Naukri,Bachelor's,4,1390000
+387,Maya Jadhav,Male,2021-01-23,,5,10,540,1,Active,Naukri,MBA/PGDM,2,680000
+388,Rohan Sawant,Female,2021-03-08,,6,12,148,4,Active,Employee Referral,MBA/PGDM,1,465000
+389,Priya Sawant,Male,2022-11-24,2024-01-14,8,16,561,1,Resigned,Naukri,MBA/PGDM,2,550000
+390,Nikhil Rao,Male,2021-06-08,,3,5,558,3,Active,Company Website,MBA/PGDM,3,790000
+391,Rohit Reddy,Female,2024-05-14,2025-10-10,7,14,42,3,Resigned,Recruitment Agency,Master's,1,425000
+392,Vivek Reddy,Female,2022-12-11,,7,15,816,1,Active,Company Website,Bachelor's,3,935000
+393,Sameer Kapoor,Male,2025-06-20,2025-12-19,3,5,557,1,Resigned,Company Website,Bachelor's,1,480000
+394,Anjali Mishra,Male,2024-10-14,2025-04-02,3,5,143,2,Resigned,Company Website,Diploma,2,665000
+395,Aarav Rao,Female,2022-05-12,2025-12-04,5,9,1014,4,Resigned,Company Website,Master's,3,955000
+396,Kavya Singh,Male,2022-03-09,,5,10,456,7,Active,Employee Referral,MBA/PGDM,4,1230000
+397,Sneha Sharma,Female,2024-07-17,,4,7,999,7,Active,Campus Hiring,MBA/PGDM,2,550000
+398,Isha Mehta,Female,2021-05-19,2022-11-23,1,2,252,2,Resigned,Recruitment Agency,Bachelor's,5,1475000
+399,Ashish Gupta,Female,2022-10-10,,4,8,1151,1,Active,Recruitment Agency,Master's,3,910000
+400,Manish Kulkarni,Male,2023-03-24,,7,14,706,1,Active,Company Website,MBA/PGDM,1,390000
+401,Rohan Joshi,Female,2024-10-17,,4,8,1126,7,Active,Recruitment Agency,Bachelor's,4,1055000
+402,Sameer More,Female,2023-08-15,2025-01-24,5,9,970,3,Resigned,Naukri,Diploma,3,800000
+403,Zoya Joshi,Male,2022-03-13,,5,9,114,2,Active,Campus Hiring,Master's,3,755000
+404,Rahul Iyer,Female,2022-10-12,,5,10,1043,7,Active,Employee Referral,Bachelor's,3,920000
+405,Sameer Sawant,Male,2021-04-25,2022-08-07,7,15,321,1,Resigned,LinkedIn,Diploma,3,760000
+406,Harsh Nair,Male,2025-02-23,,8,16,895,4,Active,Recruitment Agency,Bachelor's,3,795000
+407,Vaishnavi Iyer,Female,2024-11-03,,3,5,874,5,Active,LinkedIn,Diploma,2,550000
+408,Arjun Verma,Male,2024-05-15,,3,5,338,3,Active,Recruitment Agency,Master's,2,645000
+409,Tanya Singh,Male,2022-11-25,,6,12,920,4,Active,Employee Referral,MBA/PGDM,2,595000
+410,Sameer Jain,Male,2021-10-19,,3,5,665,1,Active,Campus Hiring,Master's,1,445000
+411,Pallavi Naik,Female,2022-04-08,,5,10,1182,8,Active,LinkedIn,MBA/PGDM,4,1055000
+412,Varun Deshmukh,Male,2025-03-12,,4,8,827,8,Active,LinkedIn,MBA/PGDM,5,1570000
+413,Aniket Patel,Female,2024-11-07,,2,3,1020,1,Active,Employee Referral,MBA/PGDM,2,730000
+414,Arjun Kapoor,Male,2024-09-04,2025-10-10,7,15,275,4,Resigned,LinkedIn,Bachelor's,3,770000
+415,Pooja Chopra,Male,2022-12-30,,6,12,342,1,Active,Campus Hiring,MBA/PGDM,2,725000
+416,Isha Rao,Male,2021-02-21,,8,17,657,1,Active,Recruitment Agency,MBA/PGDM,4,1360000
+417,Arjun Mishra,Female,2022-04-20,,6,12,53,1,Active,Company Website,Master's,2,740000
+418,Priya Rao,Female,2021-11-28,,1,1,9,1,Active,Company Website,Diploma,2,635000
+419,Karan Naik,Male,2023-04-24,,8,16,657,4,Active,Recruitment Agency,Master's,2,565000
+420,Rhea Mishra,Male,2023-05-05,,1,2,9,5,Active,LinkedIn,Master's,4,1380000
+421,Vivek Pillai,Female,2022-03-29,,7,15,37,6,Active,Employee Referral,Bachelor's,4,1160000
+422,Aniket Saxena,Female,2023-10-14,2024-07-03,4,7,1013,1,Resigned,Naukri,Bachelor's,2,750000
+423,Rohit Gupta,Female,2024-11-12,,8,16,1040,2,Active,Naukri,Diploma,2,670000
+424,Shreya Rao,Male,2025-06-24,,5,11,1048,1,Active,Campus Hiring,MBA/PGDM,5,1955000
+425,Maya Rao,Female,2022-07-24,,5,10,491,8,Active,LinkedIn,MBA/PGDM,4,1030000
+426,Mohit Jain,Male,2023-10-04,,6,13,80,1,Active,LinkedIn,MBA/PGDM,4,1265000
+427,Arjun Malhotra,Female,2021-09-12,,6,12,151,5,Active,LinkedIn,Diploma,2,680000
+428,Aditya Jain,Female,2024-04-11,,6,12,760,2,Active,Company Website,Bachelor's,1,500000
+429,Pallavi Rao,Male,2025-07-08,,5,10,6,3,Active,Naukri,Master's,4,1120000
+430,Pooja Pillai,Male,2025-10-20,,5,10,183,5,Active,LinkedIn,Bachelor's,3,835000
+431,Sahil Kulkarni,Male,2021-04-07,,6,13,552,1,Active,Naukri,Bachelor's,3,950000
+432,Sanjay Mishra,Male,2022-07-19,,4,7,246,2,Active,Recruitment Agency,Bachelor's,2,505000
+433,Pooja Rao,Male,2023-01-09,2023-11-16,3,5,385,3,Resigned,Naukri,MBA/PGDM,1,405000
+434,Pallavi Sawant,Female,2025-02-20,,2,4,773,1,Active,LinkedIn,Diploma,5,1770000
+435,Isha More,Male,2025-01-21,2025-10-17,3,5,440,1,Resigned,Campus Hiring,MBA/PGDM,2,735000
+436,Sakshi Khan,Female,2025-08-17,,3,6,874,4,Active,LinkedIn,Bachelor's,5,1475000
+437,Zoya Thakur,Male,2025-09-24,,6,12,1160,4,Active,Employee Referral,Diploma,3,830000
+438,Maya Khan,Male,2025-08-02,,3,5,1062,7,Active,Recruitment Agency,MBA/PGDM,1,480000
+439,Neha Menon,Male,2024-06-15,,5,11,34,1,Active,Recruitment Agency,Bachelor's,4,1390000
+440,Pooja Pillai,Female,2022-09-10,,3,6,475,4,Active,Company Website,Master's,3,900000
+441,Tanya Bansal,Female,2022-04-03,,5,9,562,3,Active,Company Website,Diploma,2,740000
+442,Aniket Singh,Female,2025-09-23,2025-12-21,3,6,1050,4,Resigned,Company Website,MBA/PGDM,5,1530000
+443,Varun Joshi,Male,2023-12-28,,1,1,635,5,Active,Company Website,Master's,2,690000
+444,Sonali Mehta,Female,2023-03-24,,6,12,244,1,Active,Naukri,Diploma,2,525000
+445,Vidya Rao,Male,2022-01-25,2023-01-17,5,11,904,8,Resigned,LinkedIn,Diploma,5,1975000
+446,Varun Patel,Male,2024-10-27,,2,3,831,3,Active,Recruitment Agency,MBA/PGDM,3,845000
+447,Meera Thakur,Female,2023-01-04,,1,2,85,2,Active,Campus Hiring,Diploma,3,990000
+448,Karan Sharma,Female,2024-11-09,2025-11-25,7,14,1076,2,Resigned,Recruitment Agency,Bachelor's,2,580000
+449,Isha Thakur,Male,2023-10-28,2025-03-14,7,15,42,1,Resigned,Recruitment Agency,Bachelor's,3,915000
+450,Zoya Joshi,Female,2023-04-11,2025-10-26,6,12,908,5,Resigned,Naukri,Bachelor's,2,735000
+451,Sneha Jadhav,Male,2023-09-04,,8,16,386,4,Active,Employee Referral,Diploma,2,720000
+452,Rhea Shinde,Male,2021-02-23,2023-06-22,2,3,382,1,Resigned,LinkedIn,Master's,3,795000
+453,Dhruv Pawar,Male,2021-06-06,,4,8,493,1,Active,Naukri,Diploma,4,1070000
+454,Vidya Kulkarni,Male,2025-11-20,,3,5,267,1,Active,Campus Hiring,Diploma,3,765000
+455,Akash Iyer,Female,2022-02-09,,5,11,126,1,Active,Company Website,Diploma,4,1250000
+456,Sneha Jadhav,Male,2023-01-14,,5,11,1018,3,Active,Campus Hiring,Master's,4,1215000
+457,Ananya Malhotra,Male,2024-09-08,,5,10,14,7,Active,LinkedIn,Diploma,4,1240000
+458,Karan Mishra,Male,2021-01-27,,4,7,739,4,Active,Company Website,Bachelor's,2,640000
+459,Aarav Iyer,Male,2024-06-12,,3,5,204,1,Active,LinkedIn,Bachelor's,2,645000
+460,Akash Patel,Female,2023-08-24,,3,6,922,2,Active,LinkedIn,MBA/PGDM,4,1260000
+461,Pallavi Pawar,Male,2025-02-09,,3,5,106,3,Active,Naukri,MBA/PGDM,1,465000
+462,Zoya Iyer,Female,2024-02-13,,5,9,535,1,Active,Recruitment Agency,Master's,2,700000
+463,Neha Reddy,Male,2022-05-18,,7,14,286,3,Active,LinkedIn,Bachelor's,2,530000
+464,Dev Kulkarni,Female,2023-07-26,,5,10,873,6,Active,Recruitment Agency,Bachelor's,4,1260000
+465,Anjali Gupta,Male,2023-10-10,,3,6,179,6,Active,Naukri,Diploma,5,1525000
+466,Sneha Khan,Male,2022-11-07,2024-12-30,5,11,772,2,Resigned,Naukri,Diploma,5,1605000
+467,Dhruv Nair,Female,2024-11-01,,4,8,337,3,Active,Naukri,Master's,4,1300000
+468,Sahil Mehta,Male,2025-07-09,,5,10,506,3,Active,Recruitment Agency,Bachelor's,4,1160000
+469,Vidya Mishra,Male,2021-10-18,,6,13,266,8,Active,Naukri,MBA/PGDM,5,1415000
+470,Sneha Rao,Male,2021-12-09,2023-09-11,4,8,1068,1,Resigned,Campus Hiring,Master's,4,1255000
+471,Tanya Mehta,Male,2021-12-02,,5,11,554,1,Active,Naukri,Bachelor's,5,1680000
+472,Manish Patel,Male,2024-05-05,,5,11,718,2,Active,Company Website,Diploma,5,1755000
+473,Riya Nair,Male,2021-10-18,,7,14,335,3,Active,Recruitment Agency,Diploma,2,610000
+474,Sneha Reddy,Male,2021-11-30,2025-04-24,5,9,992,2,Terminated,Employee Referral,MBA/PGDM,2,605000
+475,Harsh Singh,Female,2025-02-22,,3,6,792,7,Active,Recruitment Agency,Diploma,4,1175000
+476,Riya Joshi,Female,2021-01-25,,4,8,802,3,Active,LinkedIn,Bachelor's,4,1295000
+477,Rahul Rao,Male,2025-03-03,,4,7,453,2,Active,Company Website,Master's,3,795000
+478,Zoya Pawar,Male,2021-11-15,2022-03-28,8,17,1080,1,Terminated,Employee Referral,MBA/PGDM,5,1470000
+479,Aditi Verma,Male,2022-11-08,,8,17,830,1,Active,Recruitment Agency,Diploma,4,1270000
+480,Arjun Pawar,Female,2023-12-13,2025-07-10,1,1,639,4,Resigned,Recruitment Agency,Master's,1,460000
+481,Sahil Mehta,Female,2023-08-30,,4,7,467,7,Active,Naukri,MBA/PGDM,3,770000
+482,Pooja Gupta,Female,2021-02-08,,6,13,908,4,Active,Naukri,Master's,4,1315000
+483,Sameer Jain,Male,2024-04-24,,5,11,779,1,Active,Campus Hiring,Bachelor's,5,1775000
+484,Vivek Patel,Male,2021-05-14,,3,6,26,5,Active,Recruitment Agency,Bachelor's,4,1085000
+485,Pooja Kulkarni,Male,2023-04-12,,5,9,126,5,Active,LinkedIn,Master's,3,980000
+486,Yash Kapoor,Male,2025-10-24,,5,9,354,1,Active,LinkedIn,Master's,2,735000
+487,Trisha Thakur,Male,2024-03-16,2024-10-12,4,7,534,1,Resigned,Employee Referral,Diploma,2,675000
+488,Nikhil Patel,Male,2022-04-20,,7,14,321,4,Active,Campus Hiring,Diploma,1,480000
+489,Yash Saxena,Female,2021-06-06,,5,9,549,1,Active,LinkedIn,MBA/PGDM,4,1095000
+490,Maya Joshi,Female,2022-10-27,,5,9,491,1,Active,LinkedIn,Master's,2,605000
+491,Vivek Nair,Male,2022-06-18,,5,11,190,4,Active,Recruitment Agency,Master's,4,1160000
+492,Mohit Naik,Female,2022-03-26,,4,8,827,1,Active,Recruitment Agency,MBA/PGDM,5,1525000
+493,Maya Naik,Female,2021-02-24,,4,8,91,5,Active,LinkedIn,MBA/PGDM,5,1685000
+494,Riya Mehta,Female,2023-09-04,,7,15,1006,2,Active,Campus Hiring,Bachelor's,3,845000
+495,Aditi Mehta,Male,2024-12-01,,5,10,587,5,Active,Company Website,MBA/PGDM,3,790000
+496,Sameer Menon,Female,2023-08-29,,7,15,973,1,Active,Campus Hiring,Master's,4,1280000
+497,Ananya Nair,Male,2024-02-13,,6,13,1089,3,Active,Company Website,Master's,4,1200000
+498,Kavya Verma,Male,2023-01-31,,5,10,1135,3,Active,Campus Hiring,Master's,4,1085000
+499,Dhruv Naik,Female,2021-05-17,2022-08-01,4,7,298,3,Resigned,Recruitment Agency,Diploma,2,640000
+500,Akash Menon,Male,2021-07-14,,8,17,1080,1,Active,Campus Hiring,Bachelor's,4,1095000
+501,Sanjay Saxena,Male,2024-10-04,,2,4,180,2,Active,Recruitment Agency,MBA/PGDM,4,1270000
+502,Trisha Chopra,Male,2024-10-09,2025-11-30,6,12,803,3,Terminated,Naukri,Diploma,3,800000
+503,Vidya Thakur,Female,2025-09-09,,6,13,331,1,Active,Company Website,MBA/PGDM,4,1005000
+504,Aditya Mehta,Female,2021-03-16,,1,1,420,2,Active,Naukri,MBA/PGDM,2,525000
+505,Harsh Khan,Male,2024-03-18,,6,12,1160,8,Active,Campus Hiring,Bachelor's,2,705000
+506,Abhishek Singh,Male,2025-01-10,,5,11,1179,7,Active,Recruitment Agency,Bachelor's,4,1105000
+507,Pooja Pawar,Male,2025-08-13,2025-11-09,8,16,1125,8,Resigned,Company Website,Diploma,2,560000
+508,Maya Pillai,Male,2023-03-18,,7,14,82,5,Active,Campus Hiring,MBA/PGDM,1,370000
+509,Pallavi Iyer,Male,2025-05-26,2025-11-11,6,12,1098,2,Resigned,Employee Referral,Diploma,2,745000
+510,Dhruv Kapoor,Female,2024-11-03,2025-12-10,3,5,901,3,Terminated,LinkedIn,Diploma,2,700000
+511,Aarav Joshi,Male,2023-09-26,,3,6,227,4,Active,Employee Referral,Diploma,4,1235000
+512,Isha Jadhav,Female,2022-06-02,,3,5,720,3,Active,Naukri,MBA/PGDM,2,585000
+513,Meera Mehta,Female,2025-07-03,,7,15,130,6,Active,Employee Referral,Bachelor's,3,1000000
+514,Diya Nair,Male,2023-06-07,,5,10,540,3,Active,Naukri,Bachelor's,3,935000
+515,Kavya Mishra,Female,2025-08-03,,3,5,720,5,Active,Recruitment Agency,Diploma,2,510000
+516,Tanvi Reddy,Male,2023-01-02,,5,10,251,8,Active,Company Website,Bachelor's,4,1100000
+517,Zoya More,Female,2023-08-28,,6,13,752,5,Active,Naukri,MBA/PGDM,5,1525000
+518,Dhruv Sawant,Male,2023-08-20,,5,10,868,1,Active,Campus Hiring,Bachelor's,3,865000
+519,Tanvi Khan,Female,2024-02-07,2025-02-13,7,14,209,5,Resigned,Campus Hiring,Diploma,1,360000
+520,Diya Gupta,Female,2022-05-10,,2,4,312,2,Active,Naukri,MBA/PGDM,5,1505000
+521,Trisha Iyer,Male,2021-05-31,,5,10,535,3,Active,Naukri,Bachelor's,4,1225000
+522,Aarav More,Female,2021-03-24,,3,5,1137,3,Active,Naukri,MBA/PGDM,2,665000
+523,Ananya Shinde,Male,2025-07-30,,2,3,699,8,Active,LinkedIn,MBA/PGDM,2,740000
+524,Varun Sharma,Male,2021-10-10,,5,11,985,1,Active,Employee Referral,Diploma,5,1470000
+525,Aditi Gupta,Male,2021-08-20,,7,14,256,5,Active,Employee Referral,MBA/PGDM,2,585000
+526,Vivek Bansal,Female,2025-08-10,2025-10-31,5,9,14,1,Resigned,Campus Hiring,Bachelor's,3,890000
+527,Sahil Khan,Male,2024-12-18,2025-10-05,5,10,751,1,Resigned,Naukri,Master's,3,830000
+528,Tanvi Jain,Male,2024-11-09,,2,3,434,2,Active,Campus Hiring,MBA/PGDM,3,940000
+529,Aditya Malhotra,Male,2025-07-30,,3,6,334,3,Active,Naukri,MBA/PGDM,4,1290000
+530,Ankita Pawar,Male,2023-03-29,,5,9,251,3,Active,Campus Hiring,Diploma,4,1085000
+531,Amit Deshmukh,Male,2021-11-21,2022-02-16,3,5,267,8,Resigned,Employee Referral,Diploma,2,680000
+532,Harsh Iyer,Male,2021-06-10,,2,4,669,4,Active,Campus Hiring,Diploma,5,1515000
+533,Riya Saxena,Female,2022-12-28,2025-01-06,3,5,649,1,Resigned,Campus Hiring,Master's,2,550000
+534,Aditya Pillai,Female,2021-06-08,,4,8,234,3,Active,Recruitment Agency,MBA/PGDM,4,1305000
+535,Shreya Kapoor,Female,2022-03-12,,5,11,121,6,Active,Company Website,Master's,4,1150000
+536,Sameer Sawant,Female,2025-04-09,,3,5,436,1,Active,LinkedIn,Master's,2,515000
+537,Amit Deshmukh,Male,2021-01-30,,4,7,470,2,Active,Employee Referral,Bachelor's,2,630000
+538,Vivek Gupta,Male,2022-01-13,2024-08-30,5,10,535,2,Resigned,Company Website,Master's,3,980000
+539,Pallavi Gupta,Male,2023-06-16,2025-03-27,5,9,302,3,Resigned,Campus Hiring,Diploma,3,755000
+540,Vidya Kulkarni,Male,2021-06-26,,5,11,472,4,Active,Campus Hiring,Diploma,5,1690000
+541,Rohan Jadhav,Female,2023-08-03,,7,14,1053,2,Active,Company Website,Diploma,2,610000
+542,Rohan Nair,Male,2025-07-09,,1,1,801,1,Active,Company Website,Diploma,2,620000
+543,Vaishnavi Iyer,Male,2023-05-17,2023-10-07,8,17,230,1,Terminated,Campus Hiring,MBA/PGDM,5,1455000
+544,Isha Singh,Female,2025-03-22,2025-10-16,3,5,78,7,Resigned,Naukri,Master's,3,765000
+545,Sonali Saxena,Female,2023-04-10,,7,14,603,2,Active,Company Website,MBA/PGDM,2,590000
+546,Trisha Patel,Female,2023-03-15,,5,9,111,2,Active,Recruitment Agency,Bachelor's,3,865000
+547,Ankita Sawant,Male,2025-08-29,,8,17,895,3,Active,LinkedIn,Bachelor's,5,1510000
+548,Trisha Shinde,Male,2023-02-05,,3,5,1058,3,Active,Naukri,MBA/PGDM,1,490000
+549,Aditya Pawar,Male,2022-09-23,,5,11,71,2,Active,Recruitment Agency,Master's,5,1880000
+550,Dev Jain,Male,2022-09-20,2023-02-17,8,16,500,1,Resigned,Company Website,Diploma,3,820000
+551,Rohan Jain,Female,2023-12-28,,5,10,1182,2,Active,Employee Referral,Bachelor's,3,945000
+552,Aditi Thakur,Male,2025-04-23,,6,13,1102,1,Active,Recruitment Agency,Diploma,5,1520000
+553,Sonali Chopra,Male,2022-12-09,,4,7,308,1,Active,Company Website,MBA/PGDM,2,735000
+554,Isha Menon,Male,2022-06-13,,5,11,994,3,Active,Company Website,Master's,4,1385000
+555,Abhishek Nair,Male,2024-02-29,2025-06-30,6,12,803,3,Resigned,Employee Referral,Bachelor's,1,465000
+556,Rahul Sharma,Male,2024-05-04,,5,9,716,4,Active,Company Website,MBA/PGDM,3,820000
+557,Aniket Deshmukh,Male,2024-03-13,,3,6,622,1,Active,Campus Hiring,Diploma,4,1180000
+558,Dhruv Reddy,Male,2021-12-14,,3,6,972,2,Active,Campus Hiring,MBA/PGDM,4,1070000
+559,Tanya More,Female,2023-07-22,,6,12,1038,6,Active,Naukri,Bachelor's,2,640000
+560,Priya Mehta,Female,2022-03-01,,2,3,777,2,Active,Employee Referral,MBA/PGDM,3,900000
+561,Vidya Thakur,Female,2025-02-08,,8,17,1080,2,Active,Recruitment Agency,Bachelor's,3,995000
+562,Vivek Iyer,Female,2024-02-13,,5,11,363,4,Active,LinkedIn,Diploma,4,1315000
+563,Diya Singh,Male,2023-06-12,,5,11,133,1,Active,Campus Hiring,Master's,5,1660000
+564,Anjali Sawant,Female,2021-05-16,,5,9,1176,2,Active,Employee Referral,Bachelor's,3,940000
+565,Nisha Pawar,Male,2024-03-01,2025-06-07,4,7,401,5,Resigned,Campus Hiring,Bachelor's,2,715000
+566,Yash Singh,Female,2021-07-29,,6,12,663,4,Active,Employee Referral,Master's,1,470000
+567,Manish Pillai,Male,2024-11-09,,5,9,712,7,Active,Naukri,Diploma,3,895000
+568,Karan Mishra,Male,2022-09-23,,8,17,882,2,Active,LinkedIn,Master's,4,1090000
+569,Anjali Menon,Male,2022-10-09,,1,1,808,4,Active,Company Website,Bachelor's,2,645000
+570,Vaishnavi Saxena,Male,2023-10-05,,7,14,379,5,Active,Company Website,MBA/PGDM,2,580000
+571,Vivek Mehta,Female,2023-04-15,2025-11-18,2,3,633,3,Resigned,Naukri,Bachelor's,2,685000
+572,Arjun Thakur,Female,2023-03-13,2024-05-21,4,7,320,6,Resigned,Recruitment Agency,MBA/PGDM,2,565000
+573,Manish More,Male,2024-03-31,,4,7,234,3,Active,Naukri,Diploma,2,640000
+574,Abhishek Shinde,Female,2024-08-27,,6,13,655,1,Active,Recruitment Agency,Master's,5,1450000
+575,Rhea Jadhav,Male,2022-03-15,,7,15,905,6,Active,Employee Referral,Diploma,3,885000
+576,Rhea Patel,Female,2022-06-06,,3,6,557,2,Active,Campus Hiring,Diploma,5,1510000
+577,Vaishnavi Iyer,Male,2022-08-13,,5,10,71,6,Active,Recruitment Agency,Master's,2,695000
+578,Amit Chopra,Female,2023-01-24,2023-07-06,7,15,421,1,Resigned,Employee Referral,Diploma,3,930000
+579,Rohit Kulkarni,Female,2023-02-27,,1,1,170,7,Active,LinkedIn,Bachelor's,2,650000
+580,Dev Naik,Female,2023-11-26,,5,9,589,1,Active,Employee Referral,MBA/PGDM,2,610000
+581,Karan More,Female,2025-10-21,2025-12-30,8,16,230,1,Resigned,Campus Hiring,Master's,2,720000
+582,Nisha Kulkarni,Male,2022-09-25,,6,13,187,1,Active,Company Website,Bachelor's,3,910000
+583,Shreya Iyer,Male,2021-12-19,,3,6,475,2,Active,Campus Hiring,Master's,3,960000
+584,Sanjay Thakur,Male,2022-09-03,,3,5,334,1,Active,LinkedIn,Diploma,2,535000
+585,Harsh Pillai,Female,2024-05-16,,6,12,760,3,Active,Employee Referral,Master's,1,485000
+586,Ananya Kulkarni,Female,2022-05-05,,8,16,220,1,Active,Company Website,Master's,2,550000
+587,Maya Deshmukh,Male,2025-09-11,,5,11,723,1,Active,Recruitment Agency,Diploma,5,1605000
+588,Rohit Rao,Female,2023-08-28,,3,5,106,1,Active,Naukri,Bachelor's,1,465000
+589,Isha Nair,Female,2023-10-01,,5,11,96,1,Active,Employee Referral,MBA/PGDM,5,1895000
+590,Rohan Chopra,Female,2021-09-25,,5,10,133,3,Active,Recruitment Agency,MBA/PGDM,3,910000
+591,Priya Bansal,Female,2025-04-27,2025-09-11,5,11,325,2,Resigned,Company Website,MBA/PGDM,4,1120000
+592,Sonali Bansal,Male,2025-07-02,,6,12,605,5,Active,LinkedIn,Master's,2,615000
+593,Meera Mishra,Female,2023-09-07,,7,14,986,5,Active,Recruitment Agency,MBA/PGDM,2,605000
+594,Vidya Gupta,Female,2025-01-29,,5,9,190,4,Active,Naukri,MBA/PGDM,3,805000
+595,Trisha Jain,Female,2023-07-09,,3,5,484,6,Active,Recruitment Agency,MBA/PGDM,2,515000
+596,Dhruv Deshmukh,Male,2022-12-14,2025-03-28,7,14,1009,5,Resigned,Campus Hiring,MBA/PGDM,2,550000
+597,Sneha Iyer,Male,2025-03-08,,2,3,765,7,Active,Recruitment Agency,Master's,3,845000
+598,Rohit Iyer,Male,2025-07-03,,7,14,717,5,Active,Recruitment Agency,MBA/PGDM,1,400000
+599,Sanjay Malhotra,Female,2022-12-19,,1,1,732,7,Active,LinkedIn,Diploma,2,640000
+600,Sanjay Sharma,Male,2024-07-25,2025-08-08,2,4,889,3,Resigned,Company Website,Diploma,5,1725000
+601,Vidya Shinde,Male,2025-05-19,,4,8,1068,1,Active,Naukri,Master's,4,1180000
+602,Vaishnavi Sawant,Male,2025-04-14,2025-09-18,5,10,1001,6,Terminated,Naukri,Master's,3,805000
+603,Ashish Bansal,Male,2022-01-07,2025-12-22,7,15,55,7,Resigned,Employee Referral,Master's,3,810000
+604,Aarav Chopra,Female,2022-06-27,,4,8,234,5,Active,Campus Hiring,Diploma,4,1385000
+605,Abhishek Iyer,Female,2021-09-01,2022-04-09,6,13,151,5,Resigned,Campus Hiring,Diploma,4,1180000
+606,Dhruv Patel,Male,2023-04-16,,2,3,136,8,Active,Employee Referral,Bachelor's,2,710000
+607,Sanjay Iyer,Female,2024-05-11,,1,1,732,1,Active,Employee Referral,MBA/PGDM,2,670000
+608,Karan Jain,Male,2022-05-10,,2,4,40,2,Active,Naukri,Master's,4,1270000
+609,Sonali Verma,Female,2021-07-25,2024-02-09,5,9,737,7,Resigned,Campus Hiring,Bachelor's,3,875000
+610,Isha Nair,Male,2025-06-03,,7,14,123,4,Active,Company Website,MBA/PGDM,2,515000
+611,Kavya More,Male,2025-06-17,,6,13,277,1,Active,LinkedIn,Bachelor's,4,1320000
+612,Tanya Pillai,Male,2023-11-13,,5,10,178,1,Active,Campus Hiring,Diploma,3,765000
+613,Tanya Singh,Female,2024-06-23,,2,4,796,1,Active,LinkedIn,Diploma,5,1415000
+614,Vivek Jadhav,Male,2023-01-07,,1,1,694,3,Active,Naukri,Bachelor's,1,455000
+615,Mohit Sharma,Male,2021-07-08,2025-07-15,6,12,469,6,Resigned,Company Website,Bachelor's,2,535000
+616,Dhruv Rao,Male,2024-04-21,2024-06-29,5,9,369,1,Resigned,Recruitment Agency,Bachelor's,3,840000
+617,Meera Singh,Female,2022-11-02,2025-05-16,3,5,665,3,Resigned,Company Website,MBA/PGDM,2,535000
+618,Ananya Patel,Female,2025-02-02,2025-06-28,6,12,194,3,Terminated,Naukri,Master's,3,760000
+619,Dhruv Jain,Female,2021-08-21,2023-03-29,7,14,807,2,Resigned,Employee Referral,Master's,1,375000
+620,Shreya Jain,Female,2023-09-17,,6,12,824,3,Active,Company Website,Master's,2,590000
+621,Priya Gupta,Male,2024-12-29,,3,6,179,4,Active,Company Website,MBA/PGDM,4,1130000
+622,Sakshi Patel,Male,2025-10-09,,3,6,367,7,Active,Naukri,Bachelor's,3,905000
+623,Rhea Mishra,Female,2021-12-03,2024-01-31,8,17,657,3,Terminated,Company Website,Diploma,4,1065000
+624,Isha Singh,Male,2022-06-28,,5,9,71,5,Active,Employee Referral,Diploma,3,760000
+625,Trisha Sharma,Female,2023-11-02,,2,3,675,5,Active,Naukri,Master's,3,905000
+626,Rhea Patel,Male,2021-04-22,2025-06-03,4,7,690,4,Resigned,Company Website,Bachelor's,2,730000
+627,Sakshi Rao,Female,2023-08-31,,7,14,352,3,Active,LinkedIn,Diploma,1,435000
+628,Sanjay Naik,Male,2021-08-06,,5,9,994,4,Active,Naukri,Diploma,3,820000
+629,Sneha Sharma,Male,2022-12-14,,3,6,1011,1,Active,LinkedIn,Diploma,5,1405000
+630,Trisha Shinde,Female,2025-01-03,,8,16,500,3,Active,Employee Referral,Bachelor's,2,605000
+631,Rhea Sharma,Female,2024-04-12,2025-07-18,5,11,6,3,Resigned,Naukri,MBA/PGDM,5,1470000
+632,Dhruv Malhotra,Male,2024-08-08,2025-04-07,4,8,795,1,Resigned,Naukri,Master's,4,1175000
+633,Diya Verma,Male,2023-04-28,,2,4,831,1,Active,LinkedIn,Diploma,5,1405000
+634,Vidya Saxena,Male,2025-05-26,2025-09-10,5,9,74,1,Resigned,Recruitment Agency,Master's,4,1010000
+635,Karan Mishra,Male,2023-03-15,2024-07-18,1,2,727,2,Terminated,Naukri,MBA/PGDM,5,1470000
+636,Aditya Reddy,Male,2025-08-17,2025-10-30,6,12,469,3,Resigned,Recruitment Agency,MBA/PGDM,2,660000
+637,Mohit Sharma,Male,2024-07-25,,3,5,1077,3,Active,Company Website,Master's,2,670000
+638,Aarav Jadhav,Male,2023-03-22,,5,10,34,8,Active,Company Website,Master's,4,1250000
+639,Rhea Khan,Male,2025-04-02,,1,2,9,2,Active,Naukri,MBA/PGDM,3,925000
+640,Neha Jain,Female,2023-08-15,,5,11,207,2,Active,Naukri,MBA/PGDM,5,1625000
+641,Trisha Mishra,Male,2023-10-15,,6,12,119,2,Active,Company Website,Diploma,2,740000
+642,Priya Kapoor,Female,2025-05-25,,1,2,732,7,Active,Recruitment Agency,Diploma,4,1325000
+643,Sahil Malhotra,Female,2023-02-09,,6,12,1144,1,Active,Naukri,Bachelor's,2,600000
+644,Rohit Gupta,Male,2021-02-16,,5,9,369,4,Active,Naukri,MBA/PGDM,2,715000
+645,Shreya Menon,Female,2021-06-26,,4,7,10,1,Active,LinkedIn,Master's,2,595000
+646,Aditya Verma,Male,2021-10-31,,6,12,19,3,Active,Recruitment Agency,Diploma,3,815000
+647,Tanvi More,Male,2025-05-23,2025-10-10,3,5,747,5,Resigned,Recruitment Agency,MBA/PGDM,2,625000
+648,Meera More,Female,2024-04-20,,7,15,82,3,Active,Campus Hiring,Bachelor's,4,1255000
+649,Neha Reddy,Male,2024-05-25,,3,6,385,1,Active,LinkedIn,Diploma,4,1100000
+650,Amit Rao,Female,2024-05-24,,4,7,453,1,Active,Company Website,Master's,3,755000
+651,Shreya Patel,Male,2024-11-29,,3,6,957,8,Active,Employee Referral,Diploma,4,1320000
+652,Neha Jadhav,Male,2024-10-13,,8,16,220,1,Active,LinkedIn,MBA/PGDM,3,775000
+653,Rahul Mishra,Male,2023-11-17,,7,14,238,2,Active,Employee Referral,Bachelor's,2,590000
+654,Abhishek Pawar,Female,2021-11-25,2024-07-18,6,13,350,3,Resigned,Employee Referral,Diploma,4,1210000
+655,Riya Jain,Male,2022-06-02,,6,13,908,2,Active,Campus Hiring,Diploma,3,990000
+656,Manish Verma,Male,2024-08-01,,5,11,757,1,Active,Campus Hiring,Bachelor's,5,1790000
+657,Riya Menon,Male,2022-11-28,,8,17,102,2,Active,LinkedIn,MBA/PGDM,4,1385000
+658,Dev Verma,Male,2024-10-12,,8,16,547,5,Active,Company Website,Master's,2,700000
+659,Pallavi Gupta,Male,2022-03-09,,5,11,587,5,Active,Recruitment Agency,Diploma,4,1175000
+660,Sonali Malhotra,Male,2025-01-17,,5,9,886,2,Active,Employee Referral,MBA/PGDM,3,925000
+661,Harsh Pillai,Female,2023-12-05,,4,7,763,3,Active,Employee Referral,MBA/PGDM,3,815000
+662,Meera More,Female,2022-03-17,,1,2,1140,1,Active,Recruitment Agency,Diploma,4,1215000
+663,Zoya Patel,Male,2024-07-23,2025-03-29,6,13,760,5,Terminated,Campus Hiring,Bachelor's,5,1430000
+664,Pooja Menon,Male,2025-05-05,,7,15,973,6,Active,LinkedIn,Diploma,3,910000
+665,Dev Mishra,Male,2025-06-14,,3,6,106,3,Active,Company Website,Master's,4,1075000
+666,Trisha Pawar,Male,2023-11-23,,3,5,696,3,Active,Recruitment Agency,Master's,2,665000
+667,Anjali Kapoor,Male,2023-06-09,,5,10,354,3,Active,LinkedIn,Bachelor's,4,1240000
+668,Sonali Jadhav,Male,2022-10-25,2023-08-12,3,5,1166,3,Resigned,Company Website,MBA/PGDM,2,665000
+669,Aarav Verma,Female,2023-09-08,,2,4,707,3,Active,Naukri,Master's,4,1120000
+670,Harsh Gupta,Male,2022-08-05,2025-04-01,7,14,1006,5,Terminated,Campus Hiring,Bachelor's,2,635000
+671,Abhishek Mehta,Male,2025-10-20,,2,4,889,2,Active,Company Website,MBA/PGDM,5,1540000
+672,Vivek Naik,Male,2023-05-23,,6,12,264,6,Active,Employee Referral,Master's,2,545000
+673,Karan More,Female,2025-05-25,,2,4,292,6,Active,Campus Hiring,Master's,5,1625000
+674,Mohit Jain,Male,2021-04-05,,1,1,694,6,Active,Campus Hiring,Diploma,1,470000
+675,Karan Malhotra,Female,2023-04-09,,2,4,434,1,Active,Recruitment Agency,MBA/PGDM,5,1420000
+676,Meera Shinde,Female,2023-04-02,,6,12,1144,1,Active,Campus Hiring,Diploma,1,495000
+677,Trisha Patel,Female,2023-02-13,,6,13,897,4,Active,Employee Referral,Bachelor's,4,1315000
+678,Sneha More,Male,2021-10-30,,7,14,738,2,Active,Employee Referral,MBA/PGDM,2,645000
+679,Pooja Kapoor,Female,2023-08-24,,3,6,696,2,Active,Recruitment Agency,MBA/PGDM,4,1115000
+680,Sakshi Pawar,Male,2025-06-30,2025-12-24,1,2,745,1,Resigned,Campus Hiring,MBA/PGDM,3,925000
+681,Isha Mehta,Female,2024-06-07,,2,3,777,8,Active,Recruitment Agency,Diploma,2,560000
+682,Priya Menon,Female,2023-07-12,,6,12,266,1,Active,Naukri,Master's,2,630000
+683,Riya Khan,Male,2022-03-26,,3,6,179,1,Active,Recruitment Agency,Bachelor's,4,1360000
+684,Dhruv Joshi,Female,2025-01-27,,6,12,932,1,Active,Company Website,Bachelor's,2,540000
+685,Abhishek Mishra,Female,2023-06-12,,3,5,529,2,Active,Campus Hiring,Bachelor's,2,555000
+686,Akash Kulkarni,Female,2023-08-16,,7,14,281,2,Active,Employee Referral,Diploma,1,395000
+687,Priya Thakur,Female,2023-05-19,,3,6,319,2,Active,Campus Hiring,Diploma,4,1270000
+688,Yash Jadhav,Male,2024-04-05,,1,1,639,7,Active,Naukri,Bachelor's,2,715000
+689,Rhea Verma,Female,2021-08-23,,3,5,28,3,Active,Employee Referral,MBA/PGDM,3,775000
+690,Sakshi Patel,Male,2022-03-19,2023-12-22,4,8,802,1,Terminated,Company Website,Master's,5,1595000
+691,Akash Shinde,Female,2022-01-14,,5,10,41,2,Active,Campus Hiring,MBA/PGDM,2,695000
+692,Zoya Reddy,Male,2021-05-05,2024-07-08,2,4,673,1,Resigned,LinkedIn,Diploma,4,1105000
+693,Rohan Joshi,Male,2021-06-14,,6,13,164,2,Active,Naukri,Bachelor's,4,1140000
+694,Zoya Kulkarni,Male,2024-04-27,,1,2,189,3,Active,Campus Hiring,Bachelor's,4,1095000
+695,Akash More,Female,2021-08-27,,7,15,986,6,Active,Employee Referral,MBA/PGDM,3,925000
+696,Sneha Deshmukh,Male,2021-11-17,,3,6,834,1,Active,Company Website,Bachelor's,5,1415000
+697,Rohit Patel,Male,2022-02-08,2025-02-08,2,4,292,1,Terminated,Naukri,Master's,5,1765000
+698,Tanya Thakur,Female,2024-09-13,,7,14,986,1,Active,Naukri,MBA/PGDM,1,480000
+699,Akash Shinde,Male,2024-07-18,,2,4,1059,2,Active,Employee Referral,MBA/PGDM,4,1335000
+700,Harsh Jadhav,Female,2025-09-09,,7,14,414,2,Active,Employee Referral,Master's,2,520000
+701,Sahil Naik,Male,2024-03-20,,3,5,2,4,Active,LinkedIn,Master's,2,505000
+702,Maya Chopra,Female,2023-11-02,,6,13,1098,7,Active,Naukri,Master's,4,1285000
+703,Rahul Mehta,Male,2022-12-05,2024-12-27,4,7,1068,5,Resigned,Company Website,Master's,2,685000
+704,Sahil Jadhav,Female,2025-06-29,2025-09-20,1,2,801,3,Terminated,Employee Referral,Bachelor's,4,1105000
+705,Akash Sawant,Female,2024-04-01,,6,12,1038,3,Active,LinkedIn,Diploma,3,780000
+706,Sahil Thakur,Male,2023-04-13,,7,15,1009,2,Active,LinkedIn,Diploma,3,970000
+707,Tanvi Menon,Male,2023-01-17,2023-08-22,2,4,1065,5,Resigned,LinkedIn,Diploma,4,1220000
+708,Zoya Chopra,Male,2022-07-06,,3,5,465,1,Active,Naukri,MBA/PGDM,2,560000
+709,Diya Pawar,Male,2024-02-20,,8,16,623,1,Active,Employee Referral,Diploma,2,605000
+710,Rahul Khan,Male,2025-04-26,,5,11,811,4,Active,LinkedIn,Master's,5,1990000
+711,Sakshi Naik,Male,2025-06-04,,5,10,1043,3,Active,LinkedIn,Bachelor's,3,875000
+712,Arjun Joshi,Male,2024-02-03,2024-08-16,5,11,114,3,Resigned,Employee Referral,MBA/PGDM,5,1900000
+713,Aditi Pillai,Female,2022-07-01,,7,15,1021,7,Active,Naukri,Diploma,3,930000
+714,Pooja Verma,Male,2021-10-05,,7,15,33,4,Active,Naukri,MBA/PGDM,4,1195000
+715,Ashish Menon,Female,2025-09-28,,7,15,1156,1,Active,Employee Referral,Bachelor's,4,1255000
+716,Dev Sawant,Male,2022-02-21,,5,11,540,6,Active,Campus Hiring,Bachelor's,4,1160000
+717,Riya Patel,Male,2022-09-05,,7,15,225,1,Active,Employee Referral,Master's,4,1035000
+718,Tanya Patel,Female,2024-04-18,,5,11,1182,4,Active,Recruitment Agency,Diploma,5,1785000
+719,Shreya Kulkarni,Female,2022-08-14,,4,8,246,3,Active,Campus Hiring,Master's,4,1280000
+720,Manish Kapoor,Female,2025-04-25,,3,6,294,6,Active,Company Website,Diploma,4,1080000
+721,Nikhil Bansal,Male,2024-09-24,2025-05-12,3,5,862,5,Terminated,Company Website,Bachelor's,1,455000
+722,Arjun Naik,Male,2024-02-05,2025-06-30,1,1,1071,2,Terminated,LinkedIn,Diploma,2,520000
+723,Manish Menon,Male,2023-11-14,,5,11,74,1,Active,Campus Hiring,Bachelor's,4,1380000
+724,Diya Mishra,Male,2025-10-09,,2,4,728,1,Active,Campus Hiring,MBA/PGDM,4,1310000
+725,Sakshi Saxena,Male,2025-01-31,,5,9,716,1,Active,Company Website,Bachelor's,3,960000
+726,Kavya Reddy,Male,2024-02-02,2025-12-18,5,11,363,8,Resigned,Recruitment Agency,Master's,5,1775000
+727,Rhea Bansal,Female,2021-06-18,,1,2,1140,3,Active,Campus Hiring,MBA/PGDM,4,1355000
+728,Nikhil Kulkarni,Female,2025-06-11,,2,4,885,3,Active,Naukri,Diploma,5,1535000
+729,Harsh Chopra,Male,2023-05-07,2025-01-08,3,5,334,5,Resigned,Employee Referral,Bachelor's,2,605000
+730,Shreya Singh,Male,2021-04-29,,2,3,383,4,Active,Naukri,Diploma,2,585000
+731,Yash Verma,Female,2024-03-25,,2,4,383,2,Active,LinkedIn,Master's,5,1740000
+732,Aditi Khan,Female,2022-07-30,2024-03-22,1,2,222,2,Terminated,LinkedIn,MBA/PGDM,3,855000
+733,Sanjay Reddy,Male,2022-09-01,,5,9,44,1,Active,Company Website,Bachelor's,3,830000
+734,Sahil Patel,Female,2023-10-03,,2,4,765,3,Active,LinkedIn,Bachelor's,5,1700000
+735,Anjali Joshi,Female,2022-10-24,,3,5,243,1,Active,LinkedIn,Master's,2,735000
+736,Ashish Thakur,Male,2023-06-06,,2,3,153,3,Active,Naukri,Master's,2,670000
+737,Dhruv Khan,Female,2021-09-01,,5,11,156,3,Active,Naukri,Master's,5,1515000
+738,Sneha Reddy,Female,2023-05-09,2024-11-19,7,15,256,2,Resigned,Recruitment Agency,Diploma,3,790000
+739,Maya Reddy,Male,2022-01-13,,4,8,804,6,Active,Naukri,MBA/PGDM,4,1330000
+740,Meera Deshmukh,Male,2025-02-12,2025-12-27,5,9,126,5,Resigned,Company Website,Master's,3,920000
+741,Tanya Reddy,Male,2021-09-20,2024-06-03,8,17,895,4,Resigned,Employee Referral,Master's,5,1570000
+742,Rhea Mishra,Female,2022-09-24,,6,13,482,1,Active,Naukri,Bachelor's,5,1460000
+743,Vidya Pawar,Female,2024-01-05,,6,13,88,2,Active,LinkedIn,MBA/PGDM,5,1460000
+744,Maya Pillai,Male,2021-08-30,2024-09-23,7,14,1084,3,Resigned,Employee Referral,MBA/PGDM,2,525000
+745,Yash Khan,Male,2022-06-30,2023-01-05,1,2,398,4,Resigned,Campus Hiring,Master's,5,1445000
+746,Tanvi Shinde,Female,2024-04-21,,7,14,986,2,Active,LinkedIn,MBA/PGDM,1,415000
+747,Vivek Menon,Female,2025-01-02,,3,6,862,1,Active,Recruitment Agency,Diploma,4,1370000
+748,Dhruv More,Male,2025-10-30,2025-12-30,6,13,517,1,Resigned,LinkedIn,Bachelor's,4,1120000
+749,Trisha Thakur,Female,2024-06-27,,1,2,680,3,Active,Campus Hiring,MBA/PGDM,5,1430000
+750,Pooja Verma,Male,2024-01-29,,3,6,179,8,Active,LinkedIn,MBA/PGDM,3,975000
+751,Aditya Saxena,Male,2023-02-07,,5,11,659,4,Active,Recruitment Agency,Diploma,4,1350000
+752,Aarav Reddy,Male,2022-04-20,2023-11-05,6,13,157,4,Resigned,Campus Hiring,Bachelor's,3,945000
+753,Meera Mehta,Male,2025-01-31,2025-11-13,4,7,412,3,Resigned,Campus Hiring,MBA/PGDM,2,555000
+754,Sameer Mehta,Male,2024-05-22,,3,6,665,7,Active,Recruitment Agency,Master's,4,1305000
+755,Tanvi Menon,Male,2021-05-10,,7,15,973,1,Active,Recruitment Agency,Bachelor's,4,1180000
+756,Neha Chopra,Female,2024-01-25,,1,1,1071,3,Active,Naukri,Master's,2,745000
+757,Karan Singh,Male,2022-06-06,,5,11,369,1,Active,LinkedIn,MBA/PGDM,5,1620000
+758,Varun Pillai,Male,2022-04-01,,5,9,347,3,Active,LinkedIn,Diploma,3,855000
+759,Priya More,Male,2025-04-03,,2,3,930,1,Active,Naukri,MBA/PGDM,3,770000
+760,Sanjay Patel,Female,2025-11-12,,6,13,1098,3,Active,Company Website,MBA/PGDM,4,1170000
+761,Dhruv More,Female,2025-04-07,,5,10,97,4,Active,Naukri,Master's,2,710000
+762,Dev Iyer,Male,2022-04-22,,3,5,629,4,Active,Company Website,Master's,2,690000
+763,Neha Joshi,Female,2024-10-05,,4,8,304,5,Active,LinkedIn,Bachelor's,4,1195000
+764,Nikhil Verma,Female,2021-04-03,,3,5,834,3,Active,LinkedIn,MBA/PGDM,2,715000
+765,Rohan Nair,Male,2021-07-22,,2,4,600,2,Active,Campus Hiring,MBA/PGDM,5,1445000
+766,Ananya More,Female,2022-09-13,,1,1,745,1,Active,LinkedIn,MBA/PGDM,2,690000
+767,Sameer Kapoor,Male,2023-04-13,,2,3,154,6,Active,Naukri,Master's,2,660000
+768,Ashish Menon,Female,2025-10-16,,6,12,742,2,Active,Employee Referral,MBA/PGDM,2,650000
+769,Arjun Shinde,Male,2025-03-27,,3,5,917,8,Active,Company Website,MBA/PGDM,2,670000
+770,Neha Sharma,Male,2021-05-20,,3,5,204,1,Active,Naukri,MBA/PGDM,2,590000
+771,Meera Rao,Male,2025-03-14,,3,6,1034,2,Active,Company Website,Master's,4,1380000
+772,Sahil Thakur,Male,2024-03-11,,5,11,1180,2,Active,Company Website,Diploma,5,1870000
+773,Shreya Patel,Female,2024-06-22,,2,4,180,8,Active,Recruitment Agency,Master's,4,1065000
+774,Karan Chopra,Female,2022-09-17,2023-12-27,5,11,589,3,Resigned,LinkedIn,Bachelor's,4,1180000
+775,Zoya Mishra,Female,2022-03-22,,5,10,445,1,Active,Campus Hiring,MBA/PGDM,2,720000
+776,Aarav Patel,Male,2022-08-31,2023-08-08,1,2,1140,5,Resigned,Company Website,MBA/PGDM,5,1475000
+777,Harsh Shinde,Male,2024-02-17,,2,4,136,3,Active,Recruitment Agency,Master's,5,1445000
+778,Riya Rao,Male,2021-11-19,,7,14,146,4,Active,Recruitment Agency,Diploma,1,465000
+779,Maya Sawant,Female,2024-01-06,,5,11,156,2,Active,Campus Hiring,MBA/PGDM,4,1340000
+780,Aditi Jadhav,Male,2025-08-08,,6,13,677,3,Active,Recruitment Agency,Diploma,4,1270000
+781,Ankita Sharma,Male,2024-08-26,,4,7,1068,1,Active,Naukri,MBA/PGDM,3,895000
+782,Abhishek Patel,Female,2024-06-30,,2,4,930,4,Active,LinkedIn,Bachelor's,4,1005000
+783,Pooja Singh,Male,2023-07-21,,1,1,704,3,Active,LinkedIn,Bachelor's,2,660000
+784,Tanvi Chopra,Male,2024-08-23,,3,5,1166,8,Active,Campus Hiring,Bachelor's,2,540000
+785,Dhruv Singh,Male,2025-05-30,2025-11-17,2,3,673,3,Resigned,LinkedIn,Bachelor's,3,755000
+786,Rhea Khan,Female,2021-11-18,2023-10-24,7,15,414,3,Resigned,Company Website,Diploma,4,1260000
+787,Dhruv Naik,Male,2025-04-06,,7,15,146,4,Active,Employee Referral,Diploma,3,960000
+788,Pallavi Deshmukh,Male,2025-11-07,,2,4,943,5,Active,Employee Referral,MBA/PGDM,4,1060000
+789,Ananya Mehta,Male,2024-09-22,,6,12,1098,5,Active,Employee Referral,Diploma,2,585000
+790,Sanjay Gupta,Male,2021-10-15,,4,8,601,1,Active,Naukri,Diploma,4,1305000
+791,Manish Jadhav,Male,2021-08-31,2025-12-12,4,7,492,1,Terminated,Company Website,Master's,2,535000
+792,Yash Menon,Male,2024-10-17,,3,6,754,1,Active,Campus Hiring,Master's,4,1250000
+793,Neha Mehta,Female,2025-06-16,,3,5,328,5,Active,Naukri,MBA/PGDM,1,455000
+794,Priya Verma,Male,2021-09-09,,4,8,308,8,Active,Employee Referral,Master's,3,975000
+795,Pallavi Sawant,Female,2021-03-03,,4,8,304,5,Active,Company Website,Bachelor's,4,1400000
+796,Sahil Rao,Male,2024-05-24,,2,4,633,4,Active,Recruitment Agency,Master's,4,1125000
+797,Amit Jain,Female,2023-10-21,2025-07-06,5,9,1180,8,Resigned,Company Website,Master's,4,1100000
+798,Sahil Naik,Male,2023-06-01,,7,14,1006,4,Active,Company Website,Bachelor's,2,585000
+799,Diya Kapoor,Male,2025-09-24,,2,4,724,1,Active,Recruitment Agency,Bachelor's,4,1290000
+800,Sakshi Khan,Male,2023-11-11,,1,2,447,8,Active,Employee Referral,Diploma,4,1005000
+801,Ankita Jain,Female,2021-05-25,,1,2,983,6,Active,Naukri,Diploma,4,1370000
+802,Pallavi Joshi,Female,2023-05-01,,4,8,308,1,Active,Campus Hiring,Diploma,5,1630000
+803,Isha Singh,Male,2021-09-05,2023-09-02,6,13,342,2,Resigned,Company Website,Bachelor's,4,1300000
+804,Abhishek Menon,Male,2021-12-07,,4,8,790,2,Active,Company Website,MBA/PGDM,5,1485000
+805,Anjali Singh,Female,2021-01-10,,5,10,811,4,Active,Company Website,Bachelor's,2,660000
+806,Trisha Jadhav,Male,2021-12-31,,3,5,874,5,Active,Naukri,MBA/PGDM,1,400000
+807,Vivek Joshi,Female,2023-07-17,,7,15,1076,1,Active,Company Website,MBA/PGDM,4,1170000
+808,Karan Shinde,Female,2024-12-04,,1,2,745,6,Active,Employee Referral,Diploma,5,1495000
+809,Maya Chopra,Male,2025-01-03,,5,9,838,4,Active,Employee Referral,Diploma,2,700000
+810,Aditya Gupta,Male,2024-06-22,2025-05-19,5,10,150,4,Resigned,Recruitment Agency,Bachelor's,3,970000
+811,Rohit Menon,Female,2025-10-14,,5,11,302,3,Active,Campus Hiring,MBA/PGDM,4,1310000
+812,Karan Menon,Male,2021-08-04,,3,5,143,1,Active,Employee Referral,Diploma,2,610000
+813,Sonali Kulkarni,Female,2024-08-01,2024-10-21,3,5,649,3,Resigned,Company Website,Master's,1,460000
+814,Rhea Shinde,Female,2021-03-03,,6,13,946,6,Active,LinkedIn,Master's,3,940000
+815,Maya Shinde,Female,2022-03-27,,5,10,712,6,Active,Recruitment Agency,MBA/PGDM,2,745000
+816,Sameer Patel,Male,2025-11-07,,7,15,286,7,Active,Naukri,MBA/PGDM,4,1090000
+817,Sameer Thakur,Male,2021-07-23,,3,5,1017,5,Active,Employee Referral,Master's,2,565000
+818,Karan Pillai,Female,2023-06-18,,6,12,1167,1,Active,Company Website,MBA/PGDM,1,475000
+819,Aditi More,Female,2022-06-24,,7,14,1076,3,Active,Naukri,Master's,2,565000
+820,Ananya Verma,Male,2023-02-19,,7,14,225,6,Active,Campus Hiring,Diploma,1,480000
+821,Diya Iyer,Male,2023-09-06,,2,3,1085,3,Active,Recruitment Agency,Bachelor's,2,625000
+822,Ashish Reddy,Female,2023-07-21,,5,9,445,8,Active,LinkedIn,MBA/PGDM,3,950000
+823,Vidya Nair,Female,2023-07-26,,7,15,1121,5,Active,Employee Referral,Master's,4,1115000
+824,Vivek Menon,Male,2021-05-13,,6,13,1064,1,Active,Campus Hiring,Master's,4,1135000
+825,Zoya Mishra,Male,2022-02-18,,1,1,85,5,Active,Recruitment Agency,MBA/PGDM,2,600000
+826,Rhea Patel,Male,2024-01-12,,4,8,848,3,Active,Recruitment Agency,Bachelor's,4,1390000
+827,Pooja Nair,Female,2022-03-30,,4,8,690,3,Active,Company Website,Diploma,4,1080000
+828,Aarav More,Male,2025-10-31,2025-12-30,1,1,420,4,Resigned,Recruitment Agency,Diploma,1,490000
+829,Shreya Singh,Male,2024-07-30,,2,3,1020,8,Active,Recruitment Agency,MBA/PGDM,2,720000
+830,Rohit Sawant,Female,2024-03-20,,8,17,1040,8,Active,Campus Hiring,Master's,4,1035000
+831,Rahul Rao,Female,2025-10-01,,2,4,292,2,Active,Campus Hiring,MBA/PGDM,4,1065000
+832,Yash Gupta,Female,2021-05-01,,2,4,871,7,Active,Campus Hiring,Master's,4,1015000
+833,Ashish Jain,Male,2022-12-09,,6,12,1064,1,Active,Naukri,Bachelor's,2,685000
+834,Sameer Rao,Female,2022-11-21,,3,6,874,1,Active,Campus Hiring,Master's,4,1175000
+835,Dev Jadhav,Female,2022-04-12,,5,10,466,5,Active,Company Website,MBA/PGDM,2,670000
+836,Nikhil Kapoor,Male,2021-10-09,,6,12,1150,6,Active,Employee Referral,Diploma,2,625000
+837,Maya Sawant,Male,2023-07-31,,1,2,447,3,Active,Campus Hiring,Diploma,4,1330000
+838,Sanjay More,Male,2022-04-26,,5,11,111,1,Active,LinkedIn,Master's,5,1820000
+839,Rhea Pawar,Female,2022-09-08,,3,5,1034,1,Active,Company Website,Master's,1,435000
+840,Pooja Nair,Female,2022-08-04,,1,1,732,3,Active,Campus Hiring,Master's,2,540000
+841,Rohan Pawar,Male,2025-01-31,,5,9,524,2,Active,Recruitment Agency,Bachelor's,4,1085000
+842,Varun Shinde,Female,2023-03-09,,5,9,133,2,Active,LinkedIn,Bachelor's,3,965000
+843,Maya Bansal,Male,2023-08-27,,6,13,702,1,Active,Company Website,Bachelor's,4,1150000
+844,Aditya Patel,Female,2024-01-09,,6,13,742,1,Active,Company Website,MBA/PGDM,4,1340000
+845,Vivek Menon,Female,2021-11-23,,5,10,640,4,Active,Employee Referral,MBA/PGDM,3,995000
+846,Dev Bansal,Male,2024-01-20,2024-07-17,5,9,659,4,Resigned,Campus Hiring,MBA/PGDM,2,680000
+847,Maya Patel,Male,2021-03-18,,5,11,183,2,Active,Company Website,Bachelor's,5,1415000
+848,Manish Joshi,Male,2023-12-01,2024-09-09,4,8,246,3,Terminated,Campus Hiring,Diploma,4,1270000
+849,Amit Reddy,Female,2023-08-05,2025-10-18,5,10,886,3,Resigned,Campus Hiring,MBA/PGDM,4,1180000
+850,Anjali More,Female,2022-06-25,,5,10,34,2,Active,Employee Referral,Bachelor's,3,960000
+851,Aditya Bansal,Male,2024-11-01,2025-02-16,1,2,801,4,Resigned,Naukri,Diploma,4,1270000
+852,Isha Pillai,Female,2024-07-02,2024-11-05,3,6,683,1,Resigned,Recruitment Agency,Diploma,4,1035000
+853,Ashish Menon,Female,2021-08-27,,6,12,148,1,Active,Company Website,Master's,1,485000
+854,Akash Kulkarni,Male,2025-05-11,,3,5,511,2,Active,Naukri,Bachelor's,1,490000
+855,Ankita Patel,Male,2024-12-13,,4,7,344,4,Active,Employee Referral,MBA/PGDM,2,560000
+856,Karan Chopra,Female,2021-11-25,,7,15,449,2,Active,Campus Hiring,Bachelor's,3,860000
+857,Vidya Shinde,Male,2024-05-28,2024-10-11,5,10,133,4,Resigned,Company Website,MBA/PGDM,4,1035000
+858,Vivek Singh,Female,2022-04-21,2023-07-01,8,16,882,6,Resigned,Employee Referral,Master's,3,755000
+859,Isha Sawant,Male,2022-02-27,,5,9,591,2,Active,Campus Hiring,MBA/PGDM,3,945000
+860,Priya Sharma,Male,2022-12-11,2023-08-05,7,15,123,1,Resigned,Employee Referral,Master's,4,1155000
+861,Arjun Rao,Female,2025-07-30,,4,7,690,1,Active,Campus Hiring,MBA/PGDM,2,710000
+862,Diya More,Female,2025-02-14,2025-08-16,3,6,894,3,Resigned,Campus Hiring,Bachelor's,5,1420000
+863,Pooja Saxena,Male,2025-07-01,,3,5,1193,6,Active,Employee Referral,Bachelor's,2,595000
+864,Kavya Joshi,Male,2022-01-19,2022-12-16,3,6,1057,3,Resigned,Campus Hiring,Diploma,4,1140000
+865,Harsh Verma,Female,2023-03-01,2023-10-17,6,12,702,7,Resigned,Naukri,MBA/PGDM,3,800000
+866,Sanjay Bansal,Male,2022-04-30,2025-11-02,7,14,909,1,Terminated,Naukri,Bachelor's,2,650000
+867,Tanvi Shinde,Female,2023-08-19,,7,14,1111,1,Active,LinkedIn,Bachelor's,2,610000
+868,Akash Pawar,Female,2021-07-20,,5,11,873,5,Active,Naukri,Bachelor's,5,1785000
+869,Vidya Deshmukh,Male,2023-03-23,,1,1,1192,1,Active,Recruitment Agency,Master's,1,485000
+870,Sahil Pillai,Female,2025-10-20,,6,12,164,3,Active,Campus Hiring,MBA/PGDM,2,645000
+871,Riya Saxena,Male,2025-10-08,,2,4,731,3,Active,LinkedIn,MBA/PGDM,5,1530000
+872,Anjali Iyer,Male,2024-01-24,,3,5,852,1,Active,Company Website,MBA/PGDM,2,530000
+873,Mohit Mishra,Female,2024-06-09,,5,11,562,1,Active,Campus Hiring,Diploma,5,1665000
+874,Akash Saxena,Female,2022-06-07,2023-10-18,3,6,583,8,Resigned,Company Website,Diploma,4,1365000
+875,Harsh Reddy,Male,2023-05-09,,8,16,378,1,Active,Employee Referral,Diploma,2,695000
+876,Anjali Naik,Male,2022-10-24,,3,5,294,3,Active,Naukri,Master's,2,570000
+877,Shreya Chopra,Female,2021-12-03,2022-04-05,2,4,434,6,Resigned,LinkedIn,Diploma,5,1575000
+878,Nisha Jadhav,Female,2024-11-29,2025-11-30,3,5,1088,2,Resigned,Recruitment Agency,Diploma,2,665000
+879,Aarav Verma,Female,2025-04-29,,4,8,320,1,Active,LinkedIn,MBA/PGDM,5,1405000
+880,Maya Menon,Female,2023-06-30,2025-08-16,3,6,982,6,Resigned,LinkedIn,MBA/PGDM,3,920000
+881,Neha Sawant,Male,2025-05-05,,5,9,1153,1,Active,Recruitment Agency,Bachelor's,2,740000
+882,Rhea Nair,Male,2021-01-19,,8,17,31,8,Active,Company Website,Bachelor's,4,1305000
+883,Varun Joshi,Female,2023-11-12,,1,1,745,4,Active,Recruitment Agency,Bachelor's,1,485000
+884,Manish Thakur,Female,2024-03-07,,5,9,1047,5,Active,Campus Hiring,Bachelor's,2,640000
+885,Rohan Kulkarni,Male,2024-11-05,,2,4,1007,6,Active,Employee Referral,Master's,5,1525000
+886,Aniket Rao,Female,2022-11-26,2024-04-18,5,11,325,2,Resigned,Campus Hiring,MBA/PGDM,5,1560000
+887,Maya Gupta,Male,2025-03-31,2025-10-05,5,10,710,6,Resigned,Company Website,Master's,2,750000
+888,Sakshi Jain,Male,2025-06-15,,7,14,343,2,Active,LinkedIn,Bachelor's,2,595000
+889,Rhea Menon,Female,2025-06-23,,2,4,675,7,Active,Naukri,Diploma,5,1665000
+890,Vivek Jain,Female,2021-10-04,2024-02-01,4,7,99,3,Resigned,Recruitment Agency,Master's,2,735000
+891,Vaishnavi Patel,Male,2021-12-23,2025-10-24,4,7,989,1,Resigned,Company Website,Master's,2,555000
+892,Abhishek More,Female,2024-05-25,,4,7,604,1,Active,Company Website,Diploma,2,670000
+893,Manish Mishra,Male,2023-05-30,,3,5,576,5,Active,Employee Referral,Bachelor's,1,435000
+894,Riya Sharma,Male,2024-11-05,,3,6,622,2,Active,LinkedIn,Master's,4,1275000
+895,Manish Saxena,Female,2022-08-01,,8,17,623,1,Active,Naukri,MBA/PGDM,4,1340000
+896,Sameer Nair,Female,2021-01-12,,1,1,189,6,Active,Employee Referral,Bachelor's,2,590000
+897,Maya Thakur,Male,2022-08-21,,6,13,1098,1,Active,Company Website,MBA/PGDM,4,1390000
+898,Isha Jadhav,Male,2021-07-08,2025-12-13,5,9,1135,2,Resigned,Employee Referral,Bachelor's,3,830000
+899,Vivek Nair,Male,2021-02-08,2025-01-14,3,5,143,1,Resigned,Campus Hiring,MBA/PGDM,2,690000
+900,Zoya Patel,Male,2022-05-27,,6,12,946,6,Active,Employee Referral,Master's,2,550000
+901,Aditi Pawar,Male,2025-04-06,,3,6,1172,4,Active,LinkedIn,Diploma,3,925000
+902,Tanvi Khan,Female,2023-08-15,,3,6,28,3,Active,Recruitment Agency,MBA/PGDM,4,1120000
+903,Sneha Saxena,Female,2023-05-28,,8,16,1125,8,Active,Recruitment Agency,MBA/PGDM,2,670000
+904,Ashish Khan,Female,2023-09-29,2024-06-11,5,11,14,2,Resigned,Employee Referral,MBA/PGDM,4,1400000
+905,Ananya Khan,Female,2023-01-20,,7,15,603,1,Active,Campus Hiring,Bachelor's,3,830000
+906,Sahil Joshi,Female,2021-11-16,2025-09-20,5,9,904,3,Resigned,Campus Hiring,Diploma,3,975000
+907,Nisha Mehta,Female,2025-01-10,2025-12-20,1,1,694,1,Resigned,Company Website,MBA/PGDM,2,570000
+908,Nikhil More,Male,2023-07-20,,6,13,824,2,Active,Naukri,Master's,4,1350000
+909,Rhea Verma,Female,2023-04-10,,7,15,333,1,Active,Employee Referral,Diploma,4,1050000
+910,Aarav Bansal,Male,2024-02-28,2024-09-22,5,11,1001,8,Terminated,Company Website,Master's,5,1860000
+911,Sahil Pawar,Female,2022-01-26,,4,7,1126,6,Active,LinkedIn,Diploma,2,525000
+912,Isha Saxena,Male,2023-02-23,,5,9,873,7,Active,Employee Referral,Bachelor's,2,685000
+913,Vidya Rao,Female,2022-04-20,,4,7,246,8,Active,Employee Referral,MBA/PGDM,3,810000
+914,Meera Pillai,Male,2022-07-11,,8,16,830,8,Active,Recruitment Agency,Master's,2,655000
+915,Tanya Deshmukh,Male,2023-08-31,,6,12,80,1,Active,Company Website,Master's,2,605000
+916,Aarav Reddy,Male,2023-08-19,,3,5,1062,3,Active,Campus Hiring,MBA/PGDM,1,485000
+917,Kavya More,Male,2025-05-09,,3,6,460,3,Active,LinkedIn,Diploma,4,1200000
+918,Sakshi Naik,Female,2022-06-30,,3,5,683,1,Active,Recruitment Agency,MBA/PGDM,1,450000
+919,Vivek Patel,Male,2023-09-12,,5,9,1135,2,Active,Employee Referral,Master's,3,955000
+920,Tanvi Singh,Female,2024-07-13,2024-11-03,6,13,1120,6,Resigned,Recruitment Agency,Diploma,3,960000
+921,Meera Naik,Male,2023-05-08,,6,13,1073,3,Active,Employee Referral,Master's,4,1120000
+922,Mohit Shinde,Male,2023-03-01,2023-06-07,3,6,687,5,Resigned,Employee Referral,Diploma,4,1120000
+923,Ananya Mehta,Male,2024-05-11,2024-11-16,6,12,677,1,Resigned,Employee Referral,Master's,1,490000
+924,Trisha Menon,Female,2024-07-30,,2,3,1134,1,Active,Campus Hiring,Master's,3,795000
+925,Aditya Bansal,Male,2021-12-18,,1,1,252,1,Active,Employee Referral,Master's,2,530000
+926,Kavya Thakur,Male,2022-02-03,2025-07-05,2,3,782,3,Resigned,LinkedIn,MBA/PGDM,2,560000
+927,Isha Chopra,Male,2021-06-16,,3,6,747,2,Active,Company Website,Diploma,5,1575000
+928,Ananya Bansal,Male,2022-12-25,,7,14,352,1,Active,Naukri,Bachelor's,1,445000
+929,Nisha Patel,Female,2021-10-26,2024-11-02,6,12,95,5,Resigned,Campus Hiring,Master's,3,760000
+930,Sahil Pawar,Female,2021-07-05,2023-01-26,2,4,501,1,Resigned,Employee Referral,MBA/PGDM,4,1260000
+931,Dhruv Khan,Male,2021-05-25,2024-05-25,3,5,576,7,Resigned,Company Website,MBA/PGDM,2,660000
+932,Rohit Naik,Male,2022-05-15,,6,13,277,5,Active,Campus Hiring,Diploma,5,1415000
+933,Amit Khan,Male,2024-10-24,,3,6,243,4,Active,Naukri,Diploma,4,1220000
+934,Ankita Patel,Male,2023-10-13,,5,11,904,4,Active,Campus Hiring,Diploma,4,1365000
+935,Aditya Sawant,Male,2021-12-01,,7,15,738,1,Active,Campus Hiring,Master's,3,980000
+936,Sanjay Sawant,Female,2025-03-13,,5,10,1030,6,Active,LinkedIn,Diploma,3,815000
+937,Sameer Jadhav,Male,2021-11-26,2025-09-16,3,5,1034,2,Resigned,Recruitment Agency,MBA/PGDM,1,485000
+938,Aditi Jain,Female,2023-11-21,,3,5,1034,6,Active,Recruitment Agency,Master's,2,730000
+939,Abhishek Mishra,Male,2025-11-28,,3,6,583,3,Active,Campus Hiring,Diploma,3,870000
+940,Vidya Kulkarni,Female,2025-07-06,,3,5,558,3,Active,Company Website,Master's,2,530000
+941,Shreya Jain,Male,2025-07-26,,8,17,882,2,Active,Recruitment Agency,Master's,4,1270000
+942,Dhruv Iyer,Female,2025-06-09,,2,3,831,5,Active,Company Website,Bachelor's,2,650000
+943,Tanya Kulkarni,Female,2025-01-28,2025-10-24,2,4,1059,1,Terminated,LinkedIn,MBA/PGDM,4,1040000
+944,Nisha Verma,Male,2023-07-25,,4,7,4,2,Active,Campus Hiring,Master's,2,550000
+945,Mohit Thakur,Female,2022-09-28,,1,1,9,5,Active,Naukri,Master's,2,670000
+946,Riya Pawar,Female,2022-03-27,2023-09-04,6,13,908,1,Resigned,LinkedIn,Bachelor's,5,1595000
+947,Neha Malhotra,Male,2023-07-10,,5,9,445,4,Active,Company Website,MBA/PGDM,2,655000
+948,Neha Naik,Male,2023-01-15,,4,7,604,2,Active,Naukri,Master's,3,755000
+949,Dev Chopra,Male,2024-09-29,2025-07-02,6,12,331,7,Resigned,Company Website,Bachelor's,2,710000
+950,Dhruv Menon,Male,2023-02-14,,4,7,246,2,Active,Campus Hiring,MBA/PGDM,3,770000
+951,Aniket Gupta,Female,2025-02-24,2025-11-06,3,5,357,4,Resigned,Recruitment Agency,Master's,2,675000
+952,Nisha Bansal,Male,2022-07-04,2024-08-05,1,1,954,4,Terminated,Company Website,MBA/PGDM,2,630000
+953,Sakshi Deshmukh,Female,2021-09-09,,3,5,105,1,Active,Recruitment Agency,MBA/PGDM,2,565000
+954,Rahul More,Female,2023-11-09,,1,2,252,6,Active,Naukri,Bachelor's,4,1235000
+955,Rhea Mishra,Female,2023-09-08,,5,9,44,5,Active,Recruitment Agency,Diploma,3,990000
+956,Sameer Verma,Female,2024-10-20,,8,16,568,2,Active,Naukri,MBA/PGDM,2,550000
+957,Rahul Saxena,Female,2021-02-28,,3,6,1062,7,Active,Recruitment Agency,MBA/PGDM,4,1260000
+958,Pallavi Sawant,Male,2025-07-28,,5,10,712,3,Active,Campus Hiring,Master's,2,720000
+959,Amit Joshi,Female,2024-06-03,,3,6,460,3,Active,Employee Referral,MBA/PGDM,4,1225000
+960,Karan Kapoor,Female,2022-05-27,2025-02-02,7,14,392,2,Resigned,LinkedIn,Master's,1,480000
+961,Ashish Rao,Female,2023-06-03,2024-05-21,4,7,493,3,Resigned,Recruitment Agency,Master's,3,835000
+962,Rohit More,Female,2022-10-23,,1,1,851,5,Active,Company Website,Diploma,2,540000
+963,Rohan Joshi,Female,2023-03-16,2023-06-05,5,9,1135,7,Resigned,Employee Referral,MBA/PGDM,2,650000
+964,Sameer Sharma,Male,2025-06-09,,3,5,465,1,Active,Naukri,Diploma,2,715000
+965,Isha Verma,Male,2023-02-02,2025-11-23,1,1,1140,7,Resigned,LinkedIn,MBA/PGDM,2,665000
+966,Shreya Thakur,Female,2023-06-12,2024-03-11,3,5,52,5,Resigned,Company Website,Master's,2,650000
+967,Akash Khan,Female,2023-02-21,,5,10,141,3,Active,Naukri,MBA/PGDM,4,1280000
+968,Ananya Naik,Female,2023-04-25,,4,7,234,3,Active,Company Website,Master's,3,890000
+969,Neha Rao,Female,2024-11-17,,7,14,856,3,Active,LinkedIn,Diploma,2,560000
+970,Dhruv Sharma,Male,2023-05-27,,5,11,712,6,Active,LinkedIn,Master's,4,1195000
+971,Akash Sawant,Male,2023-01-21,,6,12,198,1,Active,Employee Referral,Bachelor's,2,535000
+972,Sanjay Deshmukh,Male,2022-03-15,,3,6,957,5,Active,Naukri,Bachelor's,5,1480000
+973,Harsh Saxena,Male,2021-09-21,,7,15,123,4,Active,Naukri,Master's,4,1165000
+974,Trisha Saxena,Female,2022-02-12,,8,16,895,2,Active,Employee Referral,Bachelor's,2,580000
+975,Anjali Menon,Male,2022-10-25,,5,10,466,3,Active,LinkedIn,MBA/PGDM,4,1115000
+976,Shreya Menon,Male,2025-05-02,,6,13,1099,1,Active,Employee Referral,MBA/PGDM,4,1005000
+977,Aarav Gupta,Male,2023-07-14,,7,14,695,8,Active,Naukri,Master's,2,575000
+978,Amit Mishra,Male,2025-09-08,,5,10,1179,1,Active,Company Website,Bachelor's,3,855000
+979,Abhishek Kulkarni,Male,2022-02-14,,5,11,1179,1,Active,Employee Referral,Bachelor's,5,1600000
+980,Tanvi Chopra,Male,2021-12-23,,5,9,354,1,Active,Naukri,MBA/PGDM,3,845000
+981,Sakshi Iyer,Female,2023-07-10,,1,2,837,6,Active,LinkedIn,MBA/PGDM,3,905000
+982,Rohan Saxena,Female,2021-01-04,,3,6,319,1,Active,Campus Hiring,MBA/PGDM,4,1180000
+983,Pallavi Iyer,Male,2025-05-23,2025-10-23,1,2,642,5,Resigned,Company Website,Bachelor's,4,1310000
+984,Diya Khan,Female,2024-04-02,,6,12,517,4,Active,Company Website,MBA/PGDM,3,800000
+985,Arjun Mishra,Female,2023-11-26,2025-04-28,5,11,656,2,Resigned,Recruitment Agency,Bachelor's,5,1765000
+986,Ananya Mehta,Male,2023-02-10,,7,15,787,2,Active,Campus Hiring,Diploma,3,910000
+987,Anjali More,Male,2023-05-22,2023-11-15,3,6,93,3,Resigned,LinkedIn,MBA/PGDM,4,1280000
+988,Nisha Joshi,Male,2023-03-04,2023-06-01,6,12,702,2,Resigned,Recruitment Agency,Diploma,2,670000
+989,Aditi Gupta,Female,2024-10-18,,4,8,1013,8,Active,Naukri,MBA/PGDM,5,1600000
+990,Vivek Kapoor,Female,2022-07-24,,5,9,121,2,Active,Recruitment Agency,MBA/PGDM,2,750000
+991,Neha Rao,Male,2024-07-10,2025-12-28,3,5,294,2,Terminated,Naukri,Bachelor's,2,590000
+992,Riya Pillai,Female,2024-05-13,,5,11,640,1,Active,Company Website,MBA/PGDM,5,1780000
+993,Mohit Gupta,Male,2021-06-07,,7,15,1053,1,Active,Employee Referral,Master's,3,935000
+994,Sameer Sawant,Female,2023-11-02,,5,11,873,7,Active,LinkedIn,Diploma,5,1875000
+995,Ashish Kulkarni,Male,2021-12-17,,6,12,148,5,Active,LinkedIn,Master's,2,660000
+996,Sonali Shinde,Male,2024-04-25,,5,9,77,4,Active,LinkedIn,Bachelor's,2,690000
+997,Ankita Pillai,Female,2022-01-03,,1,1,776,1,Active,Company Website,Master's,2,645000
+998,Rhea More,Male,2022-03-10,,5,9,779,7,Active,LinkedIn,Master's,4,1040000
+999,Rhea Bansal,Female,2025-01-20,,4,8,470,2,Active,Recruitment Agency,Diploma,4,1190000
+1000,Ananya Menon,Male,2024-03-30,,5,9,1180,3,Active,Recruitment Agency,Bachelor's,2,720000
+1001,Ananya Chopra,Female,2024-01-07,2024-10-20,5,11,302,5,Terminated,Company Website,Bachelor's,5,1495000
+1002,Tanvi Deshmukh,Male,2025-06-13,,1,1,662,3,Active,Campus Hiring,MBA/PGDM,2,555000
+1003,Aniket Iyer,Male,2022-10-29,,5,9,1018,1,Active,Employee Referral,Master's,2,655000
+1004,Aditya Shinde,Male,2021-08-22,,7,14,55,1,Active,Employee Referral,Diploma,2,620000
+1005,Yash Mehta,Female,2025-03-28,,1,1,727,6,Active,Naukri,Bachelor's,2,610000
+1006,Rohan Khan,Male,2021-08-03,,7,15,215,6,Active,Recruitment Agency,Master's,4,1220000
+1007,Karan Iyer,Male,2022-05-24,,2,4,1143,4,Active,LinkedIn,Diploma,4,1050000
+1008,Yash Kulkarni,Male,2024-03-29,,1,1,398,7,Active,Company Website,Bachelor's,2,750000
+1009,Tanya Patel,Female,2025-10-06,2025-12-08,7,15,1133,2,Resigned,Company Website,Bachelor's,4,1240000
+1010,Priya Deshmukh,Male,2023-12-12,,3,5,683,2,Active,Recruitment Agency,MBA/PGDM,1,485000
+1011,Manish Deshmukh,Male,2024-12-26,,3,6,771,7,Active,Recruitment Agency,Master's,3,950000
+1012,Yash Iyer,Female,2023-07-14,,1,1,447,1,Active,LinkedIn,Diploma,2,580000
+1013,Pooja Malhotra,Female,2023-12-05,,4,8,304,1,Active,LinkedIn,Diploma,4,1140000
+1014,Vivek Mishra,Male,2022-05-29,,5,11,121,4,Active,Recruitment Agency,Diploma,4,1370000
+1015,Vidya Kulkarni,Male,2025-07-21,,1,2,800,4,Active,LinkedIn,Diploma,4,1105000
+1016,Dhruv Malhotra,Female,2024-06-27,,6,12,654,3,Active,LinkedIn,Diploma,2,585000
+1017,Harsh Deshmukh,Male,2023-09-15,2025-09-12,3,6,792,4,Resigned,Campus Hiring,MBA/PGDM,3,890000
+1018,Sonali Khan,Male,2025-01-01,,5,11,934,1,Active,LinkedIn,Diploma,5,1565000
+1019,Sonali Menon,Female,2022-04-27,,7,14,986,3,Active,Recruitment Agency,Diploma,1,445000
+1020,Sneha Joshi,Female,2022-11-23,,2,4,48,1,Active,Employee Referral,Diploma,4,1400000
+1021,Vidya Deshmukh,Female,2024-04-14,,7,15,231,1,Active,Naukri,Diploma,3,785000
+1022,Dev Jadhav,Male,2023-02-02,,3,5,1166,3,Active,Company Website,Diploma,2,720000
+1023,Priya Deshmukh,Female,2022-12-13,,5,9,1182,1,Active,LinkedIn,Diploma,4,1015000
+1024,Nikhil Iyer,Male,2024-09-11,,5,11,554,3,Active,Recruitment Agency,Diploma,4,1130000
+1025,Rahul Mehta,Male,2022-07-19,,7,15,787,3,Active,Company Website,Bachelor's,3,870000
+1026,Vivek Joshi,Male,2025-11-27,,7,15,286,4,Active,Naukri,Master's,4,1290000
+1027,Isha Reddy,Male,2022-05-26,,5,11,1018,7,Active,LinkedIn,Diploma,5,1680000
+1028,Meera Rao,Male,2021-06-09,,1,1,808,8,Active,Campus Hiring,Master's,2,725000
+1029,Amit Mishra,Male,2021-11-03,,2,4,831,6,Active,Campus Hiring,Diploma,4,1385000
+1030,Nikhil Shinde,Male,2022-04-30,,5,11,535,6,Active,Employee Referral,Diploma,5,1725000
+1031,Aniket Iyer,Male,2024-01-29,2024-12-08,5,10,1083,1,Resigned,Employee Referral,MBA/PGDM,3,845000
+1032,Varun Sawant,Male,2022-12-31,,5,9,14,5,Active,Employee Referral,Master's,2,730000
+1033,Manish More,Female,2022-02-01,,6,12,273,2,Active,Employee Referral,Bachelor's,3,815000
+1034,Tanvi Kapoor,Female,2024-04-19,,3,6,696,6,Active,Campus Hiring,Master's,4,1285000
+1035,Rohit Nair,Male,2025-09-13,2025-11-26,6,13,748,1,Terminated,LinkedIn,MBA/PGDM,5,1515000
+1036,Sameer Joshi,Male,2023-06-22,,1,2,801,2,Active,LinkedIn,MBA/PGDM,4,1330000
+1037,Sanjay Singh,Male,2023-06-20,,5,10,656,1,Active,Employee Referral,Master's,4,1075000
+1038,Tanya Rao,Male,2025-01-21,,6,13,1167,2,Active,Campus Hiring,MBA/PGDM,5,1500000
+1039,Sanjay Iyer,Male,2024-01-27,,3,5,874,1,Active,Campus Hiring,MBA/PGDM,2,685000
+1040,Tanvi Gupta,Female,2021-01-22,,8,17,543,4,Active,LinkedIn,MBA/PGDM,4,1130000
+1041,Isha Khan,Male,2022-08-12,,8,16,657,3,Active,Recruitment Agency,Bachelor's,3,825000
+1042,Priya Menon,Male,2023-10-04,,3,6,982,8,Active,Campus Hiring,Diploma,3,990000
+1043,Sameer Jain,Female,2024-01-14,,5,11,985,6,Active,Recruitment Agency,Diploma,5,1525000
+1044,Neha Shinde,Male,2025-06-15,,5,9,549,3,Active,Recruitment Agency,Bachelor's,2,750000
+1045,Isha Nair,Female,2025-05-30,,7,14,787,3,Active,Campus Hiring,MBA/PGDM,1,425000
+1046,Tanya Mehta,Male,2022-01-22,,3,5,1042,1,Active,Naukri,Diploma,3,790000
+1047,Rahul Kapoor,Male,2024-09-25,2025-03-17,5,11,133,7,Resigned,Company Website,Master's,5,1700000
+1048,Vidya Rao,Female,2022-02-01,,5,11,1069,6,Active,Campus Hiring,Diploma,4,1255000
+1049,Akash Deshmukh,Male,2024-06-03,,2,3,782,1,Active,Naukri,Diploma,3,925000
+1050,Ananya Singh,Male,2022-02-06,,3,6,792,7,Active,Naukri,MBA/PGDM,5,1465000
+1051,Karan Thakur,Male,2025-09-17,,1,2,954,2,Active,Naukri,Diploma,4,1245000
+1052,Rohan More,Female,2021-09-23,,8,16,882,1,Active,Naukri,Bachelor's,2,560000
+1053,Isha Chopra,Male,2021-02-01,,7,15,149,5,Active,Recruitment Agency,Bachelor's,4,1295000
+1054,Ankita Jain,Female,2024-03-20,,1,1,694,4,Active,Company Website,Diploma,2,570000
+1055,Yash Thakur,Male,2021-10-18,,4,7,604,3,Active,Company Website,Master's,2,545000
+1056,Sameer Joshi,Female,2024-02-25,2024-06-21,3,5,440,8,Resigned,Company Website,Diploma,2,690000
+1057,Rhea Chopra,Female,2022-11-01,2023-07-28,3,6,106,3,Resigned,Recruitment Agency,Master's,3,865000
+1058,Aditya Jain,Male,2022-03-01,,3,6,200,4,Active,Naukri,Master's,3,890000
+1059,Trisha Shinde,Male,2025-01-05,,2,4,871,5,Active,Employee Referral,Diploma,4,1375000
+1060,Shreya Nair,Male,2024-09-30,,4,7,690,1,Active,Company Website,Bachelor's,2,715000
+1061,Dhruv Sawant,Female,2022-11-17,2024-03-12,5,9,910,1,Resigned,Campus Hiring,Bachelor's,4,1005000
+1062,Sahil Rao,Male,2021-11-10,,3,6,181,1,Active,Recruitment Agency,Master's,5,1580000
+1063,Sahil Thakur,Male,2022-03-19,,5,9,524,3,Active,LinkedIn,Master's,4,1040000
+1064,Vidya Rao,Male,2022-05-13,,6,13,663,5,Active,Campus Hiring,Master's,4,1140000
+1065,Manish More,Male,2022-11-15,,2,4,877,6,Active,LinkedIn,MBA/PGDM,5,1760000
+1066,Pooja Reddy,Female,2025-02-11,,5,9,1014,1,Active,Campus Hiring,Bachelor's,3,860000
+1067,Tanya Mehta,Male,2021-09-05,,5,10,41,6,Active,Campus Hiring,Diploma,4,1185000
+1068,Manish Kulkarni,Male,2024-07-23,,4,8,476,4,Active,Naukri,MBA/PGDM,5,1590000
+1069,Tanvi Sharma,Female,2023-12-28,2024-05-07,5,11,994,5,Resigned,Recruitment Agency,Master's,5,1810000
+1070,Ananya Pawar,Female,2022-06-18,,4,7,632,1,Active,Company Website,Diploma,3,850000
+1071,Aditya Mishra,Female,2023-03-24,2024-04-26,1,2,1140,1,Resigned,Naukri,Diploma,5,1430000
+1072,Mohit Verma,Female,2023-10-03,,5,10,466,1,Active,LinkedIn,Bachelor's,3,970000
+1073,Ananya Sawant,Male,2021-12-27,,6,13,582,8,Active,Campus Hiring,MBA/PGDM,5,1555000
+1074,Nisha Bansal,Female,2024-05-30,,5,9,455,3,Active,Employee Referral,MBA/PGDM,2,690000
+1075,Priya Naik,Male,2022-09-22,,7,14,127,2,Active,LinkedIn,Diploma,2,550000
+1076,Mohit Mishra,Male,2021-12-03,2023-03-19,7,15,352,2,Resigned,Recruitment Agency,Master's,4,1055000
+1077,Isha Patel,Female,2023-05-09,,3,6,902,2,Active,LinkedIn,MBA/PGDM,4,1025000
+1078,Abhishek Kulkarni,Male,2022-03-11,,3,6,179,4,Active,Naukri,Diploma,4,1180000
+1079,Isha Patel,Female,2022-04-30,,5,10,284,7,Active,Campus Hiring,Bachelor's,4,1020000
+1080,Isha Menon,Female,2023-04-07,,8,17,895,3,Active,Campus Hiring,Diploma,5,1585000
+1081,Vidya Bansal,Male,2021-08-21,2024-09-09,3,5,576,7,Resigned,Naukri,Master's,2,555000
+1082,Abhishek Singh,Female,2023-07-24,,3,5,38,3,Active,Recruitment Agency,MBA/PGDM,2,570000
+1083,Aniket Verma,Male,2021-03-04,,5,11,14,3,Active,Naukri,Master's,5,1725000
+1084,Dhruv Menon,Female,2023-05-21,2025-05-03,7,15,275,1,Resigned,Company Website,Master's,4,1080000
+1085,Anjali Menon,Male,2025-05-09,2025-11-23,2,4,1143,6,Resigned,LinkedIn,Master's,4,1185000
+1086,Vidya Mishra,Male,2022-01-12,,1,1,800,1,Active,Employee Referral,Master's,2,600000
+1087,Ashish Pawar,Male,2023-05-02,,6,13,693,4,Active,Company Website,Diploma,3,915000
+1088,Riya Rao,Male,2023-08-15,2025-09-08,3,6,747,1,Resigned,Employee Referral,Master's,5,1475000
+1089,Riya Nair,Female,2024-12-04,2025-10-04,6,13,677,2,Resigned,Company Website,Bachelor's,4,1260000
+1090,Sneha Mehta,Female,2023-01-27,,2,3,796,1,Active,Recruitment Agency,Bachelor's,3,895000
+1091,Riya Mehta,Male,2022-12-29,2024-08-13,6,12,748,1,Terminated,LinkedIn,Diploma,3,795000
+1092,Ankita Naik,Male,2025-08-22,,5,10,757,4,Active,Recruitment Agency,MBA/PGDM,2,660000
+1093,Yash Pawar,Male,2024-06-08,2024-11-10,5,10,466,1,Terminated,Naukri,Bachelor's,4,1140000
+1094,Vidya Pillai,Male,2024-07-23,,6,12,611,2,Active,Naukri,Master's,1,500000
+1095,Shreya Naik,Female,2025-10-28,,3,5,38,5,Active,Naukri,MBA/PGDM,2,710000
+1096,Nisha Shinde,Female,2021-04-05,,7,14,1170,2,Active,Company Website,Master's,1,440000
+1097,Ankita Kulkarni,Male,2021-01-15,,8,16,623,4,Active,Employee Referral,Diploma,2,630000
+1098,Vidya Mehta,Female,2022-01-18,,6,13,157,7,Active,Campus Hiring,MBA/PGDM,4,1395000
+1099,Varun Nair,Male,2023-06-27,,6,13,663,8,Active,Company Website,Diploma,4,1110000
+1100,Neha Singh,Male,2023-06-16,,6,13,187,6,Active,Naukri,Bachelor's,5,1590000
+1101,Anjali Sharma,Male,2021-02-07,,5,10,751,4,Active,Recruitment Agency,Diploma,3,860000
+1102,Amit Menon,Male,2024-10-29,,6,13,1167,2,Active,Company Website,Diploma,5,1410000
+1103,Priya Kapoor,Male,2025-05-03,2025-12-25,5,9,424,1,Resigned,Employee Referral,Bachelor's,2,720000
+1104,Manish More,Male,2021-07-04,2023-11-24,5,10,141,3,Resigned,Recruitment Agency,Bachelor's,2,745000
+1105,Aditi Jain,Female,2023-10-08,,4,7,999,1,Active,Recruitment Agency,Bachelor's,2,585000
+1106,Zoya Joshi,Female,2022-06-15,,3,6,330,7,Active,Naukri,Diploma,5,1570000
+1107,Sakshi Kapoor,Male,2022-04-15,,2,3,180,3,Active,LinkedIn,Diploma,2,635000
+1108,Isha Iyer,Male,2022-10-20,2023-06-16,4,7,246,6,Resigned,Company Website,Bachelor's,2,705000
+1109,Sakshi Sawant,Male,2025-07-19,,7,14,1009,1,Active,Recruitment Agency,Diploma,2,640000
+1110,Aarav Verma,Female,2021-09-28,2025-07-23,2,4,1020,4,Resigned,Employee Referral,MBA/PGDM,5,1740000
+1111,Sakshi Reddy,Female,2025-07-18,,7,15,603,2,Active,Campus Hiring,Diploma,4,1150000
+1112,Manish Bansal,Male,2025-03-26,,3,5,330,3,Active,LinkedIn,Bachelor's,2,555000
+1113,Amit Chopra,Female,2025-10-15,,2,4,699,1,Active,Company Website,Diploma,5,1460000
+1114,Shreya Menon,Male,2021-09-11,,6,12,824,4,Active,Recruitment Agency,MBA/PGDM,2,645000
+1115,Mohit Khan,Male,2023-09-04,,1,2,727,2,Active,Company Website,MBA/PGDM,4,1265000
+1116,Riya Jadhav,Male,2023-07-17,,2,3,673,2,Active,LinkedIn,Master's,2,700000
+1117,Sameer Naik,Male,2021-01-07,,1,1,1164,3,Active,LinkedIn,Bachelor's,2,575000
+1118,Aditi Kapoor,Female,2024-06-10,,5,9,979,2,Active,Company Website,Diploma,3,785000
+1119,Abhishek Thakur,Male,2024-03-10,,4,7,879,7,Active,Naukri,Master's,3,860000
+1120,Riya Sawant,Male,2025-08-08,,6,13,814,3,Active,LinkedIn,Bachelor's,4,1160000
+1121,Dev Kulkarni,Male,2021-04-29,,7,15,149,4,Active,Naukri,Bachelor's,3,830000
+1122,Zoya Iyer,Female,2025-07-03,,5,9,97,3,Active,Campus Hiring,Master's,2,725000
+1123,Meera Iyer,Female,2024-05-31,,7,14,905,1,Active,Naukri,Bachelor's,2,640000
+1124,Nisha Malhotra,Male,2021-07-14,,3,5,720,7,Active,Employee Referral,Master's,2,735000
+1125,Rohit Reddy,Male,2024-04-21,,8,17,478,3,Active,Employee Referral,MBA/PGDM,4,1200000
+1126,Shreya Kapoor,Male,2022-08-08,2025-04-10,4,8,632,1,Resigned,LinkedIn,Bachelor's,3,945000
+1127,Ananya Mishra,Female,2025-09-21,,8,16,568,8,Active,Recruitment Agency,Diploma,2,725000
+1128,Manish Joshi,Male,2023-06-29,,5,9,178,2,Active,Naukri,Diploma,3,955000
+1129,Nikhil Khan,Male,2021-10-08,,3,5,1034,1,Active,Naukri,MBA/PGDM,2,605000
+1130,Ashish Pawar,Male,2024-02-03,,5,9,354,3,Active,Company Website,Diploma,2,700000
+1131,Diya Mishra,Male,2025-05-21,,5,9,77,2,Active,Recruitment Agency,Diploma,4,1065000
+1132,Arjun Deshmukh,Male,2024-09-19,,6,13,844,7,Active,LinkedIn,Bachelor's,4,1345000
+1133,Meera Naik,Female,2022-11-04,2024-04-24,7,15,713,3,Resigned,LinkedIn,Bachelor's,4,1085000
+1134,Vaishnavi Bansal,Male,2023-07-06,,2,4,692,5,Active,Campus Hiring,Bachelor's,4,1090000
+1135,Maya Joshi,Female,2021-04-14,,5,11,716,5,Active,Employee Referral,Diploma,5,1620000
+1136,Trisha Saxena,Male,2023-05-13,,4,7,827,4,Active,Campus Hiring,Diploma,3,785000
+1137,Kavya Chopra,Female,2025-11-15,,3,6,51,1,Active,Company Website,Diploma,4,1025000
+1138,Rohan Kapoor,Male,2025-11-15,,6,12,1100,3,Active,Company Website,Bachelor's,3,765000
+1139,Akash Malhotra,Male,2021-08-02,,6,13,1160,2,Active,LinkedIn,Diploma,4,1235000
+1140,Rahul Thakur,Female,2021-09-30,,1,2,1015,4,Active,Campus Hiring,MBA/PGDM,5,1415000
+1141,Mohit Sawant,Male,2021-12-10,2025-06-16,2,3,1007,1,Resigned,Company Website,Master's,2,605000
+1142,Riya Verma,Male,2023-05-24,,3,5,1078,2,Active,Campus Hiring,MBA/PGDM,1,405000
+1143,Varun Thakur,Female,2021-01-03,,2,4,943,1,Active,LinkedIn,Master's,4,1330000
+1144,Arjun Mishra,Female,2023-11-29,,6,13,655,3,Active,Campus Hiring,Bachelor's,4,1155000
+1145,Anjali Kapoor,Female,2025-07-09,,5,10,100,3,Active,LinkedIn,Bachelor's,2,700000
+1146,Rahul Malhotra,Female,2021-03-06,,3,6,679,4,Active,Naukri,MBA/PGDM,5,1510000
+1147,Aditya More,Female,2022-09-17,,5,9,1018,1,Active,Employee Referral,Diploma,2,625000
+1148,Trisha Jadhav,Female,2024-01-25,,5,9,910,4,Active,Naukri,Master's,2,635000
+1149,Arjun More,Female,2024-07-09,,5,9,347,1,Active,Campus Hiring,Diploma,2,680000
+1150,Kavya Kulkarni,Male,2024-04-27,,6,13,164,5,Active,Naukri,Bachelor's,4,1400000
+1151,Riya Bansal,Male,2023-07-16,,4,8,27,3,Active,Company Website,Master's,4,1010000
+1152,Sneha Patel,Male,2021-10-21,,3,5,51,1,Active,Campus Hiring,MBA/PGDM,2,645000
+1153,Aditi Mehta,Male,2022-01-09,,5,11,208,1,Active,Campus Hiring,Master's,5,1920000
+1154,Trisha Pillai,Male,2022-09-07,,7,14,225,4,Active,Employee Referral,Bachelor's,1,405000
+1155,Aditi Gupta,Male,2022-03-19,,3,6,1166,1,Active,Company Website,MBA/PGDM,5,1565000
+1156,Vaishnavi Mehta,Male,2024-12-01,,7,15,513,3,Active,Recruitment Agency,MBA/PGDM,4,1275000
+1157,Tanvi Joshi,Male,2021-09-05,,7,14,336,3,Active,Recruitment Agency,Master's,2,600000
+1158,Rahul More,Female,2023-04-30,,2,3,40,1,Active,LinkedIn,MBA/PGDM,3,795000
+1159,Dhruv Sawant,Female,2025-02-28,,5,10,483,3,Active,Employee Referral,Bachelor's,4,1005000
+1160,Arjun Gupta,Male,2022-12-09,2025-07-31,6,13,431,4,Resigned,Recruitment Agency,Diploma,5,1540000
+1161,Aarav Singh,Female,2024-06-24,,2,3,765,1,Active,Employee Referral,Master's,2,730000
+1162,Harsh Joshi,Female,2023-05-19,,2,3,699,8,Active,Recruitment Agency,Master's,2,740000
+1163,Sahil Sharma,Male,2021-07-30,,4,7,296,2,Active,LinkedIn,Diploma,2,560000
+1164,Aarav Sawant,Female,2022-09-18,2025-06-30,1,2,680,2,Resigned,Employee Referral,MBA/PGDM,4,1060000
+1165,Dev Khan,Female,2025-02-12,,4,8,308,6,Active,Recruitment Agency,Diploma,4,1275000
+1166,Priya Thakur,Male,2022-01-28,,3,6,26,5,Active,Employee Referral,MBA/PGDM,3,960000
+1167,Zoya Deshmukh,Male,2023-11-03,,6,13,198,2,Active,Company Website,MBA/PGDM,4,1070000
+1168,Sakshi Pawar,Male,2023-03-22,,7,14,1111,4,Active,Company Website,Diploma,1,420000
+1169,Varun Verma,Female,2021-02-25,,6,12,497,5,Active,Recruitment Agency,Diploma,2,740000
+1170,Rahul Saxena,Male,2022-11-30,,7,15,33,1,Active,Company Website,Master's,3,860000
+1171,Diya Thakur,Male,2022-06-20,,8,16,895,5,Active,Recruitment Agency,Master's,2,615000
+1172,Vidya Verma,Male,2025-07-12,,3,6,143,1,Active,Company Website,Bachelor's,3,975000
+1173,Tanya Joshi,Female,2021-06-12,,2,3,832,1,Active,Company Website,Master's,3,910000
+1174,Diya Iyer,Male,2023-06-08,,1,1,1071,3,Active,Naukri,MBA/PGDM,2,590000
+1175,Rohan Verma,Male,2021-02-22,,8,16,895,1,Active,Company Website,Bachelor's,2,590000
+1176,Shreya Rao,Male,2022-07-23,,5,11,44,7,Active,LinkedIn,Master's,5,1505000
+1177,Vaishnavi Menon,Male,2022-12-10,,4,7,99,3,Active,Recruitment Agency,Bachelor's,2,605000
+1178,Abhishek Naik,Male,2025-08-09,,6,12,824,5,Active,LinkedIn,MBA/PGDM,3,805000
+1179,Pallavi Thakur,Male,2024-01-13,2024-10-12,5,11,471,3,Resigned,Campus Hiring,MBA/PGDM,5,1965000
+1180,Ashish Rao,Male,2021-11-21,,5,11,455,5,Active,Recruitment Agency,MBA/PGDM,5,1500000
+1181,Mohit Iyer,Female,2025-10-15,,8,16,657,1,Active,Naukri,Master's,2,700000
+1182,Isha Pawar,Female,2022-01-29,,5,11,156,4,Active,LinkedIn,MBA/PGDM,5,1790000
+1183,Vidya Thakur,Female,2024-03-24,2025-04-03,4,7,304,5,Resigned,Employee Referral,Diploma,2,695000
+1184,Aditi Saxena,Female,2025-02-25,,7,15,421,4,Active,Recruitment Agency,Master's,3,780000
+1185,Manish Mishra,Male,2025-09-01,2025-11-30,5,9,847,4,Resigned,Company Website,MBA/PGDM,2,635000
+1186,Arjun Bansal,Female,2022-10-14,,4,7,989,4,Active,Naukri,Master's,3,775000
+1187,Dev Joshi,Male,2023-05-03,2023-07-16,3,6,917,2,Terminated,Campus Hiring,Bachelor's,4,1045000
+1188,Trisha Verma,Male,2025-07-12,,8,16,378,3,Active,Recruitment Agency,Master's,2,515000
+1189,Pooja Shinde,Female,2021-02-19,2024-05-23,2,3,669,5,Resigned,Employee Referral,Master's,2,625000
+1190,Trisha Gupta,Male,2023-07-18,,7,14,494,1,Active,Employee Referral,Diploma,1,500000
+1191,Vaishnavi Malhotra,Female,2022-05-11,,5,9,190,5,Active,Naukri,Diploma,4,1040000
+1192,Rohan Pillai,Female,2023-08-18,,1,2,222,3,Active,Employee Referral,Bachelor's,4,1215000
+1193,Pallavi Pawar,Female,2022-06-27,,3,6,1172,3,Active,Company Website,MBA/PGDM,4,1320000
+1194,Isha Malhotra,Female,2022-08-05,,5,10,1030,4,Active,Employee Referral,MBA/PGDM,4,1210000
+1195,Aarav Khan,Female,2022-09-08,2025-01-16,3,5,334,6,Resigned,Recruitment Agency,Master's,2,700000
+1196,Tanvi Menon,Male,2023-08-26,,4,7,73,4,Active,LinkedIn,Master's,2,730000
+1197,Nisha Gupta,Male,2025-06-15,,6,12,1167,1,Active,Campus Hiring,MBA/PGDM,2,680000
+1198,Riya Gupta,Female,2021-01-22,,3,5,84,6,Active,Company Website,Bachelor's,2,710000
+1199,Sameer Reddy,Female,2021-02-10,,8,16,623,3,Active,Company Website,Bachelor's,2,690000
+1200,Riya Reddy,Female,2022-10-12,,3,5,440,1,Active,Company Website,Bachelor's,2,720000

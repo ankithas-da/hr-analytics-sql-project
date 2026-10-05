@@ -1,0 +1,11 @@
+training_id,training_name,training_category,duration_hours,cost_per_employee
+1,Advanced Excel for Business Analytics,Technical,16,25000
+2,SQL & Database Fundamentals,Technical,20,30000
+3,Power BI & Data Visualization,Technical,18,28000
+4,Leadership Development,Leadership,24,45000
+5,Communication Skills,Soft Skills,12,15000
+6,Project Management,Professional,20,35000
+7,Cybersecurity Awareness,Compliance,8,9000
+8,Customer Service Excellence,Functional,14,18000
+9,Sales Negotiation,Functional,16,22000
+10,Financial Modeling,Technical,18,32000

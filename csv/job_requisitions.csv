@@ -1,0 +1,351 @@
+requisition_id,role_id,department_id,location_id,opening_date,closing_date,positions_count,requisition_status,requisition_reason
+1,9,5,8,2021-05-11,2021-08-18,3,Open,Business Expansion
+2,1,1,8,2021-09-15,2021-11-19,4,Closed,Business Expansion
+3,16,8,3,2021-11-02,2021-12-23,2,Closed,Business Expansion
+4,10,5,2,2021-11-13,2021-12-16,1,Closed,New Position
+5,13,6,7,2021-08-08,2021-09-06,2,Open,Replacement
+6,12,6,5,2021-02-25,2021-03-29,4,Closed,Replacement
+7,6,3,5,2021-01-11,2021-04-03,1,Closed,Business Expansion
+8,3,2,7,2021-05-22,2021-08-11,1,Closed,Business Expansion
+9,15,7,3,2021-07-25,2021-11-01,1,Closed,New Position
+10,4,2,5,2021-07-07,2021-08-22,5,Closed,Replacement
+11,16,8,2,2021-07-14,2021-08-22,2,Closed,Business Expansion
+12,5,3,7,2021-08-11,2021-09-09,1,Closed,Replacement
+13,12,6,5,2021-03-07,2021-04-03,3,Open,New Position
+14,7,4,3,2021-04-27,2021-06-09,2,Open,New Position
+15,5,3,5,2021-12-04,2022-02-18,2,Closed,New Position
+16,1,1,5,2021-11-19,2021-12-23,1,Closed,Replacement
+17,5,3,6,2021-09-13,2021-12-12,1,Open,New Position
+18,12,6,6,2021-05-23,2021-06-13,2,Closed,New Position
+19,15,7,4,2021-03-06,2021-06-03,1,Closed,Replacement
+20,6,3,1,2021-03-18,2021-04-09,3,Open,Business Expansion
+21,4,2,7,2021-05-01,2021-06-14,2,Open,Replacement
+22,5,3,5,2021-09-01,2021-11-16,5,Closed,Replacement
+23,3,2,5,2021-12-03,2022-01-06,5,Closed,Replacement
+24,1,1,7,2021-11-11,2022-01-04,1,Open,Replacement
+25,1,1,7,2021-11-19,2022-02-17,5,Closed,Replacement
+26,16,8,4,2021-12-17,2022-03-24,5,Closed,New Position
+27,15,7,7,2021-08-21,2021-10-28,4,Open,New Position
+28,1,1,1,2021-05-14,2021-08-01,1,Closed,New Position
+29,3,2,1,2021-08-27,2021-10-04,2,Open,New Position
+30,15,7,8,2021-08-18,2021-09-26,3,Closed,Business Expansion
+31,6,3,4,2021-12-11,2022-01-17,4,Closed,Business Expansion
+32,8,4,8,2021-03-02,2021-05-13,4,Closed,Business Expansion
+33,10,5,6,2021-11-11,2022-02-03,2,Closed,Business Expansion
+34,15,7,6,2021-06-16,2021-08-15,2,Open,Business Expansion
+35,13,6,3,2021-07-21,2021-09-25,4,Closed,New Position
+36,1,1,2,2021-10-17,2022-01-17,5,Closed,New Position
+37,14,7,3,2021-10-26,2021-12-31,1,Closed,Business Expansion
+38,16,8,5,2021-05-27,2021-06-17,4,Closed,Business Expansion
+39,8,4,3,2021-02-15,2021-04-05,1,Closed,New Position
+40,4,2,3,2021-10-09,2021-12-29,1,Closed,Replacement
+41,8,4,5,2021-09-26,2021-11-09,3,Open,Business Expansion
+42,12,6,1,2021-03-10,2021-05-11,3,Closed,Business Expansion
+43,6,3,8,2021-06-20,2021-09-13,3,Open,New Position
+44,6,3,4,2021-01-29,2021-03-23,3,Closed,Business Expansion
+45,3,2,1,2021-06-13,2021-09-11,1,Closed,Business Expansion
+46,4,2,4,2021-02-03,2021-03-30,4,Closed,Replacement
+47,15,7,4,2021-08-05,2021-10-25,2,Open,Business Expansion
+48,4,2,7,2021-10-17,2021-11-24,3,Open,Business Expansion
+49,14,7,4,2021-03-14,2021-06-04,5,Closed,New Position
+50,10,5,2,2021-11-01,2022-02-04,2,Closed,New Position
+51,13,6,7,2021-10-08,2021-11-30,5,Open,Replacement
+52,7,4,5,2021-01-20,2021-03-04,4,Closed,Business Expansion
+53,1,1,6,2021-10-29,2022-01-18,1,Open,Replacement
+54,8,4,5,2021-02-21,2021-05-04,1,Open,Replacement
+55,5,3,3,2021-07-08,2021-08-23,3,Open,New Position
+56,14,7,8,2021-01-31,2021-04-22,1,Closed,New Position
+57,3,2,2,2021-12-17,2022-03-12,2,Closed,Replacement
+58,3,2,2,2021-12-13,2022-02-14,3,Closed,New Position
+59,16,8,4,2021-05-25,2021-07-31,4,Closed,Replacement
+60,7,4,3,2021-10-20,2022-01-11,3,Closed,New Position
+61,4,2,6,2021-01-27,2021-04-08,3,Closed,Business Expansion
+62,4,2,2,2021-10-12,2022-01-06,4,Closed,Replacement
+63,8,4,6,2021-04-01,2021-06-04,1,Closed,Business Expansion
+64,16,8,6,2021-05-01,2021-07-16,4,Closed,New Position
+65,4,2,3,2021-01-14,2021-03-11,3,Open,Replacement
+66,12,6,8,2021-07-16,2021-09-05,1,Closed,Business Expansion
+67,3,2,2,2021-03-26,2021-06-29,1,Closed,New Position
+68,13,6,8,2021-07-20,2021-09-06,3,Closed,New Position
+69,5,3,6,2021-02-06,2021-03-14,4,Open,Business Expansion
+70,11,5,8,2021-06-09,2021-07-14,5,Closed,New Position
+71,3,2,4,2022-07-08,2022-09-02,2,Closed,Business Expansion
+72,5,3,5,2022-06-28,2022-08-14,1,Closed,Replacement
+73,13,6,3,2022-08-21,2022-09-17,4,Closed,Business Expansion
+74,2,1,3,2022-10-17,2022-12-27,4,Closed,New Position
+75,14,7,8,2022-06-08,2022-07-11,3,Closed,Replacement
+76,5,3,8,2022-04-24,2022-07-08,3,Closed,Replacement
+77,8,4,4,2022-03-17,2022-04-28,4,Closed,Business Expansion
+78,7,4,3,2022-07-30,2022-09-02,1,Closed,Replacement
+79,13,6,2,2022-07-13,2022-08-31,1,Closed,New Position
+80,13,6,3,2022-04-23,2022-06-12,5,Open,Business Expansion
+81,13,6,1,2022-08-17,2022-10-02,5,Open,Business Expansion
+82,5,3,5,2022-03-31,2022-05-27,1,Closed,Business Expansion
+83,1,1,8,2022-10-26,2022-12-11,5,Closed,Business Expansion
+84,2,1,3,2022-01-30,2022-02-21,3,Open,New Position
+85,17,8,6,2022-06-29,2022-07-29,4,Open,Business Expansion
+86,5,3,3,2022-08-31,2022-11-23,4,Open,Business Expansion
+87,16,8,4,2022-01-04,2022-01-26,3,Closed,Replacement
+88,6,3,5,2022-09-03,2022-11-07,3,Closed,Replacement
+89,16,8,7,2022-01-02,2022-03-23,5,Open,New Position
+90,7,4,2,2022-05-19,2022-08-21,4,Open,Business Expansion
+91,3,2,5,2022-03-02,2022-03-28,3,Closed,Business Expansion
+92,14,7,5,2022-08-05,2022-08-31,3,Open,Replacement
+93,7,4,7,2022-08-18,2022-09-13,5,Open,Business Expansion
+94,10,5,8,2022-08-06,2022-08-30,5,Closed,Replacement
+95,1,1,5,2022-01-26,2022-02-25,5,Open,Replacement
+96,7,4,2,2022-11-26,2023-02-25,5,Closed,Business Expansion
+97,5,3,4,2022-05-22,2022-06-23,2,Open,Replacement
+98,13,6,3,2022-11-29,2023-02-20,2,Closed,New Position
+99,5,3,2,2022-10-15,2022-12-16,2,Open,New Position
+100,3,2,3,2022-01-01,2022-01-25,5,Closed,Replacement
+101,4,2,3,2022-08-17,2022-10-09,5,Open,Replacement
+102,5,3,6,2022-08-25,2022-10-08,2,Closed,Business Expansion
+103,2,1,7,2022-11-08,2022-12-19,5,Closed,New Position
+104,10,5,3,2022-02-09,2022-04-13,1,Open,Business Expansion
+105,3,2,6,2022-08-16,2022-10-29,3,Open,Replacement
+106,6,3,4,2022-01-23,2022-04-16,4,Closed,Replacement
+107,8,4,3,2022-04-18,2022-06-22,2,Open,Business Expansion
+108,6,3,4,2022-02-23,2022-03-18,1,Closed,Replacement
+109,3,2,2,2022-05-12,2022-06-21,3,Closed,Replacement
+110,1,1,4,2022-04-28,2022-06-11,2,Closed,Replacement
+111,16,8,2,2022-06-05,2022-07-01,2,Open,Replacement
+112,4,2,7,2022-02-10,2022-05-21,3,Closed,Business Expansion
+113,9,5,4,2022-09-07,2022-10-31,4,Open,New Position
+114,6,3,4,2022-07-05,2022-08-30,4,Closed,Replacement
+115,6,3,1,2022-08-05,2022-10-01,4,Open,New Position
+116,12,6,7,2022-02-26,2022-04-25,5,Closed,Business Expansion
+117,1,1,6,2022-01-30,2022-03-17,3,Closed,Business Expansion
+118,16,8,8,2022-06-03,2022-07-05,4,Open,New Position
+119,4,2,7,2022-11-09,2022-11-30,2,Closed,Business Expansion
+120,6,3,5,2022-11-12,2023-01-26,5,Closed,Business Expansion
+121,16,8,2,2022-01-27,2022-02-21,2,Open,Replacement
+122,6,3,7,2022-12-06,2022-12-29,1,Closed,New Position
+123,16,8,3,2022-03-13,2022-06-04,2,Open,Replacement
+124,4,2,6,2022-01-15,2022-04-19,1,Closed,New Position
+125,5,3,6,2022-04-21,2022-05-11,3,Closed,Business Expansion
+126,11,5,7,2022-07-13,2022-08-18,3,Closed,New Position
+127,12,6,2,2022-03-10,2022-03-31,2,Closed,Business Expansion
+128,1,1,8,2022-03-17,2022-05-17,5,Closed,Replacement
+129,17,8,5,2022-07-06,2022-08-08,1,Open,New Position
+130,8,4,5,2022-07-03,2022-07-26,5,Closed,New Position
+131,13,6,6,2022-07-07,2022-09-26,2,Open,Replacement
+132,5,3,6,2022-04-13,2022-05-14,2,Closed,New Position
+133,17,8,6,2022-07-21,2022-09-09,5,Closed,Business Expansion
+134,14,7,4,2022-12-14,2023-03-08,4,Closed,Business Expansion
+135,14,7,8,2022-05-20,2022-06-28,3,Open,Replacement
+136,8,4,4,2022-06-23,2022-08-23,5,Closed,Business Expansion
+137,5,3,7,2022-11-07,2023-01-13,4,Closed,Business Expansion
+138,16,8,8,2022-01-03,2022-04-05,5,Closed,Replacement
+139,8,4,4,2022-05-11,2022-06-17,5,Closed,Replacement
+140,11,5,6,2022-10-03,2022-10-30,3,Open,New Position
+141,10,5,8,2023-04-25,2023-06-03,1,Closed,Business Expansion
+142,1,1,4,2023-04-05,2023-07-04,1,Closed,New Position
+143,14,7,5,2023-01-08,2023-03-23,3,Closed,Business Expansion
+144,1,1,7,2023-04-16,2023-07-12,3,Closed,Replacement
+145,5,3,2,2023-05-10,2023-07-27,1,Closed,Business Expansion
+146,1,1,5,2023-03-09,2023-06-13,2,Closed,Replacement
+147,10,5,7,2023-04-04,2023-06-04,1,Closed,Business Expansion
+148,7,4,3,2023-11-23,2023-12-15,3,Closed,Business Expansion
+149,6,3,7,2023-12-13,2024-02-15,3,Closed,Business Expansion
+150,7,4,8,2023-02-28,2023-04-12,5,Closed,New Position
+151,7,4,4,2023-02-08,2023-04-16,2,Open,New Position
+152,13,6,3,2023-08-17,2023-11-01,4,Closed,New Position
+153,3,2,8,2023-11-04,2023-11-26,1,Closed,New Position
+154,2,1,8,2023-10-21,2024-01-29,3,Open,New Position
+155,1,1,7,2023-12-12,2024-01-09,3,Closed,New Position
+156,14,7,8,2023-11-26,2024-02-17,2,Open,Business Expansion
+157,14,7,7,2023-07-23,2023-09-17,5,Closed,Business Expansion
+158,14,7,2,2023-11-13,2023-12-30,1,Closed,New Position
+159,3,2,6,2023-10-23,2023-11-16,4,Closed,New Position
+160,7,4,2,2023-07-11,2023-08-09,1,Closed,Business Expansion
+161,4,2,4,2023-05-26,2023-07-24,4,Closed,New Position
+162,14,7,7,2023-03-25,2023-06-08,1,Closed,Replacement
+163,17,8,1,2023-02-26,2023-03-28,4,Closed,Replacement
+164,1,1,6,2023-04-05,2023-06-11,1,Closed,Replacement
+165,3,2,5,2023-03-16,2023-04-25,1,Open,Business Expansion
+166,5,3,4,2023-11-14,2024-02-11,4,Closed,Business Expansion
+167,13,6,8,2023-09-21,2023-10-20,5,Open,Replacement
+168,16,8,5,2023-07-18,2023-10-17,2,Closed,Replacement
+169,9,5,6,2023-02-02,2023-05-02,4,Closed,Business Expansion
+170,2,1,7,2023-12-05,2024-02-09,3,Closed,New Position
+171,1,1,6,2023-06-15,2023-07-27,1,Open,Replacement
+172,16,8,4,2023-05-05,2023-05-30,2,Open,Replacement
+173,16,8,4,2023-12-17,2024-01-16,4,Open,New Position
+174,10,5,1,2023-07-14,2023-09-13,5,Closed,Business Expansion
+175,2,1,1,2023-07-28,2023-09-07,1,Closed,Business Expansion
+176,5,3,7,2023-08-01,2023-11-03,5,Closed,New Position
+177,3,2,3,2023-05-15,2023-07-30,2,Open,New Position
+178,17,8,3,2023-01-26,2023-02-17,1,Closed,Replacement
+179,5,3,1,2023-07-04,2023-09-01,4,Open,Business Expansion
+180,6,3,7,2023-09-10,2023-10-24,4,Open,Business Expansion
+181,1,1,6,2023-01-08,2023-02-24,2,Closed,Replacement
+182,14,7,6,2023-12-08,2024-02-22,3,Closed,New Position
+183,16,8,2,2023-11-04,2023-12-13,1,Closed,Replacement
+184,6,3,3,2023-09-23,2023-12-11,3,Closed,Replacement
+185,10,5,2,2023-04-03,2023-07-01,4,Open,Replacement
+186,4,2,1,2023-07-17,2023-08-31,2,Closed,Business Expansion
+187,2,1,8,2023-01-18,2023-04-13,4,Closed,Replacement
+188,3,2,4,2023-08-25,2023-11-09,2,Closed,Business Expansion
+189,16,8,5,2023-03-18,2023-04-29,3,Open,New Position
+190,13,6,4,2023-02-15,2023-04-08,5,Closed,New Position
+191,13,6,1,2023-12-10,2024-01-05,5,Closed,New Position
+192,12,6,7,2023-11-11,2023-12-14,5,Closed,Replacement
+193,8,4,3,2023-02-09,2023-05-02,2,Closed,New Position
+194,13,6,4,2023-10-24,2023-12-05,1,Closed,Replacement
+195,9,5,4,2023-04-25,2023-06-23,3,Open,New Position
+196,17,8,6,2023-03-11,2023-05-12,3,Closed,Replacement
+197,15,7,4,2023-04-07,2023-05-04,1,Open,New Position
+198,2,1,1,2023-06-15,2023-07-30,4,Closed,Replacement
+199,5,3,7,2023-03-17,2023-04-12,5,Closed,Business Expansion
+200,10,5,1,2023-07-30,2023-08-26,4,Closed,Business Expansion
+201,5,3,6,2023-06-19,2023-09-08,2,Open,Replacement
+202,13,6,8,2023-12-01,2024-03-04,3,Closed,Replacement
+203,15,7,2,2023-07-26,2023-10-10,2,Open,New Position
+204,1,1,6,2023-04-02,2023-05-06,2,Open,Replacement
+205,7,4,4,2023-03-06,2023-05-07,1,Closed,New Position
+206,12,6,6,2023-10-15,2024-01-19,3,Open,New Position
+207,7,4,7,2023-05-14,2023-07-03,1,Closed,Business Expansion
+208,5,3,6,2023-04-26,2023-07-01,2,Closed,New Position
+209,7,4,5,2023-08-30,2023-10-11,1,Closed,Replacement
+210,15,7,2,2023-02-12,2023-05-22,3,Closed,New Position
+211,10,5,4,2024-03-23,2024-04-19,1,Closed,Business Expansion
+212,15,7,8,2024-07-31,2024-09-12,1,Closed,New Position
+213,2,1,2,2024-11-24,2025-02-22,1,Open,New Position
+214,7,4,8,2024-04-15,2024-05-23,2,Closed,Replacement
+215,1,1,2,2024-09-29,2024-11-08,4,Closed,Business Expansion
+216,3,2,8,2024-02-13,2024-05-17,5,Closed,New Position
+217,5,3,8,2024-04-09,2024-06-17,4,Closed,Replacement
+218,7,4,1,2024-10-01,2024-12-19,1,Closed,Replacement
+219,7,4,8,2024-09-02,2024-10-08,4,Closed,Business Expansion
+220,9,5,3,2024-06-09,2024-08-29,3,Open,Replacement
+221,15,7,3,2024-02-22,2024-03-22,5,Closed,Business Expansion
+222,8,4,1,2024-06-29,2024-08-19,1,Open,New Position
+223,15,7,4,2024-10-01,2024-12-04,3,Open,New Position
+224,12,6,3,2024-08-28,2024-09-30,2,Closed,Business Expansion
+225,13,6,1,2024-08-28,2024-10-18,1,Closed,Replacement
+226,10,5,7,2024-02-07,2024-03-17,3,Closed,Replacement
+227,8,4,8,2024-09-30,2025-01-07,4,Closed,Business Expansion
+228,13,6,1,2024-08-29,2024-09-27,2,Closed,New Position
+229,8,4,8,2024-01-24,2024-05-01,2,Closed,New Position
+230,16,8,3,2024-06-06,2024-08-19,4,Closed,Business Expansion
+231,14,7,5,2024-10-20,2024-11-29,5,Closed,Replacement
+232,3,2,4,2024-08-05,2024-09-28,4,Closed,Business Expansion
+233,16,8,5,2024-12-10,2025-03-09,4,Open,Replacement
+234,6,3,7,2024-09-23,2024-11-23,1,Open,Replacement
+235,14,7,2,2024-05-18,2024-08-05,4,Open,Replacement
+236,3,2,3,2024-03-25,2024-05-15,5,Closed,Replacement
+237,11,5,3,2024-04-03,2024-07-11,5,Closed,New Position
+238,6,3,5,2024-10-05,2024-11-27,3,Closed,Business Expansion
+239,12,6,5,2024-07-07,2024-07-30,5,Closed,Replacement
+240,16,8,2,2024-07-28,2024-11-05,1,Open,Replacement
+241,16,8,1,2024-01-09,2024-03-01,1,Closed,Replacement
+242,10,5,2,2024-08-29,2024-09-30,2,Closed,Business Expansion
+243,2,1,1,2024-04-19,2024-06-08,2,Closed,Replacement
+244,5,3,4,2024-11-13,2024-12-08,1,Closed,Replacement
+245,10,5,4,2024-04-18,2024-06-01,1,Closed,Business Expansion
+246,11,5,3,2024-06-21,2024-08-04,2,Closed,New Position
+247,6,3,8,2024-11-01,2025-01-14,3,Closed,Replacement
+248,10,5,3,2024-12-14,2025-01-16,4,Closed,Business Expansion
+249,5,3,7,2024-04-04,2024-07-11,3,Closed,Business Expansion
+250,12,6,8,2024-11-08,2025-02-14,2,Closed,Replacement
+251,3,2,5,2024-03-26,2024-05-11,4,Open,New Position
+252,16,8,3,2024-01-10,2024-04-12,2,Closed,Business Expansion
+253,4,2,4,2024-09-10,2024-11-22,1,Open,New Position
+254,13,6,6,2024-08-10,2024-11-09,1,Closed,Business Expansion
+255,3,2,2,2024-04-08,2024-05-14,4,Closed,New Position
+256,10,5,2,2024-05-01,2024-07-31,2,Closed,New Position
+257,7,4,2,2024-07-15,2024-09-24,4,Closed,Business Expansion
+258,6,3,7,2024-05-17,2024-08-10,4,Closed,Replacement
+259,9,5,1,2024-01-25,2024-04-14,2,Closed,Replacement
+260,16,8,8,2024-06-09,2024-08-17,1,Closed,Business Expansion
+261,16,8,4,2024-08-03,2024-11-10,2,Open,New Position
+262,16,8,7,2024-01-02,2024-02-10,2,Closed,New Position
+263,11,5,8,2024-06-29,2024-08-25,5,Open,Business Expansion
+264,17,8,8,2024-04-18,2024-05-23,5,Closed,New Position
+265,8,4,5,2024-10-23,2025-01-15,5,Closed,Business Expansion
+266,7,4,5,2024-10-23,2024-11-24,5,Closed,Replacement
+267,14,7,4,2024-12-03,2025-01-14,4,Closed,Business Expansion
+268,3,2,5,2024-11-24,2024-12-25,5,Open,New Position
+269,12,6,5,2024-04-15,2024-05-13,3,Closed,New Position
+270,8,4,7,2024-06-08,2024-08-13,1,Closed,Replacement
+271,1,1,6,2024-11-06,2025-01-24,2,Open,New Position
+272,12,6,6,2024-01-01,2024-03-12,3,Closed,Business Expansion
+273,10,5,1,2024-05-19,2024-08-15,4,Closed,Replacement
+274,17,8,4,2024-05-03,2024-07-18,2,Closed,Replacement
+275,11,5,4,2024-08-07,2024-10-30,3,Closed,Business Expansion
+276,2,1,2,2024-01-02,2024-04-07,3,Closed,Replacement
+277,10,5,5,2024-11-19,2025-02-20,1,Closed,Replacement
+278,5,3,8,2024-03-14,2024-04-23,3,Closed,Business Expansion
+279,15,7,4,2024-03-26,2024-06-05,3,Closed,Replacement
+280,17,8,2,2024-12-05,2025-02-12,1,Closed,New Position
+281,1,1,6,2025-09-24,2025-12-02,5,Closed,Business Expansion
+282,3,2,4,2025-07-15,2025-08-31,4,Closed,Replacement
+283,8,4,1,2025-06-14,2025-08-05,1,Closed,Business Expansion
+284,3,2,8,2025-06-14,2025-08-08,1,Closed,New Position
+285,13,6,5,2025-08-31,2025-12-08,5,Open,New Position
+286,3,2,4,2025-11-29,2025-12-31,2,Closed,Replacement
+287,16,8,8,2025-07-10,2025-08-30,2,Open,New Position
+288,1,1,1,2025-07-05,2025-09-07,5,Closed,New Position
+289,12,6,1,2025-09-09,2025-11-17,5,Closed,New Position
+290,16,8,2,2025-07-15,2025-09-09,2,Closed,Replacement
+291,8,4,8,2025-12-02,2025-12-31,5,Open,New Position
+292,16,8,7,2025-04-08,2025-05-31,1,Closed,Business Expansion
+293,12,6,5,2025-07-26,2025-09-06,3,Open,New Position
+294,6,3,6,2025-01-25,2025-04-28,4,Closed,New Position
+295,8,4,8,2025-09-27,2025-11-19,4,Closed,New Position
+296,3,2,3,2025-03-08,2025-04-04,3,Open,Business Expansion
+297,5,3,6,2025-11-18,2025-12-31,4,Closed,Replacement
+298,1,1,1,2025-04-03,2025-07-05,1,Closed,Replacement
+299,8,4,4,2025-01-20,2025-03-01,1,Closed,New Position
+300,5,3,8,2025-08-11,2025-09-21,2,Closed,Business Expansion
+301,8,4,8,2025-05-30,2025-08-13,2,Closed,New Position
+302,8,4,5,2025-04-19,2025-07-20,5,Closed,Business Expansion
+303,4,2,6,2025-05-01,2025-06-13,4,Open,New Position
+304,10,5,8,2025-01-08,2025-03-06,5,Open,Replacement
+305,15,7,7,2025-03-17,2025-04-16,5,Open,New Position
+306,9,5,2,2025-02-17,2025-05-11,2,Closed,New Position
+307,7,4,1,2025-06-28,2025-07-27,3,Closed,Business Expansion
+308,10,5,8,2025-03-03,2025-04-06,5,Open,Replacement
+309,6,3,1,2025-05-12,2025-07-18,3,Closed,New Position
+310,15,7,3,2025-12-16,2025-12-31,5,Closed,Replacement
+311,7,4,5,2025-10-19,2025-12-31,3,Closed,Business Expansion
+312,14,7,7,2025-07-06,2025-09-20,1,Closed,New Position
+313,8,4,3,2025-06-05,2025-07-16,4,Open,Business Expansion
+314,12,6,4,2025-09-22,2025-12-15,4,Closed,Business Expansion
+315,9,5,7,2025-06-18,2025-08-20,5,Closed,New Position
+316,16,8,4,2025-06-27,2025-09-18,4,Open,New Position
+317,6,3,2,2025-06-01,2025-09-07,2,Open,Business Expansion
+318,11,5,1,2025-10-28,2025-12-17,1,Open,Replacement
+319,1,1,5,2025-08-12,2025-09-23,1,Closed,New Position
+320,12,6,5,2025-03-15,2025-06-17,3,Closed,Business Expansion
+321,10,5,4,2025-08-26,2025-10-28,2,Closed,Replacement
+322,7,4,7,2025-01-19,2025-02-14,3,Closed,Replacement
+323,4,2,4,2025-02-09,2025-05-20,3,Closed,New Position
+324,6,3,8,2025-08-15,2025-10-11,3,Closed,Replacement
+325,13,6,4,2025-05-29,2025-07-07,3,Closed,Replacement
+326,15,7,6,2025-02-07,2025-05-14,1,Closed,New Position
+327,6,3,8,2025-02-19,2025-05-20,5,Closed,Replacement
+328,1,1,2,2025-03-01,2025-04-06,2,Open,Business Expansion
+329,9,5,1,2025-06-28,2025-09-09,1,Closed,Replacement
+330,1,1,7,2025-06-13,2025-08-31,1,Open,New Position
+331,12,6,4,2025-05-26,2025-07-17,1,Open,Replacement
+332,10,5,4,2025-09-28,2025-11-09,3,Closed,New Position
+333,15,7,5,2025-07-08,2025-10-05,2,Closed,Business Expansion
+334,13,6,3,2025-10-03,2025-12-31,5,Open,Business Expansion
+335,4,2,4,2025-06-30,2025-08-28,5,Open,New Position
+336,12,6,5,2025-02-01,2025-03-25,1,Closed,Replacement
+337,6,3,4,2025-01-27,2025-03-07,2,Closed,New Position
+338,14,7,1,2025-08-30,2025-10-26,1,Closed,New Position
+339,1,1,7,2025-11-26,2025-12-31,2,Closed,Business Expansion
+340,6,3,3,2025-02-24,2025-04-01,1,Closed,New Position
+341,2,1,4,2025-10-27,2025-12-17,3,Closed,Replacement
+342,4,2,8,2025-08-29,2025-10-14,5,Open,New Position
+343,2,1,1,2025-06-05,2025-08-21,5,Closed,New Position
+344,14,7,5,2025-04-05,2025-06-03,3,Closed,New Position
+345,16,8,6,2025-05-17,2025-07-12,1,Closed,Business Expansion
+346,12,6,5,2025-03-27,2025-06-27,2,Closed,New Position
+347,10,5,3,2025-08-17,2025-10-18,1,Closed,Replacement
+348,14,7,7,2025-03-06,2025-04-06,2,Closed,Business Expansion
+349,5,3,8,2025-09-17,2025-12-01,1,Closed,Business Expansion
+350,16,8,5,2025-10-17,2025-11-12,4,Open,Business Expansion

@@ -1,0 +1,3201 @@
+candidate_id,candidate_name,gender,experience_years,education_level,recruitment_source,application_date
+1,Pallavi Nair,Male,2,Bachelor's,Company Website,2021-05-23
+2,Sameer Bansal,Female,11,MBA/PGDM,Campus Hiring,2025-04-18
+3,Dhruv Kulkarni,Female,11,Diploma,LinkedIn,2022-11-05
+4,Riya Kulkarni,Female,6,MBA/PGDM,Employee Referral,2021-05-17
+5,Sahil Malhotra,Male,3,Diploma,Campus Hiring,2022-05-21
+6,Meera Chopra,Female,2,Master's,Employee Referral,2023-08-22
+7,Isha Jadhav,Male,6,Master's,Recruitment Agency,2025-08-05
+8,Sonali Nair,Female,10,MBA/PGDM,Recruitment Agency,2024-11-05
+9,Ankita Gupta,Male,4,Master's,Recruitment Agency,2024-03-22
+10,Diya Chopra,Female,11,Master's,Employee Referral,2024-08-18
+11,Abhishek Singh,Male,9,MBA/PGDM,LinkedIn,2025-10-07
+12,Neha Jain,Female,1,MBA/PGDM,Campus Hiring,2021-04-20
+13,Yash Sawant,Male,1,Bachelor's,Campus Hiring,2022-04-19
+14,Meera Khan,Male,6,Bachelor's,Employee Referral,2021-11-04
+15,Priya Iyer,Female,2,Diploma,LinkedIn,2022-07-11
+16,Vidya Kapoor,Female,8,MBA/PGDM,Naukri,2025-07-10
+17,Trisha Sharma,Male,5,Bachelor's,Recruitment Agency,2023-09-24
+18,Karan Khan,Male,7,MBA/PGDM,Employee Referral,2022-06-25
+19,Tanya Jadhav,Male,12,Diploma,Campus Hiring,2022-08-12
+20,Arjun Menon,Male,3,Master's,Naukri,2024-03-19
+21,Ankita Mishra,Female,5,Diploma,Company Website,2022-01-08
+22,Akash Singh,Male,8,Bachelor's,Recruitment Agency,2021-11-01
+23,Amit Khan,Female,7,Bachelor's,LinkedIn,2023-09-01
+24,Trisha Jadhav,Male,7,Diploma,Campus Hiring,2025-01-04
+25,Trisha Rao,Female,0,MBA/PGDM,Naukri,2025-07-26
+26,Sanjay Sawant,Male,7,MBA/PGDM,LinkedIn,2024-09-18
+27,Manish Shinde,Male,12,Bachelor's,Employee Referral,2025-09-08
+28,Tanvi Jadhav,Female,1,Bachelor's,Employee Referral,2025-02-07
+29,Manish Thakur,Female,11,Diploma,Naukri,2025-03-05
+30,Dhruv Mishra,Male,9,Bachelor's,Naukri,2022-05-16
+31,Tanya Sawant,Female,10,MBA/PGDM,Recruitment Agency,2022-12-10
+32,Isha Menon,Female,7,Master's,Campus Hiring,2024-04-05
+33,Manish Sawant,Male,3,Master's,Recruitment Agency,2023-10-16
+34,Abhishek Shinde,Female,8,Diploma,Recruitment Agency,2021-10-18
+35,Riya Nair,Male,5,Master's,Employee Referral,2024-10-23
+36,Tanvi Gupta,Male,6,Diploma,Naukri,2022-03-02
+37,Shreya Iyer,Male,2,Bachelor's,Campus Hiring,2021-06-14
+38,Vidya Joshi,Male,3,Master's,Campus Hiring,2023-12-20
+39,Pooja Deshmukh,Female,4,Bachelor's,Recruitment Agency,2025-11-11
+40,Sameer Bansal,Male,8,Master's,Naukri,2024-06-23
+41,Pooja Deshmukh,Female,5,Bachelor's,Employee Referral,2023-02-24
+42,Mohit Thakur,Female,7,Diploma,Company Website,2023-05-27
+43,Sneha Deshmukh,Male,0,Diploma,Naukri,2023-08-18
+44,Sakshi Malhotra,Female,1,Master's,Company Website,2022-04-12
+45,Vivek Menon,Female,8,MBA/PGDM,Recruitment Agency,2025-09-06
+46,Meera Verma,Male,8,Master's,Recruitment Agency,2025-02-21
+47,Rahul Naik,Male,9,Master's,Naukri,2022-07-08
+48,Akash Jain,Female,6,Bachelor's,Naukri,2022-09-02
+49,Pooja Malhotra,Male,2,MBA/PGDM,LinkedIn,2021-03-10
+50,Anjali Iyer,Male,0,Bachelor's,Company Website,2024-07-08
+51,Sonali Thakur,Male,12,Diploma,Recruitment Agency,2021-02-12
+52,Vivek Nair,Female,12,MBA/PGDM,Campus Hiring,2022-08-23
+53,Karan Deshmukh,Male,5,Master's,Employee Referral,2023-06-03
+54,Zoya Patel,Male,10,MBA/PGDM,Employee Referral,2023-05-28
+55,Dev Sharma,Male,8,Bachelor's,Company Website,2022-10-01
+56,Aarav Singh,Female,7,MBA/PGDM,Naukri,2025-08-10
+57,Aniket Saxena,Male,7,Bachelor's,LinkedIn,2021-09-12
+58,Dhruv Shinde,Male,12,Master's,Employee Referral,2025-05-30
+59,Maya Reddy,Female,6,Master's,LinkedIn,2023-12-22
+60,Akash Mehta,Female,1,Master's,Naukri,2024-05-05
+61,Vaishnavi Joshi,Female,11,Diploma,Recruitment Agency,2024-06-25
+62,Neha Jain,Male,8,Master's,Campus Hiring,2022-01-05
+63,Tanvi Jain,Male,4,Diploma,Employee Referral,2021-07-11
+64,Isha Sawant,Female,6,Master's,Campus Hiring,2021-11-30
+65,Yash Malhotra,Female,4,Bachelor's,Naukri,2022-06-12
+66,Isha Saxena,Male,2,Bachelor's,LinkedIn,2023-08-24
+67,Karan Bansal,Female,2,Diploma,Campus Hiring,2024-11-13
+68,Akash Shinde,Male,5,MBA/PGDM,Recruitment Agency,2025-09-18
+69,Sneha Jain,Female,10,Bachelor's,Naukri,2021-11-22
+70,Ananya Pillai,Male,10,Bachelor's,Company Website,2022-04-14
+71,Sanjay Chopra,Male,10,MBA/PGDM,Naukri,2023-08-05
+72,Trisha Sawant,Male,8,MBA/PGDM,Recruitment Agency,2024-02-11
+73,Sakshi Malhotra,Male,7,Master's,LinkedIn,2021-01-25
+74,Aditi Jain,Female,5,Diploma,LinkedIn,2021-11-23
+75,Harsh Singh,Female,8,Master's,Employee Referral,2021-12-21
+76,Dev Khan,Male,4,MBA/PGDM,Campus Hiring,2023-07-04
+77,Neha Malhotra,Female,4,Bachelor's,Campus Hiring,2022-06-01
+78,Sahil Chopra,Male,6,Bachelor's,LinkedIn,2024-11-08
+79,Anjali Khan,Male,5,Master's,LinkedIn,2023-08-08
+80,Abhishek Mishra,Male,12,Master's,LinkedIn,2024-10-10
+81,Rohit Kapoor,Female,6,Bachelor's,Company Website,2022-09-07
+82,Karan Gupta,Female,4,Diploma,LinkedIn,2022-06-20
+83,Rahul Iyer,Male,4,Master's,Campus Hiring,2025-01-11
+84,Amit Chopra,Female,7,Master's,Company Website,2021-12-20
+85,Dhruv Sawant,Male,3,Bachelor's,Employee Referral,2021-04-10
+86,Rohan Gupta,Male,4,Diploma,Employee Referral,2024-04-18
+87,Rohan Mishra,Male,11,Master's,Naukri,2022-07-09
+88,Akash Saxena,Male,7,Diploma,LinkedIn,2021-03-11
+89,Diya Reddy,Female,7,Master's,Company Website,2022-01-27
+90,Meera Malhotra,Male,11,Diploma,LinkedIn,2022-01-27
+91,Sakshi Kapoor,Male,5,Diploma,Company Website,2023-02-18
+92,Aniket Malhotra,Female,10,MBA/PGDM,Campus Hiring,2021-07-05
+93,Sameer Kapoor,Female,6,MBA/PGDM,Naukri,2024-07-09
+94,Aditya Mehta,Male,8,Diploma,Company Website,2024-12-31
+95,Manish Sharma,Female,12,Master's,Naukri,2025-07-04
+96,Aarav Pawar,Female,6,MBA/PGDM,Company Website,2025-03-10
+97,Yash Chopra,Female,12,Bachelor's,Recruitment Agency,2021-03-14
+98,Shreya Sawant,Male,7,Master's,Campus Hiring,2023-09-08
+99,Sneha Bansal,Female,12,Bachelor's,Employee Referral,2022-01-04
+100,Riya Kulkarni,Male,12,Bachelor's,Naukri,2024-10-26
+101,Tanvi Shinde,Male,11,Bachelor's,Employee Referral,2024-11-27
+102,Kavya Nair,Female,12,MBA/PGDM,Employee Referral,2021-07-29
+103,Isha Joshi,Male,8,Bachelor's,Company Website,2024-08-10
+104,Pooja Sharma,Female,12,MBA/PGDM,Naukri,2021-02-27
+105,Riya Kulkarni,Female,9,Bachelor's,Campus Hiring,2022-06-07
+106,Isha Malhotra,Female,5,Diploma,Campus Hiring,2022-08-22
+107,Neha Bansal,Female,10,Diploma,Recruitment Agency,2025-10-10
+108,Tanya Iyer,Male,3,MBA/PGDM,Employee Referral,2022-01-14
+109,Vidya Jain,Male,12,Diploma,Naukri,2025-06-04
+110,Vidya Thakur,Male,2,Diploma,LinkedIn,2022-11-11
+111,Rohit Kapoor,Female,3,Diploma,Recruitment Agency,2025-10-10
+112,Riya Chopra,Male,12,Bachelor's,Recruitment Agency,2025-11-11
+113,Varun Menon,Female,3,Diploma,LinkedIn,2023-04-29
+114,Rhea Singh,Male,12,Bachelor's,Campus Hiring,2023-03-08
+115,Dhruv Naik,Female,8,Bachelor's,Company Website,2021-09-17
+116,Mohit Joshi,Male,7,Diploma,Employee Referral,2023-09-08
+117,Riya Mehta,Female,9,Diploma,Recruitment Agency,2021-10-30
+118,Isha More,Male,5,Bachelor's,Campus Hiring,2023-01-13
+119,Ananya Jain,Female,8,Diploma,Company Website,2025-02-25
+120,Dev Saxena,Female,0,Diploma,Naukri,2025-06-05
+121,Pallavi Kulkarni,Male,1,Diploma,LinkedIn,2024-03-06
+122,Vivek Joshi,Female,5,MBA/PGDM,Campus Hiring,2021-05-28
+123,Ananya Jain,Female,11,Master's,Recruitment Agency,2025-07-15
+124,Vivek Naik,Male,6,Bachelor's,Campus Hiring,2022-02-07
+125,Manish Jain,Male,3,MBA/PGDM,Recruitment Agency,2023-12-31
+126,Sahil Bansal,Male,7,MBA/PGDM,Company Website,2023-05-13
+127,Karan Kapoor,Male,1,Diploma,Campus Hiring,2024-08-30
+128,Akash Saxena,Female,1,Master's,LinkedIn,2023-12-02
+129,Maya Kulkarni,Male,4,Master's,LinkedIn,2022-08-28
+130,Akash Rao,Female,0,Bachelor's,Recruitment Agency,2023-09-11
+131,Meera Menon,Male,8,Diploma,LinkedIn,2022-12-25
+132,Zoya Kapoor,Male,2,Master's,Recruitment Agency,2022-11-03
+133,Dhruv Patel,Male,6,Bachelor's,LinkedIn,2025-05-02
+134,Pallavi Iyer,Female,7,Master's,Employee Referral,2023-04-07
+135,Trisha Patel,Male,1,Master's,Company Website,2025-11-30
+136,Shreya Verma,Male,8,Diploma,LinkedIn,2022-11-22
+137,Ananya Mehta,Female,3,MBA/PGDM,Naukri,2022-09-30
+138,Amit Iyer,Male,12,Diploma,Naukri,2023-02-10
+139,Kavya Chopra,Female,3,MBA/PGDM,Recruitment Agency,2021-01-10
+140,Sameer Rao,Male,3,MBA/PGDM,LinkedIn,2024-11-14
+141,Kavya Naik,Male,7,Diploma,Company Website,2022-01-31
+142,Neha Sawant,Male,6,Diploma,Recruitment Agency,2024-06-21
+143,Akash Singh,Female,4,Bachelor's,LinkedIn,2022-03-09
+144,Abhishek Sharma,Female,2,Master's,Naukri,2021-04-18
+145,Harsh Chopra,Female,9,Diploma,Campus Hiring,2023-05-09
+146,Sakshi Reddy,Male,0,Bachelor's,Company Website,2022-02-18
+147,Neha Nair,Female,4,Master's,Recruitment Agency,2022-07-14
+148,Aditya Gupta,Female,1,MBA/PGDM,Campus Hiring,2021-01-23
+149,Nikhil Malhotra,Male,5,Master's,Employee Referral,2022-03-13
+150,Sonali Jain,Female,3,Diploma,Naukri,2025-09-17
+151,Kavya Saxena,Female,5,Bachelor's,Employee Referral,2023-06-17
+152,Abhishek Iyer,Female,6,Master's,Employee Referral,2025-07-16
+153,Sameer Mishra,Female,12,Master's,LinkedIn,2021-11-20
+154,Arjun Jadhav,Male,8,Bachelor's,Employee Referral,2024-07-06
+155,Amit Pawar,Male,11,Diploma,Campus Hiring,2022-07-01
+156,Anjali Menon,Male,9,Bachelor's,Employee Referral,2023-08-15
+157,Vidya More,Female,0,MBA/PGDM,Naukri,2021-01-27
+158,Anjali Singh,Male,1,Master's,Company Website,2024-07-27
+159,Kavya Gupta,Male,7,MBA/PGDM,Recruitment Agency,2025-02-22
+160,Sakshi Malhotra,Female,0,MBA/PGDM,Recruitment Agency,2024-01-17
+161,Rahul Pawar,Female,10,Diploma,Company Website,2024-08-06
+162,Rhea Chopra,Female,5,MBA/PGDM,Naukri,2023-04-04
+163,Vivek Mehta,Male,4,Master's,Recruitment Agency,2023-05-03
+164,Sahil Saxena,Male,0,Master's,Naukri,2025-01-07
+165,Sonali Joshi,Male,8,Bachelor's,Campus Hiring,2023-02-04
+166,Priya Saxena,Female,3,Bachelor's,Campus Hiring,2023-10-03
+167,Karan Kulkarni,Female,5,MBA/PGDM,Recruitment Agency,2021-12-09
+168,Vivek Jain,Male,0,Master's,Naukri,2021-05-01
+169,Akash Saxena,Male,2,MBA/PGDM,Employee Referral,2023-01-14
+170,Sakshi Sawant,Male,7,Master's,Campus Hiring,2025-07-21
+171,Dhruv Saxena,Female,9,MBA/PGDM,LinkedIn,2023-07-24
+172,Rohit More,Male,5,MBA/PGDM,Company Website,2021-10-05
+173,Dhruv Deshmukh,Male,10,Master's,Campus Hiring,2022-04-28
+174,Mohit Thakur,Female,5,MBA/PGDM,Company Website,2021-08-02
+175,Rhea Sawant,Male,3,Master's,Company Website,2024-02-14
+176,Vidya Shinde,Female,10,MBA/PGDM,Naukri,2022-03-17
+177,Rohan Kapoor,Male,5,MBA/PGDM,Naukri,2024-10-18
+178,Aniket Shinde,Male,12,MBA/PGDM,Company Website,2021-01-09
+179,Sonali Rao,Female,8,Master's,Recruitment Agency,2025-07-12
+180,Karan Nair,Male,6,Diploma,Campus Hiring,2021-07-21
+181,Sakshi Reddy,Female,11,Master's,LinkedIn,2024-05-26
+182,Amit Jain,Female,12,MBA/PGDM,Company Website,2022-11-24
+183,Rohan Mehta,Female,2,Diploma,Campus Hiring,2022-05-31
+184,Neha Reddy,Male,11,Diploma,Employee Referral,2024-10-08
+185,Riya Pawar,Female,9,Bachelor's,Naukri,2023-11-02
+186,Priya Shinde,Male,10,Master's,Campus Hiring,2025-02-26
+187,Meera Malhotra,Male,1,Diploma,Company Website,2024-04-28
+188,Sahil Menon,Male,2,Master's,Employee Referral,2023-01-06
+189,Sneha Naik,Male,9,MBA/PGDM,Naukri,2024-07-25
+190,Meera Kapoor,Female,8,MBA/PGDM,Naukri,2022-05-27
+191,Tanya Jadhav,Female,10,Diploma,Recruitment Agency,2021-10-12
+192,Ashish Khan,Male,3,Diploma,Campus Hiring,2021-07-22
+193,Maya Iyer,Male,7,Diploma,Company Website,2025-02-03
+194,Akash Pillai,Male,8,Master's,Employee Referral,2025-08-15
+195,Ananya Mishra,Female,8,MBA/PGDM,Naukri,2022-10-29
+196,Vidya Sawant,Male,0,Bachelor's,Recruitment Agency,2021-02-27
+197,Neha Jadhav,Male,0,Master's,Campus Hiring,2023-09-02
+198,Aditya Deshmukh,Male,11,MBA/PGDM,Recruitment Agency,2025-06-12
+199,Sameer Reddy,Male,1,Bachelor's,LinkedIn,2025-03-26
+200,Aditya Pawar,Male,5,Diploma,Employee Referral,2022-09-28
+201,Meera Jain,Male,6,Master's,Company Website,2023-05-11
+202,Tanya Rao,Female,1,Diploma,Employee Referral,2024-10-23
+203,Manish Jadhav,Male,2,Diploma,Company Website,2023-11-19
+204,Tanya Deshmukh,Male,5,Bachelor's,Employee Referral,2022-02-05
+205,Manish Patel,Male,4,Bachelor's,Campus Hiring,2021-06-29
+206,Maya Naik,Female,6,Diploma,Campus Hiring,2025-06-29
+207,Aniket Thakur,Male,11,Bachelor's,Naukri,2025-05-07
+208,Aditi Kapoor,Male,1,MBA/PGDM,LinkedIn,2025-04-30
+209,Dev Joshi,Male,10,Master's,Employee Referral,2025-03-14
+210,Kavya Chopra,Male,5,MBA/PGDM,Campus Hiring,2024-08-07
+211,Rhea Sawant,Male,4,Diploma,Company Website,2025-03-29
+212,Aditya Shinde,Male,7,Master's,Recruitment Agency,2023-06-22
+213,Ankita More,Male,3,Diploma,LinkedIn,2024-09-14
+214,Manish Kulkarni,Female,10,Master's,Company Website,2022-06-23
+215,Rahul Mishra,Female,7,Diploma,Employee Referral,2025-11-13
+216,Sonali Verma,Male,0,Master's,Campus Hiring,2021-07-17
+217,Arjun Pawar,Female,6,Master's,Campus Hiring,2024-05-22
+218,Aditi Mishra,Female,9,Master's,Campus Hiring,2025-03-26
+219,Mohit Kapoor,Male,5,Bachelor's,Employee Referral,2024-06-13
+220,Sanjay Patel,Female,12,Bachelor's,Employee Referral,2022-06-11
+221,Akash Iyer,Male,11,Diploma,Recruitment Agency,2023-04-18
+222,Kavya Khan,Male,6,Master's,LinkedIn,2022-04-15
+223,Riya Chopra,Male,5,Master's,Employee Referral,2025-10-16
+224,Dhruv Singh,Female,12,Diploma,Naukri,2024-12-15
+225,Aditi Nair,Female,11,MBA/PGDM,Naukri,2024-09-11
+226,Sakshi Nair,Female,8,MBA/PGDM,Employee Referral,2025-03-18
+227,Pooja Reddy,Male,3,Bachelor's,Campus Hiring,2025-02-10
+228,Vivek Gupta,Female,12,Diploma,Naukri,2025-12-14
+229,Shreya Sharma,Male,6,Diploma,Naukri,2023-02-04
+230,Pooja Joshi,Male,3,Diploma,Employee Referral,2022-09-25
+231,Anjali Rao,Male,6,Bachelor's,Company Website,2024-06-18
+232,Isha Rao,Female,10,Bachelor's,Campus Hiring,2024-10-06
+233,Vidya Patel,Female,4,MBA/PGDM,LinkedIn,2025-05-25
+234,Aarav More,Male,3,Diploma,Campus Hiring,2021-03-19
+235,Dev Nair,Male,3,Master's,Company Website,2021-11-17
+236,Riya Pillai,Male,4,Bachelor's,Recruitment Agency,2025-11-14
+237,Vidya Joshi,Male,5,Master's,Employee Referral,2023-10-22
+238,Anjali Naik,Male,2,Diploma,Recruitment Agency,2023-10-01
+239,Sneha Bansal,Male,9,Master's,Campus Hiring,2021-08-18
+240,Aditya Patel,Female,8,MBA/PGDM,Campus Hiring,2025-08-23
+241,Zoya Sharma,Female,3,Master's,Naukri,2025-11-08
+242,Trisha Joshi,Male,9,MBA/PGDM,Employee Referral,2024-08-05
+243,Tanvi Menon,Female,1,Bachelor's,Employee Referral,2025-08-13
+244,Yash Mehta,Female,3,Bachelor's,Naukri,2025-06-11
+245,Isha Shinde,Female,8,MBA/PGDM,Recruitment Agency,2023-10-02
+246,Anjali Shinde,Male,6,Diploma,Naukri,2021-06-19
+247,Sameer More,Male,6,Diploma,Naukri,2023-04-17
+248,Yash Shinde,Male,9,Master's,Company Website,2022-11-07
+249,Sameer Bansal,Female,0,Diploma,Naukri,2024-10-26
+250,Harsh Mishra,Female,2,Master's,LinkedIn,2021-01-24
+251,Meera Joshi,Female,3,Bachelor's,Recruitment Agency,2022-08-20
+252,Maya Jadhav,Male,0,MBA/PGDM,Employee Referral,2022-07-29
+253,Pooja Mishra,Male,5,Bachelor's,Campus Hiring,2025-04-06
+254,Sahil Patel,Female,5,Diploma,Naukri,2022-05-14
+255,Vaishnavi Deshmukh,Male,4,Master's,Recruitment Agency,2021-03-18
+256,Pooja Rao,Male,5,Bachelor's,Company Website,2023-04-18
+257,Isha Gupta,Male,4,Bachelor's,Recruitment Agency,2022-04-30
+258,Kavya Pillai,Male,7,MBA/PGDM,Naukri,2025-01-19
+259,Dev Menon,Male,12,Diploma,LinkedIn,2023-02-26
+260,Meera Chopra,Male,1,Master's,Campus Hiring,2021-04-19
+261,Vidya Bansal,Female,11,Master's,Naukri,2023-11-03
+262,Anjali Saxena,Female,0,Bachelor's,Employee Referral,2023-06-05
+263,Nisha Naik,Female,7,Master's,Employee Referral,2022-10-29
+264,Neha Naik,Male,8,Master's,Recruitment Agency,2022-07-27
+265,Kavya Deshmukh,Male,2,Bachelor's,Company Website,2021-12-24
+266,Zoya Pillai,Female,12,Diploma,Employee Referral,2024-01-12
+267,Harsh Sawant,Female,2,Diploma,LinkedIn,2023-05-15
+268,Nikhil Patel,Male,1,Master's,LinkedIn,2023-02-09
+269,Karan Thakur,Male,11,Bachelor's,Recruitment Agency,2024-06-12
+270,Karan Sharma,Female,6,Diploma,Recruitment Agency,2023-02-22
+271,Sakshi Shinde,Male,7,Diploma,Recruitment Agency,2021-10-06
+272,Akash Mishra,Male,8,Diploma,Campus Hiring,2022-02-05
+273,Varun Rao,Female,11,Master's,Naukri,2025-02-10
+274,Amit Kulkarni,Female,9,MBA/PGDM,Company Website,2024-03-26
+275,Riya Kulkarni,Female,4,MBA/PGDM,LinkedIn,2022-06-28
+276,Shreya Jain,Male,10,Master's,Naukri,2025-03-14
+277,Pallavi Pawar,Male,8,MBA/PGDM,Campus Hiring,2023-04-20
+278,Nikhil Malhotra,Female,7,MBA/PGDM,Campus Hiring,2022-12-09
+279,Arjun Shinde,Male,3,MBA/PGDM,LinkedIn,2025-11-15
+280,Tanvi Patel,Male,11,Master's,Campus Hiring,2025-05-25
+281,Ashish Sawant,Male,12,Master's,Campus Hiring,2022-09-30
+282,Tanya Thakur,Female,8,MBA/PGDM,Employee Referral,2021-01-17
+283,Sanjay Malhotra,Male,5,Master's,Campus Hiring,2023-10-14
+284,Dev Verma,Female,9,MBA/PGDM,Campus Hiring,2021-04-07
+285,Isha Bansal,Male,3,MBA/PGDM,Campus Hiring,2023-04-18
+286,Sakshi Saxena,Male,7,Bachelor's,Employee Referral,2022-04-08
+287,Ankita Bansal,Male,7,Bachelor's,Employee Referral,2022-06-26
+288,Ananya Kapoor,Male,4,Diploma,LinkedIn,2022-02-06
+289,Riya Kapoor,Female,2,Diploma,Campus Hiring,2023-09-01
+290,Manish Thakur,Female,7,Master's,Recruitment Agency,2025-02-28
+291,Neha Iyer,Male,0,Master's,Company Website,2025-06-06
+292,Tanya Reddy,Male,2,Bachelor's,Campus Hiring,2021-09-18
+293,Aarav Deshmukh,Female,4,Master's,Company Website,2025-08-10
+294,Yash Menon,Male,7,MBA/PGDM,Campus Hiring,2022-05-19
+295,Vidya More,Female,12,Diploma,Naukri,2025-08-10
+296,Vivek Singh,Female,3,Master's,Employee Referral,2023-04-20
+297,Sakshi Shinde,Female,4,MBA/PGDM,Campus Hiring,2025-05-14
+298,Meera Menon,Female,4,Diploma,LinkedIn,2025-12-09
+299,Sakshi Patel,Female,10,Bachelor's,LinkedIn,2024-06-14
+300,Rohan Kapoor,Female,2,Bachelor's,Naukri,2023-05-05
+301,Maya Naik,Female,4,Diploma,LinkedIn,2024-03-08
+302,Tanvi Rao,Male,1,Diploma,Campus Hiring,2025-06-10
+303,Akash Pillai,Female,2,MBA/PGDM,Recruitment Agency,2025-06-03
+304,Harsh Patel,Female,10,Diploma,Recruitment Agency,2023-05-21
+305,Sneha Shinde,Female,4,MBA/PGDM,Recruitment Agency,2022-05-30
+306,Neha Kapoor,Male,4,Bachelor's,Employee Referral,2024-10-23
+307,Dev Saxena,Male,1,Bachelor's,Campus Hiring,2022-07-02
+308,Akash Rao,Male,11,Master's,LinkedIn,2025-03-12
+309,Zoya Iyer,Female,11,Diploma,Recruitment Agency,2021-06-19
+310,Pooja Nair,Male,4,MBA/PGDM,Campus Hiring,2023-09-29
+311,Vivek Verma,Female,5,Diploma,Employee Referral,2024-01-25
+312,Rohit Sawant,Female,0,MBA/PGDM,LinkedIn,2024-05-18
+313,Vidya Pawar,Male,0,Master's,LinkedIn,2021-09-05
+314,Mohit Kapoor,Female,0,Bachelor's,Employee Referral,2023-04-26
+315,Vivek Sawant,Male,1,Master's,LinkedIn,2023-05-03
+316,Sahil Saxena,Female,9,Master's,Recruitment Agency,2025-04-15
+317,Nisha Bansal,Male,0,Diploma,LinkedIn,2025-02-05
+318,Sonali Chopra,Female,4,Bachelor's,Naukri,2024-10-22
+319,Arjun Mehta,Male,5,Diploma,Recruitment Agency,2023-03-02
+320,Meera Patel,Female,10,Master's,Campus Hiring,2023-02-01
+321,Harsh Patel,Female,12,Bachelor's,Employee Referral,2024-07-07
+322,Karan Jain,Female,8,Master's,Recruitment Agency,2022-06-04
+323,Arjun Thakur,Female,8,MBA/PGDM,Naukri,2022-04-25
+324,Vidya Sawant,Female,2,Master's,Campus Hiring,2023-07-08
+325,Pooja Bansal,Female,10,Diploma,Campus Hiring,2024-06-30
+326,Maya Deshmukh,Female,5,Master's,Campus Hiring,2025-11-20
+327,Rohan Mishra,Female,2,Diploma,Campus Hiring,2022-03-28
+328,Shreya Joshi,Male,4,MBA/PGDM,LinkedIn,2023-08-29
+329,Ananya Patel,Female,2,MBA/PGDM,Employee Referral,2021-12-17
+330,Nikhil Mishra,Male,11,Bachelor's,Recruitment Agency,2024-08-06
+331,Harsh Pawar,Female,1,Diploma,Recruitment Agency,2025-12-12
+332,Rohan Deshmukh,Female,3,Bachelor's,Naukri,2021-12-03
+333,Sanjay Mehta,Female,1,Diploma,Naukri,2021-08-16
+334,Harsh More,Female,5,Bachelor's,Naukri,2021-01-03
+335,Aniket Kapoor,Female,11,Master's,Company Website,2024-09-16
+336,Maya Jadhav,Female,0,MBA/PGDM,Naukri,2021-06-04
+337,Harsh Khan,Male,12,Master's,Recruitment Agency,2022-10-24
+338,Sahil Kapoor,Male,3,Master's,Company Website,2024-03-23
+339,Meera Verma,Female,10,Bachelor's,Company Website,2025-01-20
+340,Amit Sawant,Male,5,Bachelor's,Employee Referral,2023-05-29
+341,Anjali Khan,Male,6,Bachelor's,Naukri,2025-07-29
+342,Aarav Iyer,Male,12,Diploma,Recruitment Agency,2023-12-11
+343,Rohan Saxena,Female,2,Master's,Naukri,2023-06-20
+344,Sanjay Deshmukh,Female,0,MBA/PGDM,Employee Referral,2022-12-29
+345,Meera Chopra,Male,7,Bachelor's,Company Website,2022-10-19
+346,Aditi Reddy,Male,3,Bachelor's,Campus Hiring,2023-06-12
+347,Trisha Sawant,Female,9,MBA/PGDM,Campus Hiring,2022-11-27
+348,Isha Khan,Male,2,Diploma,Campus Hiring,2023-03-25
+349,Vivek Joshi,Female,12,Bachelor's,LinkedIn,2022-09-28
+350,Aditi Malhotra,Male,12,Bachelor's,LinkedIn,2022-12-18
+351,Neha Malhotra,Female,11,Bachelor's,Company Website,2023-12-24
+352,Aditi Iyer,Male,0,Master's,Recruitment Agency,2025-10-10
+353,Sneha Kapoor,Male,12,MBA/PGDM,Naukri,2024-12-12
+354,Arjun Thakur,Female,1,Diploma,Campus Hiring,2022-02-12
+355,Ashish Pawar,Male,7,Master's,Naukri,2024-01-12
+356,Vivek Shinde,Male,6,Bachelor's,Naukri,2024-05-04
+357,Priya Reddy,Female,8,Master's,Campus Hiring,2022-08-09
+358,Aniket Pillai,Female,9,Master's,Naukri,2021-05-04
+359,Vaishnavi Bansal,Male,2,Bachelor's,Naukri,2023-07-12
+360,Ashish Sawant,Male,3,Bachelor's,Naukri,2021-01-03
+361,Zoya Reddy,Male,12,MBA/PGDM,Company Website,2025-04-13
+362,Pooja Sharma,Male,6,Master's,Naukri,2023-05-15
+363,Shreya More,Female,10,Bachelor's,Company Website,2025-12-14
+364,Ananya Sawant,Male,12,Master's,Campus Hiring,2025-11-11
+365,Sameer Sharma,Female,12,Bachelor's,Naukri,2021-04-06
+366,Harsh Pawar,Female,11,MBA/PGDM,Employee Referral,2021-11-02
+367,Rohan Kapoor,Male,4,Bachelor's,Employee Referral,2024-08-04
+368,Dev Menon,Female,6,Diploma,Campus Hiring,2021-07-31
+369,Dev Sharma,Female,11,Bachelor's,Campus Hiring,2023-03-29
+370,Diya Malhotra,Male,3,MBA/PGDM,Naukri,2021-06-20
+371,Sahil Kulkarni,Male,1,Master's,Recruitment Agency,2021-11-05
+372,Pooja Khan,Female,2,MBA/PGDM,LinkedIn,2022-03-26
+373,Sahil Pawar,Female,4,Diploma,Naukri,2022-08-30
+374,Dhruv Rao,Female,4,Diploma,Recruitment Agency,2023-12-06
+375,Sakshi Singh,Female,8,MBA/PGDM,Company Website,2021-05-29
+376,Maya Mishra,Female,7,Diploma,Campus Hiring,2021-02-25
+377,Karan Kulkarni,Female,12,Diploma,Recruitment Agency,2024-11-09
+378,Amit Malhotra,Female,5,MBA/PGDM,Recruitment Agency,2023-11-10
+379,Varun Iyer,Male,2,Diploma,LinkedIn,2024-07-31
+380,Harsh Deshmukh,Female,5,Master's,Company Website,2024-09-06
+381,Manish Menon,Male,7,Diploma,Naukri,2024-06-29
+382,Aarav Sawant,Male,4,Bachelor's,Campus Hiring,2023-01-26
+383,Aarav Chopra,Female,5,Master's,Recruitment Agency,2025-03-06
+384,Vivek Jadhav,Male,2,Diploma,Recruitment Agency,2022-03-30
+385,Sakshi Saxena,Male,10,Master's,Recruitment Agency,2023-05-17
+386,Yash Jadhav,Female,5,Bachelor's,Company Website,2022-11-19
+387,Tanya Mehta,Female,9,Diploma,Employee Referral,2021-10-08
+388,Varun Malhotra,Male,12,MBA/PGDM,Employee Referral,2021-09-06
+389,Aarav Reddy,Female,2,Diploma,LinkedIn,2021-07-04
+390,Kavya Singh,Male,7,Bachelor's,Employee Referral,2021-03-21
+391,Tanvi Singh,Female,3,MBA/PGDM,Campus Hiring,2024-03-19
+392,Anjali Chopra,Female,5,Bachelor's,LinkedIn,2023-06-21
+393,Rohit Jadhav,Female,2,Diploma,Naukri,2021-02-23
+394,Diya Khan,Female,0,MBA/PGDM,Naukri,2021-09-01
+395,Anjali Deshmukh,Male,10,Bachelor's,Campus Hiring,2024-05-11
+396,Abhishek Jain,Female,8,MBA/PGDM,Employee Referral,2022-04-10
+397,Kavya Nair,Female,12,Master's,LinkedIn,2022-11-09
+398,Dev Menon,Female,3,Diploma,Campus Hiring,2023-12-04
+399,Dhruv Reddy,Male,7,Master's,Recruitment Agency,2022-07-28
+400,Karan Nair,Male,8,Diploma,Campus Hiring,2023-04-25
+401,Ananya More,Male,3,Diploma,Company Website,2023-10-30
+402,Varun Jain,Female,11,MBA/PGDM,Employee Referral,2021-09-13
+403,Arjun Nair,Female,8,Master's,LinkedIn,2025-09-27
+404,Amit Malhotra,Female,3,Bachelor's,Company Website,2025-07-13
+405,Rahul Thakur,Female,12,Bachelor's,LinkedIn,2022-11-19
+406,Rohan Menon,Male,12,MBA/PGDM,Recruitment Agency,2024-04-27
+407,Diya Mishra,Male,8,Bachelor's,Recruitment Agency,2024-12-30
+408,Priya Saxena,Female,5,Master's,Employee Referral,2022-08-07
+409,Rohan Patel,Male,7,Master's,Company Website,2024-12-28
+410,Diya Kulkarni,Female,4,Bachelor's,Recruitment Agency,2021-12-12
+411,Nikhil Iyer,Female,6,Bachelor's,LinkedIn,2025-11-19
+412,Trisha Gupta,Male,2,Bachelor's,Naukri,2022-12-23
+413,Sneha Iyer,Female,0,Bachelor's,Recruitment Agency,2025-01-22
+414,Aniket Saxena,Female,9,Master's,Naukri,2021-11-04
+415,Tanya Mishra,Male,6,Master's,Campus Hiring,2023-03-18
+416,Arjun Pawar,Male,10,Master's,Naukri,2023-11-28
+417,Diya Mehta,Female,2,Bachelor's,Recruitment Agency,2024-04-17
+418,Tanya Singh,Female,0,Bachelor's,Naukri,2023-01-04
+419,Sneha Kulkarni,Male,7,Master's,LinkedIn,2024-09-11
+420,Vidya Gupta,Female,5,Master's,Naukri,2022-11-19
+421,Mohit Jain,Male,7,MBA/PGDM,Naukri,2021-01-18
+422,Ananya Deshmukh,Female,2,Bachelor's,Recruitment Agency,2025-08-28
+423,Maya Jain,Female,7,MBA/PGDM,Naukri,2024-08-31
+424,Vaishnavi Patel,Male,10,Diploma,Campus Hiring,2021-12-29
+425,Mohit Thakur,Female,6,Bachelor's,Company Website,2021-11-11
+426,Neha Shinde,Female,10,Master's,Company Website,2023-10-14
+427,Manish Deshmukh,Female,5,Diploma,Campus Hiring,2021-05-07
+428,Abhishek Singh,Male,5,Bachelor's,Naukri,2025-05-07
+429,Rohit Mishra,Female,2,MBA/PGDM,Company Website,2024-01-16
+430,Aditya Mehta,Female,9,MBA/PGDM,Company Website,2023-06-04
+431,Kavya Rao,Female,7,MBA/PGDM,Company Website,2023-02-10
+432,Rahul Nair,Male,7,Diploma,Recruitment Agency,2022-06-29
+433,Vaishnavi Jain,Female,10,Bachelor's,Recruitment Agency,2025-04-04
+434,Kavya Jain,Female,9,Bachelor's,Naukri,2024-01-10
+435,Pooja Gupta,Male,10,Bachelor's,Recruitment Agency,2024-02-22
+436,Isha Mehta,Male,8,Diploma,Naukri,2022-01-24
+437,Manish Rao,Male,3,Bachelor's,LinkedIn,2025-07-29
+438,Sneha Joshi,Female,6,Diploma,Employee Referral,2022-05-13
+439,Diya Gupta,Female,10,Diploma,LinkedIn,2024-12-13
+440,Amit Rao,Female,2,Master's,Employee Referral,2021-06-04
+441,Manish Sharma,Male,9,Master's,Campus Hiring,2024-01-02
+442,Kavya Thakur,Male,2,Diploma,Employee Referral,2022-06-28
+443,Sakshi Mehta,Female,0,MBA/PGDM,Naukri,2024-10-24
+444,Ashish Mishra,Male,0,Diploma,Employee Referral,2024-04-03
+445,Aditi Chopra,Female,10,Bachelor's,Recruitment Agency,2023-11-11
+446,Rohit More,Male,4,MBA/PGDM,Company Website,2022-05-15
+447,Maya Sawant,Female,1,Diploma,LinkedIn,2021-09-26
+448,Manish Thakur,Female,0,Master's,Naukri,2024-12-17
+449,Sonali Menon,Male,8,Master's,LinkedIn,2022-07-19
+450,Rahul Deshmukh,Female,6,Bachelor's,Company Website,2022-09-04
+451,Sonali Deshmukh,Male,10,Bachelor's,Company Website,2025-08-22
+452,Sameer Deshmukh,Male,10,Diploma,Recruitment Agency,2021-05-03
+453,Anjali Mehta,Male,11,Master's,Naukri,2025-06-22
+454,Tanvi Pillai,Female,8,MBA/PGDM,Naukri,2023-07-22
+455,Neha Kapoor,Male,9,Diploma,LinkedIn,2022-08-04
+456,Sonali Rao,Male,10,Bachelor's,Campus Hiring,2024-04-22
+457,Anjali Pawar,Female,1,Master's,Company Website,2024-04-02
+458,Manish Verma,Female,8,Master's,Naukri,2023-09-24
+459,Aditi Chopra,Female,8,Master's,Company Website,2022-11-14
+460,Vidya Naik,Male,6,MBA/PGDM,LinkedIn,2024-08-07
+461,Shreya Malhotra,Female,3,Bachelor's,LinkedIn,2024-11-10
+462,Riya Mishra,Male,2,Master's,Naukri,2023-04-20
+463,Varun Kulkarni,Female,10,Master's,Naukri,2025-06-01
+464,Anjali Iyer,Male,6,MBA/PGDM,LinkedIn,2023-09-07
+465,Trisha Iyer,Male,0,MBA/PGDM,Naukri,2023-12-16
+466,Harsh Jadhav,Male,10,Bachelor's,Employee Referral,2025-07-29
+467,Dev Iyer,Male,9,Diploma,Recruitment Agency,2024-03-02
+468,Zoya Khan,Female,8,Diploma,Company Website,2025-06-18
+469,Maya Gupta,Male,9,Master's,Recruitment Agency,2021-10-24
+470,Shreya Thakur,Female,3,MBA/PGDM,Company Website,2024-01-05
+471,Aarav Reddy,Female,11,MBA/PGDM,Recruitment Agency,2023-10-23
+472,Yash Shinde,Male,4,MBA/PGDM,Recruitment Agency,2021-04-12
+473,Akash Jain,Male,3,MBA/PGDM,Naukri,2025-10-20
+474,Nikhil Patel,Female,2,MBA/PGDM,Naukri,2023-10-03
+475,Pooja Shinde,Female,9,MBA/PGDM,Recruitment Agency,2024-04-01
+476,Aditya Joshi,Male,2,Master's,Company Website,2021-05-30
+477,Aarav Rao,Female,11,Bachelor's,Recruitment Agency,2022-05-25
+478,Tanya Verma,Female,1,Master's,Recruitment Agency,2022-07-23
+479,Dhruv Joshi,Male,9,MBA/PGDM,LinkedIn,2025-08-16
+480,Meera Deshmukh,Female,0,Bachelor's,Naukri,2021-04-21
+481,Sanjay Verma,Female,10,MBA/PGDM,Recruitment Agency,2022-03-11
+482,Dhruv Thakur,Female,3,Diploma,Recruitment Agency,2021-04-06
+483,Sonali Khan,Female,11,MBA/PGDM,Recruitment Agency,2023-07-31
+484,Akash Iyer,Female,8,Bachelor's,Recruitment Agency,2025-07-20
+485,Vaishnavi Chopra,Male,6,Master's,Employee Referral,2025-03-28
+486,Pooja Chopra,Male,4,Master's,LinkedIn,2022-07-04
+487,Sameer Verma,Female,2,Bachelor's,Naukri,2024-01-26
+488,Rohan Chopra,Female,6,Diploma,Naukri,2025-07-01
+489,Rhea Chopra,Male,5,Bachelor's,LinkedIn,2022-04-28
+490,Aarav Singh,Female,7,Diploma,Campus Hiring,2022-11-11
+491,Shreya Mishra,Female,10,Diploma,Recruitment Agency,2025-03-13
+492,Yash Rao,Male,6,MBA/PGDM,Company Website,2022-04-27
+493,Rohan Sawant,Female,5,Bachelor's,LinkedIn,2024-04-22
+494,Tanya Chopra,Male,11,Bachelor's,LinkedIn,2023-06-29
+495,Dhruv Naik,Male,9,MBA/PGDM,Recruitment Agency,2023-03-08
+496,Manish Gupta,Female,10,Master's,Campus Hiring,2023-12-31
+497,Arjun Menon,Female,2,Bachelor's,LinkedIn,2022-02-09
+498,Rahul Sawant,Male,10,Master's,Company Website,2025-07-19
+499,Sameer Khan,Male,2,Master's,Naukri,2022-07-17
+500,Harsh Mishra,Female,8,Bachelor's,Campus Hiring,2025-01-27
+501,Meera Rao,Female,4,Master's,Employee Referral,2025-08-19
+502,Pooja Pawar,Male,2,Master's,Naukri,2023-06-17
+503,Pooja Menon,Female,4,Diploma,Company Website,2024-12-21
+504,Kavya Chopra,Female,12,Diploma,Naukri,2024-02-29
+505,Aditi Pawar,Male,4,Master's,LinkedIn,2024-05-20
+506,Rhea Jadhav,Female,1,MBA/PGDM,Campus Hiring,2024-09-08
+507,Isha More,Female,9,Diploma,Company Website,2023-06-09
+508,Sonali Pillai,Female,2,Bachelor's,Campus Hiring,2022-03-23
+509,Pooja More,Male,8,Master's,Campus Hiring,2022-07-07
+510,Rohit Chopra,Female,9,MBA/PGDM,Recruitment Agency,2025-09-28
+511,Aniket Gupta,Female,8,Bachelor's,Naukri,2025-01-19
+512,Pooja Rao,Male,3,Master's,Campus Hiring,2025-05-12
+513,Aniket Sawant,Male,3,Bachelor's,LinkedIn,2022-10-22
+514,Aarav Verma,Male,9,MBA/PGDM,Employee Referral,2023-09-04
+515,Harsh Nair,Male,3,Master's,Recruitment Agency,2021-10-24
+516,Rohit Khan,Female,9,Master's,Company Website,2022-06-10
+517,Aditi Jain,Male,9,Bachelor's,Recruitment Agency,2025-07-05
+518,Shreya Patel,Male,12,MBA/PGDM,LinkedIn,2025-08-21
+519,Sakshi Saxena,Female,0,MBA/PGDM,Naukri,2024-06-14
+520,Vivek Thakur,Male,6,MBA/PGDM,LinkedIn,2023-07-22
+521,Dhruv Pawar,Female,8,Bachelor's,Campus Hiring,2021-10-18
+522,Rhea Rao,Female,8,MBA/PGDM,Naukri,2021-12-18
+523,Tanvi Deshmukh,Male,8,Master's,Company Website,2025-03-31
+524,Vivek Jadhav,Female,11,MBA/PGDM,Employee Referral,2025-06-18
+525,Zoya Menon,Male,3,MBA/PGDM,Campus Hiring,2022-07-30
+526,Isha Deshmukh,Female,4,Bachelor's,Company Website,2024-05-09
+527,Sameer Iyer,Female,3,Diploma,Employee Referral,2025-05-08
+528,Amit Reddy,Female,8,MBA/PGDM,Campus Hiring,2021-06-05
+529,Arjun Bansal,Female,8,Master's,Naukri,2021-12-04
+530,Ananya Khan,Female,12,Master's,Recruitment Agency,2025-09-16
+531,Sakshi Thakur,Male,1,Bachelor's,Employee Referral,2021-11-12
+532,Arjun Mishra,Female,7,Master's,Company Website,2021-06-16
+533,Diya Sharma,Female,12,Master's,LinkedIn,2024-10-23
+534,Arjun Patel,Male,4,Bachelor's,Naukri,2021-06-17
+535,Shreya Jain,Male,11,Master's,Campus Hiring,2024-01-10
+536,Ananya More,Female,5,Master's,Naukri,2023-10-30
+537,Meera Nair,Male,8,Bachelor's,Company Website,2024-02-21
+538,Rohan Sharma,Female,2,Bachelor's,LinkedIn,2024-07-27
+539,Aarav Joshi,Female,6,Master's,Employee Referral,2022-04-19
+540,Rhea Thakur,Male,0,Bachelor's,Naukri,2022-03-11
+541,Sonali Singh,Male,5,Bachelor's,Employee Referral,2022-07-01
+542,Shreya Verma,Male,9,Bachelor's,Employee Referral,2024-11-08
+543,Zoya Khan,Female,0,MBA/PGDM,Naukri,2021-02-21
+544,Manish Iyer,Female,12,Bachelor's,Employee Referral,2025-01-11
+545,Sneha Patel,Male,12,Bachelor's,LinkedIn,2022-06-30
+546,Vivek Deshmukh,Male,12,Bachelor's,LinkedIn,2025-07-14
+547,Yash Reddy,Male,7,Master's,Company Website,2023-02-04
+548,Tanya Shinde,Female,5,MBA/PGDM,Campus Hiring,2024-06-24
+549,Vidya Nair,Male,8,Diploma,Company Website,2021-08-04
+550,Pooja Naik,Male,12,MBA/PGDM,Recruitment Agency,2025-12-03
+551,Aditi Singh,Male,2,Master's,Naukri,2021-11-23
+552,Akash Patel,Female,4,Diploma,Recruitment Agency,2023-05-18
+553,Aditi Kapoor,Male,3,Diploma,Recruitment Agency,2024-09-13
+554,Riya Mehta,Male,11,MBA/PGDM,Recruitment Agency,2021-05-20
+555,Trisha Patel,Female,0,Diploma,Company Website,2024-03-20
+556,Rhea Patel,Male,9,Bachelor's,Employee Referral,2025-10-25
+557,Dev Menon,Male,6,Bachelor's,Campus Hiring,2021-02-21
+558,Ananya Naik,Male,7,MBA/PGDM,Campus Hiring,2024-12-20
+559,Anjali Bansal,Female,4,Diploma,Naukri,2021-10-30
+560,Rohan Jadhav,Male,5,MBA/PGDM,Recruitment Agency,2024-09-12
+561,Aniket Jain,Female,1,Bachelor's,Naukri,2022-06-01
+562,Neha Jadhav,Male,3,Diploma,Campus Hiring,2023-05-29
+563,Pallavi Thakur,Female,0,MBA/PGDM,Employee Referral,2021-05-03
+564,Sameer Shinde,Female,12,MBA/PGDM,Campus Hiring,2024-01-15
+565,Arjun Singh,Female,1,Master's,Employee Referral,2023-05-08
+566,Dhruv Sharma,Female,11,Bachelor's,Recruitment Agency,2022-12-16
+567,Dhruv Thakur,Female,12,Diploma,Campus Hiring,2023-09-06
+568,Anjali Reddy,Female,2,Bachelor's,Campus Hiring,2021-09-15
+569,Priya Verma,Female,12,Master's,Naukri,2021-09-01
+570,Pooja Bansal,Female,8,Bachelor's,Campus Hiring,2022-02-22
+571,Meera Gupta,Female,7,Master's,Employee Referral,2025-08-02
+572,Sakshi Gupta,Female,5,MBA/PGDM,Employee Referral,2022-07-17
+573,Diya Pawar,Male,6,Master's,Employee Referral,2021-03-10
+574,Manish Gupta,Male,0,Bachelor's,Company Website,2024-06-16
+575,Riya Sawant,Female,9,Diploma,Recruitment Agency,2022-12-12
+576,Dev Malhotra,Female,10,Bachelor's,Employee Referral,2023-10-23
+577,Aditi Jadhav,Male,12,MBA/PGDM,LinkedIn,2021-05-03
+578,Trisha Kapoor,Male,6,Bachelor's,Campus Hiring,2025-05-10
+579,Pooja Deshmukh,Female,12,Diploma,Campus Hiring,2025-10-07
+580,Ananya Pawar,Male,4,MBA/PGDM,Employee Referral,2025-05-02
+581,Tanvi Reddy,Male,0,Bachelor's,Company Website,2021-08-29
+582,Sonali Jadhav,Male,12,MBA/PGDM,Campus Hiring,2023-10-15
+583,Ananya Naik,Female,8,Bachelor's,Campus Hiring,2025-10-13
+584,Karan Mehta,Female,0,Bachelor's,Naukri,2022-06-15
+585,Maya Deshmukh,Male,0,MBA/PGDM,Naukri,2021-09-10
+586,Sneha Pawar,Female,8,Diploma,Employee Referral,2023-07-22
+587,Vaishnavi Verma,Male,9,Master's,LinkedIn,2025-07-08
+588,Nikhil Deshmukh,Male,8,Master's,Employee Referral,2024-05-08
+589,Rohit Shinde,Male,12,Master's,Company Website,2023-12-08
+590,Varun Naik,Female,0,Master's,Campus Hiring,2024-09-14
+591,Meera Malhotra,Male,4,MBA/PGDM,LinkedIn,2022-06-29
+592,Karan Chopra,Male,0,Master's,Recruitment Agency,2023-10-21
+593,Zoya Chopra,Female,10,Master's,Company Website,2023-05-20
+594,Trisha Thakur,Female,11,Diploma,LinkedIn,2024-01-06
+595,Pallavi Bansal,Male,8,Bachelor's,Campus Hiring,2021-08-04
+596,Priya Mishra,Female,2,MBA/PGDM,Employee Referral,2022-06-24
+597,Neha Menon,Female,7,MBA/PGDM,Recruitment Agency,2025-05-31
+598,Ashish Verma,Female,10,MBA/PGDM,Employee Referral,2023-07-14
+599,Nisha Reddy,Female,9,Master's,Employee Referral,2022-07-06
+600,Aditya Sharma,Male,8,Diploma,Recruitment Agency,2025-10-16
+601,Riya Menon,Female,1,Master's,Company Website,2023-05-04
+602,Abhishek Shinde,Male,8,Master's,Company Website,2025-09-26
+603,Aditya Bansal,Female,12,Bachelor's,LinkedIn,2025-10-29
+604,Kavya Mehta,Female,1,Diploma,Employee Referral,2024-10-16
+605,Vivek Verma,Female,10,MBA/PGDM,Naukri,2021-08-31
+606,Riya Verma,Male,11,Diploma,Company Website,2023-02-12
+607,Aniket Joshi,Female,12,MBA/PGDM,Campus Hiring,2023-11-07
+608,Akash Reddy,Male,6,Diploma,Employee Referral,2024-02-24
+609,Varun Kulkarni,Female,2,Bachelor's,Recruitment Agency,2025-10-20
+610,Varun Gupta,Female,4,Master's,LinkedIn,2022-02-15
+611,Mohit More,Female,8,Bachelor's,Campus Hiring,2025-08-27
+612,Vaishnavi Reddy,Female,7,Bachelor's,Naukri,2021-03-04
+613,Aarav Pillai,Female,10,Bachelor's,Campus Hiring,2023-02-03
+614,Sneha Gupta,Male,6,MBA/PGDM,Campus Hiring,2024-11-25
+615,Vaishnavi Pawar,Female,3,Master's,Employee Referral,2021-03-24
+616,Dhruv Saxena,Male,0,Bachelor's,LinkedIn,2024-06-18
+617,Akash Bansal,Female,4,Master's,Naukri,2021-02-28
+618,Rahul Menon,Male,10,Diploma,Employee Referral,2023-05-09
+619,Abhishek Chopra,Female,4,Bachelor's,Recruitment Agency,2024-05-07
+620,Diya Verma,Female,7,Master's,Naukri,2025-10-12
+621,Amit Thakur,Female,8,MBA/PGDM,Employee Referral,2025-11-04
+622,Anjali Jain,Male,2,MBA/PGDM,Company Website,2025-06-22
+623,Mohit Menon,Male,3,Diploma,Campus Hiring,2023-02-04
+624,Kavya Singh,Female,11,Master's,Company Website,2023-02-04
+625,Zoya Pillai,Male,9,Bachelor's,LinkedIn,2024-08-23
+626,Meera Rao,Female,2,Bachelor's,LinkedIn,2025-04-12
+627,Pallavi Khan,Female,0,Master's,LinkedIn,2024-05-29
+628,Anjali Singh,Male,4,Diploma,Recruitment Agency,2023-04-20
+629,Kavya More,Female,4,Bachelor's,Recruitment Agency,2023-07-10
+630,Aniket Reddy,Male,12,Diploma,LinkedIn,2022-02-07
+631,Aditya Nair,Male,2,Bachelor's,Company Website,2021-09-08
+632,Kavya Singh,Female,6,Diploma,Naukri,2022-01-21
+633,Pallavi Kulkarni,Male,6,Master's,LinkedIn,2022-12-04
+634,Sneha Menon,Male,9,Master's,Recruitment Agency,2024-07-02
+635,Sakshi Reddy,Female,2,MBA/PGDM,Naukri,2023-11-27
+636,Mohit Sharma,Male,9,Master's,Employee Referral,2022-02-03
+637,Abhishek Mehta,Female,4,MBA/PGDM,Naukri,2021-08-08
+638,Harsh Mehta,Male,3,Diploma,Campus Hiring,2021-06-17
+639,Rohit Mishra,Male,2,MBA/PGDM,Campus Hiring,2022-12-06
+640,Priya Sharma,Female,12,Bachelor's,Recruitment Agency,2024-06-08
+641,Pallavi Kulkarni,Female,11,Bachelor's,LinkedIn,2021-08-11
+642,Diya Chopra,Male,10,Bachelor's,Company Website,2022-08-15
+643,Arjun Joshi,Female,11,Bachelor's,Recruitment Agency,2022-10-15
+644,Aditi Shinde,Female,5,Bachelor's,Company Website,2024-10-29
+645,Manish Singh,Male,6,Diploma,Company Website,2022-07-12
+646,Sameer Malhotra,Female,8,Master's,Naukri,2023-04-05
+647,Aditi Chopra,Male,4,Bachelor's,Recruitment Agency,2025-07-03
+648,Priya Joshi,Female,10,MBA/PGDM,Campus Hiring,2023-10-17
+649,Rhea Khan,Female,8,Bachelor's,Employee Referral,2023-04-09
+650,Dhruv Reddy,Male,3,MBA/PGDM,Company Website,2023-06-14
+651,Sonali More,Female,0,Diploma,LinkedIn,2025-02-05
+652,Ananya Singh,Female,11,Bachelor's,Employee Referral,2024-05-16
+653,Sanjay Chopra,Female,8,Master's,Employee Referral,2025-01-19
+654,Rhea Mishra,Female,3,Diploma,Campus Hiring,2024-10-02
+655,Yash Menon,Female,0,Diploma,Naukri,2021-07-30
+656,Aarav Shinde,Male,11,Diploma,LinkedIn,2023-09-02
+657,Tanya Joshi,Female,4,Bachelor's,Naukri,2025-11-18
+658,Sameer Naik,Male,7,Bachelor's,Employee Referral,2023-10-31
+659,Ashish Rao,Female,8,Diploma,Company Website,2024-08-21
+660,Aditya Verma,Male,12,Master's,Recruitment Agency,2025-09-13
+661,Varun Shinde,Male,2,MBA/PGDM,Employee Referral,2025-02-15
+662,Trisha Thakur,Male,4,Master's,Company Website,2024-12-29
+663,Dev Mehta,Male,3,MBA/PGDM,Recruitment Agency,2022-08-24
+664,Tanvi Pawar,Female,12,Master's,Company Website,2021-10-18
+665,Abhishek Sawant,Male,9,MBA/PGDM,LinkedIn,2023-09-15
+666,Manish Singh,Female,6,MBA/PGDM,Campus Hiring,2021-12-21
+667,Amit Rao,Male,10,Bachelor's,Employee Referral,2021-05-30
+668,Vidya Sharma,Female,9,Bachelor's,Employee Referral,2021-01-30
+669,Karan Nair,Male,1,Bachelor's,Company Website,2023-11-10
+670,Shreya Verma,Male,2,Bachelor's,Company Website,2022-03-22
+671,Neha Shinde,Male,3,Master's,Recruitment Agency,2022-09-29
+672,Mohit Menon,Female,4,Bachelor's,LinkedIn,2021-05-22
+673,Pooja Reddy,Female,11,MBA/PGDM,Naukri,2024-10-12
+674,Ankita Mehta,Male,9,MBA/PGDM,Company Website,2024-09-16
+675,Rohan Singh,Female,6,Master's,Employee Referral,2021-07-10
+676,Ananya Patel,Female,10,MBA/PGDM,Naukri,2023-12-23
+677,Nikhil Menon,Female,8,MBA/PGDM,LinkedIn,2024-02-05
+678,Sahil Malhotra,Female,12,Master's,Naukri,2022-07-13
+679,Tanvi Naik,Male,1,Master's,Recruitment Agency,2022-10-11
+680,Rhea Mehta,Female,4,Bachelor's,Employee Referral,2024-03-27
+681,Karan Kapoor,Female,12,Bachelor's,Campus Hiring,2022-08-07
+682,Varun More,Male,10,MBA/PGDM,Recruitment Agency,2024-05-16
+683,Aniket Pawar,Female,1,Master's,Naukri,2024-02-24
+684,Yash Thakur,Female,3,Master's,Campus Hiring,2024-11-30
+685,Ankita Iyer,Male,11,MBA/PGDM,Company Website,2022-06-24
+686,Isha Reddy,Male,12,Master's,Employee Referral,2024-07-25
+687,Aarav Thakur,Male,5,Bachelor's,Company Website,2024-01-24
+688,Dev Rao,Male,2,Diploma,Employee Referral,2025-03-11
+689,Pallavi Malhotra,Female,12,MBA/PGDM,Naukri,2022-09-07
+690,Pooja Malhotra,Female,8,Bachelor's,Recruitment Agency,2021-03-01
+691,Isha More,Female,9,Diploma,Company Website,2022-01-08
+692,Rhea Joshi,Female,3,Bachelor's,Naukri,2023-04-06
+693,Riya Menon,Female,8,MBA/PGDM,Employee Referral,2022-07-28
+694,Abhishek Saxena,Male,7,MBA/PGDM,Campus Hiring,2021-10-25
+695,Sonali Singh,Female,12,Master's,LinkedIn,2022-11-30
+696,Riya Verma,Male,9,Master's,Campus Hiring,2022-03-03
+697,Maya Pillai,Male,12,Diploma,Employee Referral,2025-01-10
+698,Rahul Thakur,Male,4,MBA/PGDM,LinkedIn,2025-08-02
+699,Pallavi Pillai,Male,6,Bachelor's,Recruitment Agency,2025-05-11
+700,Arjun Chopra,Male,3,Bachelor's,LinkedIn,2025-03-05
+701,Nikhil Khan,Female,8,Diploma,Employee Referral,2025-06-12
+702,Vidya Iyer,Female,6,Diploma,Employee Referral,2022-12-26
+703,Isha Chopra,Male,2,Diploma,Naukri,2021-01-30
+704,Diya Sharma,Female,9,Master's,Recruitment Agency,2023-07-14
+705,Tanvi Mishra,Female,0,Master's,LinkedIn,2021-04-04
+706,Aditya Deshmukh,Female,9,MBA/PGDM,Naukri,2025-04-13
+707,Nikhil Patel,Male,4,Master's,LinkedIn,2025-03-17
+708,Rhea Singh,Male,11,Diploma,Recruitment Agency,2025-06-19
+709,Pallavi Khan,Female,3,MBA/PGDM,Recruitment Agency,2021-06-09
+710,Rohan Joshi,Female,8,Bachelor's,Employee Referral,2025-09-26
+711,Sahil Reddy,Female,11,MBA/PGDM,Company Website,2024-11-28
+712,Meera Pawar,Male,11,MBA/PGDM,Naukri,2022-03-09
+713,Anjali Rao,Male,12,Diploma,Naukri,2021-11-08
+714,Vidya Chopra,Female,1,Bachelor's,Recruitment Agency,2024-11-10
+715,Aarav Verma,Female,0,MBA/PGDM,Recruitment Agency,2024-06-18
+716,Nikhil Naik,Female,12,Master's,Company Website,2024-03-26
+717,Kavya Khan,Female,3,Diploma,Employee Referral,2023-04-02
+718,Amit Jain,Male,1,Master's,Employee Referral,2023-10-06
+719,Kavya Pawar,Male,10,MBA/PGDM,Company Website,2022-05-23
+720,Mohit Reddy,Female,7,Master's,Employee Referral,2025-07-13
+721,Mohit Chopra,Male,3,Diploma,Naukri,2022-03-20
+722,Mohit Gupta,Male,1,Bachelor's,Naukri,2023-05-03
+723,Dev Mishra,Male,4,MBA/PGDM,LinkedIn,2022-12-09
+724,Rohan Jain,Female,10,Bachelor's,LinkedIn,2025-02-09
+725,Meera Pawar,Male,0,MBA/PGDM,Naukri,2023-09-01
+726,Dhruv Saxena,Female,1,Diploma,Naukri,2025-06-19
+727,Diya Jain,Male,1,Master's,LinkedIn,2025-07-27
+728,Neha Gupta,Male,6,Master's,Campus Hiring,2021-04-20
+729,Riya Verma,Female,4,Bachelor's,LinkedIn,2021-02-17
+730,Nikhil Verma,Female,4,MBA/PGDM,Company Website,2023-07-06
+731,Priya Malhotra,Female,6,Diploma,Employee Referral,2023-10-28
+732,Karan Saxena,Male,4,Bachelor's,Recruitment Agency,2022-07-03
+733,Yash Gupta,Male,3,Bachelor's,Naukri,2022-03-06
+734,Rohan Naik,Male,5,Diploma,LinkedIn,2023-07-13
+735,Rohit Naik,Male,0,MBA/PGDM,Employee Referral,2021-06-28
+736,Dhruv Rao,Male,2,Master's,Recruitment Agency,2023-09-30
+737,Sakshi Nair,Male,5,Bachelor's,Campus Hiring,2025-06-22
+738,Ananya Sharma,Male,10,Master's,Campus Hiring,2021-04-10
+739,Tanya Pillai,Male,3,Master's,LinkedIn,2021-02-25
+740,Sneha Saxena,Female,10,Diploma,LinkedIn,2024-07-16
+741,Maya Malhotra,Male,2,Bachelor's,Employee Referral,2022-09-12
+742,Tanvi Gupta,Male,8,MBA/PGDM,Employee Referral,2024-03-28
+743,Aditi Mehta,Male,11,Diploma,Naukri,2023-12-04
+744,Shreya Joshi,Female,3,Diploma,Company Website,2022-02-18
+745,Ankita Rao,Female,6,Master's,Naukri,2025-10-08
+746,Harsh Menon,Male,6,Bachelor's,LinkedIn,2024-12-16
+747,Kavya Shinde,Male,9,MBA/PGDM,LinkedIn,2025-04-11
+748,Tanvi More,Female,6,Master's,Company Website,2021-04-30
+749,Manish Kulkarni,Female,8,Diploma,Employee Referral,2022-09-27
+750,Akash Joshi,Male,3,Diploma,LinkedIn,2021-12-11
+751,Maya Patel,Female,8,Master's,Company Website,2021-06-20
+752,Dhruv Patel,Female,1,Diploma,Recruitment Agency,2024-10-09
+753,Nisha Pawar,Male,3,Diploma,Company Website,2022-02-05
+754,Vidya Verma,Female,4,Diploma,Naukri,2022-09-28
+755,Rhea Malhotra,Female,9,Diploma,LinkedIn,2022-02-25
+756,Maya Pawar,Female,2,Diploma,Naukri,2025-01-04
+757,Pooja Naik,Female,4,Diploma,Recruitment Agency,2025-01-26
+758,Rhea Menon,Male,11,Diploma,Recruitment Agency,2025-11-15
+759,Neha Nair,Female,1,Bachelor's,LinkedIn,2025-04-09
+760,Harsh Bansal,Male,7,Master's,Recruitment Agency,2024-07-20
+761,Yash Shinde,Male,8,Bachelor's,LinkedIn,2024-07-17
+762,Ashish Chopra,Male,10,Diploma,Recruitment Agency,2023-09-10
+763,Ashish Naik,Female,2,Bachelor's,Campus Hiring,2024-05-11
+764,Priya Malhotra,Female,0,Bachelor's,Naukri,2021-03-08
+765,Sanjay Malhotra,Male,11,Master's,LinkedIn,2022-02-01
+766,Dhruv Reddy,Male,8,Diploma,Campus Hiring,2022-10-02
+767,Nisha Mehta,Male,10,Master's,Naukri,2022-11-15
+768,Sakshi Jadhav,Male,8,MBA/PGDM,Recruitment Agency,2024-10-04
+769,Vidya Gupta,Female,6,Diploma,Campus Hiring,2024-02-16
+770,Rhea Verma,Female,1,Diploma,Company Website,2024-06-27
+771,Aarav Kapoor,Male,7,Diploma,Company Website,2025-01-26
+772,Karan Deshmukh,Male,11,MBA/PGDM,Company Website,2021-07-19
+773,Trisha Gupta,Male,11,Master's,Campus Hiring,2022-11-16
+774,Shreya Patel,Female,1,MBA/PGDM,Campus Hiring,2023-03-05
+775,Trisha Kulkarni,Female,12,Bachelor's,Naukri,2023-07-21
+776,Nikhil Jadhav,Female,7,MBA/PGDM,Naukri,2021-09-27
+777,Dhruv Chopra,Male,5,Bachelor's,Naukri,2023-12-24
+778,Sonali Patel,Female,1,Bachelor's,LinkedIn,2023-12-04
+779,Ananya Naik,Male,6,Master's,LinkedIn,2024-02-25
+780,Vaishnavi Pillai,Male,12,MBA/PGDM,Recruitment Agency,2023-07-06
+781,Akash Jain,Male,12,MBA/PGDM,Employee Referral,2025-04-21
+782,Aditya Reddy,Male,8,Master's,Recruitment Agency,2025-10-17
+783,Neha Gupta,Female,4,Master's,Naukri,2024-11-20
+784,Sakshi Singh,Male,12,MBA/PGDM,Company Website,2023-04-20
+785,Sanjay Shinde,Male,11,MBA/PGDM,Naukri,2024-11-06
+786,Dhruv Gupta,Female,3,Diploma,Naukri,2022-12-22
+787,Priya Malhotra,Male,0,MBA/PGDM,Campus Hiring,2022-06-24
+788,Ankita Pawar,Female,6,Diploma,Naukri,2021-06-20
+789,Abhishek Malhotra,Female,12,MBA/PGDM,Company Website,2025-03-10
+790,Sanjay Pawar,Male,5,MBA/PGDM,Campus Hiring,2024-05-26
+791,Manish Pillai,Male,0,MBA/PGDM,Recruitment Agency,2025-12-09
+792,Maya Kapoor,Female,0,Bachelor's,Campus Hiring,2023-11-18
+793,Sameer Patel,Female,10,Diploma,Naukri,2025-04-12
+794,Rohan Pawar,Male,2,Bachelor's,Company Website,2023-04-24
+795,Dhruv Khan,Male,11,Diploma,Campus Hiring,2024-10-16
+796,Maya Mishra,Female,3,Bachelor's,Employee Referral,2021-09-06
+797,Abhishek Sawant,Female,11,MBA/PGDM,LinkedIn,2025-01-16
+798,Sonali Rao,Male,0,MBA/PGDM,LinkedIn,2025-03-19
+799,Sakshi Deshmukh,Male,7,MBA/PGDM,Campus Hiring,2025-07-16
+800,Rohit Reddy,Female,10,Master's,Company Website,2024-06-03
+801,Vidya Reddy,Male,5,Diploma,LinkedIn,2023-06-20
+802,Mohit Joshi,Female,12,MBA/PGDM,Company Website,2024-02-12
+803,Pallavi Khan,Male,0,Master's,Recruitment Agency,2022-06-09
+804,Karan Bansal,Female,5,MBA/PGDM,Naukri,2023-08-28
+805,Arjun More,Female,8,Master's,Recruitment Agency,2024-04-07
+806,Manish Khan,Female,3,Master's,Company Website,2024-08-08
+807,Yash Sharma,Female,5,Master's,Naukri,2024-04-24
+808,Kavya Patel,Male,11,Bachelor's,Campus Hiring,2021-03-17
+809,Zoya Nair,Female,8,MBA/PGDM,Employee Referral,2022-04-22
+810,Sneha Malhotra,Female,2,MBA/PGDM,Campus Hiring,2021-03-13
+811,Tanvi Shinde,Female,10,Bachelor's,Campus Hiring,2023-03-04
+812,Nikhil Nair,Female,5,Diploma,Recruitment Agency,2024-06-23
+813,Sakshi Deshmukh,Male,4,Bachelor's,Employee Referral,2023-03-20
+814,Aniket Nair,Male,7,Bachelor's,Recruitment Agency,2025-10-23
+815,Maya Saxena,Male,2,MBA/PGDM,Employee Referral,2023-03-25
+816,Harsh Sawant,Male,0,Diploma,LinkedIn,2025-11-21
+817,Shreya Pawar,Female,5,MBA/PGDM,Campus Hiring,2024-04-24
+818,Sneha Malhotra,Female,4,Diploma,LinkedIn,2022-10-06
+819,Trisha Mehta,Female,1,MBA/PGDM,Company Website,2022-03-24
+820,Aniket Joshi,Female,10,MBA/PGDM,Naukri,2021-12-03
+821,Rahul More,Female,7,MBA/PGDM,Naukri,2025-01-31
+822,Rahul More,Female,1,Diploma,Naukri,2024-12-18
+823,Amit Iyer,Female,4,Master's,LinkedIn,2024-07-13
+824,Rhea Gupta,Female,0,Diploma,Employee Referral,2025-05-09
+825,Vivek Nair,Male,5,Diploma,Company Website,2024-08-25
+826,Amit Jadhav,Male,2,Master's,Campus Hiring,2021-01-13
+827,Nisha Pawar,Male,8,Diploma,Recruitment Agency,2025-12-02
+828,Dhruv Thakur,Female,7,Diploma,Naukri,2025-04-27
+829,Rohan Singh,Male,10,Master's,Naukri,2022-01-22
+830,Akash Chopra,Male,12,Diploma,Campus Hiring,2021-07-18
+831,Aarav Joshi,Female,5,Bachelor's,Company Website,2021-05-31
+832,Diya Jadhav,Male,3,Diploma,Company Website,2025-11-10
+833,Anjali Sharma,Male,4,Master's,LinkedIn,2023-09-28
+834,Tanvi Iyer,Female,1,Diploma,Recruitment Agency,2024-04-09
+835,Anjali Patel,Male,3,Diploma,Employee Referral,2024-10-13
+836,Aniket Patel,Female,7,Bachelor's,LinkedIn,2022-03-11
+837,Nikhil Thakur,Female,7,Diploma,Naukri,2022-03-07
+838,Arjun More,Female,5,Diploma,Employee Referral,2024-02-07
+839,Vaishnavi Iyer,Male,1,Diploma,Company Website,2021-11-30
+840,Vidya Singh,Male,6,MBA/PGDM,Company Website,2021-06-30
+841,Sonali Chopra,Female,6,Master's,Campus Hiring,2022-01-20
+842,Pooja Menon,Female,3,MBA/PGDM,Naukri,2025-12-02
+843,Neha Menon,Male,1,Master's,Employee Referral,2023-03-13
+844,Varun Sawant,Female,10,Bachelor's,LinkedIn,2024-08-19
+845,Aarav Jain,Female,12,MBA/PGDM,Naukri,2022-04-15
+846,Ananya Rao,Male,8,MBA/PGDM,Employee Referral,2023-04-23
+847,Nisha Kulkarni,Female,8,MBA/PGDM,Naukri,2021-12-07
+848,Zoya Khan,Male,0,Master's,Employee Referral,2023-03-21
+849,Sneha More,Male,5,MBA/PGDM,Company Website,2025-04-20
+850,Dhruv Sharma,Male,7,Bachelor's,Naukri,2023-12-05
+851,Aditya Nair,Female,12,MBA/PGDM,Campus Hiring,2022-10-22
+852,Anjali Rao,Male,0,Master's,Company Website,2022-07-01
+853,Meera Saxena,Male,11,Bachelor's,Recruitment Agency,2025-04-15
+854,Ananya Shinde,Female,9,Bachelor's,Company Website,2025-02-23
+855,Trisha Kulkarni,Female,5,Bachelor's,Naukri,2021-11-09
+856,Nisha Patel,Female,4,MBA/PGDM,Recruitment Agency,2023-09-24
+857,Maya Reddy,Male,11,MBA/PGDM,Company Website,2025-08-14
+858,Ankita Mishra,Male,2,MBA/PGDM,Company Website,2025-06-10
+859,Aniket Sharma,Male,10,Master's,Employee Referral,2022-10-20
+860,Trisha Kulkarni,Male,6,Diploma,Naukri,2022-04-19
+861,Nisha Sawant,Female,6,Diploma,LinkedIn,2021-09-29
+862,Dev Sawant,Male,1,MBA/PGDM,Company Website,2023-08-12
+863,Dhruv Chopra,Female,1,Diploma,Employee Referral,2021-02-18
+864,Amit Kulkarni,Male,7,Master's,Recruitment Agency,2025-02-10
+865,Varun Khan,Female,1,Master's,Naukri,2025-10-16
+866,Sahil Sharma,Male,1,Bachelor's,Recruitment Agency,2025-01-19
+867,Ashish Deshmukh,Female,3,Bachelor's,Employee Referral,2025-10-02
+868,Rahul Deshmukh,Male,8,Diploma,Naukri,2025-04-27
+869,Aarav Deshmukh,Female,1,Bachelor's,Employee Referral,2023-05-29
+870,Sameer Gupta,Male,10,MBA/PGDM,Recruitment Agency,2022-01-13
+871,Sonali Verma,Male,8,Master's,Company Website,2021-04-23
+872,Ashish Bansal,Male,8,Diploma,LinkedIn,2024-05-12
+873,Rohit More,Female,9,Master's,Recruitment Agency,2022-04-01
+874,Neha Deshmukh,Female,7,Master's,Campus Hiring,2021-09-07
+875,Aditi More,Male,11,Bachelor's,LinkedIn,2021-06-07
+876,Dhruv Deshmukh,Female,2,Master's,Employee Referral,2025-10-14
+877,Ashish Pillai,Female,1,Bachelor's,Campus Hiring,2022-07-28
+878,Sneha Iyer,Female,7,Bachelor's,LinkedIn,2025-04-11
+879,Aditya Deshmukh,Female,4,Diploma,Employee Referral,2022-12-10
+880,Dhruv Singh,Female,3,Diploma,LinkedIn,2021-03-30
+881,Diya Sawant,Male,7,Bachelor's,Employee Referral,2025-05-03
+882,Tanvi Reddy,Female,11,Diploma,Naukri,2023-12-22
+883,Sneha Sharma,Male,2,Master's,Recruitment Agency,2025-01-25
+884,Sakshi Rao,Male,5,Master's,Naukri,2025-04-23
+885,Sanjay Verma,Female,8,Master's,LinkedIn,2025-01-05
+886,Yash Rao,Female,6,Diploma,Naukri,2024-04-04
+887,Aarav Mehta,Female,7,Diploma,Campus Hiring,2022-11-09
+888,Manish Mehta,Female,0,Bachelor's,Naukri,2023-08-18
+889,Diya Khan,Male,6,Master's,Company Website,2023-01-11
+890,Neha Naik,Female,9,MBA/PGDM,LinkedIn,2021-06-11
+891,Karan Nair,Male,7,MBA/PGDM,LinkedIn,2022-12-22
+892,Ashish Jain,Male,7,Diploma,Employee Referral,2025-07-29
+893,Tanvi Gupta,Female,9,MBA/PGDM,Naukri,2022-01-08
+894,Arjun Nair,Male,9,MBA/PGDM,Naukri,2021-09-09
+895,Sanjay Shinde,Female,4,MBA/PGDM,LinkedIn,2025-06-19
+896,Sahil Singh,Male,0,MBA/PGDM,Campus Hiring,2025-08-14
+897,Riya Jain,Male,10,Diploma,Campus Hiring,2025-01-31
+898,Sanjay Shinde,Male,7,Diploma,Employee Referral,2024-08-14
+899,Rohit Kapoor,Male,4,Diploma,Employee Referral,2022-12-19
+900,Vidya Thakur,Female,8,Diploma,Naukri,2025-09-25
+901,Mohit Jain,Female,2,Master's,Recruitment Agency,2023-06-22
+902,Abhishek Gupta,Female,0,MBA/PGDM,Campus Hiring,2024-11-19
+903,Ashish More,Female,4,Bachelor's,Company Website,2023-11-05
+904,Pallavi Mehta,Male,4,MBA/PGDM,Campus Hiring,2023-12-04
+905,Dhruv Kapoor,Male,8,Bachelor's,Company Website,2023-02-20
+906,Rohan Kapoor,Female,9,Bachelor's,Employee Referral,2025-11-03
+907,Ananya Reddy,Male,12,Master's,Campus Hiring,2025-07-27
+908,Dev Jain,Female,6,MBA/PGDM,Recruitment Agency,2024-11-29
+909,Nisha Chopra,Male,1,Master's,Campus Hiring,2024-11-07
+910,Kavya Saxena,Female,1,Bachelor's,Naukri,2025-05-08
+911,Sneha Reddy,Male,2,MBA/PGDM,Company Website,2022-04-30
+912,Dhruv Sawant,Male,8,Diploma,Company Website,2021-05-01
+913,Harsh Iyer,Female,8,MBA/PGDM,Naukri,2022-12-02
+914,Dev Pillai,Male,10,Master's,Naukri,2021-01-19
+915,Tanvi Pillai,Female,11,Bachelor's,Recruitment Agency,2022-02-21
+916,Maya Khan,Male,3,Bachelor's,Campus Hiring,2024-10-14
+917,Shreya Rao,Female,2,Diploma,Employee Referral,2024-04-13
+918,Sakshi Menon,Male,10,Master's,Naukri,2021-12-06
+919,Rohit Bansal,Female,12,Master's,Company Website,2024-05-16
+920,Tanvi Rao,Female,2,Diploma,Campus Hiring,2023-03-20
+921,Akash Singh,Male,2,Bachelor's,Naukri,2021-06-11
+922,Rohit More,Male,12,MBA/PGDM,Employee Referral,2021-10-31
+923,Isha Rao,Male,11,Master's,LinkedIn,2021-01-22
+924,Isha Kapoor,Male,5,Diploma,Recruitment Agency,2021-07-05
+925,Aditi Kapoor,Female,0,Bachelor's,Naukri,2024-02-18
+926,Amit Shinde,Female,11,Master's,Campus Hiring,2022-03-27
+927,Vaishnavi Sharma,Female,2,Diploma,Employee Referral,2024-11-28
+928,Aarav Joshi,Female,6,Diploma,Employee Referral,2023-02-11
+929,Rhea Jain,Female,8,Bachelor's,LinkedIn,2024-05-31
+930,Sanjay Jadhav,Female,4,Diploma,Campus Hiring,2023-10-15
+931,Sakshi Iyer,Female,7,Master's,Campus Hiring,2021-07-15
+932,Sameer Mishra,Male,10,Diploma,Campus Hiring,2023-05-15
+933,Trisha Patel,Female,5,Diploma,LinkedIn,2023-02-16
+934,Sneha Joshi,Male,7,Master's,Campus Hiring,2023-07-16
+935,Neha Sharma,Female,1,Master's,Employee Referral,2023-07-04
+936,Trisha Jain,Male,7,MBA/PGDM,LinkedIn,2024-06-01
+937,Abhishek Deshmukh,Female,1,Master's,Company Website,2025-08-25
+938,Aarav Jadhav,Female,6,Bachelor's,LinkedIn,2023-12-02
+939,Pooja Jain,Male,3,Diploma,Recruitment Agency,2022-02-15
+940,Akash Verma,Male,3,Bachelor's,Campus Hiring,2025-12-13
+941,Manish Iyer,Male,3,MBA/PGDM,Company Website,2023-09-18
+942,Tanya Patel,Male,7,Diploma,Campus Hiring,2022-04-30
+943,Karan More,Male,5,Bachelor's,Campus Hiring,2022-03-28
+944,Sneha Mishra,Male,7,Bachelor's,Campus Hiring,2021-06-29
+945,Priya Joshi,Male,8,Bachelor's,Recruitment Agency,2024-01-16
+946,Sakshi Iyer,Female,12,Bachelor's,Company Website,2022-07-19
+947,Dev Rao,Male,10,Bachelor's,LinkedIn,2021-08-21
+948,Nisha Rao,Female,7,Master's,LinkedIn,2024-02-29
+949,Priya Deshmukh,Male,1,MBA/PGDM,LinkedIn,2023-01-04
+950,Sakshi Patel,Female,1,Master's,Employee Referral,2024-03-15
+951,Shreya Nair,Female,7,Bachelor's,Naukri,2024-11-23
+952,Riya Reddy,Female,8,Master's,Campus Hiring,2023-09-09
+953,Varun Singh,Male,11,Bachelor's,Employee Referral,2025-04-28
+954,Varun Joshi,Female,2,MBA/PGDM,Company Website,2021-09-18
+955,Isha Malhotra,Male,7,MBA/PGDM,Campus Hiring,2021-11-27
+956,Riya Nair,Male,5,Master's,Naukri,2023-01-09
+957,Zoya Khan,Male,5,Master's,Campus Hiring,2025-08-03
+958,Abhishek Verma,Male,8,MBA/PGDM,Campus Hiring,2021-09-30
+959,Kavya Patel,Male,12,Bachelor's,LinkedIn,2022-03-18
+960,Sakshi Reddy,Male,2,Bachelor's,Employee Referral,2021-11-29
+961,Rahul Iyer,Male,7,Master's,LinkedIn,2022-12-14
+962,Nisha Rao,Female,10,Bachelor's,Campus Hiring,2025-11-24
+963,Vivek Chopra,Male,12,MBA/PGDM,LinkedIn,2023-09-23
+964,Pooja Sawant,Female,3,Master's,Company Website,2024-01-07
+965,Mohit Nair,Male,4,MBA/PGDM,LinkedIn,2021-01-05
+966,Sahil Jain,Female,9,MBA/PGDM,Campus Hiring,2022-11-21
+967,Priya Iyer,Female,10,Bachelor's,LinkedIn,2025-07-14
+968,Akash Malhotra,Male,2,Diploma,LinkedIn,2022-09-21
+969,Mohit Kulkarni,Male,1,Bachelor's,LinkedIn,2024-10-27
+970,Aarav Menon,Female,7,Bachelor's,Recruitment Agency,2023-12-10
+971,Pallavi Mishra,Male,3,Bachelor's,Recruitment Agency,2025-09-18
+972,Karan Saxena,Male,4,Master's,Company Website,2024-01-24
+973,Yash Sawant,Female,8,Master's,Naukri,2022-02-27
+974,Arjun Reddy,Male,11,Diploma,Campus Hiring,2021-03-27
+975,Dhruv Pawar,Female,1,MBA/PGDM,Company Website,2021-05-28
+976,Maya Saxena,Male,8,Diploma,Campus Hiring,2024-09-08
+977,Rohit Iyer,Female,10,MBA/PGDM,Campus Hiring,2023-04-20
+978,Sakshi Saxena,Female,3,MBA/PGDM,Campus Hiring,2025-02-22
+979,Sameer Kulkarni,Male,2,MBA/PGDM,Employee Referral,2025-02-01
+980,Mohit Kapoor,Female,3,Master's,Naukri,2022-01-22
+981,Aditi Rao,Male,7,Diploma,Campus Hiring,2023-02-06
+982,Meera Malhotra,Male,3,Master's,Employee Referral,2022-04-20
+983,Rohan Naik,Male,3,Diploma,Naukri,2024-08-15
+984,Pooja Mishra,Male,4,Diploma,Recruitment Agency,2021-03-31
+985,Trisha Naik,Male,11,Master's,Naukri,2024-08-14
+986,Vivek Sharma,Male,1,Bachelor's,Company Website,2023-07-31
+987,Shreya Reddy,Female,5,Bachelor's,Recruitment Agency,2022-08-16
+988,Vivek Deshmukh,Male,0,Diploma,Employee Referral,2021-12-13
+989,Sneha More,Female,11,Diploma,Campus Hiring,2021-10-01
+990,Neha Jain,Female,4,Master's,LinkedIn,2022-03-25
+991,Trisha Rao,Female,2,Diploma,Campus Hiring,2021-11-28
+992,Diya Mehta,Female,6,Master's,Company Website,2023-09-20
+993,Mohit Jadhav,Female,3,MBA/PGDM,Recruitment Agency,2021-06-18
+994,Aarav Naik,Female,8,MBA/PGDM,Campus Hiring,2023-11-09
+995,Manish Kapoor,Male,10,Diploma,Company Website,2022-01-21
+996,Vidya Shinde,Female,2,Bachelor's,LinkedIn,2022-08-28
+997,Ananya Sharma,Male,4,Master's,Naukri,2023-03-04
+998,Kavya Sharma,Male,12,Bachelor's,Recruitment Agency,2023-10-10
+999,Pooja Gupta,Female,2,MBA/PGDM,Campus Hiring,2022-08-09
+1000,Maya Saxena,Male,7,Diploma,Employee Referral,2022-10-02
+1001,Neha Jadhav,Female,5,MBA/PGDM,Campus Hiring,2024-09-12
+1002,Aditi Shinde,Male,7,Diploma,LinkedIn,2024-01-12
+1003,Anjali Jadhav,Male,0,Master's,Naukri,2023-06-16
+1004,Shreya Chopra,Male,1,Bachelor's,Company Website,2022-03-20
+1005,Amit Pawar,Male,10,Diploma,Company Website,2024-04-18
+1006,Aniket Jadhav,Male,12,MBA/PGDM,Campus Hiring,2023-03-04
+1007,Sahil Singh,Female,9,Master's,Recruitment Agency,2024-05-24
+1008,Ankita Thakur,Female,7,Diploma,Recruitment Agency,2025-01-03
+1009,Harsh Mishra,Female,12,Master's,LinkedIn,2025-02-24
+1010,Priya Chopra,Male,8,Master's,Campus Hiring,2023-12-16
+1011,Aditya Sawant,Male,3,Diploma,LinkedIn,2025-03-26
+1012,Mohit Patel,Female,10,MBA/PGDM,Naukri,2022-04-05
+1013,Ankita Mishra,Female,7,MBA/PGDM,Employee Referral,2023-05-15
+1014,Trisha Jain,Female,0,MBA/PGDM,Recruitment Agency,2025-05-07
+1015,Yash Mishra,Male,1,Master's,Campus Hiring,2021-10-25
+1016,Sneha Malhotra,Male,5,MBA/PGDM,Company Website,2024-03-04
+1017,Aarav Jain,Female,7,MBA/PGDM,Employee Referral,2023-08-08
+1018,Abhishek Mishra,Female,11,Master's,Employee Referral,2022-06-07
+1019,Dev Rao,Female,12,Master's,Recruitment Agency,2024-07-29
+1020,Yash Sharma,Male,7,Master's,LinkedIn,2025-05-20
+1021,Maya Chopra,Male,4,Diploma,Campus Hiring,2024-01-22
+1022,Pallavi Pillai,Female,1,Bachelor's,Company Website,2024-06-11
+1023,Pooja Rao,Male,9,Master's,Naukri,2021-09-24
+1024,Ankita Pillai,Female,5,MBA/PGDM,Campus Hiring,2022-09-24
+1025,Varun Bansal,Female,3,Bachelor's,Company Website,2025-05-09
+1026,Zoya Verma,Male,12,MBA/PGDM,Employee Referral,2023-10-27
+1027,Sneha Joshi,Female,10,Diploma,LinkedIn,2023-11-01
+1028,Tanvi Naik,Male,10,MBA/PGDM,Campus Hiring,2022-12-30
+1029,Manish Iyer,Female,9,Diploma,Company Website,2023-05-22
+1030,Aniket Malhotra,Female,10,Bachelor's,LinkedIn,2022-10-19
+1031,Sonali Thakur,Male,1,MBA/PGDM,Naukri,2023-08-17
+1032,Dev Pawar,Male,1,Master's,Employee Referral,2023-02-17
+1033,Zoya Jain,Female,8,Diploma,LinkedIn,2022-11-23
+1034,Pooja Sawant,Female,2,Bachelor's,Naukri,2022-03-10
+1035,Maya Kulkarni,Female,10,Master's,Employee Referral,2024-04-18
+1036,Rahul Patel,Male,8,MBA/PGDM,Naukri,2025-04-07
+1037,Arjun Patel,Male,5,Bachelor's,Naukri,2025-10-17
+1038,Trisha Chopra,Female,9,Diploma,Company Website,2022-01-22
+1039,Maya Reddy,Male,12,Bachelor's,Recruitment Agency,2025-11-11
+1040,Pooja Saxena,Male,9,Master's,LinkedIn,2022-01-26
+1041,Akash Joshi,Female,6,Diploma,LinkedIn,2023-08-05
+1042,Varun Jain,Female,12,Master's,LinkedIn,2024-01-14
+1043,Sakshi Deshmukh,Male,3,Diploma,Campus Hiring,2023-08-23
+1044,Diya Sawant,Female,0,Bachelor's,LinkedIn,2023-07-25
+1045,Vidya Shinde,Female,1,Diploma,Recruitment Agency,2025-04-30
+1046,Riya Khan,Female,12,Bachelor's,Employee Referral,2023-03-23
+1047,Trisha Bansal,Female,0,Bachelor's,Company Website,2023-08-10
+1048,Nisha Pillai,Male,6,Master's,Naukri,2021-10-20
+1049,Amit Jadhav,Male,6,Master's,Company Website,2022-08-09
+1050,Riya Khan,Female,1,MBA/PGDM,LinkedIn,2021-11-10
+1051,Aniket Rao,Male,8,Master's,Campus Hiring,2025-03-29
+1052,Arjun Verma,Male,0,MBA/PGDM,Campus Hiring,2024-11-16
+1053,Manish Kapoor,Male,1,Master's,Campus Hiring,2023-03-09
+1054,Sameer Gupta,Female,11,Bachelor's,Naukri,2023-07-07
+1055,Vaishnavi Jadhav,Female,7,MBA/PGDM,Naukri,2021-05-29
+1056,Tanvi Pillai,Female,2,Master's,Company Website,2023-07-19
+1057,Manish Rao,Male,3,MBA/PGDM,Campus Hiring,2025-02-26
+1058,Tanya Kulkarni,Male,3,Diploma,Recruitment Agency,2023-06-15
+1059,Anjali Patel,Male,5,Master's,Recruitment Agency,2024-12-26
+1060,Manish Sharma,Female,6,Diploma,Company Website,2023-07-03
+1061,Arjun Thakur,Male,10,Bachelor's,Naukri,2021-10-05
+1062,Pallavi Malhotra,Female,1,Diploma,Recruitment Agency,2021-12-26
+1063,Tanya Menon,Male,1,Bachelor's,Campus Hiring,2024-02-14
+1064,Abhishek Gupta,Female,6,Bachelor's,LinkedIn,2025-03-19
+1065,Yash Malhotra,Male,4,Bachelor's,LinkedIn,2025-03-19
+1066,Varun Shinde,Male,9,Master's,Recruitment Agency,2022-02-14
+1067,Mohit Sharma,Female,12,Master's,LinkedIn,2025-05-24
+1068,Diya Singh,Female,6,Bachelor's,Employee Referral,2022-11-25
+1069,Rahul Pillai,Female,8,Bachelor's,LinkedIn,2023-03-14
+1070,Amit Malhotra,Male,9,MBA/PGDM,Employee Referral,2025-08-26
+1071,Rahul Chopra,Female,5,MBA/PGDM,Naukri,2024-03-22
+1072,Vaishnavi Shinde,Female,12,Bachelor's,Recruitment Agency,2023-07-21
+1073,Aditya Sawant,Male,1,Diploma,Campus Hiring,2021-08-17
+1074,Zoya Patel,Female,7,Bachelor's,Campus Hiring,2024-06-06
+1075,Aditya Bansal,Female,5,MBA/PGDM,Company Website,2024-07-01
+1076,Rohan Nair,Female,9,Diploma,Naukri,2021-09-11
+1077,Trisha Sawant,Male,7,Master's,Recruitment Agency,2021-10-31
+1078,Rohit Kapoor,Female,1,Bachelor's,Campus Hiring,2021-02-12
+1079,Yash Patel,Male,6,Master's,Company Website,2023-07-09
+1080,Arjun Chopra,Female,5,Diploma,Recruitment Agency,2025-11-12
+1081,Sakshi Gupta,Female,3,Bachelor's,Employee Referral,2024-07-24
+1082,Sanjay More,Female,6,Master's,Naukri,2022-04-22
+1083,Sanjay Sawant,Male,1,MBA/PGDM,Recruitment Agency,2022-10-30
+1084,Sonali Bansal,Female,11,MBA/PGDM,Campus Hiring,2022-06-27
+1085,Rhea Verma,Male,3,Master's,Naukri,2024-06-04
+1086,Arjun Bansal,Female,6,Bachelor's,Recruitment Agency,2025-06-25
+1087,Karan Jain,Male,11,Diploma,LinkedIn,2023-01-28
+1088,Aditi Jadhav,Male,6,Master's,Employee Referral,2025-12-02
+1089,Zoya Rao,Male,1,Bachelor's,Campus Hiring,2022-08-22
+1090,Nisha Mehta,Female,0,Bachelor's,LinkedIn,2022-04-16
+1091,Zoya Nair,Female,4,Bachelor's,Campus Hiring,2024-08-08
+1092,Karan Deshmukh,Male,4,Diploma,Recruitment Agency,2025-09-15
+1093,Diya Deshmukh,Female,6,Diploma,Employee Referral,2023-11-29
+1094,Sneha Mishra,Female,11,MBA/PGDM,Campus Hiring,2021-06-22
+1095,Varun Sawant,Female,2,Diploma,LinkedIn,2023-03-19
+1096,Rohit Bansal,Female,4,Master's,Naukri,2025-05-14
+1097,Sakshi Bansal,Male,5,Bachelor's,Company Website,2022-06-01
+1098,Tanya Thakur,Female,12,Master's,Employee Referral,2022-11-16
+1099,Trisha Bansal,Male,7,MBA/PGDM,Recruitment Agency,2021-08-14
+1100,Arjun Singh,Female,7,MBA/PGDM,Naukri,2021-04-08
+1101,Yash Bansal,Male,5,Diploma,LinkedIn,2024-10-30
+1102,Maya Sawant,Female,2,Diploma,LinkedIn,2021-03-11
+1103,Rahul Pawar,Male,9,Bachelor's,Company Website,2021-03-12
+1104,Mohit Chopra,Female,5,Master's,Company Website,2024-12-13
+1105,Sahil Pawar,Male,12,Diploma,Naukri,2022-04-30
+1106,Shreya Reddy,Male,7,Master's,Company Website,2024-06-03
+1107,Sakshi Menon,Male,7,MBA/PGDM,Employee Referral,2022-05-04
+1108,Sahil Nair,Female,6,Master's,Campus Hiring,2022-09-09
+1109,Dhruv Patel,Female,3,Diploma,Employee Referral,2022-05-23
+1110,Akash Kulkarni,Male,2,Master's,Naukri,2023-08-26
+1111,Yash Patel,Female,1,Diploma,Recruitment Agency,2025-09-18
+1112,Amit Singh,Female,4,Bachelor's,Employee Referral,2023-03-20
+1113,Shreya Thakur,Male,10,MBA/PGDM,Campus Hiring,2021-05-29
+1114,Aniket Deshmukh,Female,7,MBA/PGDM,Company Website,2024-04-01
+1115,Tanya Pawar,Female,0,Bachelor's,Campus Hiring,2025-02-24
+1116,Zoya Kapoor,Female,0,Master's,LinkedIn,2021-07-03
+1117,Manish Pillai,Female,11,MBA/PGDM,LinkedIn,2024-10-25
+1118,Sameer Naik,Male,8,Bachelor's,Employee Referral,2022-07-20
+1119,Nisha Gupta,Female,3,Bachelor's,Company Website,2025-02-05
+1120,Varun Naik,Female,10,Bachelor's,Employee Referral,2023-10-25
+1121,Rohit Jadhav,Male,3,MBA/PGDM,Employee Referral,2023-11-11
+1122,Tanya Deshmukh,Female,10,MBA/PGDM,Recruitment Agency,2023-05-30
+1123,Yash Shinde,Female,2,Bachelor's,Naukri,2022-03-08
+1124,Sanjay Naik,Male,9,Bachelor's,Employee Referral,2021-02-14
+1125,Rhea Naik,Male,12,MBA/PGDM,Campus Hiring,2022-12-17
+1126,Ashish Saxena,Female,12,MBA/PGDM,Company Website,2024-11-09
+1127,Karan Deshmukh,Female,2,MBA/PGDM,LinkedIn,2023-01-05
+1128,Zoya Bansal,Male,2,Master's,Employee Referral,2025-04-05
+1129,Varun Menon,Female,1,Bachelor's,Campus Hiring,2021-06-01
+1130,Priya Sharma,Female,5,Diploma,Campus Hiring,2024-02-20
+1131,Riya More,Male,11,Master's,LinkedIn,2024-08-26
+1132,Harsh Mishra,Female,7,Master's,Company Website,2023-08-12
+1133,Isha Thakur,Female,10,Diploma,Employee Referral,2023-07-25
+1134,Zoya Pillai,Male,4,MBA/PGDM,Employee Referral,2021-04-14
+1135,Shreya Menon,Male,4,Master's,Company Website,2021-03-13
+1136,Pallavi Patel,Female,2,Bachelor's,Recruitment Agency,2025-06-26
+1137,Aditi Menon,Male,6,Master's,Employee Referral,2022-08-18
+1138,Anjali Khan,Male,12,MBA/PGDM,Recruitment Agency,2022-01-23
+1139,Amit Sawant,Male,10,MBA/PGDM,Employee Referral,2023-03-26
+1140,Yash Singh,Male,9,MBA/PGDM,Employee Referral,2024-09-03
+1141,Manish Nair,Female,8,Bachelor's,Naukri,2022-01-08
+1142,Meera Gupta,Male,8,Bachelor's,Campus Hiring,2022-07-31
+1143,Sanjay Bansal,Female,0,Master's,LinkedIn,2025-10-19
+1144,Sakshi Mishra,Male,5,Bachelor's,Employee Referral,2022-11-01
+1145,Sakshi Sawant,Female,5,Bachelor's,Campus Hiring,2025-09-20
+1146,Manish Reddy,Male,7,Master's,Employee Referral,2022-07-15
+1147,Akash Mehta,Female,9,Master's,LinkedIn,2024-07-07
+1148,Sneha Reddy,Female,3,Bachelor's,Campus Hiring,2022-07-13
+1149,Tanya Chopra,Male,1,Master's,Recruitment Agency,2024-01-31
+1150,Sneha Bansal,Female,5,Diploma,Campus Hiring,2021-09-17
+1151,Sameer Chopra,Female,2,Diploma,Recruitment Agency,2025-03-11
+1152,Kavya Joshi,Female,3,Master's,LinkedIn,2021-08-12
+1153,Anjali Nair,Male,2,MBA/PGDM,LinkedIn,2022-09-19
+1154,Manish Deshmukh,Male,9,MBA/PGDM,LinkedIn,2022-08-22
+1155,Shreya Kapoor,Female,11,Master's,Employee Referral,2023-10-08
+1156,Aarav Chopra,Female,4,Bachelor's,Naukri,2022-11-28
+1157,Rohan Mehta,Male,4,Master's,Naukri,2021-10-15
+1158,Sameer Deshmukh,Female,0,Bachelor's,Naukri,2022-03-11
+1159,Nikhil Mishra,Male,11,Diploma,Company Website,2023-03-30
+1160,Rhea Patel,Male,0,Bachelor's,Recruitment Agency,2022-11-20
+1161,Pallavi Jain,Male,8,Diploma,LinkedIn,2023-09-29
+1162,Rahul Mehta,Female,7,Bachelor's,Employee Referral,2023-04-02
+1163,Mohit Pawar,Male,5,Diploma,Recruitment Agency,2023-04-24
+1164,Pooja Sharma,Female,10,Diploma,Naukri,2021-01-01
+1165,Ankita Pawar,Male,7,MBA/PGDM,Naukri,2022-01-13
+1166,Mohit Shinde,Male,5,Diploma,Recruitment Agency,2022-09-20
+1167,Anjali Khan,Female,8,MBA/PGDM,Employee Referral,2025-01-10
+1168,Vidya Mehta,Female,5,Master's,Campus Hiring,2022-04-29
+1169,Tanvi Joshi,Male,5,Bachelor's,Employee Referral,2022-10-18
+1170,Arjun Joshi,Male,7,Diploma,Company Website,2025-09-06
+1171,Isha Chopra,Female,4,Diploma,Employee Referral,2023-12-03
+1172,Dhruv Iyer,Male,8,MBA/PGDM,Employee Referral,2022-12-25
+1173,Sneha Jain,Male,2,Master's,Recruitment Agency,2024-11-01
+1174,Rahul Khan,Male,6,Master's,Naukri,2024-07-30
+1175,Aarav Pawar,Female,9,MBA/PGDM,LinkedIn,2021-07-29
+1176,Aniket Reddy,Female,2,Diploma,Company Website,2021-04-04
+1177,Trisha Saxena,Male,9,MBA/PGDM,Employee Referral,2024-07-13
+1178,Ankita Joshi,Female,7,Bachelor's,Employee Referral,2025-07-15
+1179,Akash Kapoor,Male,2,MBA/PGDM,Company Website,2025-07-27
+1180,Ashish More,Female,9,Master's,Naukri,2021-05-18
+1181,Aditya Joshi,Female,8,Diploma,LinkedIn,2024-11-20
+1182,Tanya Verma,Female,11,Diploma,LinkedIn,2023-10-24
+1183,Pooja Mishra,Male,2,Master's,Employee Referral,2024-10-29
+1184,Vaishnavi Menon,Female,9,Master's,Naukri,2023-07-12
+1185,Dev Malhotra,Female,11,Diploma,Employee Referral,2023-12-24
+1186,Ananya Kulkarni,Male,7,Diploma,Naukri,2025-10-23
+1187,Rahul Khan,Female,8,Diploma,LinkedIn,2022-07-22
+1188,Akash Mishra,Male,12,MBA/PGDM,Company Website,2023-05-07
+1189,Sneha Reddy,Female,11,Bachelor's,Naukri,2025-01-01
+1190,Sonali Mehta,Male,4,Bachelor's,Naukri,2021-06-10
+1191,Sneha Deshmukh,Male,9,Diploma,Naukri,2023-02-03
+1192,Isha Mishra,Male,5,Diploma,LinkedIn,2025-11-17
+1193,Aniket Mehta,Female,5,Bachelor's,Campus Hiring,2024-02-20
+1194,Priya Mehta,Male,10,Diploma,Company Website,2022-01-17
+1195,Isha More,Male,10,Bachelor's,Company Website,2025-11-12
+1196,Rohan Jadhav,Male,9,MBA/PGDM,Company Website,2023-12-31
+1197,Sneha Shinde,Female,12,Diploma,Recruitment Agency,2024-04-16
+1198,Dev Nair,Female,2,Diploma,Company Website,2021-03-10
+1199,Zoya Bansal,Female,7,Bachelor's,Employee Referral,2023-05-15
+1200,Pallavi Verma,Male,1,Diploma,LinkedIn,2024-01-10
+1201,Arjun Saxena,Female,5,Master's,Company Website,2022-12-17
+1202,Karan Kapoor,Male,9,Bachelor's,Employee Referral,2022-01-20
+1203,Sanjay Bansal,Female,12,MBA/PGDM,Campus Hiring,2021-07-05
+1204,Tanvi Malhotra,Male,8,Diploma,Naukri,2025-08-16
+1205,Riya Sawant,Male,2,MBA/PGDM,Employee Referral,2025-05-20
+1206,Abhishek Iyer,Male,1,Bachelor's,Recruitment Agency,2021-05-08
+1207,Pooja Iyer,Female,12,Bachelor's,LinkedIn,2021-05-16
+1208,Mohit Mishra,Male,4,Diploma,LinkedIn,2025-04-06
+1209,Rohit Iyer,Female,11,Bachelor's,Company Website,2023-03-25
+1210,Sameer Singh,Male,11,MBA/PGDM,Naukri,2023-09-17
+1211,Aditi Deshmukh,Female,4,MBA/PGDM,Employee Referral,2022-05-19
+1212,Sameer Verma,Female,0,Master's,Employee Referral,2022-12-05
+1213,Sakshi Gupta,Female,5,Diploma,Campus Hiring,2022-10-18
+1214,Arjun Shinde,Male,0,Master's,LinkedIn,2023-03-16
+1215,Sahil Khan,Male,8,Bachelor's,LinkedIn,2022-08-22
+1216,Rohan Sawant,Male,8,MBA/PGDM,Employee Referral,2022-04-25
+1217,Aarav Pillai,Female,3,Bachelor's,Employee Referral,2023-11-21
+1218,Ashish Reddy,Female,6,Diploma,Company Website,2021-12-02
+1219,Kavya More,Male,6,Diploma,Employee Referral,2021-02-02
+1220,Rahul Thakur,Female,4,Bachelor's,Recruitment Agency,2025-07-18
+1221,Vaishnavi Deshmukh,Female,5,Diploma,Employee Referral,2021-10-23
+1222,Kavya Deshmukh,Female,9,Diploma,Naukri,2025-01-10
+1223,Diya More,Female,7,MBA/PGDM,Naukri,2024-10-02
+1224,Diya Khan,Male,7,Bachelor's,Campus Hiring,2025-12-11
+1225,Aditya Gupta,Male,8,Master's,Campus Hiring,2022-02-22
+1226,Varun Naik,Male,7,MBA/PGDM,LinkedIn,2021-07-19
+1227,Neha Kapoor,Female,10,Master's,Recruitment Agency,2025-03-15
+1228,Vidya Pawar,Male,1,Diploma,LinkedIn,2022-05-16
+1229,Manish More,Female,12,MBA/PGDM,Naukri,2024-12-16
+1230,Ananya Saxena,Female,9,Diploma,Naukri,2023-02-13
+1231,Sahil Gupta,Female,0,Bachelor's,Recruitment Agency,2022-02-05
+1232,Ananya Malhotra,Female,5,Diploma,LinkedIn,2021-10-11
+1233,Zoya Menon,Female,4,Master's,Campus Hiring,2022-09-27
+1234,Kavya Verma,Male,8,Bachelor's,Company Website,2024-09-01
+1235,Nisha Thakur,Female,3,MBA/PGDM,LinkedIn,2023-10-12
+1236,Dev Kapoor,Male,7,Master's,Employee Referral,2021-04-04
+1237,Meera Gupta,Female,4,Bachelor's,LinkedIn,2023-02-13
+1238,Ananya Naik,Female,1,Bachelor's,Campus Hiring,2022-09-27
+1239,Sakshi Malhotra,Female,2,MBA/PGDM,Campus Hiring,2022-11-20
+1240,Nisha Khan,Female,11,Bachelor's,Campus Hiring,2022-06-16
+1241,Arjun Chopra,Female,12,Master's,Campus Hiring,2024-04-17
+1242,Ananya Iyer,Female,9,Bachelor's,Naukri,2021-04-13
+1243,Anjali Joshi,Male,6,MBA/PGDM,Company Website,2025-08-15
+1244,Aniket Joshi,Female,6,Master's,Employee Referral,2022-02-13
+1245,Varun Saxena,Female,1,Master's,Naukri,2023-03-27
+1246,Sameer Jadhav,Male,12,Master's,Campus Hiring,2022-01-31
+1247,Dhruv Pawar,Male,3,MBA/PGDM,LinkedIn,2022-01-18
+1248,Nisha Verma,Male,0,Bachelor's,Naukri,2024-03-31
+1249,Mohit Pawar,Female,6,MBA/PGDM,Campus Hiring,2023-03-14
+1250,Vidya Patel,Female,3,MBA/PGDM,Naukri,2024-04-16
+1251,Pallavi Rao,Female,2,Bachelor's,Campus Hiring,2023-12-31
+1252,Aditya Reddy,Male,6,MBA/PGDM,LinkedIn,2021-01-20
+1253,Ashish Pillai,Female,8,MBA/PGDM,Recruitment Agency,2024-06-19
+1254,Priya Saxena,Female,6,Master's,Naukri,2024-11-17
+1255,Priya Mishra,Female,2,Master's,Company Website,2022-08-31
+1256,Sakshi Malhotra,Female,2,MBA/PGDM,Naukri,2023-03-30
+1257,Sakshi Deshmukh,Male,2,Bachelor's,LinkedIn,2024-06-24
+1258,Sahil Mishra,Female,12,Diploma,Company Website,2024-08-21
+1259,Rahul Singh,Female,10,MBA/PGDM,Naukri,2021-05-20
+1260,Priya Reddy,Male,9,MBA/PGDM,Naukri,2024-02-04
+1261,Vivek Bansal,Female,5,MBA/PGDM,LinkedIn,2023-09-23
+1262,Shreya Sharma,Female,7,Master's,Naukri,2022-10-29
+1263,Meera Sharma,Female,1,Diploma,LinkedIn,2021-11-14
+1264,Aniket Naik,Male,1,MBA/PGDM,Naukri,2024-10-31
+1265,Ananya Malhotra,Male,1,Bachelor's,Naukri,2024-06-17
+1266,Nikhil Patel,Female,10,Diploma,Company Website,2024-02-14
+1267,Tanvi Naik,Female,6,Bachelor's,Recruitment Agency,2024-05-18
+1268,Vivek Kulkarni,Female,2,Bachelor's,Employee Referral,2021-01-11
+1269,Tanvi Rao,Female,3,Bachelor's,Company Website,2022-03-13
+1270,Amit Sharma,Male,5,Bachelor's,LinkedIn,2021-04-29
+1271,Vaishnavi Joshi,Female,8,MBA/PGDM,Campus Hiring,2022-02-14
+1272,Tanya Joshi,Male,2,Bachelor's,Employee Referral,2025-11-27
+1273,Rohit Patel,Female,2,Master's,Recruitment Agency,2022-04-09
+1274,Ashish Bansal,Female,9,Master's,Employee Referral,2023-11-17
+1275,Sahil Pawar,Female,9,Bachelor's,LinkedIn,2022-06-30
+1276,Abhishek Joshi,Female,7,Master's,Company Website,2023-06-22
+1277,Tanvi Iyer,Male,7,Master's,Recruitment Agency,2022-12-11
+1278,Harsh Rao,Female,1,Bachelor's,Naukri,2023-02-13
+1279,Rahul Patel,Male,4,Diploma,LinkedIn,2023-02-06
+1280,Mohit Kulkarni,Male,4,Bachelor's,Naukri,2024-04-10
+1281,Manish Pillai,Female,1,Bachelor's,Company Website,2023-08-30
+1282,Nisha Jain,Female,1,Master's,LinkedIn,2025-11-03
+1283,Riya Sharma,Female,10,Bachelor's,Employee Referral,2025-05-17
+1284,Sakshi Shinde,Male,6,Bachelor's,Campus Hiring,2025-06-07
+1285,Rhea Mehta,Male,3,Master's,Company Website,2023-09-09
+1286,Maya Gupta,Female,7,MBA/PGDM,Company Website,2025-07-23
+1287,Vivek Mehta,Male,9,Bachelor's,Naukri,2024-01-06
+1288,Vivek Jain,Female,11,Diploma,Campus Hiring,2025-05-10
+1289,Dhruv Deshmukh,Female,5,Master's,Naukri,2022-04-26
+1290,Sanjay Gupta,Male,10,Master's,Employee Referral,2025-06-01
+1291,Yash Deshmukh,Female,10,Bachelor's,Naukri,2025-03-01
+1292,Rahul Mehta,Female,3,Bachelor's,Employee Referral,2021-02-28
+1293,Isha Verma,Female,0,Diploma,Naukri,2022-06-06
+1294,Harsh Singh,Male,12,Master's,LinkedIn,2025-01-24
+1295,Dhruv Sawant,Male,3,Bachelor's,Recruitment Agency,2024-05-25
+1296,Neha Gupta,Male,10,Diploma,Recruitment Agency,2025-07-06
+1297,Nikhil Rao,Female,10,Diploma,LinkedIn,2022-09-11
+1298,Amit Sawant,Female,9,MBA/PGDM,LinkedIn,2022-07-06
+1299,Sahil Sharma,Male,4,Diploma,Recruitment Agency,2023-07-24
+1300,Karan Iyer,Male,3,Master's,Company Website,2021-02-27
+1301,Aditi Jadhav,Male,11,Bachelor's,Campus Hiring,2024-09-23
+1302,Neha Deshmukh,Female,8,Bachelor's,Recruitment Agency,2023-08-08
+1303,Sakshi Menon,Female,10,MBA/PGDM,Naukri,2022-04-18
+1304,Vivek Bansal,Female,4,MBA/PGDM,Company Website,2025-06-03
+1305,Sahil Mishra,Male,4,Master's,Employee Referral,2021-12-06
+1306,Ankita Shinde,Female,11,Bachelor's,Company Website,2021-04-18
+1307,Vidya More,Male,7,Master's,Employee Referral,2023-11-08
+1308,Mohit Malhotra,Male,5,MBA/PGDM,Employee Referral,2022-08-02
+1309,Vivek Joshi,Female,11,MBA/PGDM,Employee Referral,2024-06-07
+1310,Vivek Bansal,Female,6,Master's,Recruitment Agency,2022-11-02
+1311,Ankita Pillai,Male,0,Master's,Employee Referral,2022-11-04
+1312,Arjun Kulkarni,Female,10,MBA/PGDM,Campus Hiring,2022-05-11
+1313,Tanya More,Male,2,Bachelor's,LinkedIn,2021-08-10
+1314,Anjali Mishra,Female,4,Bachelor's,Company Website,2023-10-30
+1315,Shreya Joshi,Male,8,Bachelor's,Company Website,2024-12-05
+1316,Priya Nair,Female,5,Diploma,Recruitment Agency,2022-10-30
+1317,Mohit Deshmukh,Female,10,MBA/PGDM,LinkedIn,2025-11-11
+1318,Trisha Pawar,Female,4,Bachelor's,Naukri,2024-09-30
+1319,Priya Reddy,Male,12,MBA/PGDM,Campus Hiring,2024-06-11
+1320,Arjun Pawar,Male,0,MBA/PGDM,Naukri,2022-11-02
+1321,Sonali Chopra,Female,6,MBA/PGDM,LinkedIn,2023-12-01
+1322,Vaishnavi Malhotra,Female,1,Diploma,Employee Referral,2025-08-18
+1323,Nikhil Malhotra,Male,7,MBA/PGDM,Recruitment Agency,2021-05-22
+1324,Diya Verma,Male,11,Diploma,Naukri,2022-05-11
+1325,Sanjay Pillai,Female,3,Master's,Naukri,2023-04-26
+1326,Aditya Iyer,Female,2,Master's,LinkedIn,2022-01-09
+1327,Ashish Reddy,Female,0,MBA/PGDM,Employee Referral,2022-12-24
+1328,Rahul Bansal,Female,1,Bachelor's,Campus Hiring,2021-06-07
+1329,Anjali Singh,Female,11,MBA/PGDM,Company Website,2025-10-22
+1330,Rahul Shinde,Female,12,Master's,Naukri,2024-09-23
+1331,Abhishek More,Female,6,MBA/PGDM,Employee Referral,2021-11-03
+1332,Ashish Khan,Male,4,Diploma,Employee Referral,2024-03-12
+1333,Rohan Kulkarni,Male,3,Bachelor's,LinkedIn,2022-08-20
+1334,Aarav Sawant,Male,6,Master's,Company Website,2023-03-19
+1335,Ananya Iyer,Male,7,Diploma,Naukri,2024-12-03
+1336,Sameer Shinde,Female,0,Master's,Recruitment Agency,2023-09-01
+1337,Vidya Verma,Female,2,MBA/PGDM,Naukri,2024-05-29
+1338,Zoya Malhotra,Male,5,Master's,Recruitment Agency,2023-12-03
+1339,Dhruv Pawar,Female,0,MBA/PGDM,Company Website,2021-03-31
+1340,Nikhil Thakur,Female,6,Master's,Recruitment Agency,2023-11-19
+1341,Amit Kapoor,Male,5,Master's,Recruitment Agency,2021-04-06
+1342,Yash Joshi,Male,11,MBA/PGDM,LinkedIn,2023-04-03
+1343,Trisha Kulkarni,Female,3,Master's,LinkedIn,2022-09-11
+1344,Anjali Mehta,Female,6,Bachelor's,Naukri,2023-08-25
+1345,Riya Jadhav,Female,1,Diploma,Recruitment Agency,2022-04-24
+1346,Vaishnavi Bansal,Male,2,Bachelor's,Recruitment Agency,2023-12-06
+1347,Vivek Rao,Male,6,MBA/PGDM,Employee Referral,2021-01-04
+1348,Mohit Mehta,Male,6,Diploma,Recruitment Agency,2024-03-20
+1349,Karan Sawant,Female,4,Master's,Employee Referral,2021-12-22
+1350,Tanvi Thakur,Female,10,Diploma,Naukri,2023-05-12
+1351,Rohit Patel,Male,5,Master's,Campus Hiring,2024-03-09
+1352,Varun Sharma,Female,2,MBA/PGDM,Campus Hiring,2021-06-21
+1353,Trisha Malhotra,Female,7,Master's,Campus Hiring,2021-02-21
+1354,Meera Pawar,Male,12,Bachelor's,LinkedIn,2021-04-18
+1355,Manish Sawant,Male,7,Bachelor's,Company Website,2021-12-23
+1356,Manish Bansal,Male,5,Master's,Employee Referral,2021-12-13
+1357,Rahul Reddy,Female,6,MBA/PGDM,Company Website,2021-05-03
+1358,Isha Deshmukh,Female,7,Bachelor's,Company Website,2024-10-11
+1359,Riya Reddy,Male,2,Diploma,Company Website,2024-10-21
+1360,Harsh Jain,Male,10,Diploma,LinkedIn,2022-11-08
+1361,Diya Joshi,Male,12,Bachelor's,Recruitment Agency,2022-03-12
+1362,Dhruv Iyer,Female,1,Bachelor's,Recruitment Agency,2024-07-01
+1363,Tanvi Jain,Male,12,Diploma,Recruitment Agency,2024-11-29
+1364,Rhea More,Male,6,Bachelor's,LinkedIn,2025-11-24
+1365,Akash Mehta,Male,5,Bachelor's,Campus Hiring,2022-03-19
+1366,Aarav Mishra,Male,0,Master's,Campus Hiring,2022-04-22
+1367,Priya Rao,Female,12,MBA/PGDM,Campus Hiring,2024-11-15
+1368,Rahul Verma,Male,0,Bachelor's,Naukri,2025-07-28
+1369,Sameer Jadhav,Male,8,MBA/PGDM,Recruitment Agency,2023-08-08
+1370,Sanjay Pillai,Male,6,Bachelor's,Recruitment Agency,2022-10-28
+1371,Abhishek Jadhav,Female,12,Bachelor's,Naukri,2023-09-25
+1372,Sakshi Kulkarni,Female,9,Master's,Company Website,2025-08-07
+1373,Rohan More,Female,5,Diploma,Employee Referral,2024-09-04
+1374,Abhishek More,Male,9,Diploma,Campus Hiring,2022-03-28
+1375,Aarav More,Female,10,MBA/PGDM,Recruitment Agency,2021-11-04
+1376,Mohit Jain,Male,12,Master's,Company Website,2024-09-28
+1377,Varun Naik,Female,8,Bachelor's,Company Website,2021-11-08
+1378,Yash Iyer,Male,6,MBA/PGDM,LinkedIn,2023-02-07
+1379,Abhishek Jadhav,Female,10,Bachelor's,LinkedIn,2024-10-10
+1380,Vivek Iyer,Male,8,Master's,LinkedIn,2023-04-30
+1381,Ananya Saxena,Male,10,MBA/PGDM,Recruitment Agency,2023-11-21
+1382,Pallavi Pawar,Female,5,Master's,Company Website,2021-08-16
+1383,Sonali Malhotra,Female,1,Bachelor's,Recruitment Agency,2021-11-25
+1384,Vaishnavi Sawant,Female,4,MBA/PGDM,Naukri,2022-09-30
+1385,Ankita Sharma,Male,2,MBA/PGDM,Recruitment Agency,2023-06-25
+1386,Abhishek Sharma,Female,5,Diploma,Recruitment Agency,2022-05-10
+1387,Sakshi Verma,Male,3,Diploma,Company Website,2022-10-09
+1388,Rhea Naik,Male,7,Bachelor's,Company Website,2023-08-07
+1389,Riya More,Male,8,Diploma,Naukri,2024-09-10
+1390,Ashish Thakur,Male,10,Diploma,LinkedIn,2021-04-23
+1391,Varun Saxena,Male,7,Bachelor's,Company Website,2023-02-20
+1392,Maya Deshmukh,Female,7,Bachelor's,Employee Referral,2023-06-28
+1393,Priya Mishra,Male,8,Bachelor's,LinkedIn,2021-09-09
+1394,Mohit Sharma,Male,8,Master's,Employee Referral,2024-11-01
+1395,Vaishnavi Saxena,Male,12,Diploma,Employee Referral,2025-06-08
+1396,Rahul Sharma,Female,0,Master's,Naukri,2025-11-11
+1397,Shreya Saxena,Male,0,MBA/PGDM,LinkedIn,2024-11-19
+1398,Ananya Patel,Male,6,Master's,Company Website,2025-07-01
+1399,Sameer Patel,Female,11,Bachelor's,Company Website,2023-04-23
+1400,Pallavi Mehta,Male,3,Diploma,Recruitment Agency,2022-06-12
+1401,Trisha Kulkarni,Female,10,Bachelor's,Naukri,2021-04-10
+1402,Dhruv Pawar,Male,6,MBA/PGDM,Company Website,2023-07-13
+1403,Varun Mehta,Female,4,MBA/PGDM,Campus Hiring,2021-01-20
+1404,Sameer Joshi,Female,4,MBA/PGDM,LinkedIn,2024-12-15
+1405,Tanvi Iyer,Male,10,MBA/PGDM,LinkedIn,2022-07-24
+1406,Ananya Singh,Female,4,Diploma,LinkedIn,2021-06-24
+1407,Arjun Reddy,Female,8,Master's,Naukri,2025-10-16
+1408,Rohan Malhotra,Male,3,Master's,Recruitment Agency,2025-08-03
+1409,Tanvi Saxena,Male,11,MBA/PGDM,Employee Referral,2022-12-22
+1410,Rhea Mishra,Male,1,MBA/PGDM,Company Website,2024-11-11
+1411,Nikhil Menon,Male,12,Bachelor's,Recruitment Agency,2022-12-16
+1412,Diya Rao,Female,12,Diploma,Campus Hiring,2024-03-31
+1413,Karan Nair,Male,5,Bachelor's,Naukri,2022-03-24
+1414,Nisha Reddy,Female,1,MBA/PGDM,Campus Hiring,2023-10-14
+1415,Maya Gupta,Male,2,Diploma,Naukri,2022-03-31
+1416,Arjun Verma,Female,6,Bachelor's,Company Website,2021-08-25
+1417,Riya Naik,Male,10,MBA/PGDM,Naukri,2024-12-26
+1418,Abhishek Shinde,Male,7,Master's,LinkedIn,2024-05-08
+1419,Ashish Verma,Female,6,Diploma,Naukri,2021-11-22
+1420,Shreya Joshi,Female,7,MBA/PGDM,Employee Referral,2021-05-06
+1421,Sameer Menon,Male,2,MBA/PGDM,Employee Referral,2024-11-25
+1422,Ashish Joshi,Female,4,Bachelor's,Recruitment Agency,2025-07-29
+1423,Sahil Kulkarni,Female,10,Bachelor's,Recruitment Agency,2025-01-16
+1424,Anjali Joshi,Male,7,Bachelor's,LinkedIn,2025-10-23
+1425,Mohit Saxena,Female,3,Master's,Employee Referral,2023-10-18
+1426,Manish Kulkarni,Male,12,MBA/PGDM,LinkedIn,2022-09-10
+1427,Nisha Sharma,Male,10,Bachelor's,Naukri,2024-11-29
+1428,Rhea Jadhav,Female,11,Diploma,Recruitment Agency,2023-10-31
+1429,Mohit Rao,Female,5,Diploma,Naukri,2021-04-07
+1430,Sahil Patel,Female,11,Bachelor's,Company Website,2021-03-10
+1431,Rohit Kapoor,Female,1,MBA/PGDM,LinkedIn,2023-11-22
+1432,Abhishek Bansal,Male,5,Diploma,Recruitment Agency,2021-08-17
+1433,Ananya Iyer,Male,9,Diploma,Recruitment Agency,2025-04-03
+1434,Sahil Shinde,Female,3,MBA/PGDM,Campus Hiring,2024-09-24
+1435,Sonali Bansal,Female,12,Bachelor's,LinkedIn,2024-12-01
+1436,Ashish Jadhav,Female,6,MBA/PGDM,Company Website,2024-09-30
+1437,Mohit Jadhav,Female,10,Diploma,LinkedIn,2025-02-03
+1438,Yash Khan,Male,3,MBA/PGDM,Company Website,2022-06-16
+1439,Abhishek Bansal,Male,2,Master's,Recruitment Agency,2021-07-02
+1440,Rohit Sawant,Female,3,Bachelor's,Campus Hiring,2021-01-22
+1441,Akash Chopra,Female,7,Bachelor's,Recruitment Agency,2024-03-05
+1442,Isha Pawar,Male,9,Diploma,Campus Hiring,2021-04-23
+1443,Harsh More,Male,1,Diploma,Campus Hiring,2022-08-20
+1444,Pallavi Malhotra,Female,6,Master's,Campus Hiring,2025-05-04
+1445,Ananya Nair,Male,4,Diploma,LinkedIn,2022-07-17
+1446,Trisha Chopra,Female,1,MBA/PGDM,Company Website,2022-03-27
+1447,Zoya Sharma,Female,4,Diploma,LinkedIn,2023-08-24
+1448,Ananya Jadhav,Female,7,Master's,Employee Referral,2024-01-18
+1449,Trisha Jain,Female,4,Bachelor's,Campus Hiring,2025-06-17
+1450,Pallavi Sawant,Male,6,MBA/PGDM,Recruitment Agency,2022-02-20
+1451,Ananya Pawar,Male,0,Bachelor's,Campus Hiring,2021-09-17
+1452,Isha Menon,Male,4,Bachelor's,LinkedIn,2025-07-15
+1453,Priya Khan,Female,5,MBA/PGDM,Employee Referral,2024-12-08
+1454,Arjun Sharma,Male,5,Diploma,Campus Hiring,2025-11-27
+1455,Dhruv Saxena,Male,2,Bachelor's,LinkedIn,2024-04-06
+1456,Nikhil Singh,Male,7,Master's,LinkedIn,2025-07-31
+1457,Aditi Deshmukh,Female,1,MBA/PGDM,Campus Hiring,2022-06-18
+1458,Ananya Malhotra,Female,5,Master's,Naukri,2024-04-07
+1459,Diya Mishra,Female,7,MBA/PGDM,Company Website,2022-08-04
+1460,Mohit Saxena,Male,11,Master's,Naukri,2021-01-01
+1461,Shreya Pawar,Female,0,Bachelor's,LinkedIn,2023-09-16
+1462,Sanjay Joshi,Female,0,MBA/PGDM,Campus Hiring,2025-11-23
+1463,Dev Pawar,Male,0,MBA/PGDM,Campus Hiring,2022-01-17
+1464,Abhishek Jain,Female,7,MBA/PGDM,Recruitment Agency,2021-11-23
+1465,Amit Thakur,Male,10,Master's,LinkedIn,2025-03-12
+1466,Nikhil Sawant,Female,4,Bachelor's,LinkedIn,2021-10-07
+1467,Tanya Singh,Male,5,Diploma,Recruitment Agency,2025-03-06
+1468,Vaishnavi Menon,Female,8,MBA/PGDM,Employee Referral,2023-10-12
+1469,Trisha Kapoor,Female,7,Bachelor's,Employee Referral,2023-01-27
+1470,Diya Kulkarni,Male,7,Bachelor's,Company Website,2023-10-12
+1471,Zoya Khan,Male,2,Master's,Company Website,2024-12-03
+1472,Pallavi Deshmukh,Female,7,MBA/PGDM,Recruitment Agency,2025-03-02
+1473,Tanvi Kulkarni,Female,4,Bachelor's,Recruitment Agency,2022-07-23
+1474,Riya Rao,Male,8,MBA/PGDM,Recruitment Agency,2021-07-23
+1475,Yash Joshi,Female,7,Diploma,Employee Referral,2021-02-13
+1476,Varun Jain,Female,12,Bachelor's,Company Website,2024-08-28
+1477,Sakshi Jain,Female,8,MBA/PGDM,Company Website,2021-07-13
+1478,Abhishek Verma,Male,6,MBA/PGDM,Naukri,2025-10-23
+1479,Pallavi Mishra,Female,6,Diploma,Naukri,2023-12-05
+1480,Amit Gupta,Female,1,Bachelor's,Naukri,2022-02-12
+1481,Sonali Saxena,Male,9,MBA/PGDM,Naukri,2021-04-06
+1482,Aditya Khan,Male,5,Master's,Company Website,2024-08-29
+1483,Akash Mishra,Male,4,Diploma,Company Website,2025-04-05
+1484,Sneha Sharma,Female,11,MBA/PGDM,LinkedIn,2024-08-23
+1485,Meera Mehta,Male,9,MBA/PGDM,Campus Hiring,2021-02-19
+1486,Aditya Sharma,Female,2,Diploma,Employee Referral,2022-07-23
+1487,Nisha Chopra,Female,6,Bachelor's,Campus Hiring,2022-08-25
+1488,Isha Mishra,Male,2,Bachelor's,Naukri,2021-07-30
+1489,Sonali Rao,Male,11,MBA/PGDM,Employee Referral,2022-07-12
+1490,Sanjay Jadhav,Female,1,Master's,Naukri,2021-09-20
+1491,Rhea Shinde,Female,10,MBA/PGDM,Recruitment Agency,2025-01-03
+1492,Anjali Shinde,Female,5,MBA/PGDM,Company Website,2021-09-12
+1493,Rhea Shinde,Male,12,Diploma,Employee Referral,2023-12-15
+1494,Vaishnavi Sawant,Female,8,Diploma,Naukri,2021-03-02
+1495,Ananya Jain,Male,1,Bachelor's,Employee Referral,2021-06-21
+1496,Dhruv Kapoor,Female,4,Bachelor's,Employee Referral,2025-09-16
+1497,Ankita Nair,Female,4,Master's,Employee Referral,2021-11-01
+1498,Isha Deshmukh,Female,2,Master's,Campus Hiring,2022-11-14
+1499,Manish Mehta,Male,10,Bachelor's,LinkedIn,2023-03-11
+1500,Amit Saxena,Female,9,MBA/PGDM,Company Website,2025-04-06
+1501,Abhishek Thakur,Male,1,Diploma,LinkedIn,2024-12-07
+1502,Anjali Pawar,Male,12,MBA/PGDM,LinkedIn,2022-06-10
+1503,Zoya Pillai,Female,2,MBA/PGDM,LinkedIn,2025-09-06
+1504,Mohit Pillai,Male,0,Master's,Employee Referral,2025-01-21
+1505,Maya Khan,Male,5,Master's,Employee Referral,2023-04-17
+1506,Dhruv Kulkarni,Female,1,Master's,LinkedIn,2021-01-08
+1507,Dhruv Jadhav,Male,2,Bachelor's,Naukri,2022-05-22
+1508,Isha Chopra,Male,7,Diploma,Company Website,2021-10-17
+1509,Ananya Pawar,Male,5,Diploma,Company Website,2025-05-14
+1510,Nikhil Reddy,Male,8,Bachelor's,Naukri,2022-05-01
+1511,Diya Kapoor,Female,7,MBA/PGDM,Naukri,2024-12-10
+1512,Nikhil Sawant,Male,6,MBA/PGDM,Employee Referral,2024-09-26
+1513,Sonali Chopra,Female,7,Diploma,Company Website,2021-11-25
+1514,Pallavi Thakur,Male,4,Diploma,Company Website,2022-08-27
+1515,Diya Mehta,Female,0,Bachelor's,Recruitment Agency,2021-08-22
+1516,Vivek Deshmukh,Male,3,Master's,Company Website,2025-11-25
+1517,Dev Gupta,Female,12,Bachelor's,Employee Referral,2022-05-11
+1518,Akash Deshmukh,Female,5,Master's,Company Website,2021-09-24
+1519,Diya Iyer,Female,10,Diploma,Company Website,2024-07-16
+1520,Nisha Bansal,Female,8,Bachelor's,Campus Hiring,2021-12-12
+1521,Rohan Shinde,Female,4,MBA/PGDM,Employee Referral,2024-07-01
+1522,Vidya Thakur,Female,10,Diploma,Company Website,2025-06-17
+1523,Ashish Rao,Male,10,MBA/PGDM,LinkedIn,2022-09-08
+1524,Priya Mehta,Male,1,Bachelor's,Employee Referral,2021-12-21
+1525,Aditya Nair,Male,9,Master's,Recruitment Agency,2023-10-10
+1526,Pallavi Chopra,Female,3,Diploma,Naukri,2023-09-10
+1527,Sameer Naik,Female,3,MBA/PGDM,Employee Referral,2022-05-08
+1528,Rohit Verma,Female,11,Bachelor's,Company Website,2025-11-08
+1529,Rahul Sawant,Male,9,Bachelor's,Naukri,2023-05-11
+1530,Dhruv Kulkarni,Male,8,Master's,Company Website,2024-12-22
+1531,Sanjay Patel,Female,8,Bachelor's,Recruitment Agency,2021-04-28
+1532,Ankita Kulkarni,Male,1,Bachelor's,Naukri,2021-08-13
+1533,Karan Pawar,Female,11,Diploma,LinkedIn,2021-03-05
+1534,Akash Saxena,Male,1,Master's,LinkedIn,2024-02-11
+1535,Rhea Kapoor,Female,8,MBA/PGDM,Company Website,2022-07-29
+1536,Priya Reddy,Male,8,Diploma,Company Website,2022-10-16
+1537,Sakshi Shinde,Female,10,Master's,Campus Hiring,2021-10-18
+1538,Kavya Sharma,Male,6,Diploma,Campus Hiring,2023-06-16
+1539,Dhruv Shinde,Male,11,Diploma,LinkedIn,2023-01-16
+1540,Ankita Iyer,Male,3,MBA/PGDM,Campus Hiring,2021-02-14
+1541,Aditya Shinde,Female,10,Master's,Recruitment Agency,2025-05-17
+1542,Arjun Jadhav,Male,4,MBA/PGDM,Company Website,2023-11-13
+1543,Arjun Nair,Female,10,Bachelor's,Campus Hiring,2025-03-20
+1544,Akash Deshmukh,Male,3,MBA/PGDM,Employee Referral,2021-10-21
+1545,Akash Chopra,Male,1,Diploma,Employee Referral,2024-12-06
+1546,Anjali Sharma,Female,4,Master's,LinkedIn,2021-11-10
+1547,Sanjay Kapoor,Male,10,Bachelor's,Company Website,2025-01-11
+1548,Rohan Sharma,Male,4,MBA/PGDM,Employee Referral,2025-11-10
+1549,Anjali Thakur,Male,6,Master's,LinkedIn,2022-08-11
+1550,Sameer Patel,Female,3,MBA/PGDM,Company Website,2022-01-07
+1551,Ananya Jain,Male,9,Diploma,Company Website,2022-12-29
+1552,Karan Pawar,Male,7,Master's,Employee Referral,2022-01-28
+1553,Vidya Nair,Male,4,Diploma,Company Website,2022-07-19
+1554,Rohan Rao,Male,0,Master's,LinkedIn,2024-05-28
+1555,Dev Rao,Male,2,MBA/PGDM,Employee Referral,2022-10-13
+1556,Varun Bansal,Female,6,Bachelor's,Company Website,2021-03-05
+1557,Maya Sharma,Female,5,MBA/PGDM,Campus Hiring,2024-05-15
+1558,Abhishek Rao,Male,1,Master's,Employee Referral,2023-07-20
+1559,Pooja Bansal,Male,6,MBA/PGDM,Employee Referral,2024-07-26
+1560,Ankita Deshmukh,Female,5,Master's,Recruitment Agency,2025-04-02
+1561,Sakshi Pawar,Female,11,MBA/PGDM,Company Website,2022-09-05
+1562,Varun Gupta,Female,5,Master's,Employee Referral,2021-03-11
+1563,Dev Kulkarni,Female,6,Diploma,Employee Referral,2021-05-25
+1564,Karan Thakur,Female,5,MBA/PGDM,Employee Referral,2024-01-06
+1565,Tanvi Pawar,Female,12,Master's,Employee Referral,2025-06-23
+1566,Pallavi Kapoor,Male,7,Master's,Naukri,2021-08-18
+1567,Neha Rao,Female,5,MBA/PGDM,Employee Referral,2024-06-14
+1568,Varun Pawar,Female,11,Diploma,Company Website,2024-09-07
+1569,Ankita Reddy,Male,10,MBA/PGDM,Employee Referral,2022-01-21
+1570,Varun Bansal,Female,4,MBA/PGDM,Recruitment Agency,2025-04-18
+1571,Akash Reddy,Male,0,Master's,Naukri,2022-05-22
+1572,Ankita Iyer,Female,6,Bachelor's,Campus Hiring,2023-04-16
+1573,Tanvi Reddy,Male,7,Diploma,Naukri,2024-10-05
+1574,Diya Menon,Female,4,Diploma,Recruitment Agency,2022-12-26
+1575,Tanvi Nair,Female,12,MBA/PGDM,Company Website,2025-04-09
+1576,Varun Malhotra,Male,6,MBA/PGDM,Naukri,2021-01-18
+1577,Shreya Patel,Female,7,Diploma,Employee Referral,2025-03-15
+1578,Pooja More,Female,6,Master's,Recruitment Agency,2021-09-14
+1579,Yash Menon,Male,2,Bachelor's,Company Website,2024-08-18
+1580,Arjun Nair,Male,7,MBA/PGDM,Campus Hiring,2025-01-17
+1581,Ananya Pawar,Female,7,Bachelor's,Employee Referral,2022-01-25
+1582,Sakshi Malhotra,Female,11,Master's,Employee Referral,2023-05-18
+1583,Rohan Reddy,Male,12,Diploma,Naukri,2021-07-24
+1584,Isha Pawar,Male,0,MBA/PGDM,Recruitment Agency,2022-12-11
+1585,Aditya Thakur,Male,1,Master's,Naukri,2024-03-20
+1586,Harsh Khan,Female,7,Master's,Naukri,2025-09-11
+1587,Trisha Naik,Female,6,MBA/PGDM,Campus Hiring,2024-05-01
+1588,Aarav Joshi,Male,10,MBA/PGDM,Campus Hiring,2021-10-31
+1589,Nikhil Menon,Female,6,Master's,Employee Referral,2024-06-24
+1590,Aniket Saxena,Male,7,Bachelor's,Recruitment Agency,2024-06-15
+1591,Neha Jadhav,Female,6,Master's,Recruitment Agency,2025-04-01
+1592,Shreya Shinde,Male,5,Master's,Company Website,2021-12-03
+1593,Varun Pillai,Female,4,Bachelor's,Recruitment Agency,2024-09-23
+1594,Aniket Mishra,Male,0,Bachelor's,Campus Hiring,2025-10-18
+1595,Mohit Deshmukh,Male,4,Bachelor's,Company Website,2021-01-30
+1596,Maya Pillai,Male,3,Bachelor's,Campus Hiring,2022-11-07
+1597,Anjali Saxena,Female,2,Master's,Recruitment Agency,2021-04-15
+1598,Vaishnavi Naik,Male,3,Master's,Naukri,2022-12-24
+1599,Neha Singh,Male,7,MBA/PGDM,LinkedIn,2024-10-08
+1600,Vivek Verma,Female,10,Bachelor's,Naukri,2023-10-24
+1601,Amit Thakur,Female,0,MBA/PGDM,Company Website,2024-04-30
+1602,Rohit Jadhav,Female,3,Diploma,Naukri,2022-11-27
+1603,Harsh Saxena,Male,4,Master's,Employee Referral,2023-01-10
+1604,Zoya Thakur,Male,10,Bachelor's,Recruitment Agency,2021-07-03
+1605,Shreya Iyer,Female,9,Master's,Company Website,2024-09-05
+1606,Sameer Jain,Male,4,Master's,LinkedIn,2021-08-02
+1607,Anjali Naik,Male,11,Bachelor's,LinkedIn,2023-07-04
+1608,Nisha Mishra,Male,6,MBA/PGDM,Employee Referral,2023-01-16
+1609,Vaishnavi Kulkarni,Male,3,MBA/PGDM,Campus Hiring,2021-01-17
+1610,Ashish Naik,Male,1,Diploma,Employee Referral,2024-08-12
+1611,Yash Jadhav,Female,9,MBA/PGDM,Company Website,2024-07-14
+1612,Vivek Verma,Female,9,Master's,Employee Referral,2025-08-03
+1613,Tanvi Reddy,Male,1,MBA/PGDM,Company Website,2025-08-10
+1614,Dhruv Naik,Male,11,Diploma,LinkedIn,2022-05-12
+1615,Varun Thakur,Male,9,MBA/PGDM,Company Website,2024-05-23
+1616,Tanvi Sawant,Female,10,MBA/PGDM,Recruitment Agency,2022-08-24
+1617,Aarav Reddy,Male,5,Master's,Campus Hiring,2022-05-01
+1618,Isha Saxena,Female,3,Diploma,Recruitment Agency,2025-10-30
+1619,Vidya Pillai,Male,11,Diploma,Recruitment Agency,2021-10-18
+1620,Sahil Shinde,Male,6,Bachelor's,Recruitment Agency,2024-06-02
+1621,Rhea Kulkarni,Male,6,MBA/PGDM,LinkedIn,2022-08-14
+1622,Arjun Pillai,Female,11,Bachelor's,Campus Hiring,2022-07-27
+1623,Neha Mishra,Female,7,Bachelor's,Employee Referral,2025-11-03
+1624,Trisha Naik,Male,6,Diploma,Company Website,2023-11-11
+1625,Sakshi Rao,Female,7,Bachelor's,Employee Referral,2022-07-26
+1626,Pooja Menon,Female,3,MBA/PGDM,Recruitment Agency,2023-04-25
+1627,Ananya Patel,Female,2,Master's,Company Website,2023-11-14
+1628,Sakshi Mishra,Female,4,Bachelor's,Campus Hiring,2025-11-13
+1629,Tanya Deshmukh,Male,2,Master's,LinkedIn,2025-06-20
+1630,Aditi Rao,Female,7,Bachelor's,Campus Hiring,2021-02-19
+1631,Rhea Patel,Female,7,Bachelor's,Employee Referral,2024-09-20
+1632,Sakshi Pawar,Female,2,Master's,Naukri,2022-05-05
+1633,Zoya Thakur,Male,5,Bachelor's,LinkedIn,2024-01-16
+1634,Rahul Reddy,Female,2,Master's,Recruitment Agency,2021-05-03
+1635,Vaishnavi More,Female,4,Master's,Campus Hiring,2022-04-02
+1636,Abhishek Malhotra,Female,7,Diploma,Recruitment Agency,2023-04-08
+1637,Pallavi Sharma,Female,12,Bachelor's,Recruitment Agency,2022-03-22
+1638,Kavya Rao,Female,8,Diploma,Naukri,2024-07-24
+1639,Vaishnavi Menon,Female,7,Diploma,Naukri,2021-07-04
+1640,Sakshi Khan,Male,4,Bachelor's,Campus Hiring,2021-02-12
+1641,Yash Bansal,Male,10,MBA/PGDM,Company Website,2023-09-16
+1642,Aditi Kapoor,Female,5,Master's,Recruitment Agency,2025-05-23
+1643,Shreya More,Female,7,Diploma,Naukri,2022-10-19
+1644,Vaishnavi Naik,Male,4,Master's,Naukri,2023-05-19
+1645,Ashish Pawar,Female,2,MBA/PGDM,Recruitment Agency,2022-01-07
+1646,Zoya Singh,Male,6,MBA/PGDM,Naukri,2025-07-20
+1647,Trisha Naik,Female,9,Bachelor's,Naukri,2024-03-07
+1648,Sanjay Kapoor,Female,10,Master's,Employee Referral,2024-07-19
+1649,Diya Jain,Male,1,Diploma,Employee Referral,2024-07-20
+1650,Akash Malhotra,Female,1,Diploma,Recruitment Agency,2023-06-10
+1651,Maya Chopra,Male,11,Master's,Campus Hiring,2024-02-04
+1652,Aniket Malhotra,Male,5,MBA/PGDM,Campus Hiring,2023-08-29
+1653,Amit Rao,Female,8,Diploma,Naukri,2023-04-11
+1654,Dev Verma,Male,0,Master's,Recruitment Agency,2021-10-04
+1655,Sneha Sharma,Female,1,Bachelor's,Recruitment Agency,2021-11-14
+1656,Maya Khan,Female,10,Master's,Company Website,2022-01-31
+1657,Aniket More,Male,10,Master's,Naukri,2024-11-21
+1658,Sanjay Mishra,Male,4,Master's,Company Website,2023-11-05
+1659,Sanjay Reddy,Female,12,Master's,LinkedIn,2023-07-17
+1660,Rohit Jadhav,Male,9,MBA/PGDM,Company Website,2022-05-20
+1661,Ananya Jain,Male,4,Diploma,Campus Hiring,2021-05-15
+1662,Akash Verma,Male,4,MBA/PGDM,Recruitment Agency,2024-05-30
+1663,Sanjay Malhotra,Female,4,Master's,Company Website,2024-10-13
+1664,Vidya Mehta,Female,12,Diploma,Recruitment Agency,2023-05-26
+1665,Vidya Pawar,Female,1,Diploma,Employee Referral,2021-10-30
+1666,Meera Mishra,Male,8,Master's,Employee Referral,2023-04-15
+1667,Karan Gupta,Female,4,Bachelor's,Company Website,2022-01-21
+1668,Sakshi Singh,Male,4,Bachelor's,LinkedIn,2021-11-03
+1669,Manish Sawant,Female,12,Master's,Campus Hiring,2022-07-24
+1670,Rahul Thakur,Female,11,MBA/PGDM,Recruitment Agency,2025-02-12
+1671,Sahil More,Female,7,Bachelor's,Naukri,2025-11-08
+1672,Amit Sawant,Female,1,Bachelor's,Naukri,2022-04-09
+1673,Sanjay Iyer,Female,5,Bachelor's,Employee Referral,2025-05-09
+1674,Akash Singh,Female,10,Bachelor's,Employee Referral,2023-10-01
+1675,Vidya Jadhav,Female,4,Diploma,Employee Referral,2023-06-15
+1676,Sakshi Rao,Female,11,Bachelor's,Recruitment Agency,2021-03-26
+1677,Shreya More,Male,7,Diploma,Campus Hiring,2024-07-10
+1678,Diya Rao,Female,9,Bachelor's,Employee Referral,2021-08-26
+1679,Varun Khan,Female,3,MBA/PGDM,Employee Referral,2025-08-25
+1680,Aditi Gupta,Male,6,MBA/PGDM,Recruitment Agency,2022-10-14
+1681,Vaishnavi Malhotra,Female,7,Diploma,Recruitment Agency,2023-03-07
+1682,Rahul Kapoor,Male,0,MBA/PGDM,LinkedIn,2022-10-31
+1683,Meera Khan,Male,4,Bachelor's,Company Website,2022-07-06
+1684,Zoya Jadhav,Male,7,Bachelor's,LinkedIn,2024-08-15
+1685,Aniket Bansal,Male,0,Bachelor's,Campus Hiring,2022-02-18
+1686,Zoya More,Female,1,Bachelor's,Employee Referral,2023-04-09
+1687,Ashish Gupta,Male,4,Diploma,Recruitment Agency,2025-04-11
+1688,Rahul Thakur,Female,6,MBA/PGDM,Naukri,2024-07-29
+1689,Nikhil More,Male,0,Bachelor's,Recruitment Agency,2024-09-24
+1690,Nisha Iyer,Female,0,Diploma,Campus Hiring,2023-01-05
+1691,Ananya Kulkarni,Male,5,MBA/PGDM,Company Website,2023-08-14
+1692,Tanvi Malhotra,Female,3,MBA/PGDM,Company Website,2022-05-16
+1693,Ashish Naik,Male,6,MBA/PGDM,Recruitment Agency,2025-10-01
+1694,Neha More,Male,3,MBA/PGDM,Recruitment Agency,2024-12-22
+1695,Rahul Verma,Male,12,Master's,Company Website,2023-01-22
+1696,Rahul Chopra,Male,12,Bachelor's,Employee Referral,2023-11-03
+1697,Nikhil Chopra,Female,12,Master's,Employee Referral,2024-08-02
+1698,Riya Kapoor,Female,10,Diploma,Campus Hiring,2025-02-14
+1699,Ankita Verma,Male,2,Diploma,Naukri,2023-01-10
+1700,Sanjay Sharma,Female,5,MBA/PGDM,Recruitment Agency,2024-10-24
+1701,Karan Khan,Male,11,Bachelor's,Naukri,2023-03-04
+1702,Ananya Malhotra,Male,8,Diploma,LinkedIn,2022-10-26
+1703,Aditya Pawar,Female,8,Master's,Recruitment Agency,2025-10-22
+1704,Ashish Verma,Male,9,MBA/PGDM,Company Website,2021-10-13
+1705,Aarav Chopra,Male,11,MBA/PGDM,Recruitment Agency,2025-10-12
+1706,Diya Nair,Female,0,Master's,Naukri,2023-01-11
+1707,Dev Gupta,Female,7,Diploma,LinkedIn,2021-01-15
+1708,Pooja Menon,Female,1,Diploma,LinkedIn,2024-06-07
+1709,Akash Bansal,Male,8,MBA/PGDM,Employee Referral,2023-11-05
+1710,Sakshi Kapoor,Female,9,Bachelor's,Company Website,2021-01-27
+1711,Akash Sawant,Male,11,MBA/PGDM,Recruitment Agency,2021-07-04
+1712,Manish Malhotra,Male,12,MBA/PGDM,Campus Hiring,2021-05-10
+1713,Karan Iyer,Female,6,MBA/PGDM,Recruitment Agency,2024-05-31
+1714,Arjun Jadhav,Male,0,Bachelor's,Company Website,2025-10-04
+1715,Aditi Malhotra,Male,4,Master's,Recruitment Agency,2021-08-06
+1716,Vivek Shinde,Male,6,Bachelor's,LinkedIn,2021-07-18
+1717,Vidya Malhotra,Male,9,Master's,LinkedIn,2021-12-18
+1718,Sonali Thakur,Male,11,Bachelor's,Campus Hiring,2023-02-19
+1719,Rohit Jadhav,Female,6,Master's,Campus Hiring,2021-11-18
+1720,Dhruv Menon,Male,5,MBA/PGDM,Naukri,2025-11-26
+1721,Trisha Joshi,Female,9,Master's,Employee Referral,2024-11-29
+1722,Rahul Shinde,Female,5,Master's,Company Website,2021-06-30
+1723,Trisha More,Male,10,Diploma,Employee Referral,2021-04-06
+1724,Vidya Pawar,Male,7,Bachelor's,Recruitment Agency,2022-11-16
+1725,Rohan Mishra,Female,5,MBA/PGDM,Naukri,2021-05-20
+1726,Kavya Bansal,Female,5,Diploma,Employee Referral,2025-12-13
+1727,Ashish Nair,Female,2,Master's,Employee Referral,2023-07-11
+1728,Neha Chopra,Female,12,Bachelor's,Naukri,2022-07-19
+1729,Sahil Mehta,Male,3,Master's,Naukri,2021-02-28
+1730,Ananya Shinde,Male,0,Master's,LinkedIn,2024-06-06
+1731,Maya Pawar,Female,8,Bachelor's,Naukri,2021-09-01
+1732,Manish Iyer,Male,7,Bachelor's,Recruitment Agency,2022-06-28
+1733,Mohit Bansal,Female,7,MBA/PGDM,Recruitment Agency,2025-11-15
+1734,Diya Patel,Female,0,Bachelor's,Employee Referral,2022-05-03
+1735,Vivek Menon,Female,6,MBA/PGDM,LinkedIn,2025-01-29
+1736,Rohan Mishra,Female,8,MBA/PGDM,LinkedIn,2025-05-01
+1737,Vivek Reddy,Male,8,Bachelor's,Naukri,2025-10-28
+1738,Isha Pillai,Male,9,Diploma,Campus Hiring,2023-02-28
+1739,Sakshi Saxena,Male,4,Master's,Naukri,2023-01-01
+1740,Pooja Kapoor,Female,8,Bachelor's,Company Website,2022-09-16
+1741,Rahul Rao,Female,3,Diploma,Campus Hiring,2023-03-31
+1742,Vidya Singh,Male,12,Diploma,LinkedIn,2022-04-06
+1743,Abhishek More,Male,0,Master's,LinkedIn,2021-10-10
+1744,Karan Reddy,Female,12,Bachelor's,Recruitment Agency,2021-04-27
+1745,Pooja Sawant,Female,1,Master's,LinkedIn,2022-12-09
+1746,Arjun Kulkarni,Female,8,MBA/PGDM,LinkedIn,2022-12-15
+1747,Nikhil Sharma,Male,11,Bachelor's,Company Website,2025-04-21
+1748,Rahul Rao,Male,2,Bachelor's,Naukri,2025-03-19
+1749,Aditya Patel,Female,4,Diploma,Employee Referral,2025-09-08
+1750,Varun Thakur,Female,2,MBA/PGDM,Company Website,2023-10-12
+1751,Zoya Jain,Female,7,Diploma,Recruitment Agency,2024-06-13
+1752,Akash Naik,Male,5,MBA/PGDM,Campus Hiring,2024-11-24
+1753,Karan Joshi,Female,5,MBA/PGDM,Campus Hiring,2024-02-14
+1754,Rohan Thakur,Male,0,Master's,Employee Referral,2022-12-07
+1755,Diya Kapoor,Male,3,Diploma,Recruitment Agency,2022-11-20
+1756,Tanya Reddy,Male,8,Diploma,Employee Referral,2025-01-17
+1757,Isha Nair,Female,6,Diploma,Employee Referral,2022-07-07
+1758,Pooja Menon,Male,11,Bachelor's,Campus Hiring,2022-01-21
+1759,Aditya Rao,Male,1,Bachelor's,Recruitment Agency,2024-03-28
+1760,Rahul Joshi,Female,6,MBA/PGDM,Company Website,2021-06-23
+1761,Ashish Iyer,Female,6,Bachelor's,Company Website,2023-10-19
+1762,Dev Khan,Male,4,Bachelor's,Campus Hiring,2025-09-21
+1763,Diya Mehta,Male,11,Bachelor's,Recruitment Agency,2024-01-15
+1764,Sneha Sharma,Female,8,MBA/PGDM,Naukri,2025-02-23
+1765,Pooja Malhotra,Female,5,Bachelor's,Employee Referral,2021-02-02
+1766,Yash Naik,Male,5,Bachelor's,Campus Hiring,2022-04-03
+1767,Zoya Joshi,Female,1,MBA/PGDM,Campus Hiring,2025-09-15
+1768,Rhea Mishra,Male,11,MBA/PGDM,LinkedIn,2023-08-31
+1769,Zoya Kulkarni,Male,5,MBA/PGDM,LinkedIn,2024-02-19
+1770,Sneha Khan,Male,7,MBA/PGDM,Campus Hiring,2024-02-16
+1771,Vaishnavi Reddy,Female,6,Master's,Campus Hiring,2021-04-26
+1772,Akash Iyer,Female,5,Master's,Recruitment Agency,2022-04-07
+1773,Sakshi Kulkarni,Female,5,MBA/PGDM,Recruitment Agency,2025-08-17
+1774,Neha Iyer,Female,10,Diploma,LinkedIn,2025-11-08
+1775,Diya Pillai,Male,12,Diploma,Recruitment Agency,2022-10-27
+1776,Anjali Malhotra,Female,8,Bachelor's,Campus Hiring,2023-06-23
+1777,Sahil Joshi,Male,7,Bachelor's,LinkedIn,2022-08-22
+1778,Rahul Singh,Male,7,Master's,Employee Referral,2024-03-27
+1779,Arjun Reddy,Male,9,Master's,Company Website,2021-03-18
+1780,Ankita Singh,Female,7,Diploma,Recruitment Agency,2022-10-25
+1781,Mohit Jain,Female,3,Bachelor's,Employee Referral,2021-12-06
+1782,Vaishnavi Thakur,Female,5,MBA/PGDM,Naukri,2025-02-23
+1783,Abhishek Shinde,Male,6,MBA/PGDM,LinkedIn,2021-02-14
+1784,Dhruv Kulkarni,Female,11,Bachelor's,Recruitment Agency,2023-06-02
+1785,Meera Gupta,Male,7,Master's,LinkedIn,2021-06-23
+1786,Sameer Mishra,Female,9,Diploma,Naukri,2024-05-13
+1787,Neha Sharma,Female,1,Diploma,Company Website,2023-05-27
+1788,Dhruv Pawar,Male,6,Master's,Employee Referral,2021-06-19
+1789,Nisha More,Male,7,Master's,Recruitment Agency,2021-01-07
+1790,Anjali Singh,Female,5,MBA/PGDM,Company Website,2021-12-09
+1791,Pallavi Shinde,Female,12,MBA/PGDM,Recruitment Agency,2025-05-04
+1792,Diya Mishra,Male,5,Diploma,Campus Hiring,2025-07-15
+1793,Harsh Shinde,Female,0,MBA/PGDM,Naukri,2022-04-27
+1794,Anjali Deshmukh,Female,11,Master's,Recruitment Agency,2024-08-25
+1795,Zoya Nair,Male,7,Master's,Employee Referral,2021-12-27
+1796,Diya Pillai,Male,2,Bachelor's,Recruitment Agency,2021-09-10
+1797,Neha Deshmukh,Male,5,MBA/PGDM,Company Website,2022-07-20
+1798,Vivek Deshmukh,Male,2,Master's,Campus Hiring,2021-02-23
+1799,Amit Shinde,Female,0,Diploma,Recruitment Agency,2021-05-09
+1800,Ananya Bansal,Female,2,Master's,Recruitment Agency,2024-06-20
+1801,Vidya Shinde,Female,10,Diploma,Naukri,2021-09-04
+1802,Sakshi More,Male,6,MBA/PGDM,LinkedIn,2022-01-10
+1803,Priya Jadhav,Female,8,Master's,Naukri,2023-04-11
+1804,Tanvi Khan,Male,5,Diploma,Naukri,2024-12-22
+1805,Kavya Thakur,Female,2,Bachelor's,Company Website,2021-07-15
+1806,Pooja Chopra,Female,2,Bachelor's,Recruitment Agency,2023-08-12
+1807,Mohit Patel,Male,1,Master's,Employee Referral,2025-11-28
+1808,Priya Pillai,Female,1,Master's,Employee Referral,2025-03-09
+1809,Varun Menon,Male,2,MBA/PGDM,Campus Hiring,2025-06-20
+1810,Amit Mehta,Female,1,Bachelor's,Recruitment Agency,2022-03-15
+1811,Yash Malhotra,Female,7,MBA/PGDM,LinkedIn,2021-06-19
+1812,Aditi Deshmukh,Female,11,MBA/PGDM,Employee Referral,2021-10-14
+1813,Yash More,Male,8,Master's,Naukri,2024-10-13
+1814,Tanya Reddy,Female,8,Diploma,LinkedIn,2021-09-24
+1815,Abhishek Verma,Female,6,Master's,Naukri,2024-04-03
+1816,Aniket Deshmukh,Female,9,Bachelor's,Campus Hiring,2021-07-04
+1817,Dev Deshmukh,Female,1,Diploma,Company Website,2021-01-01
+1818,Aditi Sharma,Male,3,MBA/PGDM,Recruitment Agency,2023-06-05
+1819,Nikhil Kapoor,Male,2,Diploma,Campus Hiring,2021-03-14
+1820,Ananya Thakur,Female,12,MBA/PGDM,Company Website,2025-07-05
+1821,Dhruv Gupta,Male,3,MBA/PGDM,Employee Referral,2023-11-14
+1822,Karan Thakur,Female,7,MBA/PGDM,LinkedIn,2024-05-04
+1823,Ananya Menon,Female,0,MBA/PGDM,LinkedIn,2022-05-12
+1824,Harsh Nair,Male,11,Diploma,Company Website,2025-03-06
+1825,Sameer Singh,Male,7,MBA/PGDM,Recruitment Agency,2022-02-03
+1826,Nikhil Reddy,Female,6,Master's,Recruitment Agency,2025-01-07
+1827,Meera Gupta,Female,11,Master's,LinkedIn,2022-03-16
+1828,Pooja Chopra,Female,8,Master's,LinkedIn,2024-01-14
+1829,Tanya More,Male,5,MBA/PGDM,LinkedIn,2024-12-01
+1830,Vaishnavi Mehta,Female,0,Master's,Company Website,2023-12-11
+1831,Abhishek Saxena,Male,7,Master's,Recruitment Agency,2025-10-26
+1832,Aniket Sharma,Male,2,Bachelor's,Campus Hiring,2022-09-20
+1833,Pooja Deshmukh,Female,12,MBA/PGDM,Employee Referral,2024-02-28
+1834,Anjali Malhotra,Female,4,Master's,Recruitment Agency,2022-08-14
+1835,Mohit Thakur,Male,5,Bachelor's,Campus Hiring,2025-02-07
+1836,Aniket Pillai,Female,2,Bachelor's,Company Website,2022-05-27
+1837,Nikhil Shinde,Male,12,MBA/PGDM,Recruitment Agency,2024-05-06
+1838,Maya Sharma,Female,8,Diploma,Recruitment Agency,2021-10-22
+1839,Priya More,Female,7,MBA/PGDM,Recruitment Agency,2022-03-31
+1840,Sahil Gupta,Male,7,Diploma,Employee Referral,2024-06-13
+1841,Nisha Pawar,Female,1,Diploma,Recruitment Agency,2024-03-10
+1842,Sameer Chopra,Male,6,MBA/PGDM,Recruitment Agency,2024-04-19
+1843,Karan Kapoor,Male,11,Diploma,LinkedIn,2023-10-23
+1844,Tanvi Verma,Female,7,Bachelor's,LinkedIn,2023-02-01
+1845,Dev Mehta,Male,6,MBA/PGDM,Recruitment Agency,2022-11-19
+1846,Manish Pillai,Female,11,Bachelor's,Campus Hiring,2024-01-24
+1847,Diya Iyer,Female,4,Bachelor's,LinkedIn,2022-02-07
+1848,Amit Kapoor,Male,9,Bachelor's,Company Website,2023-07-02
+1849,Dhruv Sawant,Female,11,Diploma,Company Website,2021-11-14
+1850,Dhruv Pawar,Female,5,Diploma,Company Website,2022-03-31
+1851,Vivek Gupta,Male,10,Bachelor's,Naukri,2021-10-25
+1852,Nikhil Rao,Male,4,Diploma,LinkedIn,2023-05-10
+1853,Harsh Bansal,Male,8,Bachelor's,Employee Referral,2025-09-15
+1854,Nisha Sharma,Male,0,Master's,Employee Referral,2024-12-29
+1855,Neha Nair,Female,5,Bachelor's,Recruitment Agency,2025-03-13
+1856,Tanya Thakur,Female,12,Master's,Campus Hiring,2025-02-14
+1857,Aarav Jain,Male,7,Master's,Campus Hiring,2024-05-14
+1858,Aarav Menon,Female,3,Diploma,Campus Hiring,2024-03-15
+1859,Dhruv Khan,Female,8,MBA/PGDM,Company Website,2024-09-28
+1860,Rohan Saxena,Female,11,Diploma,Employee Referral,2025-07-15
+1861,Mohit More,Male,10,MBA/PGDM,Employee Referral,2024-10-25
+1862,Zoya Rao,Female,8,Bachelor's,Naukri,2023-08-22
+1863,Shreya Reddy,Male,0,Bachelor's,LinkedIn,2021-09-10
+1864,Aditya Mishra,Female,11,Master's,Employee Referral,2024-11-18
+1865,Dev Gupta,Female,6,Master's,Campus Hiring,2025-10-16
+1866,Ankita Chopra,Female,1,MBA/PGDM,Company Website,2023-02-17
+1867,Pooja Naik,Male,2,Diploma,LinkedIn,2022-01-02
+1868,Anjali Pawar,Female,9,Diploma,Employee Referral,2021-12-04
+1869,Ananya Chopra,Female,9,Bachelor's,Campus Hiring,2021-10-27
+1870,Harsh Naik,Male,5,Master's,Company Website,2023-05-23
+1871,Maya Sawant,Female,2,Master's,Employee Referral,2021-03-10
+1872,Rohan Thakur,Female,1,Diploma,Recruitment Agency,2021-10-05
+1873,Tanya Jadhav,Female,8,Master's,Campus Hiring,2022-10-04
+1874,Sneha Patel,Male,12,Master's,LinkedIn,2025-04-21
+1875,Ankita More,Female,0,MBA/PGDM,Employee Referral,2024-10-10
+1876,Karan Nair,Female,1,Bachelor's,Naukri,2022-02-05
+1877,Abhishek Singh,Male,10,Diploma,Naukri,2021-12-03
+1878,Manish Singh,Male,11,MBA/PGDM,Naukri,2021-09-11
+1879,Pooja Bansal,Male,4,Diploma,Recruitment Agency,2024-05-03
+1880,Manish Pillai,Female,11,MBA/PGDM,Recruitment Agency,2025-10-31
+1881,Riya Rao,Male,5,Diploma,Recruitment Agency,2023-09-21
+1882,Pallavi Malhotra,Male,10,MBA/PGDM,Recruitment Agency,2023-12-24
+1883,Ashish More,Male,11,MBA/PGDM,Company Website,2025-11-05
+1884,Nikhil Patel,Female,8,Diploma,Campus Hiring,2024-10-18
+1885,Kavya Kapoor,Male,8,Bachelor's,Naukri,2025-03-15
+1886,Ashish Menon,Female,0,Master's,LinkedIn,2021-11-06
+1887,Amit Chopra,Male,8,MBA/PGDM,Company Website,2023-04-14
+1888,Sonali Patel,Female,0,Master's,Campus Hiring,2025-03-29
+1889,Yash Patel,Male,11,Master's,LinkedIn,2021-02-02
+1890,Aditya Patel,Female,1,Master's,Naukri,2021-04-09
+1891,Maya Mehta,Female,11,Master's,Recruitment Agency,2021-10-23
+1892,Varun Nair,Female,0,Diploma,Naukri,2023-09-27
+1893,Sneha Iyer,Male,12,Master's,Company Website,2025-07-18
+1894,Neha Thakur,Male,3,Bachelor's,LinkedIn,2025-01-15
+1895,Dhruv Iyer,Male,11,Bachelor's,Naukri,2022-05-14
+1896,Riya Chopra,Male,3,Diploma,Recruitment Agency,2022-03-01
+1897,Priya Saxena,Male,7,MBA/PGDM,Company Website,2023-02-11
+1898,Tanya Joshi,Female,10,Diploma,Campus Hiring,2024-07-16
+1899,Vidya Jain,Female,4,Master's,Employee Referral,2024-11-09
+1900,Ashish Saxena,Female,12,Master's,Campus Hiring,2022-01-19
+1901,Isha Khan,Male,12,Master's,Company Website,2021-11-04
+1902,Riya Jadhav,Male,0,Diploma,Naukri,2022-08-24
+1903,Manish Shinde,Male,10,Master's,Recruitment Agency,2022-02-01
+1904,Riya Pawar,Male,6,Diploma,Campus Hiring,2022-04-20
+1905,Sanjay Mishra,Male,0,Master's,Naukri,2025-09-18
+1906,Yash Joshi,Male,12,Bachelor's,Employee Referral,2022-12-15
+1907,Yash Pawar,Male,11,Diploma,Company Website,2024-11-28
+1908,Manish Jadhav,Female,2,MBA/PGDM,LinkedIn,2023-07-30
+1909,Shreya Thakur,Female,12,Bachelor's,Company Website,2023-04-24
+1910,Riya Iyer,Male,8,Master's,Company Website,2023-04-12
+1911,Pallavi Kulkarni,Male,5,Master's,Recruitment Agency,2021-09-13
+1912,Varun Chopra,Male,10,Master's,Naukri,2024-05-20
+1913,Yash Singh,Female,4,Diploma,Employee Referral,2022-11-23
+1914,Vidya Joshi,Female,2,Diploma,Company Website,2025-08-17
+1915,Zoya Reddy,Male,12,Bachelor's,Recruitment Agency,2025-03-14
+1916,Ankita Gupta,Male,11,Diploma,Recruitment Agency,2022-09-24
+1917,Zoya Sharma,Male,3,Master's,LinkedIn,2022-10-23
+1918,Aarav Malhotra,Female,1,MBA/PGDM,Campus Hiring,2025-09-03
+1919,Meera Shinde,Female,9,Master's,Campus Hiring,2021-03-24
+1920,Meera Thakur,Male,10,Bachelor's,Campus Hiring,2025-08-02
+1921,Kavya Khan,Male,0,Diploma,Naukri,2024-02-03
+1922,Yash Rao,Male,6,MBA/PGDM,Company Website,2024-04-15
+1923,Riya Patel,Female,2,Diploma,Recruitment Agency,2024-03-14
+1924,Priya Iyer,Male,5,MBA/PGDM,Campus Hiring,2023-03-22
+1925,Aniket Joshi,Female,11,Bachelor's,Recruitment Agency,2024-08-28
+1926,Ashish Nair,Male,2,Diploma,Naukri,2025-04-29
+1927,Sonali Patel,Female,5,Diploma,LinkedIn,2021-03-29
+1928,Vidya Khan,Female,1,Bachelor's,Naukri,2024-11-06
+1929,Priya Kapoor,Female,4,Master's,Naukri,2025-06-30
+1930,Akash Rao,Female,9,Bachelor's,Recruitment Agency,2025-08-19
+1931,Karan Nair,Male,6,Diploma,Campus Hiring,2024-05-17
+1932,Vivek Jain,Female,7,Diploma,Company Website,2023-07-28
+1933,Isha Verma,Female,12,Master's,Campus Hiring,2025-01-23
+1934,Nisha Joshi,Male,0,MBA/PGDM,Campus Hiring,2023-04-07
+1935,Rohit Joshi,Male,5,Master's,LinkedIn,2025-02-11
+1936,Arjun Patel,Female,8,Master's,Company Website,2025-01-16
+1937,Ashish Pawar,Female,3,Master's,Employee Referral,2022-12-18
+1938,Vaishnavi Pillai,Female,0,Diploma,LinkedIn,2021-06-04
+1939,Sahil Reddy,Female,12,MBA/PGDM,Campus Hiring,2025-06-03
+1940,Pooja Rao,Female,0,MBA/PGDM,Employee Referral,2025-11-21
+1941,Mohit Naik,Male,4,MBA/PGDM,Employee Referral,2023-09-24
+1942,Sameer Pillai,Female,10,Master's,Naukri,2023-04-23
+1943,Sahil Pawar,Female,7,Diploma,Company Website,2021-11-12
+1944,Pooja Singh,Male,1,Diploma,Employee Referral,2025-06-09
+1945,Sakshi Patel,Female,6,Bachelor's,Employee Referral,2023-01-08
+1946,Yash Joshi,Female,0,Master's,Campus Hiring,2024-04-13
+1947,Arjun Patel,Female,0,MBA/PGDM,Company Website,2024-04-25
+1948,Shreya Reddy,Female,1,Bachelor's,Campus Hiring,2021-03-26
+1949,Pallavi Bansal,Female,0,MBA/PGDM,Recruitment Agency,2024-02-19
+1950,Meera Deshmukh,Male,2,Bachelor's,Naukri,2022-12-06
+1951,Harsh Chopra,Female,9,MBA/PGDM,LinkedIn,2022-07-16
+1952,Aditi Saxena,Female,8,Bachelor's,Naukri,2022-09-13
+1953,Riya Reddy,Male,6,MBA/PGDM,Naukri,2021-07-06
+1954,Rhea Thakur,Male,11,Master's,Naukri,2021-12-02
+1955,Sneha Deshmukh,Female,0,Master's,LinkedIn,2023-01-22
+1956,Tanya Jain,Female,6,Bachelor's,LinkedIn,2021-03-17
+1957,Tanvi Sharma,Female,2,Master's,LinkedIn,2025-01-23
+1958,Amit Kulkarni,Male,3,MBA/PGDM,Employee Referral,2022-05-18
+1959,Amit Joshi,Female,8,Bachelor's,Recruitment Agency,2025-02-08
+1960,Arjun Mishra,Female,9,Bachelor's,Naukri,2025-01-20
+1961,Aarav Khan,Female,4,MBA/PGDM,Naukri,2022-09-30
+1962,Nikhil Thakur,Male,3,Diploma,LinkedIn,2023-07-22
+1963,Pallavi Jadhav,Male,0,Diploma,Campus Hiring,2022-11-15
+1964,Sakshi Chopra,Male,2,Diploma,Recruitment Agency,2021-04-26
+1965,Aditya Kulkarni,Female,10,Diploma,Naukri,2021-05-13
+1966,Rhea Shinde,Male,11,Diploma,Campus Hiring,2022-11-05
+1967,Shreya Deshmukh,Female,3,MBA/PGDM,Campus Hiring,2021-07-16
+1968,Sneha More,Female,7,Diploma,Campus Hiring,2024-02-06
+1969,Vidya Singh,Female,10,Master's,Company Website,2025-05-12
+1970,Aditya Sawant,Female,11,Bachelor's,LinkedIn,2022-02-02
+1971,Aditi Sharma,Female,12,MBA/PGDM,LinkedIn,2025-03-30
+1972,Meera Rao,Male,10,Bachelor's,Company Website,2025-09-12
+1973,Pallavi Saxena,Male,11,MBA/PGDM,Company Website,2025-02-01
+1974,Ashish Naik,Male,2,Bachelor's,Employee Referral,2023-01-27
+1975,Maya Patel,Female,5,MBA/PGDM,Company Website,2025-01-18
+1976,Sanjay Bansal,Male,10,MBA/PGDM,Campus Hiring,2023-08-04
+1977,Amit Menon,Male,10,MBA/PGDM,Recruitment Agency,2021-02-21
+1978,Riya Shinde,Male,2,MBA/PGDM,Company Website,2022-09-22
+1979,Manish Bansal,Female,3,MBA/PGDM,Company Website,2022-12-22
+1980,Isha Iyer,Female,4,MBA/PGDM,Recruitment Agency,2022-06-03
+1981,Zoya Kulkarni,Female,10,MBA/PGDM,Company Website,2024-02-29
+1982,Sneha Rao,Male,12,Bachelor's,LinkedIn,2024-06-18
+1983,Harsh Gupta,Male,3,Diploma,Recruitment Agency,2021-07-17
+1984,Sameer Thakur,Female,3,Bachelor's,Naukri,2021-01-04
+1985,Isha Deshmukh,Male,7,MBA/PGDM,Employee Referral,2023-12-23
+1986,Pallavi Reddy,Female,2,MBA/PGDM,Recruitment Agency,2022-11-17
+1987,Zoya Thakur,Male,5,MBA/PGDM,LinkedIn,2021-02-03
+1988,Tanya Bansal,Male,6,MBA/PGDM,Company Website,2023-09-30
+1989,Rohan Sawant,Male,0,Diploma,Company Website,2021-06-30
+1990,Shreya Nair,Female,7,Master's,Company Website,2025-12-08
+1991,Ananya Kapoor,Female,10,Master's,Naukri,2023-05-15
+1992,Tanya Gupta,Male,2,Bachelor's,Recruitment Agency,2023-04-05
+1993,Rhea Saxena,Female,12,Diploma,LinkedIn,2025-03-13
+1994,Aarav Rao,Female,8,Master's,Campus Hiring,2023-10-29
+1995,Varun Nair,Female,4,Master's,Recruitment Agency,2024-07-01
+1996,Ananya Shinde,Male,11,Diploma,Campus Hiring,2023-03-03
+1997,Nisha Jadhav,Male,6,MBA/PGDM,Recruitment Agency,2021-03-25
+1998,Ananya Singh,Female,10,Bachelor's,Employee Referral,2021-12-11
+1999,Vidya Pawar,Female,9,Bachelor's,Employee Referral,2021-12-29
+2000,Tanya More,Male,1,Diploma,Recruitment Agency,2025-01-01
+2001,Vivek Nair,Male,6,Master's,Recruitment Agency,2023-05-07
+2002,Priya Patel,Male,7,Bachelor's,Campus Hiring,2024-03-22
+2003,Rohan Singh,Female,6,Master's,Campus Hiring,2023-09-03
+2004,Vaishnavi Malhotra,Male,5,Master's,Campus Hiring,2021-02-15
+2005,Tanvi Deshmukh,Male,2,MBA/PGDM,LinkedIn,2024-10-20
+2006,Sakshi Malhotra,Male,12,Master's,Employee Referral,2023-08-15
+2007,Manish Saxena,Female,10,Master's,Campus Hiring,2023-12-26
+2008,Vidya Thakur,Male,0,Diploma,Campus Hiring,2023-09-22
+2009,Sneha Kulkarni,Female,9,Bachelor's,Employee Referral,2022-07-06
+2010,Tanya Joshi,Male,9,MBA/PGDM,Naukri,2025-09-23
+2011,Aditi Verma,Female,4,Diploma,Naukri,2021-08-29
+2012,Abhishek Mehta,Female,2,MBA/PGDM,LinkedIn,2025-03-19
+2013,Shreya Saxena,Male,2,Bachelor's,Company Website,2024-03-15
+2014,Kavya Nair,Male,7,MBA/PGDM,LinkedIn,2022-01-17
+2015,Zoya Patel,Male,4,Diploma,Employee Referral,2022-11-29
+2016,Sonali Sharma,Female,10,Bachelor's,Company Website,2025-01-14
+2017,Tanvi Gupta,Female,8,Diploma,Employee Referral,2025-05-10
+2018,Karan Reddy,Male,6,MBA/PGDM,Naukri,2024-11-14
+2019,Pallavi Verma,Male,11,MBA/PGDM,Company Website,2023-12-30
+2020,Diya Joshi,Female,7,Bachelor's,Naukri,2022-02-07
+2021,Meera Jain,Male,5,Bachelor's,Company Website,2022-06-28
+2022,Zoya Pillai,Female,3,MBA/PGDM,Recruitment Agency,2021-06-09
+2023,Aditi Shinde,Female,0,MBA/PGDM,Company Website,2021-11-23
+2024,Amit Jadhav,Male,5,Master's,Campus Hiring,2022-07-21
+2025,Vidya Pillai,Female,12,MBA/PGDM,Company Website,2022-10-30
+2026,Aditya Kulkarni,Female,6,Diploma,Recruitment Agency,2024-09-21
+2027,Sanjay Mishra,Male,3,Bachelor's,Employee Referral,2023-08-24
+2028,Trisha Kulkarni,Male,7,Bachelor's,LinkedIn,2021-04-13
+2029,Maya Deshmukh,Female,8,Master's,Employee Referral,2022-04-03
+2030,Abhishek Shinde,Male,6,Master's,LinkedIn,2024-07-17
+2031,Aniket Naik,Female,7,Master's,Employee Referral,2025-06-06
+2032,Amit Thakur,Male,1,MBA/PGDM,Employee Referral,2021-05-23
+2033,Vaishnavi Jain,Female,9,MBA/PGDM,Recruitment Agency,2021-12-18
+2034,Varun Kulkarni,Male,5,Diploma,Recruitment Agency,2021-11-05
+2035,Akash Nair,Female,5,Master's,Company Website,2024-01-16
+2036,Tanvi Pawar,Male,2,MBA/PGDM,LinkedIn,2022-04-26
+2037,Varun Kapoor,Female,3,Master's,Campus Hiring,2024-09-04
+2038,Akash Joshi,Female,1,Bachelor's,Company Website,2025-04-01
+2039,Arjun Sawant,Female,10,Bachelor's,Employee Referral,2023-03-20
+2040,Mohit Deshmukh,Female,0,Master's,Recruitment Agency,2024-09-29
+2041,Vivek Shinde,Female,10,Bachelor's,LinkedIn,2023-08-16
+2042,Sanjay More,Male,3,Bachelor's,Employee Referral,2024-12-15
+2043,Ankita Kapoor,Female,5,MBA/PGDM,LinkedIn,2023-11-16
+2044,Maya Deshmukh,Female,11,MBA/PGDM,Recruitment Agency,2021-01-20
+2045,Aarav Thakur,Male,3,Master's,Campus Hiring,2025-11-08
+2046,Vaishnavi Sharma,Female,0,Master's,Recruitment Agency,2025-02-10
+2047,Anjali Patel,Female,3,Bachelor's,Company Website,2023-12-31
+2048,Trisha Singh,Female,11,Master's,Recruitment Agency,2024-08-30
+2049,Priya Kulkarni,Female,5,MBA/PGDM,LinkedIn,2021-10-28
+2050,Vidya Reddy,Male,10,MBA/PGDM,Naukri,2024-09-10
+2051,Rohan More,Female,11,Diploma,Campus Hiring,2022-11-28
+2052,Karan Joshi,Male,10,Bachelor's,Company Website,2024-02-19
+2053,Anjali Sharma,Female,6,Master's,Company Website,2022-11-17
+2054,Sneha Mehta,Male,6,Bachelor's,Recruitment Agency,2023-07-05
+2055,Rhea Bansal,Female,1,Bachelor's,Naukri,2025-07-17
+2056,Aarav Kapoor,Female,10,Diploma,Employee Referral,2023-04-03
+2057,Abhishek Singh,Male,4,Diploma,Employee Referral,2021-10-19
+2058,Pooja Reddy,Female,7,Master's,Company Website,2023-12-28
+2059,Rohan Kulkarni,Female,9,MBA/PGDM,Company Website,2024-08-28
+2060,Zoya Khan,Male,0,MBA/PGDM,Employee Referral,2022-11-18
+2061,Sahil Malhotra,Male,9,Diploma,LinkedIn,2021-06-26
+2062,Manish Pillai,Male,7,MBA/PGDM,Company Website,2023-12-11
+2063,Manish Jain,Male,6,MBA/PGDM,Company Website,2023-12-15
+2064,Manish Saxena,Male,3,Master's,Employee Referral,2023-08-11
+2065,Trisha Shinde,Male,9,MBA/PGDM,Campus Hiring,2024-09-09
+2066,Harsh Kapoor,Male,10,Diploma,LinkedIn,2021-04-13
+2067,Sameer Kulkarni,Male,3,Bachelor's,Campus Hiring,2022-10-24
+2068,Anjali Joshi,Female,10,MBA/PGDM,Recruitment Agency,2025-12-14
+2069,Dhruv Jadhav,Female,7,Master's,Campus Hiring,2023-12-15
+2070,Aditi Verma,Male,4,Diploma,LinkedIn,2021-11-23
+2071,Tanya Chopra,Male,10,Bachelor's,Naukri,2025-03-22
+2072,Trisha Patel,Male,9,Master's,Naukri,2023-06-03
+2073,Dev Nair,Male,11,Master's,Campus Hiring,2025-01-25
+2074,Ananya More,Male,8,Diploma,Employee Referral,2023-07-14
+2075,Dhruv Bansal,Female,7,Bachelor's,Employee Referral,2023-07-21
+2076,Sanjay Singh,Female,10,Diploma,Recruitment Agency,2022-12-30
+2077,Amit Mishra,Male,11,Master's,LinkedIn,2024-06-16
+2078,Rohit Saxena,Female,9,Master's,Campus Hiring,2022-11-18
+2079,Sanjay More,Male,12,Master's,LinkedIn,2021-08-15
+2080,Meera Sawant,Female,8,Master's,Employee Referral,2022-12-26
+2081,Trisha Malhotra,Female,3,Diploma,LinkedIn,2021-10-26
+2082,Ankita Joshi,Male,12,Diploma,Naukri,2024-12-28
+2083,Neha Shinde,Female,8,Master's,Recruitment Agency,2024-06-22
+2084,Nikhil Jadhav,Male,1,Bachelor's,Recruitment Agency,2023-09-12
+2085,Isha Chopra,Male,5,Bachelor's,Employee Referral,2023-03-18
+2086,Dhruv Sharma,Female,2,Diploma,LinkedIn,2024-03-21
+2087,Akash Jain,Male,3,Bachelor's,Company Website,2023-07-18
+2088,Tanya Bansal,Male,8,Diploma,Company Website,2021-04-22
+2089,Karan Naik,Male,2,Master's,Recruitment Agency,2024-06-07
+2090,Anjali Menon,Male,2,Master's,Naukri,2025-06-11
+2091,Vidya Pawar,Male,7,Master's,Company Website,2022-02-12
+2092,Ankita Verma,Female,8,Master's,Employee Referral,2022-10-25
+2093,Isha Bansal,Male,12,Bachelor's,Naukri,2021-01-05
+2094,Nisha Kapoor,Male,1,Bachelor's,Company Website,2024-12-19
+2095,Nisha Thakur,Female,1,Master's,Campus Hiring,2023-01-26
+2096,Mohit Kapoor,Female,4,Master's,Naukri,2025-06-13
+2097,Yash Verma,Female,0,MBA/PGDM,Employee Referral,2021-11-19
+2098,Anjali Shinde,Male,10,Master's,Naukri,2024-02-17
+2099,Ananya Shinde,Female,6,Bachelor's,LinkedIn,2023-02-22
+2100,Meera Sawant,Female,4,Bachelor's,Employee Referral,2022-05-15
+2101,Shreya Deshmukh,Male,6,Bachelor's,Campus Hiring,2024-03-09
+2102,Isha Sawant,Male,6,MBA/PGDM,Company Website,2024-06-25
+2103,Rohit Thakur,Male,5,Diploma,LinkedIn,2023-04-10
+2104,Arjun Menon,Female,12,Bachelor's,Company Website,2021-04-25
+2105,Nikhil Deshmukh,Female,0,Diploma,LinkedIn,2022-01-14
+2106,Rahul Pillai,Female,0,MBA/PGDM,Campus Hiring,2023-01-06
+2107,Maya Singh,Male,8,Bachelor's,LinkedIn,2022-08-03
+2108,Priya Patel,Female,1,Diploma,Recruitment Agency,2023-12-07
+2109,Aditya Nair,Male,10,Diploma,Company Website,2023-08-19
+2110,Tanvi Saxena,Female,4,Master's,LinkedIn,2022-07-11
+2111,Sahil Khan,Female,10,Diploma,Employee Referral,2025-08-23
+2112,Sakshi Khan,Male,0,Master's,Company Website,2023-05-13
+2113,Diya Saxena,Female,6,MBA/PGDM,Recruitment Agency,2022-10-21
+2114,Tanya Jain,Female,5,Diploma,Campus Hiring,2024-04-16
+2115,Aniket Saxena,Female,1,Master's,Company Website,2021-01-12
+2116,Sakshi Kapoor,Male,7,MBA/PGDM,Company Website,2023-12-14
+2117,Nikhil Verma,Male,5,MBA/PGDM,Campus Hiring,2021-09-15
+2118,Aarav Rao,Male,7,Master's,Company Website,2022-04-04
+2119,Amit Reddy,Male,2,Diploma,Naukri,2022-09-09
+2120,Sonali Saxena,Male,8,Diploma,Naukri,2022-07-17
+2121,Pooja Iyer,Female,3,Master's,Recruitment Agency,2022-08-20
+2122,Yash Nair,Female,2,MBA/PGDM,Company Website,2023-09-26
+2123,Yash Sawant,Male,1,MBA/PGDM,Company Website,2021-02-12
+2124,Aarav More,Male,12,Diploma,Campus Hiring,2022-03-07
+2125,Nisha Malhotra,Female,6,Bachelor's,LinkedIn,2024-06-16
+2126,Ashish Patel,Female,5,MBA/PGDM,Naukri,2025-02-04
+2127,Diya Khan,Female,12,MBA/PGDM,Campus Hiring,2022-02-21
+2128,Mohit Naik,Female,6,Diploma,Employee Referral,2022-07-04
+2129,Aditya Mishra,Female,2,Diploma,Recruitment Agency,2021-01-07
+2130,Abhishek Sawant,Male,2,MBA/PGDM,Employee Referral,2022-02-10
+2131,Neha Jadhav,Female,0,Master's,Recruitment Agency,2021-07-26
+2132,Shreya Kapoor,Male,9,Master's,Campus Hiring,2024-01-26
+2133,Tanvi Nair,Male,0,MBA/PGDM,Employee Referral,2021-05-23
+2134,Rahul Saxena,Male,0,Bachelor's,LinkedIn,2023-05-19
+2135,Ankita Kulkarni,Female,12,MBA/PGDM,LinkedIn,2021-03-21
+2136,Priya Mehta,Female,11,Diploma,LinkedIn,2024-05-12
+2137,Ankita Chopra,Male,6,Diploma,Employee Referral,2023-12-24
+2138,Rhea Naik,Female,6,MBA/PGDM,Naukri,2024-05-28
+2139,Tanvi Iyer,Female,2,Master's,LinkedIn,2024-12-10
+2140,Tanvi Gupta,Male,5,Master's,Company Website,2023-02-25
+2141,Vidya Khan,Male,12,MBA/PGDM,Employee Referral,2023-11-24
+2142,Meera Pawar,Female,2,MBA/PGDM,Campus Hiring,2023-10-01
+2143,Harsh Nair,Male,2,MBA/PGDM,Naukri,2021-09-17
+2144,Arjun Joshi,Female,4,MBA/PGDM,Recruitment Agency,2024-06-16
+2145,Manish Sharma,Male,4,Bachelor's,LinkedIn,2025-08-31
+2146,Arjun Iyer,Male,0,Bachelor's,Campus Hiring,2025-08-12
+2147,Sonali Mishra,Male,10,MBA/PGDM,Naukri,2021-11-05
+2148,Zoya Shinde,Male,4,Master's,Employee Referral,2025-01-21
+2149,Amit Mehta,Male,0,Bachelor's,Employee Referral,2025-08-06
+2150,Ashish Malhotra,Female,6,Bachelor's,Campus Hiring,2025-09-11
+2151,Isha Bansal,Female,1,Master's,Recruitment Agency,2022-02-03
+2152,Pallavi Nair,Female,4,Bachelor's,Campus Hiring,2021-07-30
+2153,Rohit Deshmukh,Female,11,Diploma,Recruitment Agency,2024-06-17
+2154,Trisha Naik,Male,11,Bachelor's,Employee Referral,2021-11-26
+2155,Isha Mehta,Male,4,MBA/PGDM,Naukri,2021-08-11
+2156,Sameer Pawar,Male,10,Master's,Campus Hiring,2024-09-01
+2157,Rohit Mishra,Male,2,Bachelor's,Naukri,2024-06-28
+2158,Sakshi Nair,Female,7,Master's,LinkedIn,2023-08-21
+2159,Manish Nair,Male,11,Diploma,Campus Hiring,2024-05-13
+2160,Riya Bansal,Female,11,Bachelor's,Campus Hiring,2024-03-25
+2161,Arjun Mehta,Female,8,Master's,Recruitment Agency,2025-05-14
+2162,Priya Iyer,Male,11,Diploma,Employee Referral,2022-03-31
+2163,Anjali Iyer,Female,9,Master's,Naukri,2022-04-01
+2164,Maya Rao,Male,4,Bachelor's,Recruitment Agency,2021-09-29
+2165,Anjali Verma,Female,11,Diploma,Naukri,2024-08-18
+2166,Maya Mishra,Female,4,Diploma,Company Website,2025-11-15
+2167,Meera Saxena,Female,10,Bachelor's,Recruitment Agency,2023-06-04
+2168,Sonali More,Female,2,Diploma,LinkedIn,2021-03-08
+2169,Aditi Kulkarni,Female,12,Bachelor's,Campus Hiring,2021-02-23
+2170,Zoya Jain,Female,4,Bachelor's,Campus Hiring,2022-12-24
+2171,Karan Bansal,Male,6,Diploma,LinkedIn,2022-02-12
+2172,Anjali Deshmukh,Male,10,Bachelor's,Campus Hiring,2025-11-29
+2173,Sameer Gupta,Male,2,Master's,Campus Hiring,2025-04-07
+2174,Vivek Jadhav,Female,10,MBA/PGDM,Campus Hiring,2025-01-12
+2175,Dhruv Verma,Female,3,Diploma,Recruitment Agency,2022-07-05
+2176,Sakshi Malhotra,Male,1,Master's,Naukri,2022-02-24
+2177,Maya Sharma,Male,12,Diploma,Company Website,2021-04-06
+2178,Manish Sawant,Female,5,Bachelor's,Campus Hiring,2022-10-25
+2179,Akash Joshi,Female,10,Master's,Company Website,2023-11-02
+2180,Sneha Khan,Male,3,Bachelor's,Campus Hiring,2024-07-21
+2181,Shreya Nair,Male,0,Master's,Naukri,2025-11-08
+2182,Sanjay Pawar,Female,9,Master's,Campus Hiring,2023-03-29
+2183,Tanvi Singh,Male,5,Bachelor's,Employee Referral,2024-04-16
+2184,Sonali Kapoor,Female,0,Master's,Company Website,2021-05-20
+2185,Nisha Singh,Female,11,Diploma,LinkedIn,2022-09-11
+2186,Aditi Mehta,Male,8,Bachelor's,Company Website,2025-10-03
+2187,Kavya Chopra,Male,12,Bachelor's,Naukri,2023-10-31
+2188,Dhruv Sawant,Female,0,Diploma,Recruitment Agency,2021-03-01
+2189,Vidya Pawar,Male,9,Bachelor's,Recruitment Agency,2021-01-08
+2190,Sakshi Nair,Female,9,Diploma,Naukri,2024-12-23
+2191,Rahul Singh,Female,6,Diploma,LinkedIn,2023-08-31
+2192,Aditi Mishra,Female,3,Master's,Naukri,2023-11-17
+2193,Arjun Joshi,Male,4,Master's,Campus Hiring,2023-10-31
+2194,Diya Shinde,Female,1,Bachelor's,Campus Hiring,2024-06-01
+2195,Sonali Mishra,Female,0,Bachelor's,LinkedIn,2021-07-20
+2196,Ashish Shinde,Female,2,Master's,Employee Referral,2024-10-18
+2197,Aditi Shinde,Female,10,Master's,Company Website,2024-10-14
+2198,Tanya Verma,Female,2,Diploma,Company Website,2023-09-10
+2199,Dev Verma,Male,1,Master's,Employee Referral,2021-08-16
+2200,Kavya Sawant,Male,7,MBA/PGDM,Recruitment Agency,2021-04-06
+2201,Dev Iyer,Female,7,Bachelor's,Recruitment Agency,2021-12-24
+2202,Aditya More,Female,1,Bachelor's,Naukri,2024-03-09
+2203,Amit Sawant,Male,0,Master's,LinkedIn,2022-06-02
+2204,Riya Thakur,Male,4,Bachelor's,Employee Referral,2025-06-03
+2205,Nikhil Iyer,Female,4,Bachelor's,Campus Hiring,2021-03-02
+2206,Sakshi Singh,Female,10,MBA/PGDM,LinkedIn,2024-10-10
+2207,Vaishnavi Rao,Male,12,Diploma,Campus Hiring,2023-12-30
+2208,Riya Kulkarni,Male,7,Master's,Campus Hiring,2024-04-06
+2209,Dev Kapoor,Female,5,Master's,LinkedIn,2025-09-25
+2210,Mohit Shinde,Male,2,Diploma,Employee Referral,2022-09-23
+2211,Zoya Sharma,Male,9,MBA/PGDM,LinkedIn,2021-01-27
+2212,Nisha Nair,Male,10,Diploma,LinkedIn,2024-05-05
+2213,Dhruv Saxena,Male,0,Bachelor's,Company Website,2022-02-02
+2214,Vaishnavi Sharma,Male,3,MBA/PGDM,Campus Hiring,2023-06-15
+2215,Vivek Saxena,Male,5,Master's,Campus Hiring,2024-12-24
+2216,Ashish Kulkarni,Male,0,MBA/PGDM,Campus Hiring,2022-06-11
+2217,Sahil Thakur,Female,3,Bachelor's,Campus Hiring,2021-09-07
+2218,Zoya Jadhav,Male,4,Master's,Company Website,2021-05-10
+2219,Meera Kapoor,Male,11,Master's,Recruitment Agency,2025-11-14
+2220,Anjali Pillai,Female,11,Bachelor's,Naukri,2023-08-15
+2221,Nisha Pillai,Male,2,Bachelor's,LinkedIn,2024-09-23
+2222,Varun Gupta,Male,8,Diploma,Recruitment Agency,2023-06-22
+2223,Meera Jain,Male,3,Master's,LinkedIn,2025-12-04
+2224,Vaishnavi More,Male,5,Bachelor's,Employee Referral,2021-03-24
+2225,Sneha Malhotra,Female,9,MBA/PGDM,Employee Referral,2022-04-19
+2226,Abhishek Gupta,Male,3,MBA/PGDM,Employee Referral,2023-05-28
+2227,Sneha Pillai,Male,6,Bachelor's,Naukri,2024-10-10
+2228,Priya Jadhav,Male,10,Diploma,LinkedIn,2023-11-19
+2229,Varun Sawant,Male,6,Master's,Campus Hiring,2022-03-30
+2230,Zoya Naik,Male,9,Master's,Company Website,2023-01-03
+2231,Aniket Mehta,Female,3,MBA/PGDM,LinkedIn,2024-05-08
+2232,Vaishnavi Patel,Female,10,Master's,Naukri,2025-05-02
+2233,Nisha Kapoor,Female,0,Bachelor's,Recruitment Agency,2023-07-06
+2234,Abhishek Mishra,Male,9,Diploma,Recruitment Agency,2025-12-04
+2235,Maya Joshi,Female,4,MBA/PGDM,Recruitment Agency,2022-11-02
+2236,Tanvi Menon,Female,6,Diploma,Employee Referral,2023-10-03
+2237,Priya Jain,Female,2,MBA/PGDM,Recruitment Agency,2022-03-24
+2238,Neha Gupta,Female,0,MBA/PGDM,Campus Hiring,2024-08-13
+2239,Aniket Singh,Male,6,Master's,Company Website,2024-09-11
+2240,Vidya Sharma,Female,3,Master's,Campus Hiring,2022-12-13
+2241,Rhea Kapoor,Female,8,Diploma,Employee Referral,2022-11-25
+2242,Ashish Bansal,Female,6,Bachelor's,Employee Referral,2025-01-23
+2243,Arjun Kapoor,Male,4,Master's,Naukri,2023-05-13
+2244,Sakshi Jain,Male,2,MBA/PGDM,Recruitment Agency,2024-12-31
+2245,Mohit Deshmukh,Male,2,Bachelor's,Recruitment Agency,2023-10-07
+2246,Abhishek Pillai,Female,1,Master's,Company Website,2025-06-30
+2247,Tanvi Thakur,Female,6,Bachelor's,Campus Hiring,2024-03-25
+2248,Aniket Iyer,Female,3,Master's,Company Website,2025-10-02
+2249,Vaishnavi Joshi,Female,9,Master's,LinkedIn,2025-02-10
+2250,Dev Iyer,Male,9,MBA/PGDM,Recruitment Agency,2022-06-01
+2251,Sanjay Iyer,Female,12,MBA/PGDM,LinkedIn,2021-05-15
+2252,Pallavi More,Male,12,MBA/PGDM,Company Website,2022-11-17
+2253,Diya Joshi,Male,7,Master's,Recruitment Agency,2021-03-02
+2254,Rohan Joshi,Female,1,Master's,Naukri,2022-09-01
+2255,Sameer Kulkarni,Male,6,Bachelor's,Recruitment Agency,2022-10-22
+2256,Sonali Iyer,Male,0,Diploma,LinkedIn,2025-05-15
+2257,Neha Khan,Male,9,Bachelor's,Naukri,2023-01-31
+2258,Aarav Jain,Female,0,Diploma,Employee Referral,2024-08-26
+2259,Meera Shinde,Female,7,Bachelor's,Naukri,2021-09-08
+2260,Vivek Pawar,Female,8,Master's,LinkedIn,2022-05-01
+2261,Yash Joshi,Male,7,Bachelor's,LinkedIn,2023-04-25
+2262,Abhishek Verma,Male,12,MBA/PGDM,LinkedIn,2024-12-05
+2263,Varun Saxena,Female,9,Bachelor's,LinkedIn,2022-11-20
+2264,Pooja Deshmukh,Female,7,MBA/PGDM,LinkedIn,2021-05-20
+2265,Vidya Pawar,Female,0,MBA/PGDM,Recruitment Agency,2021-11-19
+2266,Meera Naik,Female,8,MBA/PGDM,LinkedIn,2021-10-14
+2267,Rohit Gupta,Male,9,MBA/PGDM,Naukri,2023-04-14
+2268,Rahul Kapoor,Male,4,Bachelor's,LinkedIn,2025-09-18
+2269,Sameer Patel,Male,8,Master's,Naukri,2023-06-14
+2270,Riya Mehta,Female,5,Bachelor's,Campus Hiring,2024-03-20
+2271,Mohit Pillai,Male,1,Bachelor's,Naukri,2023-09-29
+2272,Arjun Malhotra,Male,1,Master's,LinkedIn,2021-08-14
+2273,Yash Pillai,Female,9,Bachelor's,Recruitment Agency,2021-08-23
+2274,Aarav Sharma,Female,6,MBA/PGDM,Naukri,2025-05-28
+2275,Diya Mishra,Female,10,Master's,Campus Hiring,2024-09-22
+2276,Nisha Verma,Male,0,Diploma,Recruitment Agency,2023-03-12
+2277,Sameer Shinde,Female,3,Master's,Campus Hiring,2023-06-26
+2278,Ankita Malhotra,Female,12,Master's,Recruitment Agency,2023-09-24
+2279,Vaishnavi Reddy,Male,10,Master's,LinkedIn,2024-04-01
+2280,Tanvi Bansal,Male,11,Diploma,Employee Referral,2024-03-05
+2281,Sanjay Pillai,Female,2,Bachelor's,Naukri,2023-12-25
+2282,Dev Naik,Male,2,Master's,Naukri,2024-03-21
+2283,Zoya Pillai,Female,5,Diploma,Naukri,2022-06-05
+2284,Pallavi Deshmukh,Female,3,Master's,Company Website,2021-08-10
+2285,Akash Pawar,Female,4,Master's,Naukri,2025-12-07
+2286,Karan Patel,Male,3,Master's,Recruitment Agency,2024-06-30
+2287,Harsh Joshi,Male,1,Master's,Campus Hiring,2022-02-06
+2288,Sahil Singh,Female,5,Diploma,Recruitment Agency,2022-12-14
+2289,Aditya Pillai,Male,5,MBA/PGDM,LinkedIn,2024-04-17
+2290,Aarav Shinde,Male,4,Diploma,Naukri,2025-08-25
+2291,Nisha Pillai,Female,1,Bachelor's,LinkedIn,2024-12-27
+2292,Maya Sawant,Male,8,Master's,LinkedIn,2021-11-12
+2293,Rohit Singh,Male,6,Diploma,LinkedIn,2022-12-13
+2294,Harsh More,Male,10,Bachelor's,Recruitment Agency,2022-01-10
+2295,Mohit Deshmukh,Male,5,Master's,Company Website,2023-11-25
+2296,Anjali Mehta,Female,1,MBA/PGDM,Recruitment Agency,2022-11-09
+2297,Vivek Pillai,Female,10,Diploma,Employee Referral,2025-06-03
+2298,Rahul Kulkarni,Male,0,MBA/PGDM,Recruitment Agency,2021-06-03
+2299,Vidya Joshi,Male,12,MBA/PGDM,Naukri,2023-06-16
+2300,Priya Nair,Female,9,Bachelor's,Campus Hiring,2022-07-07
+2301,Vivek Gupta,Male,2,MBA/PGDM,Employee Referral,2021-07-03
+2302,Sanjay Gupta,Male,9,MBA/PGDM,Campus Hiring,2025-06-03
+2303,Priya Deshmukh,Female,5,MBA/PGDM,Campus Hiring,2024-12-09
+2304,Sakshi Naik,Female,3,Diploma,Company Website,2023-09-29
+2305,Aarav Mehta,Male,10,Bachelor's,Employee Referral,2021-01-09
+2306,Riya Bansal,Male,3,Bachelor's,Company Website,2023-03-15
+2307,Kavya Chopra,Female,1,Diploma,Company Website,2021-07-10
+2308,Tanya Joshi,Male,6,Bachelor's,Recruitment Agency,2024-08-02
+2309,Vaishnavi Rao,Female,0,Diploma,Company Website,2025-06-11
+2310,Sameer Mehta,Female,5,MBA/PGDM,Employee Referral,2021-09-29
+2311,Vaishnavi Thakur,Female,3,MBA/PGDM,Campus Hiring,2025-03-12
+2312,Rohit Iyer,Female,10,MBA/PGDM,Company Website,2024-05-07
+2313,Manish Khan,Female,9,Diploma,Recruitment Agency,2021-03-13
+2314,Meera Menon,Female,8,Master's,Campus Hiring,2021-03-26
+2315,Harsh Khan,Male,10,Diploma,LinkedIn,2021-08-03
+2316,Priya Saxena,Female,4,Diploma,Company Website,2023-06-27
+2317,Dev Thakur,Male,11,Diploma,Employee Referral,2025-09-24
+2318,Aditya Reddy,Female,1,Master's,Campus Hiring,2023-01-12
+2319,Dhruv Joshi,Female,12,Master's,Employee Referral,2024-10-26
+2320,Karan Nair,Male,5,Diploma,Naukri,2023-02-26
+2321,Shreya Mishra,Female,10,MBA/PGDM,Recruitment Agency,2023-02-13
+2322,Priya Iyer,Male,11,Bachelor's,Company Website,2023-02-12
+2323,Harsh Shinde,Female,3,Master's,Recruitment Agency,2023-03-05
+2324,Sahil Nair,Female,4,Diploma,Employee Referral,2024-09-04
+2325,Sameer Pillai,Male,8,Bachelor's,Employee Referral,2022-04-18
+2326,Abhishek Sawant,Male,6,MBA/PGDM,Naukri,2022-06-15
+2327,Yash Saxena,Male,10,Bachelor's,LinkedIn,2023-10-06
+2328,Vaishnavi Chopra,Female,4,Bachelor's,LinkedIn,2025-11-17
+2329,Varun Khan,Male,11,Bachelor's,LinkedIn,2022-09-16
+2330,Sneha More,Male,12,Master's,Employee Referral,2022-03-23
+2331,Mohit Menon,Male,9,Diploma,Company Website,2023-06-03
+2332,Dhruv Rao,Female,12,Diploma,Recruitment Agency,2021-08-17
+2333,Mohit Thakur,Female,11,Bachelor's,LinkedIn,2024-08-22
+2334,Karan Sawant,Male,6,MBA/PGDM,Naukri,2023-07-15
+2335,Diya Kapoor,Female,7,Master's,Naukri,2023-02-23
+2336,Dev Rao,Female,10,Master's,Recruitment Agency,2021-06-25
+2337,Karan Sawant,Female,10,Bachelor's,Campus Hiring,2022-05-19
+2338,Sonali Jadhav,Male,5,Master's,Naukri,2025-04-16
+2339,Sneha Bansal,Male,2,MBA/PGDM,Naukri,2023-09-01
+2340,Zoya Nair,Female,7,Bachelor's,Recruitment Agency,2022-06-17
+2341,Ankita Jadhav,Male,3,Diploma,Campus Hiring,2022-04-30
+2342,Karan Bansal,Male,12,MBA/PGDM,Campus Hiring,2025-11-28
+2343,Karan Gupta,Male,3,Bachelor's,Naukri,2021-10-13
+2344,Meera Chopra,Female,9,Master's,LinkedIn,2021-03-16
+2345,Anjali Jain,Male,9,Bachelor's,Campus Hiring,2023-03-13
+2346,Sakshi Bansal,Male,9,Master's,Company Website,2023-05-07
+2347,Neha Khan,Male,8,Master's,Campus Hiring,2024-06-20
+2348,Amit Kulkarni,Female,4,Diploma,Recruitment Agency,2025-02-24
+2349,Neha Reddy,Male,6,Master's,Naukri,2022-08-10
+2350,Aditya Kulkarni,Male,0,MBA/PGDM,LinkedIn,2025-07-26
+2351,Aarav Patel,Female,2,Diploma,LinkedIn,2021-08-17
+2352,Harsh Singh,Female,7,Master's,Company Website,2025-02-22
+2353,Mohit Gupta,Male,0,MBA/PGDM,Naukri,2025-11-18
+2354,Shreya Singh,Male,10,Master's,Naukri,2022-06-24
+2355,Aarav More,Male,0,Master's,Company Website,2023-05-05
+2356,Maya Singh,Male,11,Master's,Employee Referral,2021-07-31
+2357,Tanvi Kapoor,Male,11,Master's,Recruitment Agency,2022-10-13
+2358,Pooja Rao,Female,5,MBA/PGDM,LinkedIn,2025-02-20
+2359,Maya Mishra,Female,12,Master's,Campus Hiring,2021-07-04
+2360,Ananya Verma,Male,6,Master's,Naukri,2025-09-28
+2361,Dhruv Saxena,Female,6,MBA/PGDM,Company Website,2022-08-24
+2362,Rahul Sawant,Female,10,MBA/PGDM,Campus Hiring,2022-09-04
+2363,Amit Singh,Female,10,MBA/PGDM,Employee Referral,2021-04-02
+2364,Sahil Rao,Male,6,Bachelor's,Recruitment Agency,2023-08-25
+2365,Harsh Singh,Male,8,Diploma,Employee Referral,2025-09-20
+2366,Diya Shinde,Female,5,Master's,LinkedIn,2023-08-29
+2367,Aniket Singh,Female,12,MBA/PGDM,LinkedIn,2023-09-30
+2368,Shreya Pillai,Female,10,Diploma,Naukri,2022-05-08
+2369,Riya Kulkarni,Male,8,Diploma,LinkedIn,2023-02-04
+2370,Ashish Chopra,Female,9,MBA/PGDM,LinkedIn,2022-09-26
+2371,Rahul Mehta,Male,6,MBA/PGDM,Naukri,2025-07-24
+2372,Rhea Deshmukh,Female,1,Master's,Recruitment Agency,2024-10-20
+2373,Ananya Reddy,Female,2,Diploma,LinkedIn,2022-09-27
+2374,Rohan Nair,Male,9,Diploma,Company Website,2024-01-11
+2375,Nisha Singh,Female,0,Master's,LinkedIn,2021-09-18
+2376,Ashish Rao,Male,0,Master's,Employee Referral,2023-01-18
+2377,Kavya Singh,Female,10,Master's,LinkedIn,2024-05-31
+2378,Isha Sawant,Male,7,Diploma,LinkedIn,2023-08-27
+2379,Karan Jadhav,Male,12,Master's,Naukri,2023-10-23
+2380,Aditi Singh,Male,0,Diploma,Employee Referral,2022-07-24
+2381,Anjali Jadhav,Female,11,Master's,Recruitment Agency,2023-12-15
+2382,Rhea Reddy,Female,2,Master's,Company Website,2025-08-21
+2383,Manish More,Male,0,Master's,Employee Referral,2024-09-09
+2384,Sakshi Naik,Male,0,Diploma,Company Website,2022-11-03
+2385,Sakshi Saxena,Female,6,Bachelor's,Company Website,2023-11-13
+2386,Akash Kulkarni,Female,11,Diploma,Recruitment Agency,2025-11-02
+2387,Vaishnavi Iyer,Female,7,Bachelor's,Company Website,2021-05-30
+2388,Ankita Deshmukh,Male,9,Bachelor's,LinkedIn,2021-10-20
+2389,Aditi Deshmukh,Male,0,Diploma,Naukri,2025-10-16
+2390,Akash Nair,Male,1,Diploma,Employee Referral,2022-11-20
+2391,Neha Iyer,Male,5,Master's,Campus Hiring,2025-10-28
+2392,Tanvi Iyer,Male,5,Diploma,Naukri,2025-01-25
+2393,Aarav Sharma,Female,3,MBA/PGDM,Campus Hiring,2024-09-10
+2394,Trisha Nair,Male,4,Master's,LinkedIn,2024-04-09
+2395,Ankita Joshi,Female,7,Bachelor's,Naukri,2022-10-02
+2396,Akash Kapoor,Male,10,Master's,LinkedIn,2024-07-14
+2397,Abhishek Thakur,Male,11,Diploma,Recruitment Agency,2022-12-29
+2398,Maya More,Male,1,Master's,Recruitment Agency,2022-01-19
+2399,Shreya Deshmukh,Female,4,Diploma,Employee Referral,2024-10-27
+2400,Kavya Verma,Male,12,MBA/PGDM,Campus Hiring,2022-07-06
+2401,Nisha Jain,Female,10,Master's,Employee Referral,2022-02-20
+2402,Rohan Sawant,Male,7,Bachelor's,Employee Referral,2021-07-29
+2403,Neha Menon,Male,8,MBA/PGDM,Employee Referral,2022-05-13
+2404,Nikhil Menon,Male,11,Diploma,Company Website,2025-01-08
+2405,Rhea Reddy,Female,3,Bachelor's,Company Website,2025-03-18
+2406,Sakshi Nair,Male,2,Bachelor's,Recruitment Agency,2022-10-19
+2407,Tanvi Mishra,Male,11,MBA/PGDM,Employee Referral,2023-09-22
+2408,Nikhil Jadhav,Female,0,Master's,Campus Hiring,2025-09-23
+2409,Riya Singh,Female,0,Master's,Employee Referral,2022-09-07
+2410,Diya Bansal,Male,0,MBA/PGDM,Recruitment Agency,2025-01-01
+2411,Maya Shinde,Male,0,Bachelor's,Company Website,2024-01-22
+2412,Nikhil Sharma,Male,3,MBA/PGDM,Campus Hiring,2025-10-06
+2413,Ananya Reddy,Female,0,Diploma,Employee Referral,2021-04-06
+2414,Anjali Verma,Female,1,Diploma,Naukri,2024-04-05
+2415,Tanvi Reddy,Female,2,Master's,Naukri,2025-06-10
+2416,Pallavi Jadhav,Female,9,Diploma,Recruitment Agency,2022-09-24
+2417,Arjun Sharma,Female,1,Bachelor's,Naukri,2022-02-06
+2418,Priya Patel,Female,6,Diploma,Recruitment Agency,2023-09-14
+2419,Isha Rao,Female,0,MBA/PGDM,Employee Referral,2024-11-08
+2420,Aniket Jadhav,Female,7,Master's,LinkedIn,2025-08-27
+2421,Shreya Joshi,Male,12,Bachelor's,Employee Referral,2025-10-07
+2422,Harsh Bansal,Female,4,MBA/PGDM,Employee Referral,2021-07-07
+2423,Shreya More,Female,5,Bachelor's,Naukri,2022-04-16
+2424,Arjun Gupta,Male,4,Master's,Company Website,2021-06-27
+2425,Tanya Iyer,Female,2,Master's,LinkedIn,2024-01-05
+2426,Ankita Jain,Female,0,Diploma,Company Website,2023-03-27
+2427,Vivek Khan,Female,6,Master's,LinkedIn,2022-12-24
+2428,Maya Reddy,Female,3,Master's,Employee Referral,2021-10-26
+2429,Sneha Kulkarni,Female,4,Master's,Campus Hiring,2025-10-04
+2430,Akash Malhotra,Male,10,Master's,Naukri,2024-02-14
+2431,Ashish Nair,Female,12,Diploma,Recruitment Agency,2025-04-28
+2432,Akash Naik,Female,1,Bachelor's,Recruitment Agency,2024-07-27
+2433,Sneha Kapoor,Female,4,MBA/PGDM,Employee Referral,2021-05-20
+2434,Ankita Nair,Male,6,Diploma,LinkedIn,2025-10-16
+2435,Amit Shinde,Female,10,MBA/PGDM,Campus Hiring,2021-09-03
+2436,Aarav Verma,Male,8,Bachelor's,Employee Referral,2025-03-12
+2437,Meera Pawar,Male,10,Master's,LinkedIn,2022-03-06
+2438,Tanya More,Male,10,Bachelor's,Company Website,2025-08-06
+2439,Rohan Singh,Female,6,MBA/PGDM,Recruitment Agency,2022-02-20
+2440,Yash Menon,Male,0,Master's,Employee Referral,2025-07-24
+2441,Abhishek Iyer,Male,11,Bachelor's,Employee Referral,2023-02-23
+2442,Vidya Pawar,Female,1,Master's,LinkedIn,2022-05-02
+2443,Sonali Gupta,Male,2,Diploma,Naukri,2021-04-05
+2444,Akash Kapoor,Male,1,MBA/PGDM,Employee Referral,2023-02-04
+2445,Meera More,Female,5,MBA/PGDM,Employee Referral,2021-10-24
+2446,Abhishek Deshmukh,Male,3,Diploma,Company Website,2022-08-19
+2447,Sneha Jain,Female,0,Bachelor's,LinkedIn,2025-08-17
+2448,Nisha Sharma,Male,11,Master's,LinkedIn,2023-09-14
+2449,Amit Gupta,Female,5,Master's,LinkedIn,2024-09-03
+2450,Aditya Khan,Male,11,Bachelor's,Company Website,2023-05-05
+2451,Ankita Menon,Male,9,MBA/PGDM,Company Website,2024-04-24
+2452,Vivek Thakur,Male,11,Master's,Naukri,2021-10-29
+2453,Isha Sawant,Female,10,MBA/PGDM,Campus Hiring,2021-02-03
+2454,Abhishek Jain,Male,4,Diploma,Employee Referral,2022-06-16
+2455,Nisha Nair,Male,1,Diploma,Campus Hiring,2024-10-05
+2456,Rhea Jain,Male,7,Bachelor's,Campus Hiring,2024-01-14
+2457,Maya Jadhav,Female,8,MBA/PGDM,Naukri,2025-08-05
+2458,Rhea Mehta,Male,2,Master's,Naukri,2022-08-15
+2459,Isha Pawar,Male,4,Bachelor's,Company Website,2023-12-12
+2460,Yash More,Male,12,Master's,Recruitment Agency,2025-01-02
+2461,Sneha Jain,Male,8,Diploma,Recruitment Agency,2022-04-26
+2462,Manish Khan,Female,11,Bachelor's,Company Website,2021-01-21
+2463,Rohit Joshi,Male,5,Diploma,Campus Hiring,2023-10-14
+2464,Aniket Chopra,Male,4,Diploma,Campus Hiring,2021-01-22
+2465,Ashish Mehta,Female,3,Master's,Recruitment Agency,2021-02-08
+2466,Manish Pillai,Male,10,Diploma,Recruitment Agency,2025-01-11
+2467,Aditya Menon,Female,3,MBA/PGDM,LinkedIn,2023-11-13
+2468,Trisha Rao,Female,4,Diploma,Employee Referral,2025-05-16
+2469,Ankita Jain,Male,12,Master's,Campus Hiring,2024-05-08
+2470,Aniket Gupta,Male,10,MBA/PGDM,Recruitment Agency,2022-09-20
+2471,Shreya Iyer,Male,10,Diploma,Recruitment Agency,2024-08-15
+2472,Isha Nair,Male,7,Bachelor's,Campus Hiring,2022-08-01
+2473,Zoya Jadhav,Female,9,Bachelor's,Employee Referral,2021-01-03
+2474,Rohit Menon,Female,9,Master's,Employee Referral,2025-06-11
+2475,Arjun Verma,Female,4,Master's,Naukri,2023-05-07
+2476,Aditya Sharma,Male,2,MBA/PGDM,LinkedIn,2021-05-02
+2477,Amit Kapoor,Male,4,Diploma,Recruitment Agency,2025-11-16
+2478,Vivek Menon,Male,3,Bachelor's,Campus Hiring,2022-02-11
+2479,Manish Sawant,Male,6,Diploma,Recruitment Agency,2021-07-28
+2480,Ankita Naik,Male,2,Diploma,LinkedIn,2023-11-17
+2481,Priya Sawant,Male,4,Master's,LinkedIn,2021-12-27
+2482,Vivek Bansal,Female,1,Diploma,Naukri,2021-10-08
+2483,Rhea Kulkarni,Female,3,Bachelor's,Campus Hiring,2023-10-26
+2484,Abhishek Mishra,Male,0,Master's,Campus Hiring,2024-08-06
+2485,Dev Pillai,Male,3,Master's,Campus Hiring,2023-08-01
+2486,Arjun Naik,Female,8,Diploma,Recruitment Agency,2022-09-14
+2487,Tanya Iyer,Male,3,Master's,Company Website,2021-11-16
+2488,Amit Pawar,Male,7,Diploma,Campus Hiring,2022-11-14
+2489,Aarav Nair,Female,10,MBA/PGDM,Recruitment Agency,2025-09-28
+2490,Vidya Jadhav,Female,7,Bachelor's,LinkedIn,2022-11-22
+2491,Harsh Mehta,Female,12,Bachelor's,LinkedIn,2021-04-25
+2492,Harsh Sharma,Female,6,Master's,Employee Referral,2021-09-26
+2493,Arjun Patel,Female,5,MBA/PGDM,Campus Hiring,2024-10-08
+2494,Nisha Pillai,Female,7,MBA/PGDM,Naukri,2024-08-30
+2495,Anjali Verma,Male,10,Master's,Naukri,2022-11-09
+2496,Neha Singh,Female,4,Master's,Campus Hiring,2023-07-24
+2497,Ananya Gupta,Male,6,Diploma,Recruitment Agency,2025-09-19
+2498,Zoya Menon,Male,10,MBA/PGDM,Company Website,2024-06-06
+2499,Dev Pawar,Male,8,MBA/PGDM,Campus Hiring,2021-03-27
+2500,Harsh Gupta,Female,8,MBA/PGDM,Company Website,2024-07-19
+2501,Aniket Sharma,Female,10,MBA/PGDM,Campus Hiring,2025-07-26
+2502,Mohit Reddy,Female,10,Bachelor's,Campus Hiring,2022-05-27
+2503,Rohit Deshmukh,Female,8,Bachelor's,Naukri,2025-10-29
+2504,Abhishek Singh,Male,11,Bachelor's,Company Website,2021-08-06
+2505,Sahil Iyer,Male,10,Master's,Recruitment Agency,2021-10-27
+2506,Dhruv Thakur,Male,11,MBA/PGDM,Company Website,2021-04-27
+2507,Rahul Mehta,Male,0,Master's,Campus Hiring,2023-06-13
+2508,Sakshi Singh,Female,9,MBA/PGDM,Recruitment Agency,2022-09-22
+2509,Mohit Jain,Male,2,Diploma,Company Website,2025-06-25
+2510,Pooja Gupta,Male,11,Master's,Company Website,2022-05-10
+2511,Isha Nair,Male,5,Bachelor's,Campus Hiring,2023-02-25
+2512,Aniket Thakur,Female,5,Diploma,Recruitment Agency,2023-04-07
+2513,Priya Sawant,Female,0,Diploma,Campus Hiring,2023-02-11
+2514,Neha Sharma,Female,0,Diploma,Recruitment Agency,2023-06-13
+2515,Dev Menon,Male,7,Diploma,Naukri,2025-09-09
+2516,Anjali Sharma,Female,6,MBA/PGDM,LinkedIn,2024-09-17
+2517,Vidya Patel,Male,2,Diploma,Employee Referral,2025-11-19
+2518,Shreya Malhotra,Male,7,Diploma,LinkedIn,2022-07-05
+2519,Riya Menon,Male,12,Master's,Recruitment Agency,2023-05-07
+2520,Aarav Jadhav,Female,7,Bachelor's,Company Website,2022-06-11
+2521,Tanvi Jadhav,Male,10,MBA/PGDM,Naukri,2021-04-18
+2522,Karan Menon,Male,12,Diploma,Naukri,2024-04-17
+2523,Kavya Iyer,Male,11,Diploma,LinkedIn,2025-01-30
+2524,Maya Kapoor,Male,12,Bachelor's,Recruitment Agency,2021-10-31
+2525,Rahul Sawant,Male,9,MBA/PGDM,LinkedIn,2023-02-09
+2526,Yash Jain,Female,5,Master's,Campus Hiring,2022-02-13
+2527,Kavya Jain,Male,6,Diploma,Recruitment Agency,2025-07-11
+2528,Sneha Kapoor,Male,1,Diploma,Company Website,2022-01-18
+2529,Aditya Pawar,Male,6,Diploma,Company Website,2022-07-22
+2530,Yash Chopra,Female,2,Bachelor's,Recruitment Agency,2024-12-18
+2531,Zoya Pawar,Female,10,Master's,Naukri,2024-01-19
+2532,Sakshi Pillai,Female,3,Bachelor's,Campus Hiring,2024-04-10
+2533,Mohit Deshmukh,Male,0,Master's,Recruitment Agency,2023-11-24
+2534,Ankita Pillai,Female,12,Diploma,Campus Hiring,2021-01-16
+2535,Maya Thakur,Female,3,Bachelor's,Recruitment Agency,2024-04-01
+2536,Aarav Shinde,Female,10,Bachelor's,Employee Referral,2025-02-18
+2537,Anjali Sawant,Male,12,Master's,Recruitment Agency,2022-08-11
+2538,Yash Verma,Female,12,MBA/PGDM,LinkedIn,2022-01-12
+2539,Riya Saxena,Female,4,Master's,Naukri,2021-02-14
+2540,Rohan More,Male,9,Diploma,LinkedIn,2022-11-05
+2541,Amit Chopra,Male,12,MBA/PGDM,Naukri,2025-04-18
+2542,Sanjay Chopra,Female,2,Bachelor's,Recruitment Agency,2025-03-05
+2543,Pallavi Malhotra,Male,4,Bachelor's,Company Website,2021-09-02
+2544,Riya More,Male,6,Bachelor's,Campus Hiring,2025-12-05
+2545,Karan Joshi,Female,8,Bachelor's,Naukri,2022-08-13
+2546,Trisha Kapoor,Male,4,Master's,Naukri,2021-10-21
+2547,Priya Pillai,Female,7,Diploma,Employee Referral,2025-01-04
+2548,Priya Deshmukh,Female,4,Bachelor's,LinkedIn,2025-09-18
+2549,Sakshi Deshmukh,Female,5,Master's,Company Website,2022-06-25
+2550,Vaishnavi Sharma,Male,5,Diploma,LinkedIn,2023-04-13
+2551,Neha Patel,Male,8,Diploma,Company Website,2022-04-17
+2552,Vaishnavi Naik,Male,11,Master's,LinkedIn,2025-01-07
+2553,Vivek Gupta,Male,8,MBA/PGDM,Company Website,2025-08-30
+2554,Akash Mehta,Female,3,Diploma,Employee Referral,2025-12-02
+2555,Priya Naik,Female,6,Master's,Company Website,2021-01-10
+2556,Trisha Iyer,Male,9,Master's,Employee Referral,2023-05-28
+2557,Rohan Jain,Female,6,Master's,LinkedIn,2024-01-24
+2558,Neha Shinde,Female,8,Diploma,Company Website,2023-03-16
+2559,Rhea Nair,Male,8,MBA/PGDM,Naukri,2022-07-02
+2560,Varun Bansal,Male,9,MBA/PGDM,Recruitment Agency,2024-11-21
+2561,Trisha Shinde,Female,3,Bachelor's,LinkedIn,2024-09-12
+2562,Harsh Naik,Female,2,Diploma,Campus Hiring,2021-12-21
+2563,Akash Kapoor,Female,12,Diploma,Recruitment Agency,2023-05-09
+2564,Kavya Iyer,Female,7,Diploma,Naukri,2024-10-17
+2565,Maya Rao,Male,1,Diploma,Campus Hiring,2024-08-21
+2566,Mohit Shinde,Male,8,Bachelor's,Campus Hiring,2025-07-28
+2567,Rhea Mehta,Female,3,MBA/PGDM,LinkedIn,2021-11-25
+2568,Karan Khan,Male,10,Master's,Recruitment Agency,2021-05-19
+2569,Aniket Mishra,Female,2,Diploma,Employee Referral,2024-04-18
+2570,Aditi Gupta,Male,1,Master's,Employee Referral,2022-09-23
+2571,Neha More,Female,0,Master's,Recruitment Agency,2022-10-30
+2572,Sneha Verma,Male,1,Bachelor's,Employee Referral,2021-10-20
+2573,Ashish Pillai,Male,7,Master's,Recruitment Agency,2025-05-02
+2574,Ashish Chopra,Female,0,MBA/PGDM,Recruitment Agency,2021-10-27
+2575,Vaishnavi Khan,Female,3,Master's,LinkedIn,2023-02-23
+2576,Diya Pawar,Male,7,MBA/PGDM,LinkedIn,2024-11-01
+2577,Aditya Pawar,Male,8,MBA/PGDM,Recruitment Agency,2023-11-18
+2578,Nisha Malhotra,Female,10,Master's,Campus Hiring,2022-07-03
+2579,Aditya Reddy,Male,3,MBA/PGDM,Campus Hiring,2024-12-27
+2580,Vivek Joshi,Female,3,Diploma,Campus Hiring,2021-05-05
+2581,Kavya Reddy,Male,0,Diploma,Company Website,2024-04-15
+2582,Abhishek Sawant,Male,9,Bachelor's,Company Website,2022-11-02
+2583,Kavya Jain,Female,4,Master's,Employee Referral,2025-01-04
+2584,Sneha Saxena,Male,4,Bachelor's,Campus Hiring,2023-12-14
+2585,Rohan Bansal,Female,8,Master's,Employee Referral,2023-10-30
+2586,Yash Nair,Female,2,MBA/PGDM,Employee Referral,2025-09-04
+2587,Sanjay Sawant,Female,6,Master's,Employee Referral,2024-03-17
+2588,Akash Sawant,Male,12,Master's,Company Website,2021-04-23
+2589,Aditi More,Female,6,Bachelor's,Employee Referral,2023-06-07
+2590,Sameer Malhotra,Male,4,MBA/PGDM,Employee Referral,2024-05-18
+2591,Ankita Kapoor,Male,2,Diploma,Naukri,2025-12-06
+2592,Pooja Pillai,Female,9,Bachelor's,Naukri,2021-06-24
+2593,Neha Rao,Male,1,MBA/PGDM,Company Website,2021-04-30
+2594,Aditya Mehta,Male,12,Master's,Campus Hiring,2021-01-03
+2595,Rohit More,Female,8,MBA/PGDM,Employee Referral,2025-05-13
+2596,Tanya Sharma,Male,0,MBA/PGDM,Naukri,2024-12-21
+2597,Sonali Jain,Female,10,Bachelor's,Naukri,2025-04-16
+2598,Rohit Sawant,Male,6,Diploma,Naukri,2023-05-01
+2599,Sonali Jadhav,Male,2,Master's,Naukri,2025-03-15
+2600,Arjun Iyer,Female,12,Bachelor's,LinkedIn,2023-08-24
+2601,Karan Pillai,Female,0,MBA/PGDM,Campus Hiring,2021-08-12
+2602,Aniket Nair,Female,2,MBA/PGDM,Recruitment Agency,2021-03-05
+2603,Aditi Sawant,Male,1,Diploma,Campus Hiring,2023-04-03
+2604,Pallavi Khan,Female,11,MBA/PGDM,Recruitment Agency,2023-05-30
+2605,Manish Singh,Female,8,Master's,Campus Hiring,2025-01-07
+2606,Ashish Mehta,Female,8,MBA/PGDM,Campus Hiring,2021-02-16
+2607,Sneha Saxena,Female,5,Master's,Recruitment Agency,2022-09-15
+2608,Trisha Naik,Female,1,Diploma,Recruitment Agency,2025-01-29
+2609,Amit More,Female,3,Master's,LinkedIn,2023-04-12
+2610,Dev Malhotra,Female,5,Master's,LinkedIn,2025-03-19
+2611,Amit Jadhav,Female,3,Diploma,Naukri,2021-12-17
+2612,Anjali Menon,Female,3,Diploma,LinkedIn,2022-03-23
+2613,Maya Singh,Male,10,Bachelor's,Naukri,2025-10-02
+2614,Shreya Pillai,Female,7,Master's,Employee Referral,2021-10-19
+2615,Sneha Saxena,Female,9,MBA/PGDM,Employee Referral,2023-07-04
+2616,Anjali Sharma,Female,0,Master's,Recruitment Agency,2024-02-26
+2617,Yash Khan,Female,3,Master's,Naukri,2024-02-10
+2618,Isha Saxena,Female,1,MBA/PGDM,Recruitment Agency,2021-02-28
+2619,Rhea Jain,Male,11,Bachelor's,Employee Referral,2025-12-02
+2620,Tanya Sawant,Male,9,Master's,LinkedIn,2023-02-04
+2621,Sahil Saxena,Female,6,Master's,Company Website,2024-02-16
+2622,Sakshi Singh,Male,8,MBA/PGDM,Company Website,2025-10-22
+2623,Riya Iyer,Male,3,Master's,Employee Referral,2025-09-05
+2624,Meera Nair,Female,0,Bachelor's,Campus Hiring,2024-05-09
+2625,Tanya Pillai,Male,12,Master's,Naukri,2023-06-11
+2626,Sneha Naik,Female,1,MBA/PGDM,Employee Referral,2022-09-17
+2627,Rahul Mehta,Female,0,Bachelor's,Employee Referral,2024-09-16
+2628,Rohit Sharma,Female,8,Master's,Company Website,2022-07-08
+2629,Rhea Naik,Male,9,Master's,Company Website,2022-07-31
+2630,Shreya Mehta,Female,3,MBA/PGDM,Company Website,2022-04-03
+2631,Aarav Patel,Male,9,MBA/PGDM,Company Website,2025-03-19
+2632,Anjali Verma,Female,3,MBA/PGDM,Recruitment Agency,2025-10-14
+2633,Sneha Patel,Male,12,Diploma,Campus Hiring,2022-03-07
+2634,Maya Sawant,Female,8,Bachelor's,Campus Hiring,2023-07-29
+2635,Aniket Reddy,Female,3,Master's,Employee Referral,2024-12-14
+2636,Rohit Saxena,Female,7,Diploma,Naukri,2024-12-08
+2637,Amit Pawar,Female,8,MBA/PGDM,Company Website,2023-11-11
+2638,Dev Jadhav,Male,1,Master's,LinkedIn,2024-05-08
+2639,Riya Nair,Female,1,Master's,Campus Hiring,2021-02-09
+2640,Yash Kapoor,Female,4,MBA/PGDM,Employee Referral,2023-06-03
+2641,Isha Bansal,Male,9,Bachelor's,Employee Referral,2021-05-14
+2642,Kavya Kulkarni,Female,0,Diploma,Naukri,2023-10-08
+2643,Kavya Reddy,Female,8,Bachelor's,Campus Hiring,2021-06-30
+2644,Diya Patel,Male,9,Diploma,Company Website,2022-01-05
+2645,Aarav Bansal,Male,7,Diploma,Recruitment Agency,2023-03-10
+2646,Aditi Thakur,Male,11,MBA/PGDM,Campus Hiring,2024-11-19
+2647,Aditya Pawar,Female,0,Master's,Campus Hiring,2025-09-09
+2648,Riya Kulkarni,Male,1,Diploma,Employee Referral,2021-09-18
+2649,Varun Shinde,Male,10,Master's,Employee Referral,2024-07-26
+2650,Rohan Thakur,Male,8,Master's,LinkedIn,2022-10-11
+2651,Dev Saxena,Female,12,Diploma,LinkedIn,2021-09-05
+2652,Rohan Reddy,Female,11,Master's,Company Website,2022-06-09
+2653,Abhishek Sawant,Male,1,Diploma,Company Website,2021-07-15
+2654,Varun Menon,Male,12,MBA/PGDM,Employee Referral,2023-08-30
+2655,Tanvi Nair,Male,3,Master's,Recruitment Agency,2025-01-28
+2656,Neha Reddy,Female,4,Master's,Campus Hiring,2023-09-24
+2657,Aarav Chopra,Female,12,MBA/PGDM,Recruitment Agency,2021-08-20
+2658,Tanya Patel,Female,11,MBA/PGDM,LinkedIn,2023-05-30
+2659,Varun Singh,Female,10,Diploma,Company Website,2022-12-12
+2660,Amit Deshmukh,Male,10,MBA/PGDM,Employee Referral,2022-01-30
+2661,Akash Gupta,Female,8,Diploma,Recruitment Agency,2022-09-22
+2662,Diya Kulkarni,Female,6,MBA/PGDM,Naukri,2021-08-02
+2663,Sanjay Naik,Male,12,Master's,Campus Hiring,2021-07-18
+2664,Sakshi Menon,Female,7,Master's,Campus Hiring,2021-02-26
+2665,Sakshi Khan,Female,10,Bachelor's,Company Website,2022-04-01
+2666,Trisha Verma,Male,9,Bachelor's,Company Website,2021-04-05
+2667,Nikhil Malhotra,Female,11,Bachelor's,Company Website,2025-01-03
+2668,Pallavi Sharma,Male,9,Bachelor's,Company Website,2022-12-23
+2669,Pooja Sawant,Female,11,Bachelor's,Naukri,2025-01-22
+2670,Ananya Menon,Female,9,Master's,Company Website,2022-01-08
+2671,Arjun Bansal,Female,1,Master's,Recruitment Agency,2025-03-07
+2672,Neha Chopra,Male,2,Bachelor's,Recruitment Agency,2023-07-12
+2673,Abhishek Khan,Female,6,Master's,Company Website,2022-11-06
+2674,Isha Nair,Male,4,MBA/PGDM,LinkedIn,2024-08-17
+2675,Nisha Bansal,Female,5,MBA/PGDM,Recruitment Agency,2023-09-13
+2676,Rohan Mishra,Male,7,Master's,Campus Hiring,2023-11-13
+2677,Nikhil Saxena,Male,0,Diploma,Naukri,2022-11-04
+2678,Priya Chopra,Male,9,Master's,Campus Hiring,2021-04-11
+2679,Ankita Malhotra,Male,5,Master's,Campus Hiring,2023-08-18
+2680,Kavya Rao,Female,12,MBA/PGDM,Naukri,2023-01-09
+2681,Sneha Pillai,Female,10,Bachelor's,LinkedIn,2022-08-16
+2682,Arjun Pillai,Male,8,Master's,LinkedIn,2024-08-13
+2683,Vivek Shinde,Female,4,Diploma,Campus Hiring,2024-04-01
+2684,Meera More,Male,9,MBA/PGDM,Campus Hiring,2024-06-05
+2685,Sonali Thakur,Male,11,MBA/PGDM,Employee Referral,2025-03-11
+2686,Aditi Bansal,Male,4,Bachelor's,Campus Hiring,2023-12-09
+2687,Pooja More,Male,4,Bachelor's,LinkedIn,2022-02-24
+2688,Pallavi Patel,Male,3,Bachelor's,Company Website,2025-08-26
+2689,Pallavi More,Female,0,Master's,Campus Hiring,2023-08-17
+2690,Manish Gupta,Male,10,Master's,LinkedIn,2022-05-27
+2691,Varun Rao,Female,5,Master's,LinkedIn,2025-02-10
+2692,Shreya Verma,Male,9,Master's,Recruitment Agency,2025-03-20
+2693,Trisha Chopra,Male,12,Master's,LinkedIn,2021-07-30
+2694,Aniket Reddy,Male,0,Master's,Naukri,2025-09-08
+2695,Tanya Mishra,Male,2,Master's,Naukri,2023-06-07
+2696,Rohit Saxena,Female,11,Master's,Company Website,2022-03-26
+2697,Dhruv Naik,Female,3,Diploma,Employee Referral,2024-11-26
+2698,Manish Mishra,Female,7,Bachelor's,LinkedIn,2022-01-24
+2699,Dhruv Pillai,Female,4,MBA/PGDM,Naukri,2023-12-21
+2700,Akash Joshi,Female,12,Master's,Naukri,2023-02-02
+2701,Varun Jain,Male,4,Bachelor's,LinkedIn,2023-05-06
+2702,Aditya Sawant,Male,4,Diploma,Campus Hiring,2021-08-08
+2703,Nikhil Malhotra,Female,3,MBA/PGDM,Campus Hiring,2024-10-02
+2704,Mohit Singh,Male,2,MBA/PGDM,LinkedIn,2021-11-06
+2705,Harsh Thakur,Male,7,Diploma,Employee Referral,2021-12-20
+2706,Rhea Thakur,Male,1,Diploma,Company Website,2024-03-08
+2707,Arjun Nair,Male,3,MBA/PGDM,Recruitment Agency,2023-10-09
+2708,Aditya Mehta,Male,3,MBA/PGDM,Employee Referral,2025-10-24
+2709,Rohan Joshi,Male,10,Diploma,Recruitment Agency,2025-10-04
+2710,Meera Sharma,Female,7,Diploma,Recruitment Agency,2022-10-17
+2711,Aditi Iyer,Female,2,MBA/PGDM,Recruitment Agency,2024-09-01
+2712,Sonali Verma,Male,6,Master's,Recruitment Agency,2024-04-21
+2713,Sakshi Mishra,Male,11,Diploma,Recruitment Agency,2021-11-17
+2714,Pooja Gupta,Male,11,Diploma,Company Website,2024-05-09
+2715,Riya Pawar,Male,9,Bachelor's,Naukri,2025-05-08
+2716,Riya Naik,Female,8,MBA/PGDM,Employee Referral,2022-11-15
+2717,Dhruv Sharma,Male,10,MBA/PGDM,LinkedIn,2024-12-28
+2718,Anjali Kapoor,Male,10,Master's,Naukri,2021-03-31
+2719,Pooja Pillai,Female,2,Bachelor's,LinkedIn,2025-10-13
+2720,Sameer Pawar,Female,9,Master's,Campus Hiring,2024-08-09
+2721,Riya Mehta,Female,8,MBA/PGDM,Naukri,2024-03-15
+2722,Dhruv Khan,Male,12,MBA/PGDM,Recruitment Agency,2021-09-06
+2723,Vaishnavi Rao,Male,5,Diploma,Campus Hiring,2025-02-15
+2724,Sakshi Gupta,Female,10,Bachelor's,Naukri,2025-01-13
+2725,Dev Nair,Female,1,MBA/PGDM,Recruitment Agency,2022-08-11
+2726,Aditya Chopra,Male,12,Diploma,Company Website,2021-08-09
+2727,Pooja Gupta,Male,1,Master's,LinkedIn,2025-11-25
+2728,Manish Iyer,Male,9,MBA/PGDM,Recruitment Agency,2025-09-20
+2729,Ananya Singh,Female,10,Bachelor's,LinkedIn,2023-01-02
+2730,Yash Kulkarni,Male,2,Master's,Campus Hiring,2023-12-25
+2731,Ananya Shinde,Male,0,MBA/PGDM,LinkedIn,2025-01-16
+2732,Abhishek Chopra,Female,3,Diploma,LinkedIn,2025-03-15
+2733,Diya Bansal,Female,4,Diploma,Employee Referral,2021-08-22
+2734,Trisha Sharma,Female,9,Master's,Naukri,2022-05-27
+2735,Rhea Khan,Female,6,Master's,Recruitment Agency,2025-04-10
+2736,Priya Saxena,Male,6,Bachelor's,Campus Hiring,2023-09-02
+2737,Akash Rao,Female,0,Master's,LinkedIn,2022-05-30
+2738,Vivek Kulkarni,Female,6,MBA/PGDM,Employee Referral,2021-08-03
+2739,Shreya Sawant,Female,1,MBA/PGDM,Naukri,2023-07-20
+2740,Karan Pawar,Male,8,Diploma,Company Website,2025-04-04
+2741,Rhea Patel,Male,8,Bachelor's,LinkedIn,2025-08-07
+2742,Sneha Reddy,Male,3,Bachelor's,Employee Referral,2022-06-17
+2743,Priya Khan,Female,8,MBA/PGDM,Naukri,2024-04-09
+2744,Amit Kapoor,Female,11,Diploma,Employee Referral,2022-03-07
+2745,Rohan Pawar,Female,6,Master's,Campus Hiring,2023-02-13
+2746,Kavya Nair,Male,0,Bachelor's,LinkedIn,2024-10-06
+2747,Dev Joshi,Male,10,Master's,Company Website,2023-05-07
+2748,Aditi Sharma,Female,5,Bachelor's,Campus Hiring,2025-11-02
+2749,Karan Thakur,Male,12,MBA/PGDM,Employee Referral,2025-03-05
+2750,Sameer Kapoor,Male,0,Diploma,Recruitment Agency,2022-07-08
+2751,Mohit Sharma,Female,1,Bachelor's,Employee Referral,2023-06-10
+2752,Yash Bansal,Female,2,Bachelor's,Naukri,2025-05-14
+2753,Sanjay Bansal,Female,5,Bachelor's,Company Website,2025-05-29
+2754,Vivek Mehta,Female,12,MBA/PGDM,Company Website,2025-01-29
+2755,Kavya Saxena,Male,9,Diploma,Recruitment Agency,2021-11-20
+2756,Vaishnavi Malhotra,Male,4,Master's,Company Website,2023-09-11
+2757,Yash Malhotra,Male,3,Master's,Naukri,2024-01-25
+2758,Anjali Chopra,Female,10,Diploma,Recruitment Agency,2021-12-17
+2759,Tanvi Malhotra,Female,3,Diploma,Company Website,2023-03-08
+2760,Rohit Menon,Female,11,Bachelor's,Campus Hiring,2021-10-06
+2761,Tanya Shinde,Female,8,Diploma,Company Website,2024-09-17
+2762,Nikhil Jain,Male,12,MBA/PGDM,Campus Hiring,2021-10-05
+2763,Vivek Reddy,Female,2,MBA/PGDM,Employee Referral,2025-08-31
+2764,Meera Joshi,Female,5,Bachelor's,Recruitment Agency,2025-08-30
+2765,Pooja Rao,Female,5,MBA/PGDM,Company Website,2022-02-19
+2766,Rohit Reddy,Female,7,Bachelor's,LinkedIn,2024-03-26
+2767,Abhishek Kapoor,Female,3,Bachelor's,Company Website,2023-10-31
+2768,Ashish Khan,Female,6,Master's,Company Website,2022-03-02
+2769,Sonali Gupta,Female,10,Bachelor's,LinkedIn,2025-10-06
+2770,Sneha Khan,Male,9,Master's,LinkedIn,2024-03-15
+2771,Neha Menon,Male,9,MBA/PGDM,Employee Referral,2023-12-14
+2772,Rohan Thakur,Female,9,MBA/PGDM,Company Website,2021-05-14
+2773,Dhruv Nair,Male,1,Bachelor's,Naukri,2021-03-17
+2774,Sahil Mishra,Female,10,Diploma,Naukri,2022-03-25
+2775,Ashish Mehta,Female,2,MBA/PGDM,Campus Hiring,2021-10-24
+2776,Aditya Saxena,Female,4,MBA/PGDM,Company Website,2025-08-12
+2777,Aarav Mishra,Female,1,Bachelor's,LinkedIn,2022-12-28
+2778,Maya Verma,Male,6,Diploma,Recruitment Agency,2023-01-24
+2779,Rohan Kapoor,Male,8,Diploma,Campus Hiring,2024-01-29
+2780,Priya Khan,Female,2,Diploma,Campus Hiring,2021-02-22
+2781,Sameer Patel,Male,6,Diploma,Naukri,2024-05-08
+2782,Manish Rao,Female,10,Bachelor's,Campus Hiring,2022-03-18
+2783,Harsh Khan,Male,12,Bachelor's,Recruitment Agency,2024-08-29
+2784,Maya Verma,Male,4,Master's,Naukri,2023-07-23
+2785,Aarav Verma,Female,12,Master's,Campus Hiring,2025-04-28
+2786,Riya More,Female,6,MBA/PGDM,Campus Hiring,2022-02-09
+2787,Sakshi More,Female,3,Diploma,Company Website,2023-06-09
+2788,Aarav Patel,Female,8,Master's,Employee Referral,2022-07-05
+2789,Sonali Mishra,Male,6,Bachelor's,LinkedIn,2022-03-22
+2790,Tanvi Joshi,Male,7,Master's,Employee Referral,2021-02-02
+2791,Nikhil Kulkarni,Male,12,Master's,Employee Referral,2024-08-29
+2792,Sahil Khan,Male,2,MBA/PGDM,LinkedIn,2022-04-03
+2793,Tanvi Kulkarni,Female,4,MBA/PGDM,Recruitment Agency,2025-09-11
+2794,Ananya Singh,Female,4,MBA/PGDM,Campus Hiring,2022-07-09
+2795,Ankita Iyer,Female,6,Bachelor's,LinkedIn,2023-09-07
+2796,Varun Pillai,Male,3,Diploma,Employee Referral,2024-07-19
+2797,Maya Mishra,Female,11,Bachelor's,Campus Hiring,2024-10-03
+2798,Akash Reddy,Male,1,Master's,Employee Referral,2025-06-25
+2799,Tanya Chopra,Female,1,Bachelor's,Employee Referral,2024-07-22
+2800,Varun Kulkarni,Female,3,Bachelor's,Naukri,2025-11-11
+2801,Ananya Iyer,Male,12,Diploma,Employee Referral,2025-06-15
+2802,Isha Naik,Female,10,MBA/PGDM,Recruitment Agency,2024-05-17
+2803,Aarav Pawar,Female,8,MBA/PGDM,Employee Referral,2024-10-13
+2804,Ankita Deshmukh,Female,3,MBA/PGDM,Campus Hiring,2023-09-28
+2805,Varun Pillai,Male,7,MBA/PGDM,Naukri,2023-02-11
+2806,Vivek Kapoor,Female,5,Diploma,Company Website,2024-11-15
+2807,Shreya Pawar,Male,6,Diploma,Recruitment Agency,2021-03-16
+2808,Sanjay Saxena,Male,3,Bachelor's,Naukri,2023-09-28
+2809,Dev Kapoor,Male,11,Bachelor's,Company Website,2024-03-09
+2810,Priya Thakur,Female,10,Bachelor's,Company Website,2021-11-05
+2811,Dev Kapoor,Female,12,Bachelor's,Employee Referral,2024-02-19
+2812,Kavya Jain,Male,11,MBA/PGDM,Employee Referral,2025-06-07
+2813,Meera Khan,Male,8,Bachelor's,Recruitment Agency,2025-04-11
+2814,Aditi Mehta,Female,9,Bachelor's,Naukri,2025-04-07
+2815,Zoya Malhotra,Male,8,Diploma,Campus Hiring,2024-12-12
+2816,Dev Mishra,Male,6,Diploma,Recruitment Agency,2022-07-28
+2817,Priya Joshi,Female,5,Master's,LinkedIn,2021-04-12
+2818,Dhruv Bansal,Male,9,Bachelor's,Campus Hiring,2025-10-09
+2819,Aditi Thakur,Male,3,Diploma,Employee Referral,2023-07-03
+2820,Karan Chopra,Male,0,Diploma,LinkedIn,2023-07-12
+2821,Shreya Pillai,Male,8,Bachelor's,Company Website,2023-11-13
+2822,Riya Kapoor,Female,11,Bachelor's,LinkedIn,2025-07-10
+2823,Vivek Iyer,Male,3,Master's,Naukri,2023-12-09
+2824,Sanjay Thakur,Male,4,MBA/PGDM,LinkedIn,2024-04-23
+2825,Dhruv Menon,Female,2,MBA/PGDM,Recruitment Agency,2024-01-01
+2826,Ankita Jain,Male,11,Bachelor's,Naukri,2022-02-24
+2827,Sakshi Verma,Male,3,Diploma,Employee Referral,2022-04-04
+2828,Tanya Patel,Female,0,Diploma,LinkedIn,2025-12-06
+2829,Amit Sharma,Male,4,MBA/PGDM,Recruitment Agency,2023-12-19
+2830,Nikhil Jadhav,Female,9,MBA/PGDM,Naukri,2022-12-24
+2831,Pooja Pillai,Female,6,Master's,Naukri,2022-03-22
+2832,Manish More,Male,12,Master's,Recruitment Agency,2024-02-25
+2833,Aditi Sharma,Female,5,Bachelor's,Campus Hiring,2024-01-27
+2834,Rohan Shinde,Female,10,Diploma,LinkedIn,2021-09-20
+2835,Riya Sawant,Male,4,Bachelor's,Employee Referral,2024-06-09
+2836,Sanjay Pawar,Male,1,MBA/PGDM,Campus Hiring,2023-03-18
+2837,Sakshi Shinde,Male,10,Diploma,Campus Hiring,2025-12-03
+2838,Kavya Khan,Female,1,Bachelor's,Company Website,2021-05-09
+2839,Rhea Pawar,Male,5,MBA/PGDM,Company Website,2023-12-15
+2840,Isha Naik,Female,5,Master's,Recruitment Agency,2023-07-25
+2841,Sameer Sharma,Female,7,MBA/PGDM,Campus Hiring,2023-05-06
+2842,Kavya Singh,Female,2,Diploma,Recruitment Agency,2024-09-29
+2843,Aniket Singh,Male,2,Diploma,Company Website,2023-09-09
+2844,Aditi Iyer,Female,7,Diploma,Company Website,2023-02-13
+2845,Ananya Bansal,Female,10,Bachelor's,Recruitment Agency,2025-08-26
+2846,Isha More,Male,7,Bachelor's,Employee Referral,2023-10-22
+2847,Varun Nair,Male,9,MBA/PGDM,Naukri,2025-07-23
+2848,Vivek Kulkarni,Female,9,Bachelor's,LinkedIn,2021-01-08
+2849,Mohit Thakur,Female,6,Diploma,Naukri,2022-09-26
+2850,Trisha Sawant,Female,7,MBA/PGDM,Naukri,2024-06-18
+2851,Rohit Patel,Female,3,Master's,Recruitment Agency,2021-03-05
+2852,Kavya Chopra,Male,4,Diploma,Campus Hiring,2024-03-18
+2853,Tanvi Naik,Female,12,Master's,Company Website,2021-04-12
+2854,Sneha Bansal,Female,5,MBA/PGDM,Recruitment Agency,2022-12-04
+2855,Tanya Singh,Male,9,MBA/PGDM,Naukri,2025-04-04
+2856,Riya Nair,Male,10,Diploma,LinkedIn,2023-06-27
+2857,Anjali Rao,Female,0,MBA/PGDM,Naukri,2023-10-26
+2858,Amit Verma,Female,5,Bachelor's,Employee Referral,2025-12-08
+2859,Harsh Sawant,Female,8,Diploma,Company Website,2023-01-28
+2860,Priya Pillai,Male,0,Diploma,LinkedIn,2024-02-10
+2861,Nikhil Gupta,Male,3,Bachelor's,Employee Referral,2025-02-01
+2862,Rohan Saxena,Male,1,Diploma,Employee Referral,2023-03-18
+2863,Isha Iyer,Male,10,Master's,Naukri,2021-02-20
+2864,Diya Sharma,Female,2,MBA/PGDM,Employee Referral,2024-09-06
+2865,Yash Iyer,Female,4,Bachelor's,Campus Hiring,2022-08-23
+2866,Yash Shinde,Female,1,Master's,Campus Hiring,2023-09-01
+2867,Vivek Malhotra,Female,2,Bachelor's,Company Website,2022-10-30
+2868,Nisha Pillai,Male,7,MBA/PGDM,Employee Referral,2021-08-08
+2869,Aniket Deshmukh,Female,8,Master's,Employee Referral,2024-02-01
+2870,Kavya Malhotra,Female,4,MBA/PGDM,Company Website,2023-09-14
+2871,Ashish Singh,Female,0,MBA/PGDM,Naukri,2021-06-02
+2872,Neha Pawar,Female,6,Diploma,Company Website,2021-06-28
+2873,Varun Iyer,Female,4,Bachelor's,Naukri,2025-02-13
+2874,Vidya Singh,Female,8,Bachelor's,Recruitment Agency,2024-11-24
+2875,Manish Joshi,Female,7,MBA/PGDM,Company Website,2022-08-10
+2876,Dev Sawant,Male,10,Diploma,LinkedIn,2023-09-20
+2877,Ankita Kulkarni,Male,4,Diploma,Naukri,2022-04-01
+2878,Riya Khan,Female,2,MBA/PGDM,Company Website,2025-04-20
+2879,Aarav Kulkarni,Female,6,Diploma,Recruitment Agency,2024-11-29
+2880,Amit Naik,Female,5,Diploma,Employee Referral,2023-10-12
+2881,Pooja More,Female,1,Diploma,Campus Hiring,2025-11-21
+2882,Manish Gupta,Female,7,Master's,Employee Referral,2022-07-11
+2883,Sneha Shinde,Male,5,Bachelor's,Recruitment Agency,2024-12-10
+2884,Sakshi Reddy,Male,11,Bachelor's,LinkedIn,2024-11-18
+2885,Harsh Kulkarni,Male,11,Diploma,Campus Hiring,2024-12-29
+2886,Ananya Chopra,Male,8,Bachelor's,Naukri,2022-11-08
+2887,Yash Menon,Male,0,Diploma,Employee Referral,2025-02-01
+2888,Aarav Saxena,Male,0,Bachelor's,Company Website,2022-02-27
+2889,Dhruv Verma,Male,8,Master's,LinkedIn,2024-08-09
+2890,Trisha Naik,Female,6,MBA/PGDM,LinkedIn,2024-05-17
+2891,Tanya Iyer,Female,0,Diploma,LinkedIn,2021-12-03
+2892,Rahul Menon,Female,10,Diploma,Recruitment Agency,2022-08-08
+2893,Rohit Bansal,Female,10,Master's,Campus Hiring,2021-07-17
+2894,Amit Pawar,Male,9,Master's,Company Website,2022-09-01
+2895,Maya Menon,Male,10,Bachelor's,Employee Referral,2023-12-22
+2896,Sameer Singh,Female,4,Diploma,Recruitment Agency,2023-07-09
+2897,Karan Sharma,Female,5,Master's,Employee Referral,2023-09-29
+2898,Ananya Menon,Female,11,MBA/PGDM,Naukri,2024-08-04
+2899,Aniket Mehta,Male,12,Bachelor's,Naukri,2024-06-29
+2900,Pooja Mishra,Female,5,Bachelor's,Recruitment Agency,2024-06-20
+2901,Rohit Khan,Male,4,Master's,Campus Hiring,2023-11-23
+2902,Trisha Saxena,Female,2,MBA/PGDM,Recruitment Agency,2025-04-16
+2903,Rohan Pillai,Male,9,Master's,Company Website,2025-06-08
+2904,Isha Menon,Male,8,Master's,Campus Hiring,2022-08-13
+2905,Mohit Joshi,Male,7,MBA/PGDM,Recruitment Agency,2021-04-13
+2906,Karan Joshi,Male,9,Diploma,Naukri,2021-03-11
+2907,Pooja Menon,Male,11,MBA/PGDM,Recruitment Agency,2025-04-04
+2908,Trisha Mishra,Female,3,MBA/PGDM,Naukri,2021-04-29
+2909,Pooja Jadhav,Female,5,Bachelor's,LinkedIn,2023-05-18
+2910,Zoya Thakur,Female,5,Diploma,LinkedIn,2022-06-09
+2911,Nisha More,Male,0,Diploma,LinkedIn,2025-06-03
+2912,Aniket Gupta,Female,5,MBA/PGDM,Recruitment Agency,2022-01-18
+2913,Aditya Bansal,Male,5,Master's,Company Website,2022-06-23
+2914,Vidya Gupta,Male,12,Diploma,Company Website,2021-02-21
+2915,Aditi Pillai,Male,5,MBA/PGDM,Employee Referral,2021-10-08
+2916,Meera Naik,Male,1,Master's,Campus Hiring,2025-02-03
+2917,Varun Gupta,Female,2,Bachelor's,Recruitment Agency,2023-11-12
+2918,Sanjay Pillai,Male,7,Bachelor's,Naukri,2025-09-16
+2919,Rahul Saxena,Male,11,Diploma,Company Website,2025-11-16
+2920,Ankita Nair,Male,7,MBA/PGDM,Company Website,2024-05-06
+2921,Sneha Khan,Male,3,Master's,LinkedIn,2025-04-30
+2922,Harsh Mehta,Male,12,Bachelor's,Employee Referral,2023-03-11
+2923,Sakshi Verma,Female,2,Master's,Employee Referral,2024-08-02
+2924,Nisha Joshi,Female,11,Bachelor's,Company Website,2021-06-03
+2925,Yash Shinde,Male,9,MBA/PGDM,LinkedIn,2024-12-13
+2926,Maya Naik,Female,10,Diploma,LinkedIn,2025-06-01
+2927,Sneha More,Male,4,MBA/PGDM,Recruitment Agency,2023-03-19
+2928,Dev Saxena,Male,3,MBA/PGDM,Recruitment Agency,2022-09-24
+2929,Dhruv Kapoor,Female,9,Diploma,Company Website,2021-12-07
+2930,Sameer Naik,Male,5,Master's,Recruitment Agency,2023-05-10
+2931,Manish Patel,Female,0,Master's,LinkedIn,2022-08-15
+2932,Anjali Thakur,Female,2,MBA/PGDM,Recruitment Agency,2024-12-29
+2933,Sameer Reddy,Male,8,Diploma,Campus Hiring,2021-05-16
+2934,Nikhil Mishra,Male,3,MBA/PGDM,Campus Hiring,2025-06-24
+2935,Isha Chopra,Male,3,Master's,LinkedIn,2024-04-27
+2936,Riya Kulkarni,Male,10,MBA/PGDM,Campus Hiring,2023-09-27
+2937,Ankita Deshmukh,Female,3,MBA/PGDM,Company Website,2023-01-29
+2938,Sahil Bansal,Female,11,Bachelor's,LinkedIn,2022-06-12
+2939,Riya Khan,Male,6,MBA/PGDM,Employee Referral,2024-12-23
+2940,Aditya Khan,Female,8,Bachelor's,Company Website,2022-11-14
+2941,Ashish Bansal,Male,7,Master's,Employee Referral,2024-06-10
+2942,Vidya Sawant,Female,9,Master's,Company Website,2023-05-02
+2943,Ashish Singh,Male,12,Master's,Naukri,2023-09-05
+2944,Shreya Khan,Male,10,MBA/PGDM,Company Website,2025-02-22
+2945,Vaishnavi Malhotra,Male,3,Bachelor's,Campus Hiring,2021-10-19
+2946,Neha Pillai,Male,2,Bachelor's,Naukri,2022-06-21
+2947,Diya Pawar,Male,1,MBA/PGDM,Naukri,2025-04-11
+2948,Vidya Bansal,Male,11,Bachelor's,Recruitment Agency,2023-07-18
+2949,Varun Shinde,Male,1,MBA/PGDM,Company Website,2023-06-19
+2950,Aditya Nair,Female,6,Diploma,Employee Referral,2021-07-01
+2951,Ananya Sawant,Male,12,Bachelor's,Employee Referral,2021-11-24
+2952,Vaishnavi Verma,Male,6,Master's,LinkedIn,2025-01-20
+2953,Sameer Khan,Female,11,Master's,Campus Hiring,2024-10-30
+2954,Vivek Nair,Male,10,Bachelor's,Company Website,2023-06-14
+2955,Rhea Nair,Male,7,MBA/PGDM,Recruitment Agency,2021-05-19
+2956,Neha Gupta,Male,12,Bachelor's,Company Website,2022-11-26
+2957,Sneha Singh,Female,2,Diploma,Campus Hiring,2024-09-25
+2958,Harsh Mishra,Female,2,Master's,Recruitment Agency,2023-09-30
+2959,Dhruv Deshmukh,Male,3,Diploma,Company Website,2022-08-26
+2960,Dev Chopra,Male,9,Master's,Recruitment Agency,2024-05-24
+2961,Sonali Patel,Female,9,Master's,Campus Hiring,2022-10-26
+2962,Isha Naik,Male,5,Bachelor's,LinkedIn,2025-06-19
+2963,Ankita Singh,Male,5,MBA/PGDM,Company Website,2025-02-20
+2964,Varun Gupta,Male,7,Bachelor's,LinkedIn,2024-07-16
+2965,Abhishek Menon,Male,10,Master's,Company Website,2024-09-20
+2966,Pallavi Mishra,Female,11,Diploma,Recruitment Agency,2021-04-17
+2967,Amit Mishra,Male,2,MBA/PGDM,Campus Hiring,2021-11-13
+2968,Abhishek Joshi,Male,9,Diploma,LinkedIn,2025-06-18
+2969,Ashish Naik,Male,11,Diploma,Campus Hiring,2023-12-29
+2970,Aditya Shinde,Male,3,Master's,LinkedIn,2025-05-14
+2971,Meera Deshmukh,Male,10,Master's,Recruitment Agency,2024-07-23
+2972,Sonali Pawar,Female,3,Master's,LinkedIn,2022-11-10
+2973,Akash Singh,Female,1,Master's,Employee Referral,2025-04-21
+2974,Mohit Joshi,Male,4,Master's,Naukri,2024-12-17
+2975,Harsh Malhotra,Female,4,Bachelor's,Recruitment Agency,2023-11-12
+2976,Sakshi Gupta,Female,12,MBA/PGDM,Naukri,2021-07-23
+2977,Sanjay Menon,Male,6,Diploma,Campus Hiring,2021-07-17
+2978,Aarav Menon,Female,11,MBA/PGDM,Naukri,2021-08-25
+2979,Maya Pawar,Male,4,Master's,Recruitment Agency,2022-03-10
+2980,Sahil Joshi,Female,6,Master's,Company Website,2025-08-20
+2981,Arjun Pillai,Female,9,Diploma,Employee Referral,2025-10-02
+2982,Pooja Gupta,Female,11,Diploma,Naukri,2022-06-24
+2983,Vaishnavi Deshmukh,Male,7,Bachelor's,Employee Referral,2024-07-12
+2984,Amit Verma,Female,10,Master's,Naukri,2024-04-03
+2985,Neha Mehta,Male,12,Bachelor's,LinkedIn,2024-07-16
+2986,Sahil Singh,Female,9,Bachelor's,Naukri,2024-09-22
+2987,Trisha Shinde,Male,5,Bachelor's,Recruitment Agency,2022-04-11
+2988,Aditya Naik,Male,3,Diploma,Employee Referral,2024-10-24
+2989,Sneha Reddy,Female,5,MBA/PGDM,Employee Referral,2025-10-10
+2990,Varun Naik,Male,9,MBA/PGDM,Company Website,2024-06-26
+2991,Neha Sawant,Female,10,Bachelor's,Recruitment Agency,2022-05-09
+2992,Arjun Nair,Female,2,Master's,LinkedIn,2022-05-12
+2993,Zoya Menon,Female,9,Diploma,Campus Hiring,2024-02-10
+2994,Yash Deshmukh,Female,6,Diploma,Recruitment Agency,2024-08-21
+2995,Manish Sharma,Female,11,Diploma,LinkedIn,2025-10-24
+2996,Sahil Naik,Male,7,MBA/PGDM,Campus Hiring,2025-08-23
+2997,Amit Chopra,Female,4,MBA/PGDM,LinkedIn,2024-09-20
+2998,Tanya Mishra,Female,12,Diploma,Campus Hiring,2021-02-06
+2999,Meera Jadhav,Female,8,Master's,Recruitment Agency,2024-03-19
+3000,Riya Patel,Male,10,Master's,Employee Referral,2023-08-20
+3001,Maya Saxena,Female,3,Master's,Employee Referral,2023-10-06
+3002,Nisha Menon,Female,1,Diploma,Recruitment Agency,2021-05-23
+3003,Dhruv Bansal,Female,5,MBA/PGDM,Campus Hiring,2023-01-25
+3004,Mohit Patel,Female,1,Master's,Campus Hiring,2022-05-02
+3005,Rohan Mishra,Female,11,Diploma,LinkedIn,2021-05-27
+3006,Rhea Pillai,Female,8,MBA/PGDM,LinkedIn,2025-02-26
+3007,Kavya Shinde,Female,10,MBA/PGDM,Employee Referral,2023-12-08
+3008,Ankita Shinde,Female,10,Master's,Employee Referral,2023-02-06
+3009,Tanvi Pillai,Male,9,MBA/PGDM,Naukri,2024-07-26
+3010,Aniket Rao,Male,0,Bachelor's,LinkedIn,2025-08-01
+3011,Neha Mehta,Male,11,Bachelor's,Recruitment Agency,2021-09-18
+3012,Rohan Deshmukh,Female,0,Diploma,Employee Referral,2025-09-05
+3013,Vivek Khan,Female,5,Bachelor's,Company Website,2022-02-21
+3014,Neha Thakur,Female,5,Bachelor's,Recruitment Agency,2025-07-08
+3015,Nikhil Khan,Male,2,Diploma,Naukri,2024-11-27
+3016,Shreya Kapoor,Female,3,Master's,LinkedIn,2025-05-18
+3017,Sneha Kapoor,Female,12,Diploma,Naukri,2023-10-04
+3018,Ashish Kapoor,Female,12,Bachelor's,Recruitment Agency,2022-11-18
+3019,Varun Gupta,Female,12,Bachelor's,Employee Referral,2025-07-27
+3020,Abhishek Sharma,Female,4,MBA/PGDM,LinkedIn,2022-12-14
+3021,Kavya Verma,Female,3,Bachelor's,Campus Hiring,2023-11-27
+3022,Varun Pillai,Female,11,Bachelor's,Employee Referral,2025-08-10
+3023,Harsh Iyer,Female,6,Diploma,Employee Referral,2023-04-29
+3024,Rhea Patel,Female,8,MBA/PGDM,Naukri,2022-05-18
+3025,Vidya Shinde,Male,1,MBA/PGDM,Company Website,2023-01-04
+3026,Pooja Jain,Female,12,Master's,Company Website,2021-09-02
+3027,Ashish Saxena,Male,6,Bachelor's,Recruitment Agency,2022-12-01
+3028,Isha Jain,Female,4,Diploma,Company Website,2023-06-10
+3029,Rohit Thakur,Male,2,Bachelor's,Naukri,2021-10-05
+3030,Vaishnavi Jain,Male,11,Diploma,Company Website,2023-05-16
+3031,Isha Thakur,Male,5,Diploma,Company Website,2023-09-22
+3032,Rhea Patel,Female,5,Diploma,Company Website,2021-11-12
+3033,Arjun Jain,Female,5,MBA/PGDM,Campus Hiring,2025-12-13
+3034,Vivek More,Male,8,Diploma,Employee Referral,2024-01-19
+3035,Kavya Jadhav,Female,4,Diploma,Campus Hiring,2022-07-07
+3036,Tanvi Sharma,Male,3,Diploma,LinkedIn,2023-09-14
+3037,Aditi Pawar,Male,8,Diploma,Company Website,2024-10-14
+3038,Rohit Pillai,Female,6,Bachelor's,Campus Hiring,2025-05-15
+3039,Yash Sharma,Male,4,Bachelor's,LinkedIn,2025-10-09
+3040,Tanya More,Male,1,Master's,Campus Hiring,2022-04-01
+3041,Dhruv Reddy,Female,3,Master's,Recruitment Agency,2022-06-19
+3042,Maya Khan,Male,4,Master's,Employee Referral,2021-05-16
+3043,Aditi Deshmukh,Female,5,MBA/PGDM,Company Website,2024-06-07
+3044,Priya Reddy,Male,2,MBA/PGDM,LinkedIn,2021-02-15
+3045,Aditya Shinde,Female,9,Diploma,Recruitment Agency,2024-08-10
+3046,Nikhil Joshi,Male,10,MBA/PGDM,Naukri,2021-02-10
+3047,Trisha Sharma,Female,12,MBA/PGDM,Campus Hiring,2021-08-12
+3048,Aniket Thakur,Male,6,Diploma,Campus Hiring,2023-11-11
+3049,Isha Shinde,Female,11,Bachelor's,Naukri,2023-09-27
+3050,Rhea Bansal,Male,7,Bachelor's,Recruitment Agency,2025-02-13
+3051,Sahil Jadhav,Female,12,Bachelor's,Employee Referral,2025-01-08
+3052,Anjali Menon,Female,11,Bachelor's,Recruitment Agency,2021-01-10
+3053,Ashish Deshmukh,Female,1,Bachelor's,Employee Referral,2021-04-01
+3054,Tanya Mishra,Male,10,MBA/PGDM,Employee Referral,2021-11-25
+3055,Aarav Sawant,Female,4,Master's,Recruitment Agency,2023-06-09
+3056,Isha Patel,Male,6,Bachelor's,Recruitment Agency,2022-04-23
+3057,Tanvi Chopra,Female,9,Diploma,Naukri,2021-06-30
+3058,Pooja Jain,Male,12,MBA/PGDM,Campus Hiring,2021-01-09
+3059,Sakshi Naik,Male,10,MBA/PGDM,Company Website,2022-08-30
+3060,Dev Khan,Male,10,Diploma,Campus Hiring,2023-11-26
+3061,Neha Jadhav,Female,6,Diploma,LinkedIn,2024-01-21
+3062,Neha Rao,Female,4,Bachelor's,Employee Referral,2022-12-14
+3063,Riya More,Male,6,Bachelor's,Recruitment Agency,2021-10-14
+3064,Aniket Reddy,Male,4,MBA/PGDM,Campus Hiring,2022-09-16
+3065,Pooja Rao,Female,10,Bachelor's,Employee Referral,2023-03-17
+3066,Ananya Thakur,Female,11,Master's,Employee Referral,2021-03-22
+3067,Maya Singh,Male,5,MBA/PGDM,Employee Referral,2025-06-28
+3068,Abhishek Sharma,Female,12,Master's,Campus Hiring,2021-01-09
+3069,Zoya Jadhav,Male,3,MBA/PGDM,LinkedIn,2022-09-12
+3070,Rohit Sharma,Female,2,Diploma,Recruitment Agency,2025-01-31
+3071,Dhruv Mehta,Female,1,MBA/PGDM,Campus Hiring,2025-06-24
+3072,Varun Singh,Male,5,Diploma,Recruitment Agency,2025-10-04
+3073,Isha Kulkarni,Female,0,MBA/PGDM,Company Website,2022-12-20
+3074,Sonali Joshi,Male,3,Bachelor's,Campus Hiring,2023-09-17
+3075,Pooja Pawar,Male,6,Master's,Employee Referral,2024-12-08
+3076,Sneha Jadhav,Female,6,MBA/PGDM,LinkedIn,2025-06-14
+3077,Dhruv Jain,Female,11,Bachelor's,LinkedIn,2025-07-16
+3078,Yash Naik,Female,6,Bachelor's,Naukri,2024-07-07
+3079,Pallavi Bansal,Male,7,MBA/PGDM,Naukri,2022-04-08
+3080,Vaishnavi Singh,Female,6,Bachelor's,Company Website,2024-11-29
+3081,Aditi Sharma,Female,1,Diploma,Recruitment Agency,2021-08-13
+3082,Arjun Kulkarni,Female,12,Bachelor's,Company Website,2022-02-06
+3083,Pallavi Menon,Male,4,MBA/PGDM,LinkedIn,2023-07-20
+3084,Nikhil Thakur,Male,9,Bachelor's,Recruitment Agency,2022-05-16
+3085,Kavya Shinde,Female,9,Bachelor's,Recruitment Agency,2021-05-26
+3086,Tanvi Shinde,Female,9,Master's,Naukri,2024-12-05
+3087,Sameer Sharma,Female,5,Bachelor's,Naukri,2023-09-03
+3088,Anjali Naik,Female,0,MBA/PGDM,Campus Hiring,2021-04-23
+3089,Sameer Joshi,Female,2,Diploma,Campus Hiring,2024-08-27
+3090,Tanya Rao,Female,5,Master's,Employee Referral,2022-01-22
+3091,Aniket Kapoor,Male,3,Diploma,Campus Hiring,2022-01-03
+3092,Sahil Sawant,Male,7,Master's,Naukri,2022-07-03
+3093,Maya Chopra,Female,9,MBA/PGDM,LinkedIn,2025-02-23
+3094,Abhishek Sharma,Male,12,Master's,Campus Hiring,2023-07-29
+3095,Aniket Deshmukh,Female,11,Diploma,Recruitment Agency,2021-09-09
+3096,Vaishnavi Kulkarni,Female,2,Bachelor's,Recruitment Agency,2021-03-14
+3097,Ankita Rao,Female,2,MBA/PGDM,Naukri,2023-06-02
+3098,Diya Malhotra,Female,3,Master's,Campus Hiring,2021-03-07
+3099,Vaishnavi Menon,Male,5,Diploma,Naukri,2021-05-31
+3100,Pallavi Gupta,Female,8,Master's,Company Website,2024-04-18
+3101,Nikhil Iyer,Female,11,Bachelor's,Company Website,2023-07-12
+3102,Vidya Menon,Female,9,Master's,Naukri,2021-07-19
+3103,Karan Naik,Female,3,Bachelor's,Campus Hiring,2024-12-18
+3104,Diya More,Male,0,Master's,Naukri,2021-02-28
+3105,Sahil Jain,Female,9,Diploma,Campus Hiring,2022-03-26
+3106,Sonali Jadhav,Male,6,Diploma,Company Website,2024-12-16
+3107,Tanvi Sawant,Male,2,Diploma,LinkedIn,2023-04-30
+3108,Kavya More,Female,8,Bachelor's,Recruitment Agency,2025-07-02
+3109,Dev Verma,Male,10,Master's,Employee Referral,2021-04-11
+3110,Ankita Menon,Male,1,Master's,Employee Referral,2023-08-21
+3111,Dev Rao,Female,7,Diploma,Naukri,2021-01-16
+3112,Maya Kapoor,Male,11,Bachelor's,Recruitment Agency,2021-09-06
+3113,Rahul Pillai,Female,9,Diploma,Company Website,2023-10-12
+3114,Zoya Thakur,Male,6,MBA/PGDM,Campus Hiring,2022-03-29
+3115,Trisha Menon,Male,3,Master's,Company Website,2023-03-23
+3116,Varun Pawar,Male,8,Master's,Employee Referral,2023-12-09
+3117,Maya Kulkarni,Female,5,MBA/PGDM,Employee Referral,2022-10-13
+3118,Neha Joshi,Female,7,MBA/PGDM,Recruitment Agency,2023-08-20
+3119,Manish Khan,Male,3,MBA/PGDM,Recruitment Agency,2025-08-31
+3120,Tanvi Patel,Male,9,MBA/PGDM,Employee Referral,2024-05-05
+3121,Yash Sawant,Female,11,Master's,Campus Hiring,2024-09-08
+3122,Varun Gupta,Male,7,Diploma,Naukri,2024-03-22
+3123,Maya Kapoor,Female,9,Diploma,Recruitment Agency,2023-12-05
+3124,Amit Gupta,Male,6,MBA/PGDM,Company Website,2024-05-05
+3125,Ananya Chopra,Female,12,Master's,Company Website,2024-08-05
+3126,Ankita Jain,Male,3,Master's,LinkedIn,2023-07-01
+3127,Mohit Iyer,Male,9,Bachelor's,Company Website,2024-04-15
+3128,Tanvi Mehta,Male,5,MBA/PGDM,Recruitment Agency,2021-03-26
+3129,Vivek Mishra,Male,7,MBA/PGDM,Company Website,2023-04-30
+3130,Manish Reddy,Female,6,MBA/PGDM,Naukri,2023-01-28
+3131,Sakshi Joshi,Female,0,Diploma,Recruitment Agency,2022-05-31
+3132,Rahul Sawant,Male,3,Master's,Naukri,2024-03-30
+3133,Aarav Saxena,Male,4,Master's,Company Website,2024-06-17
+3134,Manish Sawant,Female,5,Diploma,Company Website,2023-04-16
+3135,Diya Mehta,Female,6,Bachelor's,Employee Referral,2025-11-19
+3136,Trisha Menon,Female,7,Diploma,Company Website,2022-04-25
+3137,Anjali Saxena,Female,5,MBA/PGDM,LinkedIn,2023-03-27
+3138,Varun Pawar,Male,7,MBA/PGDM,Recruitment Agency,2025-05-20
+3139,Shreya Gupta,Female,6,Master's,Campus Hiring,2025-09-27
+3140,Vaishnavi Malhotra,Male,6,MBA/PGDM,Employee Referral,2021-02-25
+3141,Maya Bansal,Female,1,MBA/PGDM,Recruitment Agency,2022-03-25
+3142,Aditya Joshi,Male,6,Diploma,LinkedIn,2024-08-03
+3143,Neha Verma,Male,8,Diploma,Employee Referral,2022-01-09
+3144,Priya Jain,Male,4,Bachelor's,Naukri,2023-01-22
+3145,Diya Nair,Female,2,Diploma,Naukri,2022-12-10
+3146,Aditya Sawant,Female,12,Diploma,Employee Referral,2024-10-12
+3147,Sameer Bansal,Female,5,Diploma,Naukri,2022-03-09
+3148,Tanya Verma,Male,7,Bachelor's,Campus Hiring,2021-10-16
+3149,Rohit Menon,Female,12,MBA/PGDM,Campus Hiring,2024-04-09
+3150,Ashish Naik,Male,11,Master's,LinkedIn,2023-12-24
+3151,Yash Mishra,Male,5,Bachelor's,LinkedIn,2021-06-10
+3152,Aarav Khan,Female,11,Diploma,LinkedIn,2025-01-14
+3153,Mohit Joshi,Female,7,MBA/PGDM,Employee Referral,2023-01-10
+3154,Nikhil Rao,Female,11,Master's,Company Website,2022-06-06
+3155,Sakshi Pillai,Male,12,Diploma,Employee Referral,2023-02-18
+3156,Mohit Iyer,Female,8,Diploma,LinkedIn,2022-03-14
+3157,Kavya Kulkarni,Female,8,MBA/PGDM,Employee Referral,2024-08-27
+3158,Arjun Sawant,Female,6,Bachelor's,Employee Referral,2023-08-22
+3159,Aditya Thakur,Male,4,Master's,Naukri,2022-01-18
+3160,Tanvi Pillai,Male,7,MBA/PGDM,Naukri,2021-10-07
+3161,Priya Menon,Male,12,Master's,Campus Hiring,2025-11-15
+3162,Aditi Rao,Female,4,MBA/PGDM,Recruitment Agency,2025-11-24
+3163,Aarav Nair,Female,7,Diploma,Campus Hiring,2021-12-26
+3164,Manish Gupta,Female,12,Bachelor's,Recruitment Agency,2023-06-13
+3165,Yash Kapoor,Male,12,Diploma,Company Website,2023-05-14
+3166,Dev Patel,Female,12,Diploma,Campus Hiring,2021-06-12
+3167,Sneha Malhotra,Female,4,Master's,Naukri,2022-08-25
+3168,Sonali Khan,Male,3,Bachelor's,Company Website,2025-05-14
+3169,Isha Rao,Female,5,Bachelor's,Company Website,2021-09-28
+3170,Zoya Iyer,Male,9,Master's,Recruitment Agency,2025-09-18
+3171,Isha Reddy,Female,9,MBA/PGDM,Employee Referral,2024-04-19
+3172,Maya Jadhav,Male,0,Bachelor's,Recruitment Agency,2023-08-14
+3173,Maya Bansal,Male,3,Diploma,Naukri,2025-01-05
+3174,Manish Gupta,Female,5,Bachelor's,Company Website,2023-09-08
+3175,Isha Nair,Male,9,MBA/PGDM,Naukri,2025-11-01
+3176,Ankita Singh,Male,8,Master's,Naukri,2023-09-12
+3177,Maya Bansal,Female,11,MBA/PGDM,Campus Hiring,2022-02-26
+3178,Karan Nair,Male,0,MBA/PGDM,Campus Hiring,2024-07-02
+3179,Harsh Rao,Male,11,Bachelor's,LinkedIn,2022-01-13
+3180,Maya Singh,Female,1,Bachelor's,Recruitment Agency,2025-03-29
+3181,Aditi Naik,Female,5,MBA/PGDM,Naukri,2024-10-01
+3182,Rahul Jadhav,Male,2,Bachelor's,Recruitment Agency,2022-08-27
+3183,Arjun Jain,Female,5,Master's,Company Website,2024-01-28
+3184,Rohit Sharma,Female,5,Diploma,Recruitment Agency,2022-09-11
+3185,Dhruv Rao,Female,1,MBA/PGDM,Employee Referral,2022-07-18
+3186,Varun Malhotra,Male,10,MBA/PGDM,Recruitment Agency,2023-11-05
+3187,Vivek Nair,Male,5,Master's,LinkedIn,2021-11-08
+3188,Yash Gupta,Male,2,Bachelor's,Campus Hiring,2022-07-12
+3189,Isha Naik,Female,11,Master's,LinkedIn,2022-12-06
+3190,Harsh Malhotra,Male,3,Bachelor's,Campus Hiring,2024-10-10
+3191,Yash Sawant,Female,6,Diploma,Naukri,2023-01-23
+3192,Shreya Thakur,Female,3,Bachelor's,Company Website,2025-11-19
+3193,Ankita Singh,Female,11,Master's,Employee Referral,2023-01-18
+3194,Arjun More,Male,2,MBA/PGDM,Employee Referral,2022-04-28
+3195,Dev Pillai,Female,8,MBA/PGDM,Recruitment Agency,2022-03-27
+3196,Nisha Mishra,Female,10,Diploma,Campus Hiring,2024-05-29
+3197,Nikhil Mehta,Female,11,Diploma,Naukri,2024-10-09
+3198,Akash Joshi,Male,2,Bachelor's,Recruitment Agency,2024-08-02
+3199,Aditya Gupta,Female,7,Master's,Recruitment Agency,2025-01-31
+3200,Yash Bansal,Male,6,Bachelor's,Company Website,2024-05-20

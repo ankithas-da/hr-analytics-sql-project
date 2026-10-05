@@ -1,0 +1,1201 @@
+employee_id,employee_name,gender,hire_date,exit_date,employment_status,department_name,role_name,job_family,city,recruitment_source,education_level,grade_code,current_salary,manager_id,exit_reason,manager_rating,would_rehire,avg_perf_score,promotions_count,avg_engagement,absenteeism_rate,tenure_years,attrition_flag
+1,Sonali Saxena,Male,2023-04-12,,Active,Finance,Financial Analyst,Finance,Chennai,Employee Referral,MBA/PGDM,G3,915000,799,,,,3.13,0,2.0,0.0454,2.72,0
+2,Nisha Shinde,Female,2023-07-11,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Bachelor's,G4,1065000,972,,,,3.47,0,3.2,0.0494,2.48,0
+3,Trisha Patel,Female,2025-04-17,,Active,Human Resources,HR Executive,HR,Hyderabad,Naukri,Diploma,G1,475000,170,,,,3.6,0,3.0,0.0529,0.71,0
+4,Ananya Thakur,Female,2023-10-03,2025-01-05,Resigned,Marketing,Marketing Manager,Marketing,Bengaluru,Recruitment Agency,Master's,G4,1215000,318,Compensation,1.0,No,3.9,0,,0.0636,1.26,1
+5,Vaishnavi Menon,Female,2024-09-19,,Active,Human Resources,HR Executive,HR,Bengaluru,LinkedIn,MBA/PGDM,G2,715000,1036,,,,3.9,0,2.6,0.0469,1.28,0
+6,Sameer Thakur,Male,2022-07-01,,Active,Information Technology,IT Manager,IT,Mumbai,Employee Referral,Diploma,G5,1675000,363,,,,3.17,0,2.47,0.0444,3.5,0
+7,Arjun Joshi,Female,2023-08-27,,Active,Customer Support,Customer Support Executive,Support,Chennai,LinkedIn,Bachelor's,G2,540000,335,,,,3.7,0,3.8,0.0506,2.35,0
+8,Varun Menon,Female,2025-03-09,2025-06-14,Terminated,Finance,Financial Analyst,Finance,Bengaluru,Employee Referral,MBA/PGDM,G2,710000,697,Relocation,2.0,No,,0,,0.0227,0.27,1
+9,Rohit Kapoor,Female,2021-12-25,2024-05-07,Resigned,Human Resources,HR Manager,HR,Mumbai,Recruitment Agency,Diploma,G4,1020000,642,Relocation,2.0,Yes,3.0,0,2.8,0.0502,2.37,1
+10,Neha Singh,Male,2025-11-25,,Active,Marketing,Marketing Manager,Marketing,Delhi,Employee Referral,Bachelor's,G5,1470000,99,,,,3.2,0,4.2,0.0889,0.1,0
+11,Priya Pawar,Male,2025-08-28,,Active,Customer Support,Customer Support Executive,Support,Pune,Recruitment Agency,Bachelor's,G1,390000,905,,,,2.4,0,,0.0485,0.34,0
+12,Isha Singh,Male,2024-02-20,2024-05-01,Resigned,Customer Support,Customer Support Executive,Support,Bengaluru,LinkedIn,MBA/PGDM,G2,585000,55,Better Career Opportunity,1.0,No,,0,,0.0444,0.19,1
+13,Varun Kulkarni,Male,2025-07-18,,Active,Operations,Operations Manager,Operations,Chennai,Recruitment Agency,MBA/PGDM,G4,1010000,843,,,,2.3,0,,0.0462,0.45,0
+14,Amit Shinde,Female,2023-04-18,,Active,Information Technology,IT Manager,IT,Bengaluru,Naukri,MBA/PGDM,G5,1700000,1024,,,,2.9,0,2.7,0.053,2.7,0
+15,Dhruv Kapoor,Female,2023-04-02,,Active,Sales,Sales Executive,Sales,Pune,Recruitment Agency,Master's,G1,475000,649,,,,3.23,1,3.47,0.0449,2.75,0
+16,Arjun Pawar,Male,2021-10-27,,Active,Operations,Operations Manager,Operations,Pune,Company Website,Bachelor's,G4,1120000,247,,,,3.26,0,3.1,0.0482,4.18,0
+17,Sneha Jain,Male,2022-10-15,,Active,Human Resources,HR Executive,HR,Pune,Naukri,Diploma,G2,660000,1140,,,,3.15,0,3.35,0.04,3.21,0
+18,Rohit Singh,Male,2023-12-18,,Active,Information Technology,Software Engineer,IT,Mumbai,Company Website,MBA/PGDM,G4,1205000,190,,,,3.4,1,3.1,0.054,2.04,0
+19,Isha Naik,Male,2024-10-04,2025-06-15,Resigned,Operations,Operations Manager,Operations,Mumbai,Employee Referral,Diploma,G4,1385000,260,Better Career Opportunity,5.0,No,3.6,0,3.0,0.0495,0.7,1
+20,Aniket Bansal,Male,2021-01-22,2023-04-04,Terminated,Operations,Operations Manager,Operations,Mumbai,Company Website,Master's,G5,1430000,908,Role/Workload,5.0,Yes,3.9,0,2.8,0.036,2.2,1
+21,Priya Khan,Female,2025-09-01,2025-11-23,Resigned,Marketing,Marketing Analyst,Marketing,Pune,LinkedIn,Diploma,G2,540000,795,Role/Workload,1.0,No,,0,,0.0317,0.23,1
+22,Vivek Shinde,Female,2024-04-15,2025-11-03,Resigned,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Master's,G3,835000,879,Higher Education,3.0,No,3.1,0,2.4,0.0417,1.55,1
+23,Amit Pawar,Male,2023-08-26,,Active,Sales,Sales Executive,Sales,Chennai,Campus Hiring,MBA/PGDM,G1,460000,1062,,,,3.03,0,2.6,0.0361,2.35,0
+24,Varun Jain,Male,2025-10-07,,Active,Human Resources,HR Executive,HR,Chennai,Campus Hiring,MBA/PGDM,G2,675000,680,,,,3.9,0,2.4,0.0455,0.23,0
+25,Yash Menon,Female,2022-01-25,,Active,Information Technology,IT Manager,IT,Pune,Campus Hiring,Bachelor's,G5,1590000,491,,,,3.58,0,2.93,0.0447,3.93,0
+26,Meera Jain,Male,2021-08-19,,Active,Sales,Sales Manager,Sales,Chennai,Employee Referral,Bachelor's,G4,1225000,214,,,,3.64,0,3.28,0.0465,4.37,0
+27,Ananya Singh,Male,2023-03-13,,Active,Marketing,Marketing Manager,Marketing,Chennai,Recruitment Agency,MBA/PGDM,G3,910000,308,,,,4.13,0,2.8,0.0426,2.8,0
+28,Sneha Jadhav,Male,2025-04-22,,Active,Sales,Sales Manager,Sales,Hyderabad,Campus Hiring,Bachelor's,G4,1240000,1034,,,,4.3,0,4.0,0.057,0.69,0
+29,Aditi Sharma,Male,2021-02-23,,Active,Human Resources,HR Manager,HR,Bengaluru,Employee Referral,Master's,G3,900000,1071,,,,3.76,0,3.25,0.0512,4.85,0
+30,Riya Chopra,Male,2021-09-25,2023-02-09,Resigned,Human Resources,HR Executive,HR,Ahmedabad,Company Website,MBA/PGDM,G2,580000,233,Higher Education,5.0,No,3.3,0,3.3,0.0413,1.37,1
+31,Ananya Mishra,Female,2025-09-16,,Active,Procurement,Procurement Manager,Procurement,Bengaluru,Company Website,Diploma,G4,1325000,561,,,,2.8,0,3.4,0.0455,0.29,0
+32,Karan Reddy,Female,2025-01-17,2025-07-14,Resigned,Operations,Operations Executive,Operations,Mumbai,Campus Hiring,Master's,G1,480000,187,Better Career Opportunity,4.0,Yes,,0,,0.0541,0.49,1
+33,Arjun Mishra,Male,2025-09-24,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,LinkedIn,MBA/PGDM,G4,1260000,377,,,,3.9,0,3.6,0.0682,0.27,0
+34,Tanvi Iyer,Male,2023-12-30,,Active,Information Technology,IT Manager,IT,Chennai,Recruitment Agency,Bachelor's,G5,1535000,589,,,,4.05,0,2.8,0.0476,2.0,0
+35,Shreya Bansal,Female,2022-02-08,,Active,Operations,Operations Executive,Operations,Pune,Campus Hiring,Diploma,G2,680000,1102,,,,3.33,1,3.0,0.0438,3.89,0
+36,Vaishnavi Jadhav,Male,2024-01-21,,Active,Operations,Operations Manager,Operations,Mumbai,Recruitment Agency,Master's,G3,935000,331,,,,3.15,0,3.0,0.0388,1.94,0
+37,Aniket Malhotra,Female,2022-10-03,2023-11-06,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Master's,G4,1255000,935,Higher Education,2.0,No,2.7,0,,0.0369,1.09,1
+38,Vaishnavi Khan,Female,2024-09-17,2025-11-08,Resigned,Sales,Sales Manager,Sales,Hyderabad,LinkedIn,Master's,G5,1495000,52,Role/Workload,4.0,Yes,2.5,0,3.0,0.0428,1.14,1
+39,Tanvi Pawar,Female,2025-11-28,,Active,Information Technology,Software Engineer,IT,Chennai,Employee Referral,MBA/PGDM,G3,895000,34,,,,3.4,0,,0.0,0.09,0
+40,Anjali Pillai,Male,2023-12-29,,Active,Finance,Finance Manager,Finance,Mumbai,Company Website,Diploma,G4,1060000,1059,,,,3.35,0,3.6,0.0521,2.01,0
+41,Shreya Menon,Female,2025-10-12,,Active,Information Technology,IT Manager,IT,Chennai,Company Website,MBA/PGDM,G5,1625000,354,,,,2.9,0,,0.0455,0.22,0
+42,Dev Rao,Female,2025-01-29,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Campus Hiring,Master's,G4,1025000,149,,,,3.2,0,2.0,0.0345,0.92,0
+43,Priya Mishra,Male,2022-10-19,,Active,Sales,Sales Executive,Sales,Mumbai,Company Website,Bachelor's,G2,740000,78,,,,3.17,0,2.6,0.0512,3.2,0
+44,Sakshi Saxena,Female,2025-09-20,2025-12-05,Resigned,Information Technology,IT Manager,IT,Pune,Recruitment Agency,Master's,G5,1465000,1135,Compensation,5.0,Yes,,0,4.2,0.0471,0.21,1
+45,Aditi Nair,Female,2021-02-28,,Active,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,Master's,G1,480000,664,,,,3.5,0,2.76,0.0286,4.84,0
+46,Dev Gupta,Male,2021-08-12,2022-01-08,Resigned,Human Resources,HR Executive,HR,Bengaluru,Company Website,Diploma,G1,465000,680,Performance Termination,2.0,Yes,3.3,0,1.8,0.0465,0.41,1
+47,Zoya Mishra,Female,2021-06-29,,Active,Operations,Operations Executive,Operations,Hyderabad,Recruitment Agency,Diploma,G2,515000,187,,,,3.66,0,3.33,0.0399,4.51,0
+48,Vivek Joshi,Male,2024-07-04,2024-11-16,Resigned,Finance,Finance Manager,Finance,Bengaluru,Company Website,Diploma,G4,1135000,675,Role/Workload,1.0,No,,0,,0.0566,0.37,1
+49,Pallavi Pillai,Male,2023-08-03,,Active,Information Technology,IT Manager,IT,Delhi,Naukri,MBA/PGDM,G5,1575000,190,,,,3.37,0,3.53,0.0471,2.41,0
+50,Aditi Singh,Female,2025-03-26,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,Diploma,G4,1155000,321,,,,4.0,0,3.6,0.0372,0.77,0
+51,Dev Sawant,Male,2021-03-03,,Active,Sales,Sales Manager,Sales,Gurugram,LinkedIn,Diploma,G5,1420000,529,,,,3.6,0,2.6,0.0489,4.83,0
+52,Pooja Mishra,Male,2022-10-12,,Active,Sales,Sales Manager,Sales,Mumbai,LinkedIn,Master's,G4,1225000,28,,,,4.0,0,2.8,0.0404,3.22,0
+53,Nisha Sharma,Male,2023-01-01,2025-01-11,Terminated,Operations,Operations Manager,Operations,Mumbai,Naukri,Master's,G4,1370000,16,Performance Termination,4.0,No,3.55,0,2.9,0.0434,2.03,1
+54,Sahil Verma,Female,2024-09-12,,Active,Sales,Sales Executive,Sales,Mumbai,Company Website,MBA/PGDM,G3,790000,181,,,,3.85,0,2.8,0.0432,1.3,0
+55,Rhea Naik,Female,2022-12-22,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Naukri,Bachelor's,G3,895000,706,,,,3.07,0,3.2,0.0433,3.03,0
+56,Rohan Joshi,Female,2025-08-22,,Active,Operations,Operations Executive,Operations,Mumbai,Employee Referral,Master's,G1,460000,142,,,,4.7,0,3.6,0.0273,0.36,0
+57,Sanjay Joshi,Male,2022-03-16,2022-09-07,Resigned,Finance,Financial Analyst,Finance,Mumbai,Recruitment Agency,Bachelor's,G2,730000,692,Better Career Opportunity,4.0,Yes,,0,,0.0519,0.48,1
+58,Sonali Shinde,Male,2021-12-04,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Bachelor's,G2,730000,604,,,,3.64,0,3.27,0.0488,4.07,0
+59,Sonali Deshmukh,Female,2022-08-30,2025-05-25,Resigned,Sales,Sales Executive,Sales,Bengaluru,Recruitment Agency,MBA/PGDM,G2,735000,622,Personal Reasons,1.0,Yes,3.27,0,2.93,0.0439,2.74,1
+60,Shreya Shinde,Male,2023-01-28,,Active,Sales,Sales Executive,Sales,Bengaluru,LinkedIn,Diploma,G2,745000,957,,,,3.3,0,2.93,0.0466,2.92,0
+61,Varun More,Male,2022-06-09,2023-01-03,Resigned,Marketing,Marketing Analyst,Marketing,Pune,Employee Referral,Diploma,G3,850000,73,Better Career Opportunity,3.0,Yes,3.0,0,,0.0347,0.57,1
+62,Harsh Naik,Female,2021-08-16,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Campus Hiring,Diploma,G2,750000,230,,,,3.28,1,3.32,0.0401,4.38,0
+63,Pallavi Jadhav,Female,2023-11-20,2025-06-07,Resigned,Information Technology,Software Engineer,IT,Mumbai,Recruitment Agency,Diploma,G4,1230000,659,Higher Education,5.0,No,3.7,0,3.3,0.0603,1.55,1
+64,Sakshi Singh,Female,2024-08-18,,Active,Information Technology,Software Engineer,IT,Ahmedabad,Company Website,Master's,G3,895000,712,,,,3.6,0,4.4,0.0405,1.37,0
+65,Ashish Verma,Male,2025-04-26,,Active,Human Resources,HR Executive,HR,Pune,Naukri,Bachelor's,G2,720000,635,,,,3.7,0,3.6,0.0408,0.68,0
+66,Ananya Mehta,Male,2025-09-09,,Active,Information Technology,Data Analyst,IT,Hyderabad,LinkedIn,Master's,G3,975000,540,,,,2.9,0,2.4,0.0471,0.31,0
+67,Nikhil Thakur,Male,2023-04-29,,Active,Information Technology,Software Engineer,IT,Gurugram,Company Website,Diploma,G3,930000,472,,,,2.77,0,3.3,0.0436,2.67,0
+68,Trisha Nair,Male,2025-02-09,,Active,Human Resources,HR Executive,HR,Bengaluru,Campus Hiring,Bachelor's,G2,620000,85,,,,3.2,0,4.2,0.0456,0.89,0
+69,Manish Iyer,Male,2024-08-27,,Active,Information Technology,Data Analyst,IT,Hyderabad,Recruitment Agency,Master's,G3,835000,354,,,,2.7,0,3.4,0.0462,1.34,0
+70,Nisha Rao,Male,2022-01-08,,Active,Operations,Operations Executive,Operations,Delhi,Employee Referral,Diploma,G1,485000,743,,,,3.35,1,3.35,0.0464,3.98,0
+71,Rhea Naik,Male,2021-07-13,,Active,Information Technology,IT Manager,IT,Chennai,Employee Referral,Master's,G5,1720000,1018,,,,3.56,0,2.8,0.0518,4.47,0
+72,Varun Shinde,Male,2022-10-10,,Active,Human Resources,HR Executive,HR,Mumbai,Naukri,MBA/PGDM,G2,515000,801,,,,3.15,0,3.75,0.039,3.23,0
+73,Maya Jadhav,Male,2023-05-05,,Active,Marketing,Marketing Manager,Marketing,Pune,Company Website,Master's,G5,1480000,91,,,,3.33,0,3.87,0.048,2.66,0
+74,Abhishek Rao,Female,2022-08-24,2023-03-03,Resigned,Information Technology,IT Manager,IT,Pune,Recruitment Agency,Diploma,G4,1265000,284,Better Career Opportunity,4.0,Yes,2.8,0,3.2,0.052,0.52,1
+75,Manish Joshi,Female,2023-05-09,,Active,Sales,Sales Executive,Sales,Ahmedabad,Naukri,MBA/PGDM,G2,745000,754,,,,3.37,0,2.6,0.0436,2.65,0
+76,Dev Thakur,Female,2022-08-04,,Active,Information Technology,Software Engineer,IT,Mumbai,Naukri,Diploma,G3,830000,554,,,,3.2,0,2.45,0.0431,3.41,0
+77,Dev Naik,Female,2024-04-07,,Active,Information Technology,IT Manager,IT,Pune,Company Website,Master's,G5,1985000,456,,,,3.7,0,2.9,0.0556,1.73,0
+78,Amit Chopra,Male,2023-04-14,,Active,Sales,Sales Manager,Sales,Pune,Naukri,MBA/PGDM,G4,1335000,792,,,,3.33,0,3.6,0.0521,2.72,0
+79,Dhruv Khan,Female,2021-11-21,2024-02-26,Resigned,Finance,Financial Analyst,Finance,Bengaluru,LinkedIn,Diploma,G2,720000,1143,Better Career Opportunity,5.0,No,3.3,1,2.47,0.0491,2.26,1
+80,Diya Deshmukh,Female,2022-09-28,,Active,Operations,Operations Manager,Operations,Delhi,LinkedIn,Bachelor's,G3,995000,752,,,,2.65,0,2.8,0.0417,3.26,0
+81,Mohit Bansal,Male,2025-02-25,2025-07-25,Resigned,Operations,Operations Executive,Operations,Mumbai,LinkedIn,Bachelor's,G1,475000,752,Personal Reasons,2.0,Yes,,0,,0.0469,0.41,1
+82,Amit Rao,Female,2022-07-16,,Active,Customer Support,Customer Support Manager,Support,Delhi,Recruitment Agency,MBA/PGDM,G3,860000,336,,,,3.45,0,1.9,0.0451,3.46,0
+83,Priya Joshi,Male,2024-03-28,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Employee Referral,MBA/PGDM,G3,895000,298,,,,3.6,0,3.2,0.0511,1.76,0
+84,Akash Joshi,Male,2022-10-12,,Active,Sales,Sales Manager,Sales,Hyderabad,Campus Hiring,Master's,G5,1595000,1155,,,,3.42,0,3.8,0.043,3.22,0
+85,Maya Pawar,Female,2022-12-02,,Active,Human Resources,HR Manager,HR,Hyderabad,Company Website,Diploma,G3,965000,745,,,,3.15,0,3.0,0.0449,3.08,0
+86,Vidya Malhotra,Male,2024-12-14,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Employee Referral,Master's,G2,605000,414,,,,3.65,0,3.6,0.0588,1.05,0
+87,Sanjay Gupta,Male,2021-05-08,,Active,Information Technology,Software Engineer,IT,Mumbai,Naukri,MBA/PGDM,G4,1230000,1153,,,,3.6,1,2.9,0.0436,4.65,0
+88,Sanjay Thakur,Male,2021-07-06,2025-01-25,Resigned,Operations,Operations Manager,Operations,Bengaluru,Naukri,Master's,G4,1070000,1064,Retirement,5.0,No,3.63,0,3.05,0.0317,3.56,1
+89,Sonali Rao,Male,2022-01-05,,Active,Human Resources,HR Executive,HR,Mumbai,Naukri,Master's,G2,620000,1015,,,,3.8,0,2.5,0.0519,3.99,0
+90,Tanvi Pawar,Male,2023-07-15,,Active,Finance,Finance Manager,Finance,Bengaluru,Naukri,Bachelor's,G5,1585000,180,,,,3.43,0,3.73,0.0423,2.46,0
+91,Karan Pillai,Male,2021-02-20,2025-05-27,Resigned,Marketing,Marketing Manager,Marketing,Mumbai,Employee Referral,Master's,G5,1650000,989,Better Career Opportunity,2.0,Yes,2.98,0,3.4,0.0475,4.26,1
+92,Rohan Sharma,Male,2024-10-11,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Campus Hiring,Master's,G3,920000,362,,,,2.9,0,2.4,0.044,1.22,0
+93,Isha Chopra,Female,2021-06-07,2024-08-16,Resigned,Sales,Sales Manager,Sales,Pune,Company Website,Diploma,G4,1055000,864,Role/Workload,4.0,Yes,3.9,0,2.5,0.0415,3.19,1
+94,Dhruv Naik,Male,2023-01-16,,Active,Customer Support,Customer Support Manager,Support,Chennai,LinkedIn,Bachelor's,G4,1195000,449,,,,3.63,0,2.6,0.0516,2.96,0
+95,Dev Kapoor,Male,2025-08-20,2025-11-14,Resigned,Operations,Operations Manager,Operations,Pune,LinkedIn,MBA/PGDM,G4,1140000,702,Personal Reasons,1.0,Yes,,0,,0.0353,0.24,1
+96,Kavya Mehta,Female,2022-06-10,,Active,Information Technology,IT Manager,IT,Chennai,Company Website,Bachelor's,G4,1160000,540,,,,3.2,0,2.93,0.0467,3.56,0
+97,Vaishnavi Naik,Female,2024-10-24,,Active,Information Technology,IT Manager,IT,Gurugram,Company Website,MBA/PGDM,G5,1410000,150,,,,3.45,0,3.2,0.0644,1.19,0
+98,Tanya Iyer,Female,2025-01-31,,Active,Information Technology,Software Engineer,IT,Mumbai,Campus Hiring,Bachelor's,G3,870000,910,,,,3.0,0,,0.051,0.91,0
+99,Karan Thakur,Female,2024-08-26,2025-06-19,Resigned,Marketing,Marketing Manager,Marketing,Mumbai,Campus Hiring,Bachelor's,G5,1655000,467,Compensation,4.0,No,2.1,0,4.0,0.0661,0.81,1
+100,Kavya Pawar,Male,2023-03-11,,Active,Information Technology,IT Manager,IT,Bengaluru,Recruitment Agency,MBA/PGDM,G5,1500000,363,,,,2.6,0,3.7,0.0514,2.81,0
+101,Isha Singh,Female,2024-10-20,,Active,Information Technology,Data Analyst,IT,Delhi,Campus Hiring,Bachelor's,G4,1055000,737,,,,4.5,0,2.4,0.0335,1.2,0
+102,Rohan Khan,Male,2025-09-21,2025-12-03,Resigned,Procurement,Procurement Manager,Procurement,Pune,LinkedIn,Master's,G4,1180000,240,Compensation,5.0,No,,0,3.4,0.0465,0.2,1
+103,Yash Saxena,Male,2021-01-07,,Active,Marketing,Marketing Analyst,Marketing,Pune,Employee Referral,Bachelor's,G3,880000,476,,,,4.0,1,2.7,0.0434,4.98,0
+104,Trisha Malhotra,Male,2025-10-21,2025-12-26,Resigned,Sales,Sales Executive,Sales,Hyderabad,Recruitment Agency,Master's,G2,665000,106,Role/Workload,5.0,Yes,3.1,0,,0.0746,0.18,1
+105,Aarav Verma,Female,2021-08-12,,Active,Sales,Sales Manager,Sales,Bengaluru,Naukri,MBA/PGDM,G3,880000,629,,,,3.58,0,3.35,0.046,4.39,0
+106,Abhishek Jadhav,Male,2024-01-22,,Active,Sales,Sales Manager,Sales,Hyderabad,Company Website,Diploma,G4,1115000,385,,,,3.75,0,2.9,0.0584,1.94,0
+107,Rhea Deshmukh,Male,2025-06-08,2025-12-31,Resigned,Information Technology,Data Analyst,IT,Bengaluru,LinkedIn,Master's,G2,695000,6,Better Career Opportunity,2.0,Yes,2.7,0,1.8,0.0461,0.56,1
+108,Maya Pawar,Male,2023-06-25,,Active,Information Technology,Software Engineer,IT,Gurugram,Recruitment Agency,Master's,G2,655000,591,,,,4.03,0,3.0,0.0498,2.52,0
+109,Sanjay Iyer,Female,2022-08-20,,Active,Information Technology,Software Engineer,IT,Mumbai,Recruitment Agency,Master's,G3,900000,49,,,,3.3,1,2.4,0.0407,3.36,0
+110,Diya Mishra,Female,2021-11-23,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Naukri,Diploma,G4,1175000,973,,,,3.8,0,3.1,0.0412,4.1,0
+111,Sneha Patel,Male,2021-03-08,2023-10-17,Terminated,Information Technology,IT Manager,IT,Delhi,Naukri,MBA/PGDM,G5,1445000,183,Better Career Opportunity,1.0,Yes,3.35,0,3.1,0.0437,2.61,1
+112,Riya Sawant,Male,2025-05-28,,Active,Sales,Sales Executive,Sales,Delhi,LinkedIn,Bachelor's,G2,700000,348,,,,3.1,0,3.2,0.0353,0.59,0
+113,Riya Reddy,Female,2022-04-21,,Active,Information Technology,Software Engineer,IT,Mumbai,Recruitment Agency,Diploma,G3,920000,524,,,,3.58,0,3.15,0.0484,3.7,0
+114,Ashish Gupta,Male,2025-10-22,,Active,Information Technology,IT Manager,IT,Pune,Employee Referral,Master's,G4,1330000,439,,,,3.5,0,2.6,0.0159,0.19,0
+115,Riya Bansal,Female,2025-07-28,,Active,Sales,Sales Manager,Sales,Gurugram,Naukri,Diploma,G4,1005000,754,,,,3.4,0,4.0,0.0451,0.43,0
+116,Ashish Malhotra,Female,2025-05-07,,Active,Information Technology,Data Analyst,IT,Mumbai,Company Website,Bachelor's,G3,870000,726,,,,2.2,0,,0.0447,0.65,0
+117,Diya Deshmukh,Male,2024-02-01,,Active,Sales,Sales Manager,Sales,Mumbai,Company Website,Diploma,G4,1225000,1057,,,,3.35,0,2.9,0.0484,1.91,0
+118,Tanvi Joshi,Male,2023-05-02,,Active,Information Technology,Data Analyst,IT,Pune,LinkedIn,MBA/PGDM,G3,930000,100,,,,3.57,0,2.6,0.0304,2.67,0
+119,Manish More,Male,2025-07-15,,Active,Operations,Operations Manager,Operations,Mumbai,Employee Referral,Diploma,G4,1080000,503,,,,2.5,0,3.0,0.062,0.46,0
+120,Rhea Sawant,Female,2025-06-24,2025-12-26,Resigned,Sales,Sales Executive,Sales,Mumbai,Naukri,Master's,G2,635000,200,Compensation,3.0,No,4.4,0,2.6,0.039,0.51,1
+121,Rohit Rao,Female,2023-10-28,2025-06-16,Terminated,Information Technology,IT Manager,IT,Pune,Campus Hiring,Diploma,G5,1675000,868,Better Career Opportunity,2.0,Yes,3.05,0,3.2,0.0527,1.63,1
+122,Aditya More,Male,2021-08-02,,Active,Human Resources,HR Executive,HR,Mumbai,LinkedIn,Bachelor's,G2,625000,1192,,,,3.4,2,3.4,0.054,4.41,0
+123,Nikhil Mishra,Male,2022-06-16,,Active,Customer Support,Customer Support Manager,Support,Chennai,Company Website,Master's,G4,1145000,909,,,,3.77,0,2.2,0.0462,3.54,0
+124,Anjali Singh,Male,2023-11-29,,Active,Information Technology,Data Analyst,IT,Mumbai,Naukri,MBA/PGDM,G4,1030000,1001,,,,3.67,0,3.2,0.05,2.09,0
+125,Arjun Iyer,Female,2023-11-25,,Active,Information Technology,Data Analyst,IT,Gurugram,Company Website,Bachelor's,G3,920000,128,,,,2.6,0,3.4,0.0421,2.1,0
+126,Neha Nair,Female,2023-06-01,,Active,Information Technology,IT Manager,IT,Bengaluru,LinkedIn,Master's,G4,1290000,549,,,,2.8,0,2.7,0.0506,2.58,0
+127,Ashish Mishra,Female,2024-07-08,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Naukri,Master's,G3,935000,755,,,,3.75,0,3.0,0.0314,1.48,0
+128,Meera Sharma,Female,2024-07-07,,Active,Information Technology,IT Manager,IT,Hyderabad,Employee Referral,Bachelor's,G4,1295000,970,,,,4.1,0,3.5,0.0518,1.48,0
+129,Vidya Rao,Female,2023-08-03,,Active,Customer Support,Customer Support Manager,Support,Chennai,LinkedIn,Master's,G3,970000,1111,,,,3.53,0,3.5,0.0466,2.41,0
+130,Abhishek Saxena,Female,2025-02-08,2025-04-14,Resigned,Customer Support,Customer Support Manager,Support,Hyderabad,LinkedIn,Diploma,G4,1285000,714,Personal Reasons,2.0,Yes,,0,,0.0606,0.18,1
+131,Ashish Verma,Male,2021-12-31,,Active,Customer Support,Customer Support Executive,Support,Mumbai,LinkedIn,Diploma,G1,390000,392,,,,3.7,1,3.0,0.045,4.0,0
+132,Varun Sharma,Male,2022-11-29,,Active,Operations,Operations Executive,Operations,Ahmedabad,LinkedIn,Bachelor's,G2,610000,742,,,,3.13,0,2.4,0.0382,3.09,0
+133,Ananya Chopra,Female,2022-09-26,2023-12-27,Terminated,Information Technology,IT Manager,IT,Hyderabad,Recruitment Agency,MBA/PGDM,G4,1275000,985,Compensation,3.0,No,3.8,0,2.5,0.0382,1.25,1
+134,Abhishek Chopra,Female,2024-01-11,,Active,Human Resources,HR Executive,HR,Bengaluru,Naukri,Diploma,G2,660000,662,,,,2.9,0,2.7,0.0432,1.97,0
+135,Meera Jadhav,Male,2022-06-12,,Active,Information Technology,Data Analyst,IT,Chennai,Company Website,Master's,G3,790000,723,,,,3.45,0,3.0,0.0381,3.55,0
+136,Ankita Mehta,Male,2024-02-10,2024-12-07,Resigned,Finance,Finance Manager,Finance,Mumbai,Recruitment Agency,Master's,G4,1060000,832,Better Career Opportunity,4.0,No,,0,3.2,0.0297,0.82,1
+137,Sakshi Chopra,Male,2024-09-23,,Active,Operations,Operations Executive,Operations,Pune,Employee Referral,Master's,G3,775000,80,,,,2.65,0,3.2,0.059,1.27,0
+138,Pallavi Verma,Male,2021-09-24,,Active,Information Technology,Software Engineer,IT,Ahmedabad,LinkedIn,Bachelor's,G4,1025000,535,,,,3.06,0,3.2,0.052,4.27,0
+139,Vivek Verma,Female,2023-10-27,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Campus Hiring,Diploma,G2,620000,575,,,,3.17,0,3.8,0.0415,2.18,0
+140,Rohan Reddy,Female,2024-07-08,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Recruitment Agency,Diploma,G1,410000,238,,,,3.45,0,3.2,0.0323,1.48,0
+141,Abhishek Reddy,Female,2021-03-05,,Active,Information Technology,IT Manager,IT,Pune,Company Website,Master's,G4,1360000,751,,,,3.54,0,2.8,0.0488,4.82,0
+142,Vidya Malhotra,Female,2025-09-21,,Active,Operations,Operations Manager,Operations,Pune,Company Website,Diploma,G5,1410000,151,,,,3.9,0,2.8,0.0345,0.28,0
+143,Karan Jadhav,Female,2023-06-22,,Active,Sales,Sales Manager,Sales,Bengaluru,Employee Referral,Bachelor's,G5,1595000,771,,,,2.93,0,2.8,0.0498,2.53,0
+144,Kavya Kapoor,Male,2025-11-03,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Company Website,Master's,G2,725000,399,,,,3.4,0,2.8,0.0444,0.16,0
+145,Trisha Verma,Male,2025-08-07,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Naukri,Bachelor's,G1,360000,127,,,,2.4,0,2.6,0.0561,0.4,0
+146,Kavya Shinde,Male,2021-06-13,,Active,Customer Support,Customer Support Manager,Support,Gurugram,LinkedIn,MBA/PGDM,G4,1025000,176,,,,3.24,0,2.95,0.033,4.55,0
+147,Meera Thakur,Male,2023-05-20,,Active,Customer Support,Customer Support Manager,Support,Pune,Naukri,MBA/PGDM,G3,790000,578,,,,2.6,0,3.3,0.0453,2.62,0
+148,Akash Iyer,Male,2025-02-17,2025-05-31,Resigned,Operations,Operations Manager,Operations,Pune,Naukri,Bachelor's,G4,1125000,164,Better Career Opportunity,1.0,No,,0,,0.046,0.28,1
+149,Priya Iyer,Male,2022-02-03,,Active,Customer Support,Customer Support Manager,Support,Pune,Company Website,Bachelor's,G4,1270000,494,,,,4.1,0,3.27,0.0438,3.91,0
+150,Tanvi Pillai,Male,2021-02-15,2025-09-05,Resigned,Information Technology,IT Manager,IT,Hyderabad,Company Website,Master's,G4,1160000,712,Role/Workload,2.0,Yes,3.82,0,3.2,0.054,4.55,1
+151,Pallavi Khan,Female,2021-01-24,,Active,Operations,Operations Manager,Operations,Mumbai,LinkedIn,MBA/PGDM,G5,1410000,244,,,,3.36,0,3.07,0.0522,4.93,0
+152,Pooja Sharma,Female,2025-02-27,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Employee Referral,Master's,G2,575000,414,,,,5.0,0,2.8,0.0591,0.84,0
+153,Shreya Nair,Male,2023-01-28,,Active,Finance,Finance Manager,Finance,Bengaluru,LinkedIn,Diploma,G5,1735000,613,,,,3.57,0,3.2,0.0497,2.92,0
+154,Rohan Nair,Female,2024-10-07,2025-01-25,Resigned,Finance,Finance Manager,Finance,Mumbai,Naukri,Master's,G5,1525000,831,Performance Termination,4.0,No,4.2,0,3.8,0.0476,0.3,1
+155,Anjali Saxena,Female,2025-08-13,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Campus Hiring,MBA/PGDM,G3,755000,99,,,,4.1,0,2.2,0.0741,0.38,0
+156,Arjun Sharma,Male,2023-05-19,2025-10-26,Resigned,Information Technology,IT Manager,IT,Delhi,Employee Referral,MBA/PGDM,G4,1200000,41,Retirement,5.0,Yes,3.8,0,3.8,0.0408,2.44,1
+157,Sneha Shinde,Female,2021-03-29,,Active,Operations,Operations Manager,Operations,Pune,Naukri,Master's,G4,1235000,1150,,,,3.54,0,2.3,0.044,4.76,0
+158,Aditi Jadhav,Female,2022-12-16,,Active,Sales,Sales Executive,Sales,Chennai,Employee Referral,MBA/PGDM,G1,490000,1011,,,,2.87,2,,0.0418,3.04,0
+159,Sakshi Pillai,Female,2022-01-31,,Active,Finance,Finance Manager,Finance,Hyderabad,Campus Hiring,MBA/PGDM,G5,1710000,799,,,,3.95,0,3.05,0.0309,3.92,0
+160,Kavya Jain,Female,2024-07-28,,Active,Information Technology,Data Analyst,IT,Hyderabad,Campus Hiring,Bachelor's,G3,915000,97,,,,3.15,0,2.0,0.0435,1.43,0
+161,Aditya Saxena,Male,2025-09-15,,Active,Sales,Sales Executive,Sales,Ahmedabad,Naukri,MBA/PGDM,G2,595000,1193,,,,2.9,0,3.4,0.0581,0.29,0
+162,Shreya Sawant,Male,2021-03-03,,Active,Information Technology,Data Analyst,IT,Pune,Recruitment Agency,MBA/PGDM,G4,1060000,14,,,,3.84,0,3.25,0.0475,4.83,0
+163,Ashish More,Female,2025-11-23,,Active,Operations,Operations Manager,Operations,Gurugram,Naukri,Diploma,G4,1390000,482,,,,3.0,0,2.0,0.0455,0.1,0
+164,Vaishnavi Deshmukh,Male,2021-01-10,,Active,Operations,Operations Manager,Operations,Gurugram,Employee Referral,Bachelor's,G4,1250000,350,,,,3.52,0,2.6,0.0506,4.97,0
+165,Zoya Mishra,Female,2021-10-05,,Active,Sales,Sales Manager,Sales,Ahmedabad,Recruitment Agency,Diploma,G4,1220000,143,,,,3.68,0,2.87,0.0428,4.24,0
+166,Rhea Khan,Male,2023-12-20,,Active,Information Technology,Software Engineer,IT,Mumbai,LinkedIn,Bachelor's,G4,1030000,886,,,,3.7,1,3.2,0.0491,2.03,0
+167,Sameer Saxena,Female,2022-10-17,,Active,Information Technology,Data Analyst,IT,Pune,Company Website,Bachelor's,G3,955000,549,,,,3.63,1,2.4,0.0331,3.21,0
+168,Vidya Shinde,Male,2025-10-22,,Active,Operations,Operations Executive,Operations,Mumbai,Employee Referral,Bachelor's,G2,565000,517,,,,3.5,0,,0.0588,0.19,0
+169,Vaishnavi Patel,Male,2021-07-22,2022-11-27,Resigned,Information Technology,Software Engineer,IT,Bengaluru,LinkedIn,Bachelor's,G3,755000,985,Better Career Opportunity,4.0,No,3.5,1,3.8,0.0408,1.35,1
+170,Mohit Gupta,Male,2023-03-01,,Active,Human Resources,HR Manager,HR,Ahmedabad,Employee Referral,Bachelor's,G4,1335000,776,,,,3.47,0,2.6,0.041,2.84,0
+171,Sanjay Joshi,Male,2025-01-10,,Active,Human Resources,HR Executive,HR,Gurugram,Recruitment Agency,MBA/PGDM,G2,600000,170,,,,4.2,0,3.0,0.0191,0.97,0
+172,Pallavi Patel,Female,2021-12-15,2022-09-11,Resigned,Customer Support,Customer Support Manager,Support,Delhi,Employee Referral,Master's,G4,1245000,405,Better Career Opportunity,3.0,Yes,4.0,0,3.0,0.05,0.74,1
+173,Dhruv Pillai,Male,2022-07-05,,Active,Finance,Financial Analyst,Finance,Delhi,Naukri,Master's,G3,870000,724,,,,3.77,0,2.4,0.0476,3.49,0
+174,Rhea Kulkarni,Female,2023-01-22,2025-01-19,Resigned,Operations,Operations Executive,Operations,Delhi,Recruitment Agency,Master's,G2,660000,1120,Better Career Opportunity,4.0,No,4.1,0,3.1,0.0486,1.99,1
+175,Sneha Nair,Male,2023-08-16,,Active,Customer Support,Customer Support Executive,Support,Pune,Recruitment Agency,Master's,G2,540000,405,,,,3.4,0,3.4,0.0371,2.38,0
+176,Sameer Chopra,Male,2021-03-11,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Recruitment Agency,Master's,G4,1270000,706,,,,3.28,0,2.53,0.0534,4.81,0
+177,Vidya Saxena,Male,2022-04-16,,Active,Human Resources,HR Executive,HR,Mumbai,LinkedIn,MBA/PGDM,G2,650000,233,,,,3.32,0,3.53,0.0474,3.71,0
+178,Pallavi Mehta,Male,2025-06-11,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Diploma,G4,1185000,904,,,,3.3,0,3.0,0.039,0.56,0
+179,Sanjay Pillai,Female,2023-03-08,,Active,Sales,Sales Manager,Sales,Ahmedabad,Naukri,Diploma,G4,1365000,754,,,,2.63,0,2.8,0.0454,2.82,0
+180,Sakshi Verma,Female,2021-10-17,2024-02-18,Resigned,Finance,Finance Manager,Finance,Mumbai,Campus Hiring,Master's,G4,1295000,673,Relocation,5.0,Yes,3.2,0,2.6,0.0418,2.34,1
+181,Maya Nair,Male,2025-04-08,,Active,Sales,Sales Manager,Sales,Bengaluru,Company Website,Bachelor's,G5,1575000,720,,,,3.2,0,,0.0421,0.73,0
+182,Varun Sharma,Male,2021-02-27,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,LinkedIn,Diploma,G3,825000,568,,,,3.6,0,2.92,0.043,4.84,0
+183,Diya Sawant,Male,2022-04-13,,Active,Information Technology,IT Manager,IT,Pune,Company Website,Master's,G5,1625000,141,,,,2.75,0,2.87,0.0452,3.72,0
+184,Amit Bansal,Female,2022-02-11,,Active,Operations,Operations Executive,Operations,Delhi,LinkedIn,Bachelor's,G2,515000,1100,,,,3.27,0,3.2,0.043,3.89,0
+185,Sakshi Malhotra,Male,2024-12-01,,Active,Information Technology,Software Engineer,IT,Chennai,Employee Referral,Bachelor's,G2,695000,455,,,,3.35,0,1.2,0.0463,1.08,0
+186,Sneha Bansal,Male,2021-07-07,2025-10-17,Resigned,Sales,Sales Executive,Sales,Bengaluru,Recruitment Agency,Bachelor's,G3,785000,51,Compensation,2.0,Yes,3.47,0,,0.0589,4.28,1
+187,Manish Pillai,Female,2023-12-10,,Active,Operations,Operations Manager,Operations,Chennai,Recruitment Agency,MBA/PGDM,G4,1335000,1150,,,,2.67,0,2.73,0.0405,2.06,0
+188,Rhea Chopra,Male,2021-03-07,2025-11-27,Resigned,Procurement,Procurement Analyst,Procurement,Chennai,Naukri,MBA/PGDM,G3,895000,561,Relocation,1.0,Yes,3.65,1,3.0,0.0505,4.73,1
+189,Ashish Deshmukh,Female,2023-04-30,,Active,Human Resources,HR Manager,HR,Mumbai,Naukri,MBA/PGDM,G3,925000,776,,,,3.5,0,4.2,0.0404,2.67,0
+190,Sonali Singh,Male,2021-11-09,,Active,Information Technology,IT Manager,IT,Mumbai,Recruitment Agency,Master's,G4,1100000,347,,,,2.98,0,2.6,0.0486,4.14,0
+191,Aditi Deshmukh,Male,2021-06-09,2023-11-25,Resigned,Customer Support,Customer Support Executive,Support,Hyderabad,Campus Hiring,Bachelor's,G2,525000,513,Better Career Opportunity,5.0,Yes,2.35,0,2.6,0.0536,2.46,1
+192,Sakshi Thakur,Female,2025-07-31,2025-11-18,Resigned,Operations,Operations Executive,Operations,Mumbai,Naukri,Master's,G2,510000,497,Performance Termination,3.0,No,,0,,0.0275,0.3,1
+193,Dev Jadhav,Male,2022-03-26,2024-07-17,Resigned,Sales,Sales Executive,Sales,Pune,Naukri,Master's,G1,465000,1155,Better Career Opportunity,1.0,No,3.85,0,3.6,0.0399,2.31,1
+194,Vivek Iyer,Male,2022-11-08,,Active,Operations,Operations Manager,Operations,Delhi,LinkedIn,Bachelor's,G4,1175000,946,,,,3.3,0,3.45,0.0483,3.15,0
+195,Kavya Singh,Female,2025-11-01,2025-12-31,Resigned,Customer Support,Customer Support Executive,Support,Ahmedabad,Recruitment Agency,MBA/PGDM,G1,415000,50,Better Career Opportunity,4.0,Yes,2.9,0,2.2,0.0476,0.16,1
+196,Rohit Sawant,Male,2021-02-12,,Active,Finance,Financial Analyst,Finance,Ahmedabad,Company Website,Diploma,G3,865000,734,,,,3.32,1,3.07,0.0441,4.88,0
+197,Neha Jain,Female,2022-06-12,,Active,Information Technology,Data Analyst,IT,Mumbai,Recruitment Agency,Diploma,G2,705000,455,,,,3.85,0,2.4,0.0545,3.55,0
+198,Anjali Singh,Male,2022-01-30,,Active,Operations,Operations Manager,Operations,Pune,Naukri,MBA/PGDM,G5,1580000,88,,,,3.4,0,2.7,0.0391,3.92,0
+199,Rohit Pillai,Male,2024-02-04,,Active,Marketing,Marketing Analyst,Marketing,Gurugram,LinkedIn,Diploma,G3,765000,493,,,,4.55,0,2.8,0.0507,1.91,0
+200,Meera Shinde,Male,2021-05-23,,Active,Sales,Sales Manager,Sales,Mumbai,Company Website,Master's,G4,1075000,972,,,,3.76,0,2.4,0.0484,4.61,0
+201,Sameer Rao,Male,2023-12-14,2024-03-14,Resigned,Procurement,Procurement Analyst,Procurement,Bengaluru,Employee Referral,Master's,G2,700000,547,Compensation,1.0,Yes,3.7,0,2.6,0.046,0.25,1
+202,Riya Chopra,Male,2025-11-04,,Active,Information Technology,Software Engineer,IT,Mumbai,Employee Referral,MBA/PGDM,G4,1285000,439,,,,2.2,0,4.2,0.0476,0.16,0
+203,Meera Shinde,Female,2023-11-09,2024-12-22,Resigned,Marketing,Marketing Analyst,Marketing,Mumbai,LinkedIn,Bachelor's,G2,610000,879,Better Career Opportunity,4.0,No,3.45,0,4.2,0.0401,1.12,1
+204,Meera Deshmukh,Female,2022-11-04,,Active,Sales,Sales Manager,Sales,Delhi,Company Website,MBA/PGDM,G4,1320000,338,,,,3.17,0,2.73,0.0379,3.16,0
+205,Ashish Nair,Female,2021-04-16,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,LinkedIn,Diploma,G2,575000,215,,,,3.32,0,2.8,0.0456,4.71,0
+206,Aditya Deshmukh,Male,2024-11-09,,Active,Customer Support,Customer Support Executive,Support,Delhi,Company Website,Bachelor's,G2,610000,37,,,,3.3,0,3.4,0.0736,1.14,0
+207,Karan Menon,Female,2024-07-09,,Active,Information Technology,IT Manager,IT,Hyderabad,Company Website,Bachelor's,G5,1820000,591,,,,3.35,0,,0.0514,1.48,0
+208,Karan More,Female,2022-02-28,,Active,Information Technology,IT Manager,IT,Bengaluru,Naukri,MBA/PGDM,G4,1160000,710,,,,3.63,0,2.8,0.0437,3.84,0
+209,Tanvi Pawar,Male,2024-09-04,,Active,Customer Support,Customer Support Manager,Support,Mumbai,LinkedIn,Bachelor's,G3,870000,333,,,,3.15,0,3.4,0.0466,1.32,0
+210,Varun Patel,Male,2021-09-09,,Active,Information Technology,Data Analyst,IT,Chennai,LinkedIn,Master's,G3,990000,466,,,,3.48,0,2.8,0.0506,4.31,0
+211,Maya Menon,Male,2023-04-29,2025-02-27,Resigned,Information Technology,Data Analyst,IT,Pune,LinkedIn,Bachelor's,G3,875000,483,Better Career Opportunity,3.0,Yes,2.9,1,3.4,0.0407,1.83,1
+212,Amit Mehta,Male,2025-06-28,,Active,Sales,Sales Executive,Sales,Mumbai,Recruitment Agency,Diploma,G1,470000,576,,,,4.5,0,2.8,0.0458,0.51,0
+213,Tanvi Patel,Female,2024-01-20,2025-12-29,Resigned,Customer Support,Customer Support Executive,Support,Hyderabad,Campus Hiring,Diploma,G2,590000,1009,Better Career Opportunity,3.0,Yes,2.6,1,3.5,0.0305,1.94,1
+214,Pallavi Kulkarni,Male,2021-06-11,,Active,Sales,Sales Manager,Sales,Mumbai,Employee Referral,Bachelor's,G4,1065000,28,,,,3.42,0,3.0,0.0472,4.56,0
+215,Sameer Sawant,Male,2025-07-20,2025-10-26,Resigned,Customer Support,Customer Support Manager,Support,Hyderabad,Naukri,Master's,G4,1105000,286,Personal Reasons,2.0,Yes,,0,,0.0706,0.27,1
+216,Dev Singh,Female,2022-02-28,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,Master's,G1,455000,558,,,,3.2,0,3.87,0.0486,3.84,0
+217,Aditi Iyer,Male,2023-11-02,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Campus Hiring,Bachelor's,G4,1080000,690,,,,3.37,0,2.87,0.0537,2.16,0
+218,Mohit Bansal,Male,2023-01-23,,Active,Operations,Operations Executive,Operations,Mumbai,Naukri,Diploma,G1,475000,260,,,,3.87,1,2.93,0.052,2.94,0
+219,Kavya Sharma,Male,2024-02-15,,Active,Sales,Sales Executive,Sales,Bengaluru,LinkedIn,Diploma,G2,620000,880,,,,3.9,0,3.0,0.0422,1.88,0
+220,Rhea Malhotra,Female,2022-12-09,,Active,Procurement,Procurement Manager,Procurement,Mumbai,Recruitment Agency,Diploma,G4,1030000,741,,,,3.22,0,3.13,0.0387,3.06,0
+221,Dhruv Joshi,Male,2024-09-02,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Employee Referral,Bachelor's,G2,505000,999,,,,3.4,0,2.8,0.0471,1.33,0
+222,Sameer Mishra,Male,2025-06-10,,Active,Human Resources,HR Manager,HR,Bengaluru,Company Website,Diploma,G4,1195000,662,,,,3.5,0,3.8,0.0405,0.56,0
+223,Sameer Shinde,Female,2023-02-15,2025-02-26,Resigned,Human Resources,HR Executive,HR,Hyderabad,Naukri,Bachelor's,G2,570000,837,Better Career Opportunity,4.0,Yes,3.7,0,2.2,0.0554,2.03,1
+224,Vaishnavi Rao,Male,2023-06-23,,Active,Information Technology,Data Analyst,IT,Gurugram,LinkedIn,Bachelor's,G3,860000,718,,,,3.63,1,3.5,0.0495,2.52,0
+225,Sonali Chopra,Male,2022-11-11,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,LinkedIn,Diploma,G4,1040000,281,,,,3.73,0,2.95,0.0491,3.14,0
+226,Sanjay Jadhav,Male,2022-05-06,,Active,Information Technology,Data Analyst,IT,Mumbai,Employee Referral,Bachelor's,G2,710000,737,,,,3.63,1,3.4,0.0444,3.66,0
+227,Ashish Thakur,Female,2023-07-14,,Active,Sales,Sales Manager,Sales,Bengaluru,Employee Referral,Diploma,G5,1435000,1062,,,,3.4,0,3.4,0.033,2.47,0
+228,Tanvi Thakur,Female,2025-03-22,,Active,Information Technology,Data Analyst,IT,Pune,Naukri,Bachelor's,G2,705000,1176,,,,2.6,0,2.4,0.0236,0.78,0
+229,Meera Sawant,Female,2025-04-05,2025-06-15,Resigned,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Bachelor's,G3,760000,442,Personal Reasons,3.0,No,,0,,0.0161,0.19,1
+230,Aarav Patel,Female,2024-12-21,,Active,Procurement,Procurement Manager,Procurement,Bengaluru,Naukri,MBA/PGDM,G5,1505000,500,,,,2.8,0,3.2,0.0466,1.03,0
+231,Mohit Bansal,Female,2023-01-06,,Active,Customer Support,Customer Support Manager,Support,Pune,Recruitment Agency,Bachelor's,G3,820000,717,,,,4.47,0,4.0,0.0458,2.98,0
+232,Sakshi Sharma,Male,2025-11-02,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Campus Hiring,Master's,G2,745000,315,,,,3.7,0,2.4,0.0952,0.16,0
+233,Rhea Malhotra,Male,2021-12-24,,Active,Human Resources,HR Manager,HR,Pune,Employee Referral,Master's,G4,1090000,170,,,,3.08,0,3.2,0.0522,4.02,0
+234,Aarav Gupta,Female,2021-04-01,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,LinkedIn,Master's,G4,1230000,534,,,,3.02,0,2.75,0.0556,4.75,0
+235,Manish Patel,Male,2022-11-17,,Active,Sales,Sales Executive,Sales,Mumbai,Recruitment Agency,Diploma,G2,655000,901,,,,2.6,1,2.93,0.0462,3.12,0
+236,Ankita Jain,Male,2025-11-06,,Active,Information Technology,Data Analyst,IT,Bengaluru,Employee Referral,Diploma,G2,605000,96,,,,3.1,0,,0.0488,0.15,0
+237,Amit Jadhav,Male,2021-11-30,,Active,Procurement,Procurement Analyst,Procurement,Hyderabad,Company Website,Master's,G2,600000,478,,,,3.36,0,2.4,0.0442,4.08,0
+238,Rohit Kapoor,Female,2022-01-25,2025-03-12,Terminated,Customer Support,Customer Support Manager,Support,Mumbai,Campus Hiring,Master's,G4,1060000,717,Role/Workload,2.0,Yes,3.83,0,3.0,0.0444,3.13,1
+239,Rohit Chopra,Male,2023-11-03,,Active,Sales,Sales Executive,Sales,Bengaluru,LinkedIn,MBA/PGDM,G2,680000,720,,,,3.37,0,3.6,0.0552,2.16,0
+240,Vivek Kulkarni,Female,2025-07-13,,Active,Procurement,Procurement Manager,Procurement,Pune,Campus Hiring,Master's,G4,1265000,830,,,,3.8,0,3.0,0.0469,0.47,0
+241,Anjali Sharma,Female,2024-02-27,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Company Website,MBA/PGDM,G1,430000,123,,,,3.15,0,,0.0368,1.84,0
+242,Ankita Pawar,Female,2022-03-09,,Active,Customer Support,Customer Support Manager,Support,Chennai,Employee Referral,MBA/PGDM,G4,1155000,1053,,,,3.02,0,3.7,0.052,3.81,0
+243,Pallavi Singh,Male,2025-10-07,,Active,Sales,Sales Manager,Sales,Mumbai,Employee Referral,Master's,G4,1210000,1187,,,,4.3,0,3.0,0.0323,0.23,0
+244,Varun Menon,Female,2025-06-18,,Active,Operations,Operations Manager,Operations,Delhi,Campus Hiring,Diploma,G3,960000,1073,,,,4.2,0,2.6,0.0559,0.54,0
+245,Maya More,Male,2022-09-24,,Active,Finance,Financial Analyst,Finance,Mumbai,Campus Hiring,Bachelor's,G2,720000,1007,,,,3.7,0,3.1,0.0441,3.27,0
+246,Tanvi Patel,Male,2022-03-12,,Active,Marketing,Marketing Manager,Marketing,Pune,Employee Referral,Diploma,G5,1615000,632,,,,3.27,0,2.67,0.0512,3.81,0
+247,Mohit Pillai,Female,2025-05-07,2025-11-02,Resigned,Operations,Operations Manager,Operations,Hyderabad,Company Website,Bachelor's,G4,1040000,350,Personal Reasons,1.0,Yes,,0,,0.0461,0.49,1
+248,Sneha Deshmukh,Female,2022-04-02,,Active,Marketing,Marketing Analyst,Marketing,Pune,Recruitment Agency,Bachelor's,G2,740000,470,,,,3.4,0,3.0,0.0415,3.75,0
+249,Zoya Chopra,Male,2023-11-03,,Active,Human Resources,HR Manager,HR,Pune,Naukri,MBA/PGDM,G3,860000,801,,,,3.8,0,2.9,0.0511,2.16,0
+250,Manish Deshmukh,Male,2024-03-17,,Active,Sales,Sales Executive,Sales,Hyderabad,Naukri,MBA/PGDM,G2,585000,972,,,,3.3,0,3.2,0.0417,1.79,0
+251,Nisha Nair,Male,2025-08-09,,Active,Information Technology,IT Manager,IT,Mumbai,Employee Referral,Master's,G5,1505000,126,,,,2.9,0,,0.0561,0.39,0
+252,Aarav Khan,Female,2025-04-09,,Active,Human Resources,HR Manager,HR,Mumbai,Campus Hiring,Bachelor's,G4,1170000,1051,,,,4.0,0,,0.0361,0.73,0
+253,Sakshi Khan,Male,2025-01-12,2025-05-25,Resigned,Operations,Operations Manager,Operations,Pune,LinkedIn,Master's,G4,1065000,1102,Better Career Opportunity,3.0,Yes,,0,,0.049,0.36,1
+254,Nikhil Saxena,Male,2023-10-22,,Active,Operations,Operations Executive,Operations,Delhi,Company Website,Bachelor's,G3,850000,503,,,,3.03,0,2.7,0.0347,2.19,0
+255,Ashish Joshi,Male,2021-05-24,2023-08-08,Resigned,Procurement,Procurement Analyst,Procurement,Hyderabad,Campus Hiring,Master's,G2,685000,543,Better Career Opportunity,3.0,Yes,2.9,0,,0.0483,2.21,1
+256,Zoya Jadhav,Female,2021-10-20,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,Diploma,G3,775000,130,,,,2.82,0,2.96,0.0444,4.2,0
+257,Priya Kulkarni,Male,2025-02-20,,Active,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,MBA/PGDM,G2,590000,336,,,,3.2,0,4.0,0.0601,0.86,0
+258,Kavya Khan,Male,2024-01-13,,Active,Operations,Operations Executive,Operations,Pune,Recruitment Agency,Diploma,G2,675000,157,,,,3.8,0,3.6,0.0426,1.97,0
+259,Riya Nair,Female,2023-05-05,2024-01-22,Resigned,Marketing,Marketing Analyst,Marketing,Mumbai,Recruitment Agency,Master's,G2,525000,826,Retirement,4.0,Yes,3.9,0,3.2,0.057,0.72,1
+260,Priya Sharma,Female,2023-12-04,,Active,Operations,Operations Manager,Operations,Mumbai,Recruitment Agency,Master's,G4,1010000,752,,,,3.9,0,2.8,0.0414,2.08,0
+261,Meera Menon,Male,2022-11-20,2025-06-12,Resigned,Information Technology,Software Engineer,IT,Ahmedabad,Company Website,Master's,G4,1155000,868,Retirement,5.0,Yes,3.83,2,2.7,0.0554,2.56,1
+262,Nisha Jain,Male,2021-12-02,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,Naukri,Diploma,G2,715000,386,,,,2.88,1,2.96,0.0487,4.08,0
+263,Rhea Menon,Female,2022-12-27,,Active,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,MBA/PGDM,G2,685000,864,,,,3.47,0,2.6,0.052,3.01,0
+264,Abhishek Nair,Female,2022-08-07,,Active,Operations,Operations Manager,Operations,Delhi,LinkedIn,Diploma,G4,1215000,151,,,,3.98,0,2.85,0.0393,3.4,0
+265,Rahul Thakur,Female,2023-07-19,,Active,Information Technology,Software Engineer,IT,Hyderabad,Campus Hiring,Diploma,G4,1140000,591,,,,2.57,0,3.4,0.0445,2.45,0
+266,Rahul Naik,Female,2023-05-20,,Active,Operations,Operations Manager,Operations,Pune,Naukri,Master's,G5,1485000,582,,,,3.2,0,2.67,0.0409,2.62,0
+267,Mohit Pillai,Female,2023-10-02,,Active,Sales,Sales Manager,Sales,Mumbai,Recruitment Agency,Bachelor's,G4,1025000,1077,,,,3.37,0,3.1,0.0504,2.25,0
+268,Harsh Kapoor,Female,2024-01-02,,Active,Information Technology,Data Analyst,IT,Mumbai,Naukri,Bachelor's,G2,665000,71,,,,4.2,0,3.8,0.0517,2.0,0
+269,Aarav Jain,Female,2021-04-29,,Active,Operations,Operations Executive,Operations,Gurugram,Recruitment Agency,Bachelor's,G3,765000,1087,,,,2.88,0,2.6,0.0539,4.67,0
+270,Riya Sawant,Female,2022-01-15,,Active,Human Resources,HR Executive,HR,Mumbai,Company Website,MBA/PGDM,G1,490000,189,,,,3.72,2,2.8,0.0503,3.96,0
+271,Neha Malhotra,Male,2023-08-31,,Active,Operations,Operations Executive,Operations,Pune,Naukri,Bachelor's,G1,460000,163,,,,3.6,0,2.4,0.0482,2.34,0
+272,Aditi Malhotra,Female,2023-09-24,,Active,Information Technology,Data Analyst,IT,Bengaluru,Employee Referral,Bachelor's,G2,615000,1018,,,,3.33,0,2.53,0.0532,2.27,0
+273,Kavya Malhotra,Female,2025-07-30,,Active,Operations,Operations Manager,Operations,Gurugram,Company Website,MBA/PGDM,G4,1060000,654,,,,2.9,0,3.2,0.0469,0.42,0
+274,Aditya Bansal,Female,2025-08-29,,Active,Sales,Sales Executive,Sales,Bengaluru,Employee Referral,Diploma,G1,465000,436,,,,3.0,0,,0.0545,0.34,0
+275,Pallavi Sawant,Male,2025-02-25,,Active,Customer Support,Customer Support Manager,Support,Gurugram,LinkedIn,Bachelor's,G4,1195000,787,,,,4.4,0,,0.0422,0.85,0
+276,Sonali Bansal,Female,2022-05-22,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Recruitment Agency,Diploma,G2,570000,738,,,,3.07,0,3.0,0.0448,3.61,0
+277,Sneha Thakur,Female,2025-08-07,,Active,Operations,Operations Manager,Operations,Bengaluru,Company Website,MBA/PGDM,G4,1145000,1087,,,,3.4,0,3.0,0.0291,0.4,0
+278,Dhruv Gupta,Male,2023-12-13,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Naukri,Bachelor's,G3,860000,816,,,,3.0,0,3.0,0.0426,2.05,0
+279,Kavya Sharma,Male,2023-12-15,,Active,Finance,Financial Analyst,Finance,Ahmedabad,Company Website,MBA/PGDM,G3,845000,697,,,,3.73,0,2.9,0.0429,2.05,0
+280,Sneha Chopra,Male,2025-02-27,,Active,Customer Support,Customer Support Executive,Support,Delhi,Company Website,MBA/PGDM,G2,640000,738,,,,3.0,0,3.0,0.0293,0.84,0
+281,Aditi Joshi,Male,2022-05-09,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Recruitment Agency,MBA/PGDM,G3,865000,42,,,,3.02,0,2.87,0.0422,3.65,0
+282,Riya More,Male,2023-03-08,,Active,Procurement,Procurement Analyst,Procurement,Gurugram,Recruitment Agency,Diploma,G3,755000,230,,,,3.57,1,2.9,0.0401,2.82,0
+283,Kavya Patel,Female,2024-06-19,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Employee Referral,Master's,G3,785000,493,,,,2.8,0,2.7,0.0395,1.53,0
+284,Mohit Kulkarni,Female,2022-12-15,,Active,Information Technology,IT Manager,IT,Chennai,Recruitment Agency,Bachelor's,G4,1165000,540,,,,3.8,0,3.07,0.035,3.04,0
+285,Sanjay Chopra,Female,2022-08-06,,Active,Information Technology,Software Engineer,IT,Mumbai,Campus Hiring,Master's,G3,920000,1179,,,,3.38,0,3.2,0.0525,3.4,0
+286,Priya Rao,Male,2022-11-29,,Active,Customer Support,Customer Support Manager,Support,Pune,Recruitment Agency,Bachelor's,G4,1165000,33,,,,3.73,0,2.3,0.0435,3.09,0
+287,Abhishek Joshi,Female,2021-11-05,2022-01-26,Resigned,Operations,Operations Executive,Operations,Delhi,Recruitment Agency,Bachelor's,G3,785000,1073,Compensation,4.0,No,2.7,0,,0.0,0.22,1
+288,Akash Patel,Female,2022-09-05,2025-03-28,Resigned,Information Technology,Data Analyst,IT,Mumbai,Employee Referral,Diploma,G3,905000,97,Compensation,1.0,Yes,3.3,0,3.1,0.0446,2.56,1
+289,Pallavi Deshmukh,Female,2023-09-08,2024-04-17,Resigned,Sales,Sales Executive,Sales,Mumbai,Naukri,Bachelor's,G2,525000,864,Better Career Opportunity,2.0,Yes,2.7,0,,0.0353,0.61,1
+290,Aarav Thakur,Female,2023-04-21,,Active,Information Technology,Software Engineer,IT,Pune,Naukri,Bachelor's,G3,805000,847,,,,3.27,1,2.6,0.0439,2.7,0
+291,Trisha Kulkarni,Male,2024-12-31,,Active,Information Technology,Data Analyst,IT,Pune,Company Website,Bachelor's,G2,605000,111,,,,4.3,0,2.8,0.0466,1.0,0
+292,Vidya Kapoor,Male,2025-08-05,2025-10-04,Resigned,Finance,Finance Manager,Finance,Hyderabad,Employee Referral,MBA/PGDM,G5,1740000,877,Personal Reasons,5.0,Yes,,0,,0.0882,0.16,1
+293,Manish Nair,Male,2021-08-10,,Active,Information Technology,Software Engineer,IT,Pune,Campus Hiring,Bachelor's,G4,1155000,847,,,,3.68,0,3.53,0.0469,4.39,0
+294,Abhishek Saxena,Female,2021-08-31,,Active,Sales,Sales Manager,Sales,Pune,Naukri,Diploma,G4,1095000,307,,,,3.28,0,3.07,0.0554,4.33,0
+295,Nisha Shinde,Male,2021-04-17,2023-04-01,Resigned,Information Technology,Data Analyst,IT,Hyderabad,Campus Hiring,Master's,G3,835000,14,Retirement,2.0,No,3.5,0,3.1,0.0466,1.95,1
+296,Priya Pillai,Male,2021-09-30,,Active,Marketing,Marketing Manager,Marketing,Pune,Naukri,Diploma,G4,1275000,1068,,,,3.66,0,2.4,0.0448,4.25,0
+297,Priya Shinde,Male,2021-08-21,2022-10-22,Resigned,Sales,Sales Executive,Sales,Mumbai,Naukri,Master's,G1,415000,1011,Compensation,4.0,No,3.5,0,2.4,0.0361,1.17,1
+298,Isha Mishra,Female,2021-04-02,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Campus Hiring,MBA/PGDM,G5,1695000,73,,,,2.56,0,3.15,0.0446,4.75,0
+299,Riya Patel,Female,2021-11-14,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Master's,G4,1165000,165,,,,2.8,0,3.0,0.0482,4.13,0
+300,Vaishnavi Iyer,Male,2023-06-10,,Active,Sales,Sales Executive,Sales,Pune,Campus Hiring,Diploma,G3,760000,1017,,,,3.93,0,3.67,0.0522,2.56,0
+301,Manish Joshi,Female,2021-12-13,,Active,Sales,Sales Executive,Sales,Mumbai,Employee Referral,MBA/PGDM,G3,785000,750,,,,3.14,0,2.0,0.0485,4.05,0
+302,Zoya Iyer,Male,2025-04-28,,Active,Information Technology,IT Manager,IT,Ahmedabad,Campus Hiring,Bachelor's,G5,1675000,751,,,,4.1,0,2.8,0.0361,0.68,0
+303,Dev Malhotra,Female,2023-05-26,,Active,Marketing,Marketing Analyst,Marketing,Delhi,Campus Hiring,Bachelor's,G3,820000,763,,,,3.33,0,2.6,0.056,2.6,0
+304,Aditya Saxena,Female,2023-10-18,,Active,Marketing,Marketing Manager,Marketing,Delhi,Naukri,Master's,G4,1015000,879,,,,3.7,0,2.9,0.0569,2.2,0
+305,Zoya Sawant,Female,2025-05-10,2025-08-28,Resigned,Sales,Sales Executive,Sales,Pune,Employee Referral,Master's,G2,740000,1058,Better Career Opportunity,4.0,Yes,,0,,0.0588,0.3,1
+306,Nikhil Pillai,Female,2021-03-15,,Active,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Diploma,G2,615000,687,,,,3.04,1,2.9,0.055,4.8,0
+307,Dev Verma,Female,2023-12-24,,Active,Sales,Sales Manager,Sales,Bengaluru,Employee Referral,Master's,G3,960000,370,,,,3.45,0,3.0,0.0464,2.02,0
+308,Aditya Mehta,Male,2025-05-09,,Active,Marketing,Marketing Manager,Marketing,Pune,Recruitment Agency,Master's,G4,1390000,399,,,,3.6,0,,0.0291,0.65,0
+309,Tanvi Saxena,Male,2022-05-31,2024-05-21,Resigned,Operations,Operations Executive,Operations,Chennai,Employee Referral,Bachelor's,G2,650000,331,Compensation,5.0,No,2.6,1,3.0,0.0538,1.97,1
+310,Mohit Patel,Female,2025-04-18,,Active,Operations,Operations Executive,Operations,Mumbai,Employee Referral,Bachelor's,G2,710000,1102,,,,3.9,0,,0.0615,0.7,0
+311,Mohit Nair,Female,2023-07-27,,Active,Information Technology,Data Analyst,IT,Pune,LinkedIn,Master's,G2,695000,439,,,,2.73,0,2.7,0.0662,2.43,0
+312,Tanya Pawar,Female,2023-08-24,,Active,Finance,Finance Manager,Finance,Pune,Naukri,Bachelor's,G4,1205000,1134,,,,3.37,0,2.9,0.0519,2.35,0
+313,Amit Sawant,Female,2021-11-03,,Active,Information Technology,IT Manager,IT,Ahmedabad,Campus Hiring,Diploma,G5,1640000,1027,,,,3.52,0,3.0,0.0439,4.16,0
+314,Pooja More,Female,2023-04-16,,Active,Information Technology,Data Analyst,IT,Pune,Employee Referral,Master's,G2,750000,111,,,,4.3,1,3.2,0.061,2.71,0
+315,Harsh Thakur,Male,2021-08-25,,Active,Marketing,Marketing Manager,Marketing,Chennai,LinkedIn,Diploma,G5,1680000,1151,,,,3.46,0,2.85,0.0445,4.35,0
+316,Maya Kulkarni,Male,2023-02-23,2025-11-14,Resigned,Information Technology,Software Engineer,IT,Delhi,Campus Hiring,Bachelor's,G4,1020000,424,Role/Workload,5.0,No,3.9,0,2.7,0.0342,2.72,1
+317,Kavya Nair,Female,2023-08-04,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Company Website,Diploma,G1,380000,405,,,,3.97,1,3.07,0.0369,2.41,0
+318,Akash Kulkarni,Male,2023-04-22,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Employee Referral,MBA/PGDM,G5,1515000,296,,,,3.83,0,3.1,0.0517,2.69,0
+319,Rohan Verma,Female,2025-09-23,,Active,Sales,Sales Manager,Sales,Bengaluru,Campus Hiring,Bachelor's,G4,1395000,720,,,,3.4,0,3.2,0.0814,0.27,0
+320,Neha Iyer,Male,2022-11-02,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Company Website,Master's,G4,1305000,296,,,,4.25,0,3.13,0.056,3.16,0
+321,Zoya Pillai,Male,2023-09-03,,Active,Customer Support,Customer Support Manager,Support,Delhi,Naukri,Diploma,G4,1075000,94,,,,2.93,0,3.3,0.0413,2.33,0
+322,Akash Bansal,Male,2025-10-17,,Active,Marketing,Marketing Analyst,Marketing,Delhi,Campus Hiring,MBA/PGDM,G3,800000,739,,,,3.0,0,2.2,0.0455,0.21,0
+323,Ananya Chopra,Female,2024-12-26,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,Naukri,MBA/PGDM,G2,720000,543,,,,4.2,0,2.3,0.0528,1.01,0
+324,Mohit Jadhav,Female,2021-09-19,2024-02-14,Resigned,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Bachelor's,G4,1125000,307,Better Career Opportunity,1.0,Yes,2.83,0,3.5,0.0561,2.4,1
+325,Zoya Saxena,Female,2022-09-02,,Active,Information Technology,IT Manager,IT,Mumbai,Company Website,Master's,G5,1595000,74,,,,2.73,0,3.1,0.0392,3.33,0
+326,Aditya Menon,Male,2021-12-26,,Active,Information Technology,Software Engineer,IT,Bengaluru,Company Website,Diploma,G2,705000,718,,,,3.8,1,3.2,0.0467,4.01,0
+327,Tanya Mishra,Male,2022-02-25,,Active,Information Technology,Data Analyst,IT,Pune,Employee Referral,Bachelor's,G3,850000,363,,,,3.0,0,2.8,0.0485,3.85,0
+328,Arjun Joshi,Male,2024-12-19,,Active,Sales,Sales Manager,Sales,Gurugram,Employee Referral,Diploma,G5,1425000,922,,,,3.2,0,2.6,0.0348,1.03,0
+329,Zoya Joshi,Male,2024-12-14,,Active,Operations,Operations Executive,Operations,Pune,LinkedIn,Diploma,G3,810000,53,,,,3.45,1,,0.0513,1.05,0
+330,Neha Chopra,Female,2025-11-03,,Active,Sales,Sales Manager,Sales,Ahmedabad,Employee Referral,Master's,G3,980000,1078,,,,3.1,0,3.2,0.0455,0.16,0
+331,Zoya Thakur,Female,2024-04-09,2025-04-22,Terminated,Operations,Operations Manager,Operations,Hyderabad,Naukri,Diploma,G3,985000,426,Relocation,5.0,Yes,3.4,0,3.8,0.0662,1.03,1
+332,Rhea Sharma,Female,2025-11-09,,Active,Procurement,Procurement Analyst,Procurement,Gurugram,Naukri,Bachelor's,G2,560000,1125,,,,3.5,0,2.6,0.0476,0.14,0
+333,Abhishek Rao,Female,2024-12-03,,Active,Customer Support,Customer Support Manager,Support,Pune,Campus Hiring,Master's,G3,765000,973,,,,3.45,0,3.8,0.0466,1.08,0
+334,Kavya Verma,Male,2023-11-13,,Active,Sales,Sales Manager,Sales,Gurugram,Recruitment Agency,Diploma,G5,1450000,84,,,,3.43,0,3.2,0.0463,2.13,0
+335,Pallavi Singh,Male,2022-12-05,,Active,Customer Support,Customer Support Manager,Support,Gurugram,Company Website,MBA/PGDM,G4,1140000,176,,,,3.6,0,3.73,0.0473,3.07,0
+336,Kavya Rao,Male,2022-04-11,2025-01-22,Resigned,Customer Support,Customer Support Manager,Support,Hyderabad,Naukri,Diploma,G4,1200000,42,Better Career Opportunity,2.0,No,4.23,0,2.5,0.0428,2.78,1
+337,Aditi Bansal,Male,2021-01-04,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Company Website,Bachelor's,G5,1465000,534,,,,3.36,0,2.75,0.0562,4.99,0
+338,Ananya Kapoor,Female,2022-07-29,,Active,Sales,Sales Manager,Sales,Chennai,Company Website,Master's,G4,1215000,1187,,,,3.58,0,2.0,0.0387,3.43,0
+339,Aarav Menon,Male,2025-05-08,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Employee Referral,MBA/PGDM,G2,570000,604,,,,3.0,0,3.2,0.04,0.65,0
+340,Yash Iyer,Male,2025-06-01,,Active,Information Technology,Data Analyst,IT,Bengaluru,Campus Hiring,MBA/PGDM,G3,865000,631,,,,3.4,0,2.8,0.0458,0.58,0
+341,Aniket Nair,Female,2023-09-11,2025-09-15,Terminated,Information Technology,Data Analyst,IT,Mumbai,Naukri,MBA/PGDM,G3,845000,774,Role/Workload,3.0,No,3.75,0,3.0,0.0454,2.01,1
+342,Pallavi Naik,Male,2025-04-25,,Active,Operations,Operations Manager,Operations,Delhi,Employee Referral,MBA/PGDM,G4,1035000,194,,,,3.4,0,2.8,0.0691,0.68,0
+343,Abhishek Reddy,Female,2022-02-04,,Active,Customer Support,Customer Support Manager,Support,Pune,Employee Referral,MBA/PGDM,G4,1030000,935,,,,3.3,0,2.7,0.0355,3.9,0
+344,Kavya Singh,Female,2021-11-13,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Company Website,Bachelor's,G4,1210000,802,,,,4.2,0,2.8,0.0466,4.13,0
+345,Trisha Verma,Male,2022-08-24,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Naukri,Master's,G4,1345000,470,,,,3.2,0,3.05,0.0561,3.35,0
+346,Sahil Shinde,Male,2021-01-16,,Active,Human Resources,HR Executive,HR,Chennai,LinkedIn,Master's,G2,550000,1115,,,,4.1,0,3.0,0.05,4.96,0
+347,Maya Gupta,Female,2023-02-02,,Active,Information Technology,IT Manager,IT,Bengaluru,Naukri,Diploma,G4,1265000,156,,,,3.3,0,2.4,0.0481,2.91,0
+348,Nisha Gupta,Female,2022-08-20,,Active,Sales,Sales Manager,Sales,Mumbai,Recruitment Agency,Diploma,G5,1480000,864,,,,3.23,0,3.35,0.0497,3.36,0
+349,Maya Reddy,Male,2021-06-02,,Active,Information Technology,Software Engineer,IT,Chennai,Naukri,Master's,G2,680000,96,,,,2.98,1,3.05,0.04,4.58,0
+350,Sanjay Iyer,Female,2022-05-31,,Active,Operations,Operations Manager,Operations,Mumbai,Recruitment Agency,Master's,G4,1145000,693,,,,3.08,0,2.7,0.0412,3.59,0
+351,Rohit Deshmukh,Male,2024-07-16,,Active,Customer Support,Customer Support Executive,Support,Pune,Recruitment Agency,Diploma,G2,545000,717,,,,4.35,0,3.2,0.0519,1.46,0
+352,Riya Nair,Male,2024-02-09,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Naukri,MBA/PGDM,G3,905000,225,,,,3.25,0,3.0,0.0473,1.89,0
+353,Sameer Rao,Female,2023-04-25,,Active,Finance,Financial Analyst,Finance,Pune,Employee Referral,MBA/PGDM,G3,825000,731,,,,3.73,0,3.9,0.0436,2.69,0
+354,Varun Singh,Female,2024-02-26,,Active,Information Technology,IT Manager,IT,Mumbai,Naukri,Master's,G5,1570000,150,,,,3.45,0,2.8,0.0439,1.85,0
+355,Aarav Deshmukh,Female,2021-04-22,,Active,Sales,Sales Executive,Sales,Bengaluru,Employee Referral,MBA/PGDM,G2,710000,1078,,,,3.3,1,3.4,0.0491,4.69,0
+356,Diya Kulkarni,Male,2021-10-14,,Active,Sales,Sales Executive,Sales,Pune,LinkedIn,Master's,G3,755000,771,,,,3.28,0,3.3,0.0532,4.21,0
+357,Rhea Singh,Male,2021-04-19,2025-09-13,Resigned,Sales,Sales Manager,Sales,Mumbai,Employee Referral,Diploma,G4,1040000,792,Role/Workload,3.0,Yes,3.08,0,2.8,0.0566,4.4,1
+358,Pallavi Jain,Male,2021-09-21,,Active,Human Resources,HR Executive,HR,Mumbai,Naukri,Bachelor's,G2,655000,189,,,,3.32,1,3.13,0.0527,4.28,0
+359,Karan Sawant,Female,2022-03-13,,Active,Human Resources,HR Executive,HR,Mumbai,Recruitment Agency,Diploma,G2,655000,776,,,,3.92,0,3.1,0.0428,3.8,0
+360,Mohit Khan,Female,2024-06-24,,Active,Operations,Operations Manager,Operations,Pune,Company Website,Bachelor's,G5,1420000,976,,,,3.7,0,3.4,0.0421,1.52,0
+361,Vivek Pillai,Male,2021-02-03,,Active,Information Technology,Software Engineer,IT,Mumbai,Campus Hiring,Bachelor's,G3,805000,49,,,,3.52,0,2.87,0.0404,4.91,0
+362,Trisha Pillai,Male,2025-06-18,2025-11-10,Resigned,Customer Support,Customer Support Manager,Support,Chennai,Recruitment Agency,Bachelor's,G3,815000,715,Role/Workload,4.0,Yes,,0,,0.0769,0.4,1
+363,Priya Pawar,Female,2022-08-24,,Active,Information Technology,IT Manager,IT,Bengaluru,Campus Hiring,Master's,G5,1450000,563,,,,3.75,0,2.6,0.0514,3.35,0
+364,Tanya Mehta,Male,2024-12-27,,Active,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Bachelor's,G3,780000,324,,,,4.3,0,2.9,0.0245,1.01,0
+365,Pallavi Reddy,Male,2022-09-16,2023-10-11,Resigned,Procurement,Procurement Analyst,Procurement,Mumbai,Employee Referral,MBA/PGDM,G2,515000,479,Better Career Opportunity,2.0,Yes,3.1,0,,0.039,1.07,1
+366,Harsh Kulkarni,Female,2024-04-30,,Active,Procurement,Procurement Analyst,Procurement,Pune,Naukri,Diploma,G2,525000,623,,,,3.7,0,3.4,0.0538,1.67,0
+367,Akash Sawant,Male,2024-09-23,,Active,Sales,Sales Manager,Sales,Bengaluru,LinkedIn,MBA/PGDM,G4,1180000,1057,,,,3.3,0,3.6,0.0519,1.27,0
+368,Rohit Iyer,Male,2021-05-24,2023-11-03,Resigned,Customer Support,Customer Support Executive,Support,Bengaluru,Campus Hiring,Diploma,G1,445000,321,Better Career Opportunity,2.0,No,3.4,0,2.2,0.0514,2.44,1
+369,Meera Pawar,Male,2024-09-06,,Active,Information Technology,IT Manager,IT,Hyderabad,Employee Referral,Bachelor's,G5,1980000,904,,,,2.15,0,3.1,0.0581,1.32,0
+370,Sonali Shinde,Female,2025-09-01,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Bachelor's,G5,1420000,922,,,,3.8,0,,0.0235,0.33,0
+371,Nisha Saxena,Male,2025-11-30,,Active,Human Resources,HR Executive,HR,Mumbai,Recruitment Agency,Diploma,G2,680000,170,,,,2.8,0,,0.0952,0.08,0
+372,Dev Malhotra,Male,2024-06-28,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Employee Referral,Diploma,G2,635000,149,,,,4.25,0,3.4,0.0382,1.51,0
+373,Rahul Pawar,Female,2025-02-01,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,LinkedIn,Bachelor's,G3,825000,547,,,,1.7,0,3.2,0.0303,0.91,0
+374,Aarav Thakur,Male,2025-06-05,,Active,Operations,Operations Executive,Operations,Bengaluru,Naukri,Bachelor's,G2,740000,497,,,,4.0,0,4.2,0.0479,0.57,0
+375,Pooja Jain,Female,2021-11-22,,Active,Information Technology,Software Engineer,IT,Delhi,Employee Referral,Bachelor's,G3,985000,737,,,,3.2,0,2.53,0.0506,4.11,0
+376,Vaishnavi Sharma,Female,2021-10-18,2023-10-24,Terminated,Information Technology,Software Engineer,IT,Ahmedabad,Naukri,Master's,G4,1030000,96,Personal Reasons,1.0,Yes,3.25,0,2.8,0.0338,2.02,1
+377,Priya Kapoor,Female,2022-06-02,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Recruitment Agency,Master's,G4,1045000,362,,,,3.67,0,4.0,0.0599,3.58,0
+378,Tanvi Deshmukh,Female,2025-06-15,2025-12-22,Resigned,Procurement,Procurement Manager,Procurement,Bengaluru,Employee Referral,Master's,G4,1180000,1125,Better Career Opportunity,4.0,Yes,2.8,0,,0.06,0.52,1
+379,Rahul Iyer,Male,2021-10-08,2022-06-03,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,Diploma,G4,1280000,860,Compensation,2.0,Yes,2.7,0,,0.0415,0.65,1
+380,Sneha Rao,Female,2025-08-25,,Active,Information Technology,Software Engineer,IT,Bengaluru,Campus Hiring,Master's,G4,1230000,71,,,,2.4,0,2.2,0.0833,0.35,0
+381,Isha Iyer,Female,2023-07-23,,Active,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,MBA/PGDM,G2,545000,225,,,,3.57,0,3.4,0.0433,2.44,0
+382,Ankita Jadhav,Male,2024-10-27,2025-11-08,Resigned,Finance,Finance Manager,Finance,Mumbai,Naukri,MBA/PGDM,G4,1060000,1134,Compensation,5.0,No,3.2,0,2.0,0.0405,1.03,1
+383,Sanjay Reddy,Female,2022-02-28,,Active,Finance,Finance Manager,Finance,Hyderabad,Naukri,Bachelor's,G5,1585000,707,,,,3.13,0,2.73,0.0447,3.84,0
+384,Sahil Khan,Male,2025-03-03,,Active,Information Technology,Software Engineer,IT,Hyderabad,Company Website,Bachelor's,G3,965000,1083,,,,3.5,0,2.0,0.0419,0.83,0
+385,Kavya Menon,Male,2021-09-16,2023-02-01,Resigned,Sales,Sales Manager,Sales,Chennai,Campus Hiring,Master's,G3,870000,834,Personal Reasons,2.0,Yes,3.6,0,3.8,0.0336,1.38,1
+386,Riya Sharma,Male,2024-05-14,2024-12-21,Resigned,Procurement,Procurement Manager,Procurement,Mumbai,Naukri,Bachelor's,G4,1390000,543,Personal Reasons,3.0,No,2.7,0,3.4,0.0468,0.61,1
+387,Maya Jadhav,Male,2021-01-23,,Active,Information Technology,Software Engineer,IT,Mumbai,Naukri,MBA/PGDM,G2,680000,540,,,,3.72,0,3.27,0.0588,4.94,0
+388,Rohan Sawant,Female,2021-03-08,,Active,Operations,Operations Executive,Operations,Hyderabad,Employee Referral,MBA/PGDM,G1,465000,148,,,,2.92,0,2.4,0.0429,4.82,0
+389,Priya Sawant,Male,2022-11-24,2024-01-14,Resigned,Procurement,Procurement Analyst,Procurement,Mumbai,Naukri,MBA/PGDM,G2,550000,561,Relocation,3.0,Yes,3.7,0,2.7,0.0242,1.14,1
+390,Nikhil Rao,Male,2021-06-08,,Active,Sales,Sales Executive,Sales,Bengaluru,Company Website,MBA/PGDM,G3,790000,558,,,,3.12,0,3.55,0.044,4.56,0
+391,Rohit Reddy,Female,2024-05-14,2025-10-10,Resigned,Customer Support,Customer Support Executive,Support,Bengaluru,Recruitment Agency,Master's,G1,425000,42,Compensation,2.0,Yes,3.9,0,,0.0538,1.41,1
+392,Vivek Reddy,Female,2022-12-11,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,Bachelor's,G3,935000,816,,,,3.63,0,3.5,0.0536,3.06,0
+393,Sameer Kapoor,Male,2025-06-20,2025-12-19,Resigned,Sales,Sales Executive,Sales,Mumbai,Company Website,Bachelor's,G1,480000,557,Role/Workload,1.0,Yes,4.1,0,2.8,0.0443,0.5,1
+394,Anjali Mishra,Male,2024-10-14,2025-04-02,Resigned,Sales,Sales Executive,Sales,Pune,Company Website,Diploma,G2,665000,143,Compensation,4.0,No,3.5,0,2.4,0.0596,0.47,1
+395,Aarav Rao,Female,2022-05-12,2025-12-04,Resigned,Information Technology,Data Analyst,IT,Hyderabad,Company Website,Master's,G3,955000,1014,Higher Education,5.0,Yes,4.27,0,3.4,0.0407,3.56,1
+396,Kavya Singh,Male,2022-03-09,,Active,Information Technology,Software Engineer,IT,Gurugram,Employee Referral,MBA/PGDM,G4,1230000,456,,,,3.27,1,3.2,0.0503,3.81,0
+397,Sneha Sharma,Female,2024-07-17,,Active,Marketing,Marketing Analyst,Marketing,Gurugram,Campus Hiring,MBA/PGDM,G2,550000,999,,,,3.25,1,2.3,0.0389,1.46,0
+398,Isha Mehta,Female,2021-05-19,2022-11-23,Resigned,Human Resources,HR Manager,HR,Pune,Recruitment Agency,Bachelor's,G5,1475000,252,Personal Reasons,2.0,Yes,4.1,0,3.4,0.0319,1.51,1
+399,Ashish Gupta,Female,2022-10-10,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Recruitment Agency,Master's,G3,910000,1151,,,,3.73,0,2.7,0.042,3.23,0
+400,Manish Kulkarni,Male,2023-03-24,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Company Website,MBA/PGDM,G1,390000,706,,,,3.2,0,2.8,0.0508,2.77,0
+401,Rohan Joshi,Female,2024-10-17,,Active,Marketing,Marketing Manager,Marketing,Gurugram,Recruitment Agency,Bachelor's,G4,1055000,1126,,,,3.65,0,2.2,0.0623,1.2,0
+402,Sameer More,Female,2023-08-15,2025-01-24,Resigned,Information Technology,Data Analyst,IT,Bengaluru,Naukri,Diploma,G3,800000,970,Compensation,5.0,Yes,4.1,0,4.0,0.0544,1.45,1
+403,Zoya Joshi,Male,2022-03-13,,Active,Information Technology,Data Analyst,IT,Pune,Campus Hiring,Master's,G3,755000,114,,,,3.42,1,2.7,0.0356,3.8,0
+404,Rahul Iyer,Female,2022-10-12,,Active,Information Technology,Software Engineer,IT,Gurugram,Employee Referral,Bachelor's,G3,920000,1043,,,,2.9,0,3.2,0.0469,3.22,0
+405,Sameer Sawant,Male,2021-04-25,2022-08-07,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,LinkedIn,Diploma,G3,760000,321,Role/Workload,1.0,Yes,3.8,0,4.2,0.0467,1.28,1
+406,Harsh Nair,Male,2025-02-23,,Active,Procurement,Procurement Analyst,Procurement,Hyderabad,Recruitment Agency,Bachelor's,G3,795000,895,,,,3.4,0,2.8,0.0546,0.85,0
+407,Vaishnavi Iyer,Female,2024-11-03,,Active,Sales,Sales Executive,Sales,Delhi,LinkedIn,Diploma,G2,550000,874,,,,2.8,0,2.5,0.0459,1.16,0
+408,Arjun Verma,Male,2024-05-15,,Active,Sales,Sales Executive,Sales,Bengaluru,Recruitment Agency,Master's,G2,645000,338,,,,2.95,0,2.6,0.0463,1.63,0
+409,Tanya Singh,Male,2022-11-25,,Active,Operations,Operations Executive,Operations,Hyderabad,Employee Referral,MBA/PGDM,G2,595000,920,,,,3.17,0,2.4,0.0512,3.1,0
+410,Sameer Jain,Male,2021-10-19,,Active,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,Master's,G1,445000,665,,,,3.76,0,2.4,0.0444,4.2,0
+411,Pallavi Naik,Female,2022-04-08,,Active,Information Technology,Software Engineer,IT,Ahmedabad,LinkedIn,MBA/PGDM,G4,1055000,1182,,,,3.52,0,3.4,0.0486,3.73,0
+412,Varun Deshmukh,Male,2025-03-12,,Active,Marketing,Marketing Manager,Marketing,Ahmedabad,LinkedIn,MBA/PGDM,G5,1570000,827,,,,2.3,0,,0.0417,0.8,0
+413,Aniket Patel,Female,2024-11-07,,Active,Finance,Financial Analyst,Finance,Mumbai,Employee Referral,MBA/PGDM,G2,730000,1020,,,,3.05,0,3.0,0.0475,1.15,0
+414,Arjun Kapoor,Male,2024-09-04,2025-10-10,Resigned,Customer Support,Customer Support Manager,Support,Hyderabad,LinkedIn,Bachelor's,G3,770000,275,Relocation,5.0,Yes,5.0,0,2.6,0.0399,1.1,1
+415,Pooja Chopra,Male,2022-12-30,,Active,Operations,Operations Executive,Operations,Mumbai,Campus Hiring,MBA/PGDM,G2,725000,342,,,,3.3,0,2.55,0.0473,3.0,0
+416,Isha Rao,Male,2021-02-21,,Active,Procurement,Procurement Manager,Procurement,Mumbai,Recruitment Agency,MBA/PGDM,G4,1360000,657,,,,3.04,0,3.1,0.0397,4.86,0
+417,Arjun Mishra,Female,2022-04-20,,Active,Operations,Operations Executive,Operations,Mumbai,Company Website,Master's,G2,740000,53,,,,2.63,0,3.5,0.0441,3.7,0
+418,Priya Rao,Female,2021-11-28,,Active,Human Resources,HR Executive,HR,Mumbai,Company Website,Diploma,G2,635000,9,,,,3.24,0,2.9,0.0492,4.09,0
+419,Karan Naik,Male,2023-04-24,,Active,Procurement,Procurement Analyst,Procurement,Hyderabad,Recruitment Agency,Master's,G2,565000,657,,,,2.8,0,2.6,0.0535,2.69,0
+420,Rhea Mishra,Male,2023-05-05,,Active,Human Resources,HR Manager,HR,Delhi,LinkedIn,Master's,G4,1380000,9,,,,3.87,0,2.4,0.0435,2.66,0
+421,Vivek Pillai,Female,2022-03-29,,Active,Customer Support,Customer Support Manager,Support,Chennai,Employee Referral,Bachelor's,G4,1160000,37,,,,4.28,0,2.8,0.049,3.76,0
+422,Aniket Saxena,Female,2023-10-14,2024-07-03,Resigned,Marketing,Marketing Analyst,Marketing,Mumbai,Naukri,Bachelor's,G2,750000,1013,Better Career Opportunity,4.0,Yes,4.2,0,2.0,0.0591,0.72,1
+423,Rohit Gupta,Female,2024-11-12,,Active,Procurement,Procurement Analyst,Procurement,Pune,Naukri,Diploma,G2,670000,1040,,,,3.8,1,2.7,0.0465,1.13,0
+424,Shreya Rao,Male,2025-06-24,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,MBA/PGDM,G5,1955000,1048,,,,3.0,0,2.2,0.053,0.52,0
+425,Maya Rao,Female,2022-07-24,,Active,Information Technology,Software Engineer,IT,Ahmedabad,LinkedIn,MBA/PGDM,G4,1030000,491,,,,3.63,1,3.6,0.0476,3.44,0
+426,Mohit Jain,Male,2023-10-04,,Active,Operations,Operations Manager,Operations,Mumbai,LinkedIn,MBA/PGDM,G4,1265000,80,,,,3.73,0,3.2,0.0327,2.24,0
+427,Arjun Malhotra,Female,2021-09-12,,Active,Operations,Operations Executive,Operations,Delhi,LinkedIn,Diploma,G2,680000,151,,,,3.1,1,2.96,0.053,4.3,0
+428,Aditya Jain,Female,2024-04-11,,Active,Operations,Operations Executive,Operations,Pune,Company Website,Bachelor's,G1,500000,760,,,,3.55,0,2.8,0.0289,1.72,0
+429,Pallavi Rao,Male,2025-07-08,,Active,Information Technology,Software Engineer,IT,Bengaluru,Naukri,Master's,G4,1120000,6,,,,2.8,0,2.6,0.0709,0.48,0
+430,Pooja Pillai,Male,2025-10-20,,Active,Information Technology,Software Engineer,IT,Delhi,LinkedIn,Bachelor's,G3,835000,183,,,,1.9,0,3.0,0.0806,0.2,0
+431,Sahil Kulkarni,Male,2021-04-07,,Active,Operations,Operations Manager,Operations,Mumbai,Naukri,Bachelor's,G3,950000,552,,,,3.0,0,3.0,0.0512,4.73,0
+432,Sanjay Mishra,Male,2022-07-19,,Active,Marketing,Marketing Analyst,Marketing,Pune,Recruitment Agency,Bachelor's,G2,505000,246,,,,3.38,0,2.2,0.05,3.45,0
+433,Pooja Rao,Male,2023-01-09,2023-11-16,Resigned,Sales,Sales Executive,Sales,Bengaluru,Naukri,MBA/PGDM,G1,405000,385,Better Career Opportunity,1.0,Yes,,0,,0.0373,0.85,1
+434,Pallavi Sawant,Female,2025-02-20,,Active,Finance,Finance Manager,Finance,Mumbai,LinkedIn,Diploma,G5,1770000,773,,,,3.4,0,3.6,0.046,0.86,0
+435,Isha More,Male,2025-01-21,2025-10-17,Resigned,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,MBA/PGDM,G2,735000,440,Better Career Opportunity,1.0,Yes,,0,,0.0514,0.74,1
+436,Sakshi Khan,Female,2025-08-17,,Active,Sales,Sales Manager,Sales,Hyderabad,LinkedIn,Bachelor's,G5,1475000,874,,,,4.0,0,3.2,0.045,0.37,0
+437,Zoya Thakur,Male,2025-09-24,,Active,Operations,Operations Executive,Operations,Hyderabad,Employee Referral,Diploma,G3,830000,1160,,,,2.6,0,4.0,0.0575,0.27,0
+438,Maya Khan,Male,2025-08-02,,Active,Sales,Sales Executive,Sales,Gurugram,Recruitment Agency,MBA/PGDM,G1,480000,1062,,,,3.8,0,2.8,0.0459,0.41,0
+439,Neha Menon,Male,2024-06-15,,Active,Information Technology,IT Manager,IT,Mumbai,Recruitment Agency,Bachelor's,G4,1390000,34,,,,3.6,0,3.7,0.0504,1.54,0
+440,Pooja Pillai,Female,2022-09-10,,Active,Sales,Sales Manager,Sales,Hyderabad,Company Website,Master's,G3,900000,475,,,,3.98,0,2.6,0.0515,3.31,0
+441,Tanya Bansal,Female,2022-04-03,,Active,Information Technology,Data Analyst,IT,Bengaluru,Company Website,Diploma,G2,740000,562,,,,3.35,1,3.35,0.0415,3.75,0
+442,Aniket Singh,Female,2025-09-23,2025-12-21,Resigned,Sales,Sales Manager,Sales,Hyderabad,Company Website,MBA/PGDM,G5,1530000,1050,Better Career Opportunity,1.0,No,3.7,0,,0.0333,0.24,1
+443,Varun Joshi,Male,2023-12-28,,Active,Human Resources,HR Executive,HR,Delhi,Company Website,Master's,G2,690000,635,,,,3.15,0,2.2,0.0484,2.01,0
+444,Sonali Mehta,Female,2023-03-24,,Active,Operations,Operations Executive,Operations,Mumbai,Naukri,Diploma,G2,525000,244,,,,3.77,1,3.3,0.0437,2.77,0
+445,Vidya Rao,Male,2022-01-25,2023-01-17,Resigned,Information Technology,IT Manager,IT,Ahmedabad,LinkedIn,Diploma,G5,1975000,904,Performance Termination,1.0,Yes,3.5,0,2.6,0.05,0.98,1
+446,Varun Patel,Male,2024-10-27,,Active,Finance,Financial Analyst,Finance,Bengaluru,Recruitment Agency,MBA/PGDM,G3,845000,831,,,,3.45,0,2.6,0.037,1.18,0
+447,Meera Thakur,Female,2023-01-04,,Active,Human Resources,HR Manager,HR,Pune,Campus Hiring,Diploma,G3,990000,85,,,,3.87,0,3.6,0.0566,2.99,0
+448,Karan Sharma,Female,2024-11-09,2025-11-25,Resigned,Customer Support,Customer Support Executive,Support,Pune,Recruitment Agency,Bachelor's,G2,580000,1076,Personal Reasons,3.0,No,3.3,0,2.2,0.0505,1.04,1
+449,Isha Thakur,Male,2023-10-28,2025-03-14,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,Recruitment Agency,Bachelor's,G3,915000,42,Personal Reasons,4.0,Yes,2.95,0,2.9,0.0387,1.38,1
+450,Zoya Joshi,Female,2023-04-11,2025-10-26,Resigned,Operations,Operations Executive,Operations,Delhi,Naukri,Bachelor's,G2,735000,908,Personal Reasons,3.0,Yes,3.15,1,2.8,0.047,2.54,1
+451,Sneha Jadhav,Male,2023-09-04,,Active,Procurement,Procurement Analyst,Procurement,Hyderabad,Employee Referral,Diploma,G2,720000,386,,,,2.8,0,2.8,0.0411,2.32,0
+452,Rhea Shinde,Male,2021-02-23,2023-06-22,Resigned,Finance,Financial Analyst,Finance,Mumbai,LinkedIn,Master's,G3,795000,382,Better Career Opportunity,3.0,No,3.75,1,2.9,0.0453,2.32,1
+453,Dhruv Pawar,Male,2021-06-06,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Naukri,Diploma,G4,1070000,493,,,,3.16,0,3.12,0.0451,4.57,0
+454,Vidya Kulkarni,Male,2025-11-20,,Active,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,Diploma,G3,765000,267,,,,3.1,0,2.8,0.0233,0.11,0
+455,Akash Iyer,Female,2022-02-09,,Active,Information Technology,IT Manager,IT,Mumbai,Company Website,Diploma,G4,1250000,126,,,,3.33,0,3.33,0.0463,3.89,0
+456,Sneha Jadhav,Male,2023-01-14,,Active,Information Technology,IT Manager,IT,Bengaluru,Campus Hiring,Master's,G4,1215000,1018,,,,3.1,0,2.8,0.0452,2.96,0
+457,Ananya Malhotra,Male,2024-09-08,,Active,Information Technology,Software Engineer,IT,Gurugram,LinkedIn,Diploma,G4,1240000,14,,,,3.4,0,3.2,0.0525,1.31,0
+458,Karan Mishra,Male,2021-01-27,,Active,Marketing,Marketing Analyst,Marketing,Hyderabad,Company Website,Bachelor's,G2,640000,739,,,,3.24,0,3.67,0.0467,4.93,0
+459,Aarav Iyer,Male,2024-06-12,,Active,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Bachelor's,G2,645000,204,,,,3.55,0,4.0,0.058,1.55,0
+460,Akash Patel,Female,2023-08-24,,Active,Sales,Sales Manager,Sales,Pune,LinkedIn,MBA/PGDM,G4,1260000,922,,,,3.67,0,2.7,0.059,2.35,0
+461,Pallavi Pawar,Male,2025-02-09,,Active,Sales,Sales Executive,Sales,Bengaluru,Naukri,MBA/PGDM,G1,465000,106,,,,4.0,0,3.4,0.0128,0.89,0
+462,Zoya Iyer,Female,2024-02-13,,Active,Information Technology,Data Analyst,IT,Mumbai,Recruitment Agency,Master's,G2,700000,535,,,,3.1,0,2.9,0.0483,1.88,0
+463,Neha Reddy,Male,2022-05-18,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,LinkedIn,Bachelor's,G2,530000,286,,,,3.38,1,2.3,0.0523,3.62,0
+464,Dev Kulkarni,Female,2023-07-26,,Active,Information Technology,Software Engineer,IT,Chennai,Recruitment Agency,Bachelor's,G4,1260000,873,,,,4.23,0,2.2,0.056,2.43,0
+465,Anjali Gupta,Male,2023-10-10,,Active,Sales,Sales Manager,Sales,Chennai,Naukri,Diploma,G5,1525000,179,,,,3.8,0,3.1,0.0404,2.23,0
+466,Sneha Khan,Male,2022-11-07,2024-12-30,Resigned,Information Technology,IT Manager,IT,Pune,Naukri,Diploma,G5,1605000,772,Retirement,3.0,No,3.63,0,3.0,0.0446,2.15,1
+467,Dhruv Nair,Female,2024-11-01,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Naukri,Master's,G4,1300000,337,,,,3.1,0,3.1,0.0623,1.16,0
+468,Sahil Mehta,Male,2025-07-09,,Active,Information Technology,Software Engineer,IT,Bengaluru,Recruitment Agency,Bachelor's,G4,1160000,506,,,,2.7,0,1.6,0.0687,0.48,0
+469,Vidya Mishra,Male,2021-10-18,,Active,Operations,Operations Manager,Operations,Ahmedabad,Naukri,MBA/PGDM,G5,1415000,266,,,,3.74,0,3.3,0.0419,4.2,0
+470,Sneha Rao,Male,2021-12-09,2023-09-11,Resigned,Marketing,Marketing Manager,Marketing,Mumbai,Campus Hiring,Master's,G4,1255000,1068,Better Career Opportunity,4.0,No,3.3,0,2.6,0.0564,1.75,1
+471,Tanya Mehta,Male,2021-12-02,,Active,Information Technology,IT Manager,IT,Mumbai,Naukri,Bachelor's,G5,1680000,554,,,,3.32,0,3.6,0.0517,4.08,0
+472,Manish Patel,Male,2024-05-05,,Active,Information Technology,IT Manager,IT,Pune,Company Website,Diploma,G5,1755000,718,,,,4.05,0,2.4,0.059,1.66,0
+473,Riya Nair,Male,2021-10-18,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Recruitment Agency,Diploma,G2,610000,335,,,,3.34,2,2.96,0.0484,4.2,0
+474,Sneha Reddy,Male,2021-11-30,2025-04-24,Terminated,Information Technology,Data Analyst,IT,Pune,Employee Referral,MBA/PGDM,G2,605000,992,Personal Reasons,1.0,Yes,3.1,1,2.33,0.0484,3.4,1
+475,Harsh Singh,Female,2025-02-22,,Active,Sales,Sales Manager,Sales,Gurugram,Recruitment Agency,Diploma,G4,1175000,792,,,,4.0,0,,0.0476,0.85,0
+476,Riya Joshi,Female,2021-01-25,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,LinkedIn,Bachelor's,G4,1295000,802,,,,3.14,0,3.0,0.0544,4.93,0
+477,Rahul Rao,Male,2025-03-03,,Active,Marketing,Marketing Analyst,Marketing,Pune,Company Website,Master's,G3,795000,453,,,,3.5,0,3.6,0.0512,0.83,0
+478,Zoya Pawar,Male,2021-11-15,2022-03-28,Terminated,Procurement,Procurement Manager,Procurement,Mumbai,Employee Referral,MBA/PGDM,G5,1470000,1080,Compensation,2.0,No,4.5,0,,0.0561,0.36,1
+479,Aditi Verma,Male,2022-11-08,,Active,Procurement,Procurement Manager,Procurement,Mumbai,Recruitment Agency,Diploma,G4,1270000,830,,,,3.2,0,2.8,0.0416,3.15,0
+480,Arjun Pawar,Female,2023-12-13,2025-07-10,Resigned,Human Resources,HR Executive,HR,Hyderabad,Recruitment Agency,Master's,G1,460000,639,Role/Workload,3.0,Yes,3.45,0,2.8,0.0507,1.57,1
+481,Sahil Mehta,Female,2023-08-30,,Active,Marketing,Marketing Analyst,Marketing,Gurugram,Naukri,MBA/PGDM,G3,770000,467,,,,3.5,0,3.3,0.0514,2.34,0
+482,Pooja Gupta,Female,2021-02-08,,Active,Operations,Operations Manager,Operations,Hyderabad,Naukri,Master's,G4,1315000,908,,,,3.68,0,2.47,0.044,4.89,0
+483,Sameer Jain,Male,2024-04-24,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Bachelor's,G5,1775000,779,,,,3.1,0,2.9,0.0419,1.69,0
+484,Vivek Patel,Male,2021-05-14,,Active,Sales,Sales Manager,Sales,Delhi,Recruitment Agency,Bachelor's,G4,1085000,26,,,,3.16,0,3.35,0.0347,4.63,0
+485,Pooja Kulkarni,Male,2023-04-12,,Active,Information Technology,Data Analyst,IT,Delhi,LinkedIn,Master's,G3,980000,126,,,,3.77,1,3.13,0.0509,2.72,0
+486,Yash Kapoor,Male,2025-10-24,,Active,Information Technology,Data Analyst,IT,Mumbai,LinkedIn,Master's,G2,735000,354,,,,4.1,0,,0.0317,0.19,0
+487,Trisha Thakur,Male,2024-03-16,2024-10-12,Resigned,Marketing,Marketing Analyst,Marketing,Mumbai,Employee Referral,Diploma,G2,675000,534,Relocation,3.0,No,,0,,0.0237,0.57,1
+488,Nikhil Patel,Male,2022-04-20,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Campus Hiring,Diploma,G1,480000,321,,,,3.42,0,3.1,0.0421,3.7,0
+489,Yash Saxena,Female,2021-06-06,,Active,Information Technology,Data Analyst,IT,Mumbai,LinkedIn,MBA/PGDM,G4,1095000,549,,,,3.12,2,1.93,0.0426,4.57,0
+490,Maya Joshi,Female,2022-10-27,,Active,Information Technology,Data Analyst,IT,Mumbai,LinkedIn,Master's,G2,605000,491,,,,3.33,1,3.45,0.0434,3.18,0
+491,Vivek Nair,Male,2022-06-18,,Active,Information Technology,IT Manager,IT,Hyderabad,Recruitment Agency,Master's,G4,1160000,190,,,,3.55,0,3.2,0.0449,3.54,0
+492,Mohit Naik,Female,2022-03-26,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Recruitment Agency,MBA/PGDM,G5,1525000,827,,,,3.52,0,3.5,0.0412,3.77,0
+493,Maya Naik,Female,2021-02-24,,Active,Marketing,Marketing Manager,Marketing,Delhi,LinkedIn,MBA/PGDM,G5,1685000,91,,,,3.78,0,3.07,0.0519,4.85,0
+494,Riya Mehta,Female,2023-09-04,,Active,Customer Support,Customer Support Manager,Support,Pune,Campus Hiring,Bachelor's,G3,845000,1006,,,,3.67,0,3.6,0.039,2.32,0
+495,Aditi Mehta,Male,2024-12-01,,Active,Information Technology,Software Engineer,IT,Delhi,Company Website,MBA/PGDM,G3,790000,587,,,,3.4,0,3.0,0.0391,1.08,0
+496,Sameer Menon,Female,2023-08-29,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Campus Hiring,Master's,G4,1280000,973,,,,3.4,0,2.3,0.0619,2.34,0
+497,Ananya Nair,Male,2024-02-13,,Active,Operations,Operations Manager,Operations,Bengaluru,Company Website,Master's,G4,1200000,1089,,,,4.4,0,3.5,0.058,1.88,0
+498,Kavya Verma,Male,2023-01-31,,Active,Information Technology,Software Engineer,IT,Bengaluru,Campus Hiring,Master's,G4,1085000,1135,,,,3.53,1,2.3,0.0522,2.92,0
+499,Dhruv Naik,Female,2021-05-17,2022-08-01,Resigned,Marketing,Marketing Analyst,Marketing,Bengaluru,Recruitment Agency,Diploma,G2,640000,298,Personal Reasons,4.0,Yes,4.9,0,2.2,0.0556,1.21,1
+500,Akash Menon,Male,2021-07-14,,Active,Procurement,Procurement Manager,Procurement,Mumbai,Campus Hiring,Bachelor's,G4,1095000,1080,,,,4.04,0,3.27,0.0472,4.47,0
+501,Sanjay Saxena,Male,2024-10-04,,Active,Finance,Finance Manager,Finance,Pune,Recruitment Agency,MBA/PGDM,G4,1270000,180,,,,4.55,0,2.8,0.028,1.24,0
+502,Trisha Chopra,Male,2024-10-09,2025-11-30,Terminated,Operations,Operations Executive,Operations,Bengaluru,Naukri,Diploma,G3,800000,803,Higher Education,5.0,No,2.2,1,2.8,0.0367,1.14,1
+503,Vidya Thakur,Female,2025-09-09,,Active,Operations,Operations Manager,Operations,Mumbai,Company Website,MBA/PGDM,G4,1005000,331,,,,3.1,0,2.4,0.0349,0.31,0
+504,Aditya Mehta,Female,2021-03-16,,Active,Human Resources,HR Executive,HR,Pune,Naukri,MBA/PGDM,G2,525000,420,,,,3.84,0,2.5,0.0446,4.79,0
+505,Harsh Khan,Male,2024-03-18,,Active,Operations,Operations Executive,Operations,Ahmedabad,Campus Hiring,Bachelor's,G2,705000,1160,,,,4.3,0,3.6,0.0381,1.79,0
+506,Abhishek Singh,Male,2025-01-10,,Active,Information Technology,IT Manager,IT,Gurugram,Recruitment Agency,Bachelor's,G4,1105000,1179,,,,3.7,0,,0.0661,0.97,0
+507,Pooja Pawar,Male,2025-08-13,2025-11-09,Resigned,Procurement,Procurement Analyst,Procurement,Ahmedabad,Company Website,Diploma,G2,560000,1125,Performance Termination,5.0,No,,0,,0.0471,0.24,1
+508,Maya Pillai,Male,2023-03-18,,Active,Customer Support,Customer Support Executive,Support,Delhi,Campus Hiring,MBA/PGDM,G1,370000,82,,,,3.8,0,3.4,0.0453,2.79,0
+509,Pallavi Iyer,Male,2025-05-26,2025-11-11,Resigned,Operations,Operations Executive,Operations,Pune,Employee Referral,Diploma,G2,745000,1098,Compensation,5.0,Yes,,0,,0.0671,0.46,1
+510,Dhruv Kapoor,Female,2024-11-03,2025-12-10,Terminated,Sales,Sales Executive,Sales,Bengaluru,LinkedIn,Diploma,G2,700000,901,Role/Workload,1.0,Yes,4.0,0,3.6,0.066,1.1,1
+511,Aarav Joshi,Male,2023-09-26,,Active,Sales,Sales Manager,Sales,Hyderabad,Employee Referral,Diploma,G4,1235000,227,,,,3.73,0,3.8,0.0362,2.26,0
+512,Isha Jadhav,Female,2022-06-02,,Active,Sales,Sales Executive,Sales,Bengaluru,Naukri,MBA/PGDM,G2,585000,720,,,,3.4,0,2.47,0.0447,3.58,0
+513,Meera Mehta,Female,2025-07-03,,Active,Customer Support,Customer Support Manager,Support,Chennai,Employee Referral,Bachelor's,G3,1000000,130,,,,3.0,0,2.6,0.0391,0.5,0
+514,Diya Nair,Male,2023-06-07,,Active,Information Technology,Software Engineer,IT,Bengaluru,Naukri,Bachelor's,G3,935000,540,,,,2.9,1,3.27,0.0419,2.57,0
+515,Kavya Mishra,Female,2025-08-03,,Active,Sales,Sales Executive,Sales,Delhi,Recruitment Agency,Diploma,G2,510000,720,,,,3.6,0,,0.0476,0.41,0
+516,Tanvi Reddy,Male,2023-01-02,,Active,Information Technology,Software Engineer,IT,Ahmedabad,Company Website,Bachelor's,G4,1100000,251,,,,2.37,0,3.27,0.0389,3.0,0
+517,Zoya More,Female,2023-08-28,,Active,Operations,Operations Manager,Operations,Delhi,Naukri,MBA/PGDM,G5,1525000,752,,,,3.93,0,2.53,0.045,2.34,0
+518,Dhruv Sawant,Male,2023-08-20,,Active,Information Technology,Software Engineer,IT,Mumbai,Campus Hiring,Bachelor's,G3,865000,868,,,,3.87,1,2.8,0.0611,2.37,0
+519,Tanvi Khan,Female,2024-02-07,2025-02-13,Resigned,Customer Support,Customer Support Executive,Support,Delhi,Campus Hiring,Diploma,G1,360000,209,Compensation,1.0,Yes,2.7,0,,0.0464,1.02,1
+520,Diya Gupta,Female,2022-05-10,,Active,Finance,Finance Manager,Finance,Pune,Naukri,MBA/PGDM,G5,1505000,312,,,,3.2,0,3.13,0.0405,3.64,0
+521,Trisha Iyer,Male,2021-05-31,,Active,Information Technology,Software Engineer,IT,Bengaluru,Naukri,Bachelor's,G4,1225000,535,,,,3.04,0,3.2,0.0428,4.59,0
+522,Aarav More,Female,2021-03-24,,Active,Sales,Sales Executive,Sales,Bengaluru,Naukri,MBA/PGDM,G2,665000,1137,,,,3.86,1,3.35,0.0487,4.77,0
+523,Ananya Shinde,Male,2025-07-30,,Active,Finance,Financial Analyst,Finance,Ahmedabad,LinkedIn,MBA/PGDM,G2,740000,699,,,,3.9,0,,0.0455,0.42,0
+524,Varun Sharma,Male,2021-10-10,,Active,Information Technology,IT Manager,IT,Mumbai,Employee Referral,Diploma,G5,1470000,985,,,,3.06,0,3.75,0.0462,4.22,0
+525,Aditi Gupta,Male,2021-08-20,,Active,Customer Support,Customer Support Executive,Support,Delhi,Employee Referral,MBA/PGDM,G2,585000,256,,,,3.34,2,3.6,0.0467,4.36,0
+526,Vivek Bansal,Female,2025-08-10,2025-10-31,Resigned,Information Technology,Data Analyst,IT,Mumbai,Campus Hiring,Bachelor's,G3,890000,14,Better Career Opportunity,4.0,Yes,,0,,0.0299,0.22,1
+527,Sahil Khan,Male,2024-12-18,2025-10-05,Resigned,Information Technology,Software Engineer,IT,Mumbai,Naukri,Master's,G3,830000,751,Retirement,3.0,Yes,,0,3.8,0.0455,0.8,1
+528,Tanvi Jain,Male,2024-11-09,,Active,Finance,Financial Analyst,Finance,Pune,Campus Hiring,MBA/PGDM,G3,940000,434,,,,3.1,0,2.6,0.0396,1.14,0
+529,Aditya Malhotra,Male,2025-07-30,,Active,Sales,Sales Manager,Sales,Bengaluru,Naukri,MBA/PGDM,G4,1290000,334,,,,4.7,0,3.6,0.0313,0.42,0
+530,Ankita Pawar,Male,2023-03-29,,Active,Information Technology,Data Analyst,IT,Bengaluru,Campus Hiring,Diploma,G4,1085000,251,,,,3.53,0,3.8,0.0528,2.76,0
+531,Amit Deshmukh,Male,2021-11-21,2022-02-16,Resigned,Sales,Sales Executive,Sales,Ahmedabad,Employee Referral,Diploma,G2,680000,267,Compensation,1.0,Yes,3.4,0,3.2,0.0556,0.24,1
+532,Harsh Iyer,Male,2021-06-10,,Active,Finance,Finance Manager,Finance,Hyderabad,Campus Hiring,Diploma,G5,1515000,669,,,,3.1,0,2.6,0.0452,4.56,0
+533,Riya Saxena,Female,2022-12-28,2025-01-06,Resigned,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,Master's,G2,550000,649,Better Career Opportunity,3.0,Yes,3.55,0,2.8,0.0501,2.03,1
+534,Aditya Pillai,Female,2021-06-08,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Recruitment Agency,MBA/PGDM,G4,1305000,234,,,,3.7,0,2.9,0.0442,4.56,0
+535,Shreya Kapoor,Female,2022-03-12,,Active,Information Technology,IT Manager,IT,Chennai,Company Website,Master's,G4,1150000,121,,,,2.67,0,3.13,0.0386,3.81,0
+536,Sameer Sawant,Female,2025-04-09,,Active,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Master's,G2,515000,436,,,,3.3,0,1.8,0.0309,0.73,0
+537,Amit Deshmukh,Male,2021-01-30,,Active,Marketing,Marketing Analyst,Marketing,Pune,Employee Referral,Bachelor's,G2,630000,470,,,,3.0,1,3.35,0.0502,4.92,0
+538,Vivek Gupta,Male,2022-01-13,2024-08-30,Resigned,Information Technology,Software Engineer,IT,Pune,Company Website,Master's,G3,980000,535,Performance Termination,5.0,Yes,3.6,0,3.6,0.044,2.63,1
+539,Pallavi Gupta,Male,2023-06-16,2025-03-27,Resigned,Information Technology,Data Analyst,IT,Bengaluru,Campus Hiring,Diploma,G3,755000,302,Compensation,1.0,Yes,2.6,1,2.8,0.0343,1.78,1
+540,Vidya Kulkarni,Male,2021-06-26,,Active,Information Technology,IT Manager,IT,Hyderabad,Campus Hiring,Diploma,G5,1690000,472,,,,3.34,0,3.2,0.0443,4.51,0
+541,Rohan Jadhav,Female,2023-08-03,,Active,Customer Support,Customer Support Executive,Support,Pune,Company Website,Diploma,G2,610000,1053,,,,3.7,0,2.7,0.0452,2.41,0
+542,Rohan Nair,Male,2025-07-09,,Active,Human Resources,HR Executive,HR,Mumbai,Company Website,Diploma,G2,620000,801,,,,2.9,0,,0.0315,0.48,0
+543,Vaishnavi Iyer,Male,2023-05-17,2023-10-07,Terminated,Procurement,Procurement Manager,Procurement,Mumbai,Campus Hiring,MBA/PGDM,G5,1455000,230,Relocation,2.0,No,,0,,0.053,0.39,1
+544,Isha Singh,Female,2025-03-22,2025-10-16,Resigned,Sales,Sales Executive,Sales,Gurugram,Naukri,Master's,G3,765000,78,Role/Workload,4.0,Yes,,0,,0.0526,0.57,1
+545,Sonali Saxena,Female,2023-04-10,,Active,Customer Support,Customer Support Executive,Support,Pune,Company Website,MBA/PGDM,G2,590000,603,,,,2.8,0,3.07,0.0493,2.73,0
+546,Trisha Patel,Female,2023-03-15,,Active,Information Technology,Data Analyst,IT,Pune,Recruitment Agency,Bachelor's,G3,865000,111,,,,2.9,0,2.9,0.0482,2.8,0
+547,Ankita Sawant,Male,2025-08-29,,Active,Procurement,Procurement Manager,Procurement,Bengaluru,LinkedIn,Bachelor's,G5,1510000,895,,,,3.0,0,,0.0446,0.34,0
+548,Trisha Shinde,Male,2023-02-05,,Active,Sales,Sales Executive,Sales,Bengaluru,Naukri,MBA/PGDM,G1,490000,1058,,,,3.5,0,3.1,0.0294,2.9,0
+549,Aditya Pawar,Male,2022-09-23,,Active,Information Technology,IT Manager,IT,Pune,Recruitment Agency,Master's,G5,1880000,71,,,,3.9,0,2.33,0.0508,3.27,0
+550,Dev Jain,Male,2022-09-20,2023-02-17,Resigned,Procurement,Procurement Analyst,Procurement,Mumbai,Company Website,Diploma,G3,820000,500,Relocation,3.0,Yes,3.2,0,2.8,0.0611,0.41,1
+551,Rohan Jain,Female,2023-12-28,,Active,Information Technology,Software Engineer,IT,Pune,Employee Referral,Bachelor's,G3,945000,1182,,,,3.55,0,2.4,0.0602,2.01,0
+552,Aditi Thakur,Male,2025-04-23,,Active,Operations,Operations Manager,Operations,Mumbai,Recruitment Agency,Diploma,G5,1520000,1102,,,,3.7,0,4.2,0.0365,0.69,0
+553,Sonali Chopra,Male,2022-12-09,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,MBA/PGDM,G2,735000,308,,,,3.77,0,2.7,0.0452,3.06,0
+554,Isha Menon,Male,2022-06-13,,Active,Information Technology,IT Manager,IT,Bengaluru,Company Website,Master's,G4,1385000,994,,,,3.5,0,2.85,0.0472,3.55,0
+555,Abhishek Nair,Male,2024-02-29,2025-06-30,Resigned,Operations,Operations Executive,Operations,Bengaluru,Employee Referral,Bachelor's,G1,465000,803,Compensation,3.0,Yes,3.7,0,1.8,0.0598,1.33,1
+556,Rahul Sharma,Male,2024-05-04,,Active,Information Technology,Data Analyst,IT,Hyderabad,Company Website,MBA/PGDM,G3,820000,716,,,,2.65,0,2.3,0.0462,1.66,0
+557,Aniket Deshmukh,Male,2024-03-13,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Diploma,G4,1180000,622,,,,3.65,0,3.0,0.0381,1.8,0
+558,Dhruv Reddy,Male,2021-12-14,,Active,Sales,Sales Manager,Sales,Pune,Campus Hiring,MBA/PGDM,G4,1070000,972,,,,3.18,0,2.93,0.0419,4.05,0
+559,Tanya More,Female,2023-07-22,,Active,Operations,Operations Executive,Operations,Chennai,Naukri,Bachelor's,G2,640000,1038,,,,3.83,0,3.1,0.0436,2.44,0
+560,Priya Mehta,Female,2022-03-01,,Active,Finance,Financial Analyst,Finance,Pune,Employee Referral,MBA/PGDM,G3,900000,777,,,,4.08,0,2.4,0.0456,3.84,0
+561,Vidya Thakur,Female,2025-02-08,,Active,Procurement,Procurement Manager,Procurement,Pune,Recruitment Agency,Bachelor's,G3,995000,1080,,,,4.0,0,2.6,0.0426,0.89,0
+562,Vivek Iyer,Female,2024-02-13,,Active,Information Technology,IT Manager,IT,Hyderabad,LinkedIn,Diploma,G4,1315000,363,,,,4.5,0,2.6,0.0487,1.88,0
+563,Diya Singh,Male,2023-06-12,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Master's,G5,1660000,133,,,,3.87,0,3.2,0.0458,2.55,0
+564,Anjali Sawant,Female,2021-05-16,,Active,Information Technology,Data Analyst,IT,Pune,Employee Referral,Bachelor's,G3,940000,1176,,,,3.72,0,3.6,0.0466,4.63,0
+565,Nisha Pawar,Male,2024-03-01,2025-06-07,Resigned,Marketing,Marketing Analyst,Marketing,Delhi,Campus Hiring,Bachelor's,G2,715000,401,Better Career Opportunity,4.0,Yes,3.9,0,2.6,0.0516,1.27,1
+566,Yash Singh,Female,2021-07-29,,Active,Operations,Operations Executive,Operations,Hyderabad,Employee Referral,Master's,G1,470000,663,,,,3.84,1,3.2,0.0472,4.42,0
+567,Manish Pillai,Male,2024-11-09,,Active,Information Technology,Data Analyst,IT,Gurugram,Naukri,Diploma,G3,895000,712,,,,3.45,0,3.6,0.0592,1.14,0
+568,Karan Mishra,Male,2022-09-23,,Active,Procurement,Procurement Manager,Procurement,Pune,LinkedIn,Master's,G4,1090000,882,,,,3.75,0,2.93,0.0408,3.27,0
+569,Anjali Menon,Male,2022-10-09,,Active,Human Resources,HR Executive,HR,Hyderabad,Company Website,Bachelor's,G2,645000,808,,,,3.7,0,3.53,0.0409,3.23,0
+570,Vaishnavi Saxena,Male,2023-10-05,,Active,Customer Support,Customer Support Executive,Support,Delhi,Company Website,MBA/PGDM,G2,580000,379,,,,3.67,0,2.4,0.0465,2.24,0
+571,Vivek Mehta,Female,2023-04-15,2025-11-18,Resigned,Finance,Financial Analyst,Finance,Bengaluru,Naukri,Bachelor's,G2,685000,633,Compensation,1.0,No,3.15,0,2.8,0.0476,2.6,1
+572,Arjun Thakur,Female,2023-03-13,2024-05-21,Resigned,Marketing,Marketing Analyst,Marketing,Chennai,Recruitment Agency,MBA/PGDM,G2,565000,320,Role/Workload,4.0,Yes,3.7,0,,0.0506,1.19,1
+573,Manish More,Male,2024-03-31,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Naukri,Diploma,G2,640000,234,,,,3.4,0,2.6,0.0448,1.75,0
+574,Abhishek Shinde,Female,2024-08-27,,Active,Operations,Operations Manager,Operations,Mumbai,Recruitment Agency,Master's,G5,1450000,655,,,,4.2,0,3.4,0.0432,1.34,0
+575,Rhea Jadhav,Male,2022-03-15,,Active,Customer Support,Customer Support Manager,Support,Chennai,Employee Referral,Diploma,G3,885000,905,,,,3.4,0,2.65,0.0538,3.8,0
+576,Rhea Patel,Female,2022-06-06,,Active,Sales,Sales Manager,Sales,Pune,Campus Hiring,Diploma,G5,1510000,557,,,,3.23,0,3.13,0.0493,3.57,0
+577,Vaishnavi Iyer,Male,2022-08-13,,Active,Information Technology,Software Engineer,IT,Chennai,Recruitment Agency,Master's,G2,695000,71,,,,2.67,0,3.4,0.0505,3.38,0
+578,Amit Chopra,Female,2023-01-24,2023-07-06,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Diploma,G3,930000,421,Better Career Opportunity,2.0,Yes,,0,,0.0411,0.45,1
+579,Rohit Kulkarni,Female,2023-02-27,,Active,Human Resources,HR Executive,HR,Gurugram,LinkedIn,Bachelor's,G2,650000,170,,,,2.53,0,2.6,0.036,2.84,0
+580,Dev Naik,Female,2023-11-26,,Active,Information Technology,Data Analyst,IT,Mumbai,Employee Referral,MBA/PGDM,G2,610000,589,,,,3.03,0,3.3,0.0488,2.1,0
+581,Karan More,Female,2025-10-21,2025-12-30,Resigned,Procurement,Procurement Analyst,Procurement,Mumbai,Campus Hiring,Master's,G2,720000,230,Personal Reasons,5.0,No,2.6,0,,0.0625,0.19,1
+582,Nisha Kulkarni,Male,2022-09-25,,Active,Operations,Operations Manager,Operations,Mumbai,Company Website,Bachelor's,G3,910000,187,,,,3.23,0,3.27,0.0561,3.27,0
+583,Shreya Iyer,Male,2021-12-19,,Active,Sales,Sales Manager,Sales,Pune,Campus Hiring,Master's,G3,960000,475,,,,3.6,0,2.85,0.0433,4.03,0
+584,Sanjay Thakur,Male,2022-09-03,,Active,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Diploma,G2,535000,334,,,,3.15,1,2.8,0.0559,3.33,0
+585,Harsh Pillai,Female,2024-05-16,,Active,Operations,Operations Executive,Operations,Bengaluru,Employee Referral,Master's,G1,485000,760,,,,2.9,0,2.7,0.0576,1.63,0
+586,Ananya Kulkarni,Female,2022-05-05,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Company Website,Master's,G2,550000,220,,,,3.17,0,2.9,0.0519,3.66,0
+587,Maya Deshmukh,Male,2025-09-11,,Active,Information Technology,IT Manager,IT,Mumbai,Recruitment Agency,Diploma,G5,1605000,723,,,,4.0,0,,0.0353,0.3,0
+588,Rohit Rao,Female,2023-08-28,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,Bachelor's,G1,465000,106,,,,4.07,0,2.9,0.0565,2.34,0
+589,Isha Nair,Female,2023-10-01,,Active,Information Technology,IT Manager,IT,Mumbai,Employee Referral,MBA/PGDM,G5,1895000,96,,,,3.47,0,2.5,0.0412,2.25,0
+590,Rohan Chopra,Female,2021-09-25,,Active,Information Technology,Software Engineer,IT,Bengaluru,Recruitment Agency,MBA/PGDM,G3,910000,133,,,,2.7,1,3.27,0.0422,4.27,0
+591,Priya Bansal,Female,2025-04-27,2025-09-11,Resigned,Information Technology,IT Manager,IT,Pune,Company Website,MBA/PGDM,G4,1120000,325,Better Career Opportunity,2.0,No,,0,,0.0394,0.38,1
+592,Sonali Bansal,Male,2025-07-02,,Active,Operations,Operations Executive,Operations,Delhi,LinkedIn,Master's,G2,615000,605,,,,3.9,0,,0.0692,0.5,0
+593,Meera Mishra,Female,2023-09-07,,Active,Customer Support,Customer Support Executive,Support,Delhi,Recruitment Agency,MBA/PGDM,G2,605000,986,,,,3.47,0,2.8,0.0414,2.32,0
+594,Vidya Gupta,Female,2025-01-29,,Active,Information Technology,Data Analyst,IT,Hyderabad,Naukri,MBA/PGDM,G3,805000,190,,,,4.0,0,1.4,0.0392,0.92,0
+595,Trisha Jain,Female,2023-07-09,,Active,Sales,Sales Executive,Sales,Chennai,Recruitment Agency,MBA/PGDM,G2,515000,484,,,,3.17,0,3.27,0.0439,2.48,0
+596,Dhruv Deshmukh,Male,2022-12-14,2025-03-28,Resigned,Customer Support,Customer Support Executive,Support,Delhi,Campus Hiring,MBA/PGDM,G2,550000,1009,Relocation,3.0,Yes,3.63,0,2.6,0.0666,2.29,1
+597,Sneha Iyer,Male,2025-03-08,,Active,Finance,Financial Analyst,Finance,Gurugram,Recruitment Agency,Master's,G3,845000,765,,,,3.4,0,3.2,0.0493,0.82,0
+598,Rohit Iyer,Male,2025-07-03,,Active,Customer Support,Customer Support Executive,Support,Delhi,Recruitment Agency,MBA/PGDM,G1,400000,717,,,,4.1,0,2.4,0.0551,0.5,0
+599,Sanjay Malhotra,Female,2022-12-19,,Active,Human Resources,HR Executive,HR,Gurugram,LinkedIn,Diploma,G2,640000,732,,,,3.73,0,3.1,0.0417,3.03,0
+600,Sanjay Sharma,Male,2024-07-25,2025-08-08,Resigned,Finance,Finance Manager,Finance,Bengaluru,Company Website,Diploma,G5,1725000,889,Personal Reasons,5.0,Yes,2.7,0,2.6,0.0464,1.04,1
+601,Vidya Shinde,Male,2025-05-19,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Naukri,Master's,G4,1180000,1068,,,,3.4,0,,0.0514,0.62,0
+602,Vaishnavi Sawant,Male,2025-04-14,2025-09-18,Terminated,Information Technology,Software Engineer,IT,Chennai,Naukri,Master's,G3,805000,1001,Better Career Opportunity,2.0,Yes,,0,,0.0407,0.43,1
+603,Ashish Bansal,Male,2022-01-07,2025-12-22,Resigned,Customer Support,Customer Support Manager,Support,Gurugram,Employee Referral,Master's,G3,810000,55,Higher Education,4.0,Yes,3.9,0,3.0,0.0492,3.96,1
+604,Aarav Chopra,Female,2022-06-27,,Active,Marketing,Marketing Manager,Marketing,Delhi,Campus Hiring,Diploma,G4,1385000,234,,,,2.75,0,2.9,0.0513,3.51,0
+605,Abhishek Iyer,Female,2021-09-01,2022-04-09,Resigned,Operations,Operations Manager,Operations,Delhi,Campus Hiring,Diploma,G4,1180000,151,Better Career Opportunity,4.0,Yes,3.7,0,,0.0523,0.6,1
+606,Dhruv Patel,Male,2023-04-16,,Active,Finance,Financial Analyst,Finance,Ahmedabad,Employee Referral,Bachelor's,G2,710000,136,,,,3.6,0,3.0,0.0482,2.71,0
+607,Sanjay Iyer,Female,2024-05-11,,Active,Human Resources,HR Executive,HR,Mumbai,Employee Referral,MBA/PGDM,G2,670000,732,,,,3.05,0,2.4,0.0322,1.64,0
+608,Karan Jain,Male,2022-05-10,,Active,Finance,Finance Manager,Finance,Pune,Naukri,Master's,G4,1270000,40,,,,3.42,0,3.0,0.0512,3.64,0
+609,Sonali Verma,Female,2021-07-25,2024-02-09,Resigned,Information Technology,Data Analyst,IT,Gurugram,Campus Hiring,Bachelor's,G3,875000,737,Better Career Opportunity,1.0,Yes,3.03,1,2.7,0.0441,2.54,1
+610,Isha Nair,Male,2025-06-03,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Company Website,MBA/PGDM,G2,515000,123,,,,4.4,0,2.2,0.0516,0.58,0
+611,Kavya More,Male,2025-06-17,,Active,Operations,Operations Manager,Operations,Mumbai,LinkedIn,Bachelor's,G4,1320000,277,,,,4.6,0,,0.0331,0.54,0
+612,Tanya Pillai,Male,2023-11-13,,Active,Information Technology,Software Engineer,IT,Mumbai,Campus Hiring,Diploma,G3,765000,178,,,,3.33,1,3.1,0.069,2.13,0
+613,Tanya Singh,Female,2024-06-23,,Active,Finance,Finance Manager,Finance,Mumbai,LinkedIn,Diploma,G5,1415000,796,,,,3.65,0,3.8,0.051,1.52,0
+614,Vivek Jadhav,Male,2023-01-07,,Active,Human Resources,HR Executive,HR,Bengaluru,Naukri,Bachelor's,G1,455000,694,,,,2.97,0,2.6,0.0508,2.98,0
+615,Mohit Sharma,Male,2021-07-08,2025-07-15,Resigned,Operations,Operations Executive,Operations,Chennai,Company Website,Bachelor's,G2,535000,469,Better Career Opportunity,5.0,Yes,3.23,0,2.4,0.0429,4.02,1
+616,Dhruv Rao,Male,2024-04-21,2024-06-29,Resigned,Information Technology,Data Analyst,IT,Mumbai,Recruitment Agency,Bachelor's,G3,840000,369,Compensation,2.0,Yes,,0,,0.0317,0.19,1
+617,Meera Singh,Female,2022-11-02,2025-05-16,Resigned,Sales,Sales Executive,Sales,Bengaluru,Company Website,MBA/PGDM,G2,535000,665,Higher Education,2.0,Yes,3.13,0,3.07,0.0628,2.54,1
+618,Ananya Patel,Female,2025-02-02,2025-06-28,Terminated,Operations,Operations Executive,Operations,Bengaluru,Naukri,Master's,G3,760000,194,Higher Education,3.0,Yes,,0,,0.0283,0.4,1
+619,Dhruv Jain,Female,2021-08-21,2023-03-29,Resigned,Customer Support,Customer Support Executive,Support,Pune,Employee Referral,Master's,G1,375000,807,Relocation,5.0,No,2.85,0,3.4,0.0486,1.6,1
+620,Shreya Jain,Female,2023-09-17,,Active,Operations,Operations Executive,Operations,Bengaluru,Company Website,Master's,G2,590000,824,,,,3.7,1,4.0,0.0489,2.29,0
+621,Priya Gupta,Male,2024-12-29,,Active,Sales,Sales Manager,Sales,Hyderabad,Company Website,MBA/PGDM,G4,1130000,179,,,,3.3,0,,0.0655,1.0,0
+622,Sakshi Patel,Male,2025-10-09,,Active,Sales,Sales Manager,Sales,Gurugram,Naukri,Bachelor's,G3,905000,367,,,,2.5,0,2.2,0.0462,0.23,0
+623,Rhea Mishra,Female,2021-12-03,2024-01-31,Terminated,Procurement,Procurement Manager,Procurement,Bengaluru,Company Website,Diploma,G4,1065000,657,Better Career Opportunity,1.0,Yes,3.3,0,3.4,0.0478,2.16,1
+624,Isha Singh,Male,2022-06-28,,Active,Information Technology,Data Analyst,IT,Delhi,Employee Referral,Diploma,G3,760000,71,,,,3.05,0,2.33,0.042,3.51,0
+625,Trisha Sharma,Female,2023-11-02,,Active,Finance,Financial Analyst,Finance,Delhi,Naukri,Master's,G3,905000,675,,,,3.33,0,3.47,0.0403,2.16,0
+626,Rhea Patel,Male,2021-04-22,2025-06-03,Resigned,Marketing,Marketing Analyst,Marketing,Hyderabad,Company Website,Bachelor's,G2,730000,690,Performance Termination,2.0,Yes,3.27,1,2.9,0.0464,4.11,1
+627,Sakshi Rao,Female,2023-08-31,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,LinkedIn,Diploma,G1,435000,352,,,,3.3,0,3.1,0.038,2.34,0
+628,Sanjay Naik,Male,2021-08-06,,Active,Information Technology,Data Analyst,IT,Hyderabad,Naukri,Diploma,G3,820000,994,,,,4.06,1,3.45,0.0518,4.4,0
+629,Sneha Sharma,Male,2022-12-14,,Active,Sales,Sales Manager,Sales,Mumbai,LinkedIn,Diploma,G5,1405000,1011,,,,3.3,0,3.13,0.0416,3.05,0
+630,Trisha Shinde,Female,2025-01-03,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,Employee Referral,Bachelor's,G2,605000,500,,,,3.7,0,3.0,0.0625,0.99,0
+631,Rhea Sharma,Female,2024-04-12,2025-07-18,Resigned,Information Technology,IT Manager,IT,Bengaluru,Naukri,MBA/PGDM,G5,1470000,6,Better Career Opportunity,2.0,No,2.2,0,3.2,0.0519,1.26,1
+632,Dhruv Malhotra,Male,2024-08-08,2025-04-07,Resigned,Marketing,Marketing Manager,Marketing,Mumbai,Naukri,Master's,G4,1175000,795,Performance Termination,1.0,No,3.0,0,2.6,0.0508,0.66,1
+633,Diya Verma,Male,2023-04-28,,Active,Finance,Finance Manager,Finance,Mumbai,LinkedIn,Diploma,G5,1405000,831,,,,3.13,0,2.13,0.0548,2.68,0
+634,Vidya Saxena,Male,2025-05-26,2025-09-10,Resigned,Information Technology,Data Analyst,IT,Mumbai,Recruitment Agency,Master's,G4,1010000,74,Better Career Opportunity,2.0,Yes,,0,,0.028,0.29,1
+635,Karan Mishra,Male,2023-03-15,2024-07-18,Terminated,Human Resources,HR Manager,HR,Pune,Naukri,MBA/PGDM,G5,1470000,727,Role/Workload,5.0,No,3.9,0,,0.0362,1.34,1
+636,Aditya Reddy,Male,2025-08-17,2025-10-30,Resigned,Operations,Operations Executive,Operations,Bengaluru,Recruitment Agency,MBA/PGDM,G2,660000,469,Personal Reasons,4.0,No,,0,,0.0656,0.2,1
+637,Mohit Sharma,Male,2024-07-25,,Active,Sales,Sales Executive,Sales,Bengaluru,Company Website,Master's,G2,670000,1077,,,,2.85,1,2.5,0.0563,1.43,0
+638,Aarav Jadhav,Male,2023-03-22,,Active,Information Technology,Software Engineer,IT,Ahmedabad,Company Website,Master's,G4,1250000,34,,,,3.03,1,3.9,0.0476,2.78,0
+639,Rhea Khan,Male,2025-04-02,,Active,Human Resources,HR Manager,HR,Pune,Naukri,MBA/PGDM,G3,925000,9,,,,2.9,0,3.6,0.066,0.75,0
+640,Neha Jain,Female,2023-08-15,,Active,Information Technology,IT Manager,IT,Pune,Naukri,MBA/PGDM,G5,1625000,207,,,,3.9,0,2.8,0.0285,2.38,0
+641,Trisha Mishra,Male,2023-10-15,,Active,Operations,Operations Executive,Operations,Pune,Company Website,Diploma,G2,740000,119,,,,4.0,0,3.8,0.0414,2.21,0
+642,Priya Kapoor,Female,2025-05-25,,Active,Human Resources,HR Manager,HR,Gurugram,Recruitment Agency,Diploma,G4,1325000,732,,,,3.9,0,2.2,0.0351,0.6,0
+643,Sahil Malhotra,Female,2023-02-09,,Active,Operations,Operations Executive,Operations,Mumbai,Naukri,Bachelor's,G2,600000,1144,,,,2.67,0,2.6,0.0361,2.89,0
+644,Rohit Gupta,Male,2021-02-16,,Active,Information Technology,Data Analyst,IT,Hyderabad,Naukri,MBA/PGDM,G2,715000,369,,,,3.64,0,3.13,0.0514,4.87,0
+645,Shreya Menon,Female,2021-06-26,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,LinkedIn,Master's,G2,595000,10,,,,3.34,0,2.52,0.0485,4.51,0
+646,Aditya Verma,Male,2021-10-31,,Active,Operations,Operations Executive,Operations,Bengaluru,Recruitment Agency,Diploma,G3,815000,19,,,,3.34,0,3.2,0.0528,4.17,0
+647,Tanvi More,Male,2025-05-23,2025-10-10,Resigned,Sales,Sales Executive,Sales,Delhi,Recruitment Agency,MBA/PGDM,G2,625000,747,Personal Reasons,4.0,No,,0,,0.063,0.38,1
+648,Meera More,Female,2024-04-20,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Campus Hiring,Bachelor's,G4,1255000,82,,,,3.55,0,2.4,0.0495,1.7,0
+649,Neha Reddy,Male,2024-05-25,,Active,Sales,Sales Manager,Sales,Mumbai,LinkedIn,Diploma,G4,1100000,385,,,,2.45,0,,0.0343,1.6,0
+650,Amit Rao,Female,2024-05-24,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Master's,G3,755000,453,,,,4.8,0,3.7,0.0553,1.6,0
+651,Shreya Patel,Male,2024-11-29,,Active,Sales,Sales Manager,Sales,Ahmedabad,Employee Referral,Diploma,G4,1320000,957,,,,4.15,0,3.4,0.0403,1.09,0
+652,Neha Jadhav,Male,2024-10-13,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,LinkedIn,MBA/PGDM,G3,775000,220,,,,4.0,0,3.0,0.041,1.22,0
+653,Rahul Mishra,Male,2023-11-17,,Active,Customer Support,Customer Support Executive,Support,Pune,Employee Referral,Bachelor's,G2,590000,238,,,,3.57,0,3.27,0.0526,2.12,0
+654,Abhishek Pawar,Female,2021-11-25,2024-07-18,Resigned,Operations,Operations Manager,Operations,Bengaluru,Employee Referral,Diploma,G4,1210000,350,Better Career Opportunity,1.0,Yes,4.07,0,3.6,0.0521,2.64,1
+655,Riya Jain,Male,2022-06-02,,Active,Operations,Operations Manager,Operations,Pune,Campus Hiring,Diploma,G3,990000,908,,,,3.1,0,3.4,0.0517,3.58,0
+656,Manish Verma,Male,2024-08-01,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Bachelor's,G5,1790000,757,,,,2.4,0,2.8,0.0497,1.42,0
+657,Riya Menon,Male,2022-11-28,,Active,Procurement,Procurement Manager,Procurement,Pune,LinkedIn,MBA/PGDM,G4,1385000,102,,,,3.2,0,3.0,0.036,3.09,0
+658,Dev Verma,Male,2024-10-12,,Active,Procurement,Procurement Analyst,Procurement,Delhi,Company Website,Master's,G2,700000,547,,,,3.6,0,3.3,0.034,1.22,0
+659,Pallavi Gupta,Male,2022-03-09,,Active,Information Technology,IT Manager,IT,Delhi,Recruitment Agency,Diploma,G4,1175000,587,,,,3.27,0,3.13,0.0471,3.81,0
+660,Sonali Malhotra,Male,2025-01-17,,Active,Information Technology,Data Analyst,IT,Pune,Employee Referral,MBA/PGDM,G3,925000,886,,,,3.3,0,3.8,0.0229,0.95,0
+661,Harsh Pillai,Female,2023-12-05,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Employee Referral,MBA/PGDM,G3,815000,763,,,,4.23,1,2.4,0.0585,2.07,0
+662,Meera More,Female,2022-03-17,,Active,Human Resources,HR Manager,HR,Mumbai,Recruitment Agency,Diploma,G4,1215000,1140,,,,3.72,0,3.1,0.0462,3.79,0
+663,Zoya Patel,Male,2024-07-23,2025-03-29,Terminated,Operations,Operations Manager,Operations,Delhi,Campus Hiring,Bachelor's,G5,1430000,760,Compensation,1.0,No,3.2,0,,0.0265,0.68,1
+664,Pooja Menon,Male,2025-05-05,,Active,Customer Support,Customer Support Manager,Support,Chennai,LinkedIn,Diploma,G3,910000,973,,,,2.9,0,2.0,0.0526,0.66,0
+665,Dev Mishra,Male,2025-06-14,,Active,Sales,Sales Manager,Sales,Bengaluru,Company Website,Master's,G4,1075000,106,,,,2.7,0,2.2,0.0483,0.55,0
+666,Trisha Pawar,Male,2023-11-23,,Active,Sales,Sales Executive,Sales,Bengaluru,Recruitment Agency,Master's,G2,665000,696,,,,3.57,0,3.2,0.0504,2.11,0
+667,Anjali Kapoor,Male,2023-06-09,,Active,Information Technology,Software Engineer,IT,Bengaluru,LinkedIn,Bachelor's,G4,1240000,354,,,,3.27,0,2.5,0.0328,2.56,0
+668,Sonali Jadhav,Male,2022-10-25,2023-08-12,Resigned,Sales,Sales Executive,Sales,Bengaluru,Company Website,MBA/PGDM,G2,665000,1166,Role/Workload,3.0,No,3.8,0,,0.0596,0.8,1
+669,Aarav Verma,Female,2023-09-08,,Active,Finance,Finance Manager,Finance,Bengaluru,Naukri,Master's,G4,1120000,707,,,,3.77,0,2.2,0.0486,2.31,0
+670,Harsh Gupta,Male,2022-08-05,2025-04-01,Terminated,Customer Support,Customer Support Executive,Support,Delhi,Campus Hiring,Bachelor's,G2,635000,1006,Performance Termination,5.0,No,4.3,0,3.2,0.051,2.66,1
+671,Abhishek Mehta,Male,2025-10-20,,Active,Finance,Finance Manager,Finance,Pune,Company Website,MBA/PGDM,G5,1540000,889,,,,3.5,0,2.8,0.0896,0.2,0
+672,Vivek Naik,Male,2023-05-23,,Active,Operations,Operations Executive,Operations,Chennai,Employee Referral,Master's,G2,545000,264,,,,3.23,0,3.13,0.0435,2.61,0
+673,Karan More,Female,2025-05-25,,Active,Finance,Finance Manager,Finance,Chennai,Campus Hiring,Master's,G5,1625000,292,,,,3.1,0,3.6,0.0585,0.6,0
+674,Mohit Jain,Male,2021-04-05,,Active,Human Resources,HR Executive,HR,Chennai,Campus Hiring,Diploma,G1,470000,694,,,,3.8,0,3.2,0.0416,4.74,0
+675,Karan Malhotra,Female,2023-04-09,,Active,Finance,Finance Manager,Finance,Mumbai,Recruitment Agency,MBA/PGDM,G5,1420000,434,,,,3.67,0,4.4,0.0397,2.73,0
+676,Meera Shinde,Female,2023-04-02,,Active,Operations,Operations Executive,Operations,Mumbai,Campus Hiring,Diploma,G1,495000,1144,,,,2.8,1,2.3,0.0505,2.75,0
+677,Trisha Patel,Female,2023-02-13,,Active,Operations,Operations Manager,Operations,Hyderabad,Employee Referral,Bachelor's,G4,1315000,897,,,,4.0,0,3.6,0.0385,2.88,0
+678,Sneha More,Male,2021-10-30,,Active,Customer Support,Customer Support Executive,Support,Pune,Employee Referral,MBA/PGDM,G2,645000,738,,,,3.26,0,3.07,0.0473,4.17,0
+679,Pooja Kapoor,Female,2023-08-24,,Active,Sales,Sales Manager,Sales,Pune,Recruitment Agency,MBA/PGDM,G4,1115000,696,,,,3.5,0,2.4,0.0391,2.35,0
+680,Sakshi Pawar,Male,2025-06-30,2025-12-24,Resigned,Human Resources,HR Manager,HR,Mumbai,Campus Hiring,MBA/PGDM,G3,925000,745,Retirement,2.0,Yes,3.3,0,2.8,0.0544,0.48,1
+681,Isha Mehta,Female,2024-06-07,,Active,Finance,Financial Analyst,Finance,Ahmedabad,Recruitment Agency,Diploma,G2,560000,777,,,,3.05,0,3.4,0.0594,1.57,0
+682,Priya Menon,Female,2023-07-12,,Active,Operations,Operations Executive,Operations,Mumbai,Naukri,Master's,G2,630000,266,,,,3.13,0,3.33,0.0375,2.47,0
+683,Riya Khan,Male,2022-03-26,,Active,Sales,Sales Manager,Sales,Mumbai,Recruitment Agency,Bachelor's,G4,1360000,179,,,,3.38,0,3.25,0.0457,3.77,0
+684,Dhruv Joshi,Female,2025-01-27,,Active,Operations,Operations Executive,Operations,Mumbai,Company Website,Bachelor's,G2,540000,932,,,,4.0,0,3.8,0.0428,0.93,0
+685,Abhishek Mishra,Female,2023-06-12,,Active,Sales,Sales Executive,Sales,Pune,Campus Hiring,Bachelor's,G2,555000,529,,,,3.77,1,3.4,0.0447,2.55,0
+686,Akash Kulkarni,Female,2023-08-16,,Active,Customer Support,Customer Support Executive,Support,Pune,Employee Referral,Diploma,G1,395000,281,,,,3.67,2,3.6,0.0285,2.38,0
+687,Priya Thakur,Female,2023-05-19,,Active,Sales,Sales Manager,Sales,Pune,Campus Hiring,Diploma,G4,1270000,319,,,,3.6,0,3.0,0.061,2.62,0
+688,Yash Jadhav,Male,2024-04-05,,Active,Human Resources,HR Executive,HR,Gurugram,Naukri,Bachelor's,G2,715000,639,,,,4.0,1,2.5,0.0311,1.74,0
+689,Rhea Verma,Female,2021-08-23,,Active,Sales,Sales Executive,Sales,Bengaluru,Employee Referral,MBA/PGDM,G3,775000,28,,,,3.58,0,2.88,0.0367,4.36,0
+690,Sakshi Patel,Male,2022-03-19,2023-12-22,Terminated,Marketing,Marketing Manager,Marketing,Mumbai,Company Website,Master's,G5,1595000,802,Performance Termination,1.0,Yes,3.7,0,2.6,0.0516,1.76,1
+691,Akash Shinde,Female,2022-01-14,,Active,Information Technology,Software Engineer,IT,Pune,Campus Hiring,MBA/PGDM,G2,695000,41,,,,3.3,0,3.1,0.044,3.96,0
+692,Zoya Reddy,Male,2021-05-05,2024-07-08,Resigned,Finance,Finance Manager,Finance,Mumbai,LinkedIn,Diploma,G4,1105000,673,Compensation,5.0,Yes,3.6,0,3.6,0.0548,3.18,1
+693,Rohan Joshi,Male,2021-06-14,,Active,Operations,Operations Manager,Operations,Pune,Naukri,Bachelor's,G4,1140000,164,,,,2.82,0,3.73,0.0449,4.55,0
+694,Zoya Kulkarni,Male,2024-04-27,,Active,Human Resources,HR Manager,HR,Bengaluru,Campus Hiring,Bachelor's,G4,1095000,189,,,,3.0,0,,0.0509,1.68,0
+695,Akash More,Female,2021-08-27,,Active,Customer Support,Customer Support Manager,Support,Chennai,Employee Referral,MBA/PGDM,G3,925000,986,,,,3.2,0,2.68,0.0448,4.34,0
+696,Sneha Deshmukh,Male,2021-11-17,,Active,Sales,Sales Manager,Sales,Mumbai,Company Website,Bachelor's,G5,1415000,834,,,,3.5,0,3.8,0.045,4.12,0
+697,Rohit Patel,Male,2022-02-08,2025-02-08,Terminated,Finance,Finance Manager,Finance,Mumbai,Naukri,Master's,G5,1765000,292,Better Career Opportunity,3.0,No,2.57,0,2.8,0.0365,3.0,1
+698,Tanya Thakur,Female,2024-09-13,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Naukri,MBA/PGDM,G1,480000,986,,,,3.4,0,3.0,0.04,1.3,0
+699,Akash Shinde,Male,2024-07-18,,Active,Finance,Finance Manager,Finance,Pune,Employee Referral,MBA/PGDM,G4,1335000,1059,,,,2.9,0,2.6,0.0366,1.45,0
+700,Harsh Jadhav,Female,2025-09-09,,Active,Customer Support,Customer Support Executive,Support,Pune,Employee Referral,Master's,G2,520000,414,,,,2.8,0,2.6,0.0345,0.31,0
+701,Sahil Naik,Male,2024-03-20,,Active,Sales,Sales Executive,Sales,Hyderabad,LinkedIn,Master's,G2,505000,2,,,,3.85,1,,0.0527,1.78,0
+702,Maya Chopra,Female,2023-11-02,,Active,Operations,Operations Manager,Operations,Gurugram,Naukri,Master's,G4,1285000,1098,,,,2.93,0,3.2,0.0357,2.16,0
+703,Rahul Mehta,Male,2022-12-05,2024-12-27,Resigned,Marketing,Marketing Analyst,Marketing,Delhi,Company Website,Master's,G2,685000,1068,Personal Reasons,4.0,Yes,2.8,0,2.8,0.0463,2.06,1
+704,Sahil Jadhav,Female,2025-06-29,2025-09-20,Terminated,Human Resources,HR Manager,HR,Bengaluru,Employee Referral,Bachelor's,G4,1105000,801,Better Career Opportunity,3.0,Yes,,0,,0.0349,0.23,1
+705,Akash Sawant,Female,2024-04-01,,Active,Operations,Operations Executive,Operations,Bengaluru,LinkedIn,Diploma,G3,780000,1038,,,,3.55,0,2.8,0.0421,1.75,0
+706,Sahil Thakur,Male,2023-04-13,,Active,Customer Support,Customer Support Manager,Support,Pune,LinkedIn,Diploma,G3,970000,1009,,,,3.57,0,2.5,0.0511,2.72,0
+707,Tanvi Menon,Male,2023-01-17,2023-08-22,Resigned,Finance,Finance Manager,Finance,Delhi,LinkedIn,Diploma,G4,1220000,1065,Better Career Opportunity,5.0,Yes,,0,,0.0412,0.59,1
+708,Zoya Chopra,Male,2022-07-06,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,MBA/PGDM,G2,560000,465,,,,3.67,0,3.2,0.0467,3.49,0
+709,Diya Pawar,Male,2024-02-20,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Employee Referral,Diploma,G2,605000,623,,,,2.8,0,3.5,0.0451,1.86,0
+710,Rahul Khan,Male,2025-04-26,,Active,Information Technology,IT Manager,IT,Hyderabad,LinkedIn,Master's,G5,1990000,811,,,,3.7,0,3.0,0.0529,0.68,0
+711,Sakshi Naik,Male,2025-06-04,,Active,Information Technology,Software Engineer,IT,Bengaluru,LinkedIn,Bachelor's,G3,875000,1043,,,,4.1,0,3.8,0.0458,0.57,0
+712,Arjun Joshi,Male,2024-02-03,2024-08-16,Resigned,Information Technology,IT Manager,IT,Bengaluru,Employee Referral,MBA/PGDM,G5,1900000,114,Better Career Opportunity,2.0,Yes,,0,,0.0278,0.53,1
+713,Aditi Pillai,Female,2022-07-01,,Active,Customer Support,Customer Support Manager,Support,Gurugram,Naukri,Diploma,G3,930000,1021,,,,2.4,0,2.6,0.0364,3.5,0
+714,Pooja Verma,Male,2021-10-05,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Naukri,MBA/PGDM,G4,1195000,33,,,,3.52,0,2.87,0.0497,4.24,0
+715,Ashish Menon,Female,2025-09-28,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Bachelor's,G4,1255000,1156,,,,5.0,0,2.4,0.0357,0.26,0
+716,Dev Sawant,Male,2022-02-21,,Active,Information Technology,IT Manager,IT,Chennai,Campus Hiring,Bachelor's,G4,1160000,540,,,,3.67,0,2.8,0.0434,3.86,0
+717,Riya Patel,Male,2022-09-05,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Master's,G4,1035000,225,,,,3.65,0,2.9,0.0464,3.32,0
+718,Tanya Patel,Female,2024-04-18,,Active,Information Technology,IT Manager,IT,Hyderabad,Recruitment Agency,Diploma,G5,1785000,1182,,,,3.45,0,2.6,0.0372,1.7,0
+719,Shreya Kulkarni,Female,2022-08-14,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Campus Hiring,Master's,G4,1280000,246,,,,3.5,0,3.6,0.0441,3.38,0
+720,Manish Kapoor,Female,2025-04-25,,Active,Sales,Sales Manager,Sales,Chennai,Company Website,Diploma,G4,1080000,294,,,,2.9,0,3.4,0.0471,0.68,0
+721,Nikhil Bansal,Male,2024-09-24,2025-05-12,Terminated,Sales,Sales Executive,Sales,Delhi,Company Website,Bachelor's,G1,455000,862,Performance Termination,1.0,Yes,3.0,0,2.4,0.0359,0.63,1
+722,Arjun Naik,Male,2024-02-05,2025-06-30,Terminated,Human Resources,HR Executive,HR,Pune,LinkedIn,Diploma,G2,520000,1071,Compensation,2.0,No,4.1,0,4.2,0.0548,1.4,1
+723,Manish Menon,Male,2023-11-14,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Bachelor's,G4,1380000,74,,,,4.23,0,3.27,0.0217,2.13,0
+724,Diya Mishra,Male,2025-10-09,,Active,Finance,Finance Manager,Finance,Mumbai,Campus Hiring,MBA/PGDM,G4,1310000,728,,,,2.5,0,2.0,0.0317,0.23,0
+725,Sakshi Saxena,Male,2025-01-31,,Active,Information Technology,Data Analyst,IT,Mumbai,Company Website,Bachelor's,G3,960000,716,,,,3.0,0,,0.05,0.91,0
+726,Kavya Reddy,Male,2024-02-02,2025-12-18,Resigned,Information Technology,IT Manager,IT,Ahmedabad,Recruitment Agency,Master's,G5,1775000,363,Compensation,5.0,No,2.4,0,,0.0503,1.88,1
+727,Rhea Bansal,Female,2021-06-18,,Active,Human Resources,HR Manager,HR,Bengaluru,Campus Hiring,MBA/PGDM,G4,1355000,1140,,,,2.98,0,2.95,0.0387,4.54,0
+728,Nikhil Kulkarni,Female,2025-06-11,,Active,Finance,Finance Manager,Finance,Bengaluru,Naukri,Diploma,G5,1535000,885,,,,3.7,0,3.8,0.0452,0.56,0
+729,Harsh Chopra,Male,2023-05-07,2025-01-08,Resigned,Sales,Sales Executive,Sales,Delhi,Employee Referral,Bachelor's,G2,605000,334,Compensation,3.0,Yes,3.55,0,3.0,0.033,1.68,1
+730,Shreya Singh,Male,2021-04-29,,Active,Finance,Financial Analyst,Finance,Hyderabad,Naukri,Diploma,G2,585000,383,,,,3.14,0,2.35,0.0458,4.67,0
+731,Yash Verma,Female,2024-03-25,,Active,Finance,Finance Manager,Finance,Pune,LinkedIn,Master's,G5,1740000,383,,,,3.05,0,3.4,0.0596,1.77,0
+732,Aditi Khan,Female,2022-07-30,2024-03-22,Terminated,Human Resources,HR Manager,HR,Pune,LinkedIn,MBA/PGDM,G3,855000,222,Compensation,3.0,No,1.8,0,3.0,0.042,1.65,1
+733,Sanjay Reddy,Male,2022-09-01,,Active,Information Technology,Data Analyst,IT,Mumbai,Company Website,Bachelor's,G3,830000,44,,,,3.48,1,3.8,0.0444,3.33,0
+734,Sahil Patel,Female,2023-10-03,,Active,Finance,Finance Manager,Finance,Bengaluru,LinkedIn,Bachelor's,G5,1700000,765,,,,3.57,0,3.0,0.0341,2.25,0
+735,Anjali Joshi,Female,2022-10-24,,Active,Sales,Sales Executive,Sales,Mumbai,LinkedIn,Master's,G2,735000,243,,,,2.67,0,3.2,0.0543,3.19,0
+736,Ashish Thakur,Male,2023-06-06,,Active,Finance,Financial Analyst,Finance,Bengaluru,Naukri,Master's,G2,670000,153,,,,3.23,0,2.4,0.0417,2.57,0
+737,Dhruv Khan,Female,2021-09-01,,Active,Information Technology,IT Manager,IT,Bengaluru,Naukri,Master's,G5,1515000,156,,,,3.4,0,2.7,0.0488,4.33,0
+738,Sneha Reddy,Female,2023-05-09,2024-11-19,Resigned,Customer Support,Customer Support Manager,Support,Pune,Recruitment Agency,Diploma,G3,790000,256,Better Career Opportunity,1.0,No,4.4,0,3.2,0.0349,1.53,1
+739,Maya Reddy,Male,2022-01-13,,Active,Marketing,Marketing Manager,Marketing,Chennai,Naukri,MBA/PGDM,G4,1330000,804,,,,3.23,0,3.2,0.0485,3.96,0
+740,Meera Deshmukh,Male,2025-02-12,2025-12-27,Resigned,Information Technology,Data Analyst,IT,Delhi,Company Website,Master's,G3,920000,126,Better Career Opportunity,2.0,No,2.5,0,2.4,0.031,0.87,1
+741,Tanya Reddy,Male,2021-09-20,2024-06-03,Resigned,Procurement,Procurement Manager,Procurement,Hyderabad,Employee Referral,Master's,G5,1570000,895,Relocation,4.0,Yes,3.3,0,2.6,0.0532,2.7,1
+742,Rhea Mishra,Female,2022-09-24,,Active,Operations,Operations Manager,Operations,Mumbai,Naukri,Bachelor's,G5,1460000,482,,,,3.63,0,3.13,0.0497,3.27,0
+743,Vidya Pawar,Female,2024-01-05,,Active,Operations,Operations Manager,Operations,Pune,LinkedIn,MBA/PGDM,G5,1460000,88,,,,3.6,0,3.0,0.045,1.99,0
+744,Maya Pillai,Male,2021-08-30,2024-09-23,Resigned,Customer Support,Customer Support Executive,Support,Bengaluru,Employee Referral,MBA/PGDM,G2,525000,1084,Compensation,5.0,No,4.0,1,2.33,0.0656,3.07,1
+745,Yash Khan,Male,2022-06-30,2023-01-05,Resigned,Human Resources,HR Manager,HR,Hyderabad,Campus Hiring,Master's,G5,1445000,398,Better Career Opportunity,2.0,Yes,2.9,0,,0.0179,0.52,1
+746,Tanvi Shinde,Female,2024-04-21,,Active,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,MBA/PGDM,G1,415000,986,,,,4.5,0,1.8,0.0508,1.69,0
+747,Vivek Menon,Female,2025-01-02,,Active,Sales,Sales Manager,Sales,Mumbai,Recruitment Agency,Diploma,G4,1370000,862,,,,3.3,0,2.8,0.0669,0.99,0
+748,Dhruv More,Male,2025-10-30,2025-12-30,Resigned,Operations,Operations Manager,Operations,Mumbai,LinkedIn,Bachelor's,G4,1120000,517,Better Career Opportunity,4.0,Yes,4.1,0,2.0,0.0635,0.17,1
+749,Trisha Thakur,Female,2024-06-27,,Active,Human Resources,HR Manager,HR,Bengaluru,Campus Hiring,MBA/PGDM,G5,1430000,680,,,,3.4,0,3.6,0.0347,1.51,0
+750,Pooja Verma,Male,2024-01-29,,Active,Sales,Sales Manager,Sales,Ahmedabad,LinkedIn,MBA/PGDM,G3,975000,179,,,,3.55,0,2.6,0.0519,1.92,0
+751,Aditya Saxena,Male,2023-02-07,,Active,Information Technology,IT Manager,IT,Hyderabad,Recruitment Agency,Diploma,G4,1350000,659,,,,3.5,0,3.13,0.0467,2.9,0
+752,Aarav Reddy,Male,2022-04-20,2023-11-05,Resigned,Operations,Operations Manager,Operations,Hyderabad,Campus Hiring,Bachelor's,G3,945000,157,Relocation,4.0,No,3.7,0,2.0,0.0438,1.54,1
+753,Meera Mehta,Male,2025-01-31,2025-11-13,Resigned,Marketing,Marketing Analyst,Marketing,Bengaluru,Campus Hiring,MBA/PGDM,G2,555000,412,Better Career Opportunity,3.0,Yes,,0,,0.0339,0.78,1
+754,Sameer Mehta,Male,2024-05-22,,Active,Sales,Sales Manager,Sales,Gurugram,Recruitment Agency,Master's,G4,1305000,665,,,,4.0,0,3.2,0.0427,1.61,0
+755,Tanvi Menon,Male,2021-05-10,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Recruitment Agency,Bachelor's,G4,1180000,973,,,,3.08,0,3.24,0.0436,4.64,0
+756,Neha Chopra,Female,2024-01-25,,Active,Human Resources,HR Executive,HR,Bengaluru,Naukri,Master's,G2,745000,1071,,,,3.3,0,3.5,0.061,1.93,0
+757,Karan Singh,Male,2022-06-06,,Active,Information Technology,IT Manager,IT,Mumbai,LinkedIn,MBA/PGDM,G5,1620000,369,,,,3.25,0,3.6,0.0491,3.57,0
+758,Varun Pillai,Male,2022-04-01,,Active,Information Technology,Data Analyst,IT,Bengaluru,LinkedIn,Diploma,G3,855000,347,,,,4.13,1,2.6,0.0381,3.75,0
+759,Priya More,Male,2025-04-03,,Active,Finance,Financial Analyst,Finance,Mumbai,Naukri,MBA/PGDM,G3,770000,930,,,,2.7,0,3.2,0.0417,0.74,0
+760,Sanjay Patel,Female,2025-11-12,,Active,Operations,Operations Manager,Operations,Bengaluru,Company Website,MBA/PGDM,G4,1170000,1098,,,,2.1,0,2.4,0.0488,0.13,0
+761,Dhruv More,Female,2025-04-07,,Active,Information Technology,Software Engineer,IT,Hyderabad,Naukri,Master's,G2,710000,97,,,,2.6,0,,0.0622,0.73,0
+762,Dev Iyer,Male,2022-04-22,,Active,Sales,Sales Executive,Sales,Hyderabad,Company Website,Master's,G2,690000,629,,,,3.25,0,3.1,0.0485,3.69,0
+763,Neha Joshi,Female,2024-10-05,,Active,Marketing,Marketing Manager,Marketing,Delhi,LinkedIn,Bachelor's,G4,1195000,304,,,,3.35,0,3.4,0.0402,1.24,0
+764,Nikhil Verma,Female,2021-04-03,,Active,Sales,Sales Executive,Sales,Bengaluru,LinkedIn,MBA/PGDM,G2,715000,834,,,,2.76,0,3.2,0.0393,4.74,0
+765,Rohan Nair,Male,2021-07-22,,Active,Finance,Finance Manager,Finance,Pune,Campus Hiring,MBA/PGDM,G5,1445000,600,,,,3.46,0,3.5,0.0434,4.44,0
+766,Ananya More,Female,2022-09-13,,Active,Human Resources,HR Executive,HR,Mumbai,LinkedIn,MBA/PGDM,G2,690000,745,,,,2.95,0,3.0,0.0457,3.3,0
+767,Sameer Kapoor,Male,2023-04-13,,Active,Finance,Financial Analyst,Finance,Chennai,Naukri,Master's,G2,660000,154,,,,2.7,0,2.8,0.0559,2.72,0
+768,Ashish Menon,Female,2025-10-16,,Active,Operations,Operations Executive,Operations,Pune,Employee Referral,MBA/PGDM,G2,650000,742,,,,3.4,0,,0.0313,0.21,0
+769,Arjun Shinde,Male,2025-03-27,,Active,Sales,Sales Executive,Sales,Ahmedabad,Company Website,MBA/PGDM,G2,670000,917,,,,4.3,0,2.8,0.0569,0.76,0
+770,Neha Sharma,Male,2021-05-20,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,MBA/PGDM,G2,590000,204,,,,3.06,0,3.2,0.0541,4.62,0
+771,Meera Rao,Male,2025-03-14,,Active,Sales,Sales Manager,Sales,Pune,Company Website,Master's,G4,1380000,1034,,,,2.4,0,3.6,0.0561,0.8,0
+772,Sahil Thakur,Male,2024-03-11,,Active,Information Technology,IT Manager,IT,Pune,Company Website,Diploma,G5,1870000,1180,,,,2.65,0,2.6,0.0472,1.81,0
+773,Shreya Patel,Female,2024-06-22,,Active,Finance,Finance Manager,Finance,Ahmedabad,Recruitment Agency,Master's,G4,1065000,180,,,,4.4,0,3.2,0.0396,1.52,0
+774,Karan Chopra,Female,2022-09-17,2023-12-27,Resigned,Information Technology,IT Manager,IT,Bengaluru,LinkedIn,Bachelor's,G4,1180000,589,Better Career Opportunity,1.0,Yes,3.05,0,2.8,0.0674,1.28,1
+775,Zoya Mishra,Female,2022-03-22,,Active,Information Technology,Software Engineer,IT,Mumbai,Campus Hiring,MBA/PGDM,G2,720000,445,,,,2.83,0,3.53,0.0326,3.78,0
+776,Aarav Patel,Male,2022-08-31,2023-08-08,Resigned,Human Resources,HR Manager,HR,Delhi,Company Website,MBA/PGDM,G5,1475000,1140,Better Career Opportunity,2.0,No,4.2,0,3.0,0.0652,0.94,1
+777,Harsh Shinde,Male,2024-02-17,,Active,Finance,Finance Manager,Finance,Bengaluru,Recruitment Agency,Master's,G5,1445000,136,,,,3.05,0,2.6,0.0402,1.87,0
+778,Riya Rao,Male,2021-11-19,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Recruitment Agency,Diploma,G1,465000,146,,,,3.76,0,3.44,0.0486,4.11,0
+779,Maya Sawant,Female,2024-01-06,,Active,Information Technology,IT Manager,IT,Pune,Campus Hiring,MBA/PGDM,G4,1340000,156,,,,2.9,0,3.8,0.0502,1.98,0
+780,Aditi Jadhav,Male,2025-08-08,,Active,Operations,Operations Manager,Operations,Bengaluru,Recruitment Agency,Diploma,G4,1270000,677,,,,2.4,0,,0.0374,0.4,0
+781,Ankita Sharma,Male,2024-08-26,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Naukri,MBA/PGDM,G3,895000,1068,,,,3.7,0,,0.0429,1.35,0
+782,Abhishek Patel,Female,2024-06-30,,Active,Finance,Finance Manager,Finance,Hyderabad,LinkedIn,Bachelor's,G4,1005000,930,,,,3.45,0,2.6,0.0414,1.5,0
+783,Pooja Singh,Male,2023-07-21,,Active,Human Resources,HR Executive,HR,Bengaluru,LinkedIn,Bachelor's,G2,660000,704,,,,3.5,0,2.6,0.0461,2.45,0
+784,Tanvi Chopra,Male,2024-08-23,,Active,Sales,Sales Executive,Sales,Ahmedabad,Campus Hiring,Bachelor's,G2,540000,1166,,,,4.65,0,2.8,0.0539,1.36,0
+785,Dhruv Singh,Male,2025-05-30,2025-11-17,Resigned,Finance,Financial Analyst,Finance,Bengaluru,LinkedIn,Bachelor's,G3,755000,673,Personal Reasons,1.0,Yes,,0,,0.0667,0.47,1
+786,Rhea Khan,Female,2021-11-18,2023-10-24,Resigned,Customer Support,Customer Support Manager,Support,Bengaluru,Company Website,Diploma,G4,1260000,414,Compensation,5.0,Yes,3.8,0,3.3,0.0509,1.93,1
+787,Dhruv Naik,Male,2025-04-06,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Employee Referral,Diploma,G3,960000,146,,,,3.6,0,3.8,0.0625,0.74,0
+788,Pallavi Deshmukh,Male,2025-11-07,,Active,Finance,Finance Manager,Finance,Delhi,Employee Referral,MBA/PGDM,G4,1060000,943,,,,2.2,0,4.2,0.0698,0.15,0
+789,Ananya Mehta,Male,2024-09-22,,Active,Operations,Operations Executive,Operations,Delhi,Employee Referral,Diploma,G2,585000,1098,,,,3.45,0,2.5,0.0528,1.27,0
+790,Sanjay Gupta,Male,2021-10-15,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Naukri,Diploma,G4,1305000,601,,,,3.48,0,3.73,0.0444,4.21,0
+791,Manish Jadhav,Male,2021-08-31,2025-12-12,Terminated,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Master's,G2,535000,492,Higher Education,5.0,Yes,3.6,2,3.13,0.0464,4.28,1
+792,Yash Menon,Male,2024-10-17,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Master's,G4,1250000,754,,,,3.25,0,3.8,0.0411,1.2,0
+793,Neha Mehta,Female,2025-06-16,,Active,Sales,Sales Executive,Sales,Delhi,Naukri,MBA/PGDM,G1,455000,328,,,,2.8,0,2.6,0.034,0.54,0
+794,Priya Verma,Male,2021-09-09,,Active,Marketing,Marketing Manager,Marketing,Ahmedabad,Employee Referral,Master's,G3,975000,308,,,,2.96,0,2.9,0.0453,4.31,0
+795,Pallavi Sawant,Female,2021-03-03,,Active,Marketing,Marketing Manager,Marketing,Delhi,Company Website,Bachelor's,G4,1400000,304,,,,3.48,0,3.12,0.0461,4.83,0
+796,Sahil Rao,Male,2024-05-24,,Active,Finance,Finance Manager,Finance,Hyderabad,Recruitment Agency,Master's,G4,1125000,633,,,,3.2,0,3.0,0.0478,1.6,0
+797,Amit Jain,Female,2023-10-21,2025-07-06,Resigned,Information Technology,Data Analyst,IT,Ahmedabad,Company Website,Master's,G4,1100000,1180,Better Career Opportunity,2.0,Yes,2.5,0,2.8,0.0477,1.71,1
+798,Sahil Naik,Male,2023-06-01,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Company Website,Bachelor's,G2,585000,1006,,,,3.83,0,3.6,0.053,2.58,0
+799,Diya Kapoor,Male,2025-09-24,,Active,Finance,Finance Manager,Finance,Mumbai,Recruitment Agency,Bachelor's,G4,1290000,724,,,,4.2,0,2.6,0.0588,0.27,0
+800,Sakshi Khan,Male,2023-11-11,,Active,Human Resources,HR Manager,HR,Ahmedabad,Employee Referral,Diploma,G4,1005000,447,,,,3.6,0,2.4,0.0425,2.14,0
+801,Ankita Jain,Female,2021-05-25,,Active,Human Resources,HR Manager,HR,Chennai,Naukri,Diploma,G4,1370000,983,,,,3.98,0,3.05,0.0401,4.6,0
+802,Pallavi Joshi,Female,2023-05-01,,Active,Marketing,Marketing Manager,Marketing,Mumbai,Campus Hiring,Diploma,G5,1630000,308,,,,4.47,0,3.0,0.0647,2.67,0
+803,Isha Singh,Male,2021-09-05,2023-09-02,Resigned,Operations,Operations Manager,Operations,Pune,Company Website,Bachelor's,G4,1300000,342,Personal Reasons,4.0,Yes,3.7,0,2.8,0.0372,1.99,1
+804,Abhishek Menon,Male,2021-12-07,,Active,Marketing,Marketing Manager,Marketing,Pune,Company Website,MBA/PGDM,G5,1485000,790,,,,2.82,0,3.5,0.0491,4.07,0
+805,Anjali Singh,Female,2021-01-10,,Active,Information Technology,Software Engineer,IT,Hyderabad,Company Website,Bachelor's,G2,660000,811,,,,3.46,1,3.2,0.0474,4.97,0
+806,Trisha Jadhav,Male,2021-12-31,,Active,Sales,Sales Executive,Sales,Delhi,Naukri,MBA/PGDM,G1,400000,874,,,,3.33,0,2.72,0.0416,4.0,0
+807,Vivek Joshi,Female,2023-07-17,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,MBA/PGDM,G4,1170000,1076,,,,3.23,0,1.4,0.0563,2.46,0
+808,Karan Shinde,Female,2024-12-04,,Active,Human Resources,HR Manager,HR,Chennai,Employee Referral,Diploma,G5,1495000,745,,,,4.75,0,2.7,0.0249,1.07,0
+809,Maya Chopra,Male,2025-01-03,,Active,Information Technology,Data Analyst,IT,Hyderabad,Employee Referral,Diploma,G2,700000,838,,,,3.5,0,3.0,0.0541,0.99,0
+810,Aditya Gupta,Male,2024-06-22,2025-05-19,Resigned,Information Technology,Software Engineer,IT,Hyderabad,Recruitment Agency,Bachelor's,G3,970000,150,Personal Reasons,5.0,Yes,3.4,0,,0.0349,0.91,1
+811,Rohit Menon,Female,2025-10-14,,Active,Information Technology,IT Manager,IT,Bengaluru,Campus Hiring,MBA/PGDM,G4,1310000,302,,,,3.6,0,3.0,0.0299,0.21,0
+812,Karan Menon,Male,2021-08-04,,Active,Sales,Sales Executive,Sales,Mumbai,Employee Referral,Diploma,G2,610000,143,,,,3.16,1,2.45,0.0535,4.41,0
+813,Sonali Kulkarni,Female,2024-08-01,2024-10-21,Resigned,Sales,Sales Executive,Sales,Bengaluru,Company Website,Master's,G1,460000,649,Better Career Opportunity,5.0,Yes,,0,,0.0328,0.22,1
+814,Rhea Shinde,Female,2021-03-03,,Active,Operations,Operations Manager,Operations,Chennai,LinkedIn,Master's,G3,940000,946,,,,3.48,0,3.28,0.0519,4.83,0
+815,Maya Shinde,Female,2022-03-27,,Active,Information Technology,Software Engineer,IT,Chennai,Recruitment Agency,MBA/PGDM,G2,745000,712,,,,2.98,0,3.9,0.0486,3.76,0
+816,Sameer Patel,Male,2025-11-07,,Active,Customer Support,Customer Support Manager,Support,Gurugram,Naukri,MBA/PGDM,G4,1090000,286,,,,2.3,0,3.8,0.0714,0.15,0
+817,Sameer Thakur,Male,2021-07-23,,Active,Sales,Sales Executive,Sales,Delhi,Employee Referral,Master's,G2,565000,1017,,,,3.48,0,2.55,0.0442,4.44,0
+818,Karan Pillai,Female,2023-06-18,,Active,Operations,Operations Executive,Operations,Mumbai,Company Website,MBA/PGDM,G1,475000,1167,,,,3.0,1,2.6,0.0533,2.54,0
+819,Aditi More,Female,2022-06-24,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Naukri,Master's,G2,565000,1076,,,,3.2,0,2.8,0.0459,3.52,0
+820,Ananya Verma,Male,2023-02-19,,Active,Customer Support,Customer Support Executive,Support,Chennai,Campus Hiring,Diploma,G1,480000,225,,,,3.1,0,2.8,0.0592,2.86,0
+821,Diya Iyer,Male,2023-09-06,,Active,Finance,Financial Analyst,Finance,Bengaluru,Recruitment Agency,Bachelor's,G2,625000,1085,,,,3.47,0,3.7,0.0415,2.32,0
+822,Ashish Reddy,Female,2023-07-21,,Active,Information Technology,Data Analyst,IT,Ahmedabad,LinkedIn,MBA/PGDM,G3,950000,445,,,,3.5,0,3.2,0.0543,2.45,0
+823,Vidya Nair,Female,2023-07-26,,Active,Customer Support,Customer Support Manager,Support,Delhi,Employee Referral,Master's,G4,1115000,1121,,,,3.57,0,3.5,0.06,2.43,0
+824,Vivek Menon,Male,2021-05-13,,Active,Operations,Operations Manager,Operations,Mumbai,Campus Hiring,Master's,G4,1135000,1064,,,,3.44,0,3.0,0.0394,4.64,0
+825,Zoya Mishra,Male,2022-02-18,,Active,Human Resources,HR Executive,HR,Delhi,Recruitment Agency,MBA/PGDM,G2,600000,85,,,,3.5,0,3.13,0.0339,3.87,0
+826,Rhea Patel,Male,2024-01-12,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Recruitment Agency,Bachelor's,G4,1390000,848,,,,3.1,0,3.4,0.0466,1.97,0
+827,Pooja Nair,Female,2022-03-30,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Company Website,Diploma,G4,1080000,690,,,,3.63,0,4.1,0.0516,3.76,0
+828,Aarav More,Male,2025-10-31,2025-12-30,Resigned,Human Resources,HR Executive,HR,Hyderabad,Recruitment Agency,Diploma,G1,490000,420,Relocation,4.0,No,4.2,0,3.6,0.0455,0.16,1
+829,Shreya Singh,Male,2024-07-30,,Active,Finance,Financial Analyst,Finance,Ahmedabad,Recruitment Agency,MBA/PGDM,G2,720000,1020,,,,3.25,0,3.5,0.0393,1.42,0
+830,Rohit Sawant,Female,2024-03-20,,Active,Procurement,Procurement Manager,Procurement,Ahmedabad,Campus Hiring,Master's,G4,1035000,1040,,,,3.8,0,2.4,0.0466,1.78,0
+831,Rahul Rao,Female,2025-10-01,,Active,Finance,Finance Manager,Finance,Pune,Campus Hiring,MBA/PGDM,G4,1065000,292,,,,3.3,0,2.4,0.0469,0.25,0
+832,Yash Gupta,Female,2021-05-01,,Active,Finance,Finance Manager,Finance,Gurugram,Campus Hiring,Master's,G4,1015000,871,,,,3.92,0,3.15,0.0497,4.67,0
+833,Ashish Jain,Male,2022-12-09,,Active,Operations,Operations Executive,Operations,Mumbai,Naukri,Bachelor's,G2,685000,1064,,,,3.72,0,3.33,0.0429,3.06,0
+834,Sameer Rao,Female,2022-11-21,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,Master's,G4,1175000,874,,,,3.25,0,2.8,0.0438,3.11,0
+835,Dev Jadhav,Female,2022-04-12,,Active,Information Technology,Software Engineer,IT,Delhi,Company Website,MBA/PGDM,G2,670000,466,,,,3.15,0,3.3,0.0378,3.72,0
+836,Nikhil Kapoor,Male,2021-10-09,,Active,Operations,Operations Executive,Operations,Chennai,Employee Referral,Diploma,G2,625000,1150,,,,3.28,0,3.0,0.0467,4.23,0
+837,Maya Sawant,Male,2023-07-31,,Active,Human Resources,HR Manager,HR,Bengaluru,Campus Hiring,Diploma,G4,1330000,447,,,,3.73,0,2.5,0.0309,2.42,0
+838,Sanjay More,Male,2022-04-26,,Active,Information Technology,IT Manager,IT,Mumbai,LinkedIn,Master's,G5,1820000,111,,,,3.52,0,2.95,0.0568,3.68,0
+839,Rhea Pawar,Female,2022-09-08,,Active,Sales,Sales Executive,Sales,Mumbai,Company Website,Master's,G1,435000,1034,,,,3.48,0,2.8,0.0462,3.31,0
+840,Pooja Nair,Female,2022-08-04,,Active,Human Resources,HR Executive,HR,Bengaluru,Campus Hiring,Master's,G2,540000,732,,,,4.38,1,2.67,0.048,3.41,0
+841,Rohan Pawar,Male,2025-01-31,,Active,Information Technology,Data Analyst,IT,Pune,Recruitment Agency,Bachelor's,G4,1085000,524,,,,3.4,0,2.6,0.0236,0.91,0
+842,Varun Shinde,Female,2023-03-09,,Active,Information Technology,Data Analyst,IT,Pune,LinkedIn,Bachelor's,G3,965000,133,,,,3.77,0,3.0,0.0547,2.81,0
+843,Maya Bansal,Male,2023-08-27,,Active,Operations,Operations Manager,Operations,Mumbai,Company Website,Bachelor's,G4,1150000,702,,,,3.23,0,3.2,0.0453,2.35,0
+844,Aditya Patel,Female,2024-01-09,,Active,Operations,Operations Manager,Operations,Mumbai,Company Website,MBA/PGDM,G4,1340000,742,,,,3.8,0,2.3,0.0531,1.98,0
+845,Vivek Menon,Female,2021-11-23,,Active,Information Technology,Software Engineer,IT,Hyderabad,Employee Referral,MBA/PGDM,G3,995000,640,,,,3.28,1,2.8,0.0482,4.1,0
+846,Dev Bansal,Male,2024-01-20,2024-07-17,Resigned,Information Technology,Data Analyst,IT,Hyderabad,Campus Hiring,MBA/PGDM,G2,680000,659,Better Career Opportunity,3.0,Yes,,0,,0.039,0.49,1
+847,Maya Patel,Male,2021-03-18,,Active,Information Technology,IT Manager,IT,Pune,Company Website,Bachelor's,G5,1415000,183,,,,3.26,0,3.15,0.04,4.79,0
+848,Manish Joshi,Male,2023-12-01,2024-09-09,Terminated,Marketing,Marketing Manager,Marketing,Bengaluru,Campus Hiring,Diploma,G4,1270000,246,Personal Reasons,2.0,Yes,3.0,0,3.2,0.0507,0.77,1
+849,Amit Reddy,Female,2023-08-05,2025-10-18,Resigned,Information Technology,Software Engineer,IT,Bengaluru,Campus Hiring,MBA/PGDM,G4,1180000,886,Performance Termination,5.0,Yes,3.7,0,3.2,0.0428,2.2,1
+850,Anjali More,Female,2022-06-25,,Active,Information Technology,Software Engineer,IT,Pune,Employee Referral,Bachelor's,G3,960000,34,,,,3.42,0,3.0,0.0412,3.52,0
+851,Aditya Bansal,Male,2024-11-01,2025-02-16,Resigned,Human Resources,HR Manager,HR,Hyderabad,Naukri,Diploma,G4,1270000,801,Personal Reasons,5.0,No,4.4,0,2.8,0.0353,0.29,1
+852,Isha Pillai,Female,2024-07-02,2024-11-05,Resigned,Sales,Sales Manager,Sales,Mumbai,Recruitment Agency,Diploma,G4,1035000,683,Role/Workload,4.0,Yes,,0,,0.0545,0.34,1
+853,Ashish Menon,Female,2021-08-27,,Active,Operations,Operations Executive,Operations,Mumbai,Company Website,Master's,G1,485000,148,,,,3.22,0,3.52,0.0405,4.34,0
+854,Akash Kulkarni,Male,2025-05-11,,Active,Sales,Sales Executive,Sales,Pune,Naukri,Bachelor's,G1,490000,511,,,,2.7,0,3.4,0.0643,0.64,0
+855,Ankita Patel,Male,2024-12-13,,Active,Marketing,Marketing Analyst,Marketing,Hyderabad,Employee Referral,MBA/PGDM,G2,560000,344,,,,3.05,0,2.8,0.0386,1.05,0
+856,Karan Chopra,Female,2021-11-25,,Active,Customer Support,Customer Support Manager,Support,Pune,Campus Hiring,Bachelor's,G3,860000,449,,,,3.6,0,3.3,0.0416,4.1,0
+857,Vidya Shinde,Male,2024-05-28,2024-10-11,Resigned,Information Technology,Software Engineer,IT,Hyderabad,Company Website,MBA/PGDM,G4,1035000,133,Personal Reasons,1.0,Yes,,0,,0.0794,0.37,1
+858,Vivek Singh,Female,2022-04-21,2023-07-01,Resigned,Procurement,Procurement Analyst,Procurement,Chennai,Employee Referral,Master's,G3,755000,882,Retirement,5.0,Yes,4.4,0,,0.0473,1.19,1
+859,Isha Sawant,Male,2022-02-27,,Active,Information Technology,Data Analyst,IT,Pune,Campus Hiring,MBA/PGDM,G3,945000,591,,,,3.25,1,2.5,0.0447,3.84,0
+860,Priya Sharma,Male,2022-12-11,2023-08-05,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Master's,G4,1155000,123,Retirement,4.0,Yes,2.7,0,3.0,0.0256,0.65,1
+861,Arjun Rao,Female,2025-07-30,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Campus Hiring,MBA/PGDM,G2,710000,690,,,,2.8,0,3.2,0.064,0.42,0
+862,Diya More,Female,2025-02-14,2025-08-16,Resigned,Sales,Sales Manager,Sales,Bengaluru,Campus Hiring,Bachelor's,G5,1420000,894,Relocation,1.0,Yes,,0,,0.0596,0.5,1
+863,Pooja Saxena,Male,2025-07-01,,Active,Sales,Sales Executive,Sales,Chennai,Employee Referral,Bachelor's,G2,595000,1193,,,,2.4,0,,0.0522,0.5,0
+864,Kavya Joshi,Male,2022-01-19,2022-12-16,Resigned,Sales,Sales Manager,Sales,Bengaluru,Campus Hiring,Diploma,G4,1140000,1057,Better Career Opportunity,4.0,Yes,3.6,0,3.0,0.0538,0.91,1
+865,Harsh Verma,Female,2023-03-01,2023-10-17,Resigned,Operations,Operations Executive,Operations,Gurugram,Naukri,MBA/PGDM,G3,800000,702,Better Career Opportunity,5.0,Yes,,0,,0.046,0.63,1
+866,Sanjay Bansal,Male,2022-04-30,2025-11-02,Terminated,Customer Support,Customer Support Executive,Support,Mumbai,Naukri,Bachelor's,G2,650000,909,Better Career Opportunity,1.0,Yes,3.9,2,3.2,0.043,3.51,1
+867,Tanvi Shinde,Female,2023-08-19,,Active,Customer Support,Customer Support Executive,Support,Mumbai,LinkedIn,Bachelor's,G2,610000,1111,,,,2.87,0,3.13,0.0415,2.37,0
+868,Akash Pawar,Female,2021-07-20,,Active,Information Technology,IT Manager,IT,Delhi,Naukri,Bachelor's,G5,1785000,873,,,,3.92,0,3.0,0.0423,4.45,0
+869,Vidya Deshmukh,Male,2023-03-23,,Active,Human Resources,HR Executive,HR,Mumbai,Recruitment Agency,Master's,G1,485000,1192,,,,3.4,0,3.6,0.0497,2.78,0
+870,Sahil Pillai,Female,2025-10-20,,Active,Operations,Operations Executive,Operations,Bengaluru,Campus Hiring,MBA/PGDM,G2,645000,164,,,,2.8,0,,0.0156,0.2,0
+871,Riya Saxena,Male,2025-10-08,,Active,Finance,Finance Manager,Finance,Bengaluru,LinkedIn,MBA/PGDM,G5,1530000,731,,,,4.9,0,3.6,0.0147,0.23,0
+872,Anjali Iyer,Male,2024-01-24,,Active,Sales,Sales Executive,Sales,Mumbai,Company Website,MBA/PGDM,G2,530000,852,,,,3.65,0,4.0,0.0411,1.94,0
+873,Mohit Mishra,Female,2024-06-09,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Diploma,G5,1665000,562,,,,3.0,0,3.2,0.0488,1.56,0
+874,Akash Saxena,Female,2022-06-07,2023-10-18,Resigned,Sales,Sales Manager,Sales,Ahmedabad,Company Website,Diploma,G4,1365000,583,Retirement,3.0,Yes,3.2,0,2.4,0.0499,1.36,1
+875,Harsh Reddy,Male,2023-05-09,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Employee Referral,Diploma,G2,695000,378,,,,3.23,0,3.13,0.0473,2.65,0
+876,Anjali Naik,Male,2022-10-24,,Active,Sales,Sales Executive,Sales,Bengaluru,Naukri,Master's,G2,570000,294,,,,4.25,0,2.8,0.0499,3.19,0
+877,Shreya Chopra,Female,2021-12-03,2022-04-05,Resigned,Finance,Finance Manager,Finance,Chennai,LinkedIn,Diploma,G5,1575000,434,Personal Reasons,5.0,Yes,3.2,0,,0.0192,0.34,1
+878,Nisha Jadhav,Female,2024-11-29,2025-11-30,Resigned,Sales,Sales Executive,Sales,Pune,Recruitment Agency,Diploma,G2,665000,1088,Retirement,5.0,Yes,4.9,0,,0.0567,1.0,1
+879,Aarav Verma,Female,2025-04-29,,Active,Marketing,Marketing Manager,Marketing,Mumbai,LinkedIn,MBA/PGDM,G5,1405000,320,,,,3.0,0,,0.0714,0.67,0
+880,Maya Menon,Female,2023-06-30,2025-08-16,Resigned,Sales,Sales Manager,Sales,Chennai,LinkedIn,MBA/PGDM,G3,920000,982,Better Career Opportunity,4.0,Yes,3.35,0,3.0,0.0451,2.13,1
+881,Neha Sawant,Male,2025-05-05,,Active,Information Technology,Data Analyst,IT,Mumbai,Recruitment Agency,Bachelor's,G2,740000,1153,,,,2.9,0,,0.0347,0.66,0
+882,Rhea Nair,Male,2021-01-19,,Active,Procurement,Procurement Manager,Procurement,Ahmedabad,Company Website,Bachelor's,G4,1305000,31,,,,3.7,0,2.4,0.0533,4.95,0
+883,Varun Joshi,Female,2023-11-12,,Active,Human Resources,HR Executive,HR,Hyderabad,Recruitment Agency,Bachelor's,G1,485000,745,,,,3.1,0,3.07,0.0429,2.14,0
+884,Manish Thakur,Female,2024-03-07,,Active,Information Technology,Data Analyst,IT,Delhi,Campus Hiring,Bachelor's,G2,640000,1047,,,,2.75,0,3.3,0.0461,1.82,0
+885,Rohan Kulkarni,Male,2024-11-05,,Active,Finance,Finance Manager,Finance,Chennai,Employee Referral,Master's,G5,1525000,1007,,,,2.95,0,3.4,0.0495,1.15,0
+886,Aniket Rao,Female,2022-11-26,2024-04-18,Resigned,Information Technology,IT Manager,IT,Pune,Campus Hiring,MBA/PGDM,G5,1560000,325,Compensation,4.0,Yes,3.3,0,2.8,0.0494,1.39,1
+887,Maya Gupta,Male,2025-03-31,2025-10-05,Resigned,Information Technology,Software Engineer,IT,Chennai,Company Website,Master's,G2,750000,710,Better Career Opportunity,1.0,Yes,,0,,0.0651,0.51,1
+888,Sakshi Jain,Male,2025-06-15,,Active,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,Bachelor's,G2,595000,343,,,,4.0,0,1.2,0.0397,0.54,0
+889,Rhea Menon,Female,2025-06-23,,Active,Finance,Finance Manager,Finance,Gurugram,Naukri,Diploma,G5,1665000,675,,,,3.7,0,2.6,0.0537,0.52,0
+890,Vivek Jain,Female,2021-10-04,2024-02-01,Resigned,Marketing,Marketing Analyst,Marketing,Bengaluru,Recruitment Agency,Master's,G2,735000,99,Better Career Opportunity,4.0,Yes,3.17,1,,0.0427,2.33,1
+891,Vaishnavi Patel,Male,2021-12-23,2025-10-24,Resigned,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Master's,G2,555000,989,Better Career Opportunity,4.0,Yes,2.83,0,3.0,0.0432,3.84,1
+892,Abhishek More,Female,2024-05-25,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Diploma,G2,670000,604,,,,3.2,0,4.2,0.0438,1.6,0
+893,Manish Mishra,Male,2023-05-30,,Active,Sales,Sales Executive,Sales,Delhi,Employee Referral,Bachelor's,G1,435000,576,,,,3.27,0,2.8,0.0533,2.59,0
+894,Riya Sharma,Male,2024-11-05,,Active,Sales,Sales Manager,Sales,Pune,LinkedIn,Master's,G4,1275000,622,,,,3.4,0,,0.0465,1.15,0
+895,Manish Saxena,Female,2022-08-01,,Active,Procurement,Procurement Manager,Procurement,Mumbai,Naukri,MBA/PGDM,G4,1340000,623,,,,3.25,0,3.0,0.0526,3.42,0
+896,Sameer Nair,Female,2021-01-12,,Active,Human Resources,HR Executive,HR,Chennai,Employee Referral,Bachelor's,G2,590000,189,,,,3.26,1,3.2,0.0424,4.97,0
+897,Maya Thakur,Male,2022-08-21,,Active,Operations,Operations Manager,Operations,Mumbai,Company Website,MBA/PGDM,G4,1390000,1098,,,,3.42,0,3.35,0.0458,3.36,0
+898,Isha Jadhav,Male,2021-07-08,2025-12-13,Resigned,Information Technology,Data Analyst,IT,Pune,Employee Referral,Bachelor's,G3,830000,1135,Better Career Opportunity,5.0,No,4.08,0,3.67,0.0425,4.43,1
+899,Vivek Nair,Male,2021-02-08,2025-01-14,Resigned,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,MBA/PGDM,G2,690000,143,Better Career Opportunity,3.0,Yes,3.33,0,3.6,0.049,3.93,1
+900,Zoya Patel,Male,2022-05-27,,Active,Operations,Operations Executive,Operations,Chennai,Employee Referral,Master's,G2,550000,946,,,,4.08,0,3.3,0.042,3.6,0
+901,Aditi Pawar,Male,2025-04-06,,Active,Sales,Sales Manager,Sales,Hyderabad,LinkedIn,Diploma,G3,925000,1172,,,,2.8,0,2.6,0.066,0.74,0
+902,Tanvi Khan,Female,2023-08-15,,Active,Sales,Sales Manager,Sales,Bengaluru,Recruitment Agency,MBA/PGDM,G4,1120000,28,,,,3.93,0,2.9,0.0465,2.38,0
+903,Sneha Saxena,Female,2023-05-28,,Active,Procurement,Procurement Analyst,Procurement,Ahmedabad,Recruitment Agency,MBA/PGDM,G2,670000,1125,,,,3.23,0,2.67,0.0415,2.6,0
+904,Ashish Khan,Female,2023-09-29,2024-06-11,Resigned,Information Technology,IT Manager,IT,Pune,Employee Referral,MBA/PGDM,G4,1400000,14,Role/Workload,2.0,Yes,5.0,0,3.0,0.055,0.7,1
+905,Ananya Khan,Female,2023-01-20,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Campus Hiring,Bachelor's,G3,830000,603,,,,3.7,0,3.2,0.054,2.95,0
+906,Sahil Joshi,Female,2021-11-16,2025-09-20,Resigned,Information Technology,Data Analyst,IT,Bengaluru,Campus Hiring,Diploma,G3,975000,904,Personal Reasons,2.0,Yes,3.25,1,2.95,0.0423,3.84,1
+907,Nisha Mehta,Female,2025-01-10,2025-12-20,Resigned,Human Resources,HR Executive,HR,Mumbai,Company Website,MBA/PGDM,G2,570000,694,Relocation,2.0,No,1.7,0,2.8,0.0417,0.94,1
+908,Nikhil More,Male,2023-07-20,,Active,Operations,Operations Manager,Operations,Pune,Naukri,Master's,G4,1350000,824,,,,4.0,0,3.1,0.0514,2.45,0
+909,Rhea Verma,Female,2023-04-10,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Diploma,G4,1050000,333,,,,3.93,0,3.8,0.0455,2.73,0
+910,Aarav Bansal,Male,2024-02-28,2024-09-22,Terminated,Information Technology,IT Manager,IT,Ahmedabad,Company Website,Master's,G5,1860000,1001,Better Career Opportunity,2.0,Yes,,0,,0.0414,0.57,1
+911,Sahil Pawar,Female,2022-01-26,,Active,Marketing,Marketing Analyst,Marketing,Chennai,LinkedIn,Diploma,G2,525000,1126,,,,3.2,0,3.0,0.0405,3.93,0
+912,Isha Saxena,Male,2023-02-23,,Active,Information Technology,Data Analyst,IT,Gurugram,Employee Referral,Bachelor's,G2,685000,873,,,,3.9,0,2.7,0.0468,2.85,0
+913,Vidya Rao,Female,2022-04-20,,Active,Marketing,Marketing Analyst,Marketing,Ahmedabad,Employee Referral,MBA/PGDM,G3,810000,246,,,,3.1,1,3.7,0.053,3.7,0
+914,Meera Pillai,Male,2022-07-11,,Active,Procurement,Procurement Analyst,Procurement,Ahmedabad,Recruitment Agency,Master's,G2,655000,830,,,,3.45,1,3.25,0.0528,3.47,0
+915,Tanya Deshmukh,Male,2023-08-31,,Active,Operations,Operations Executive,Operations,Mumbai,Company Website,Master's,G2,605000,80,,,,3.5,0,2.0,0.0434,2.34,0
+916,Aarav Reddy,Male,2023-08-19,,Active,Sales,Sales Executive,Sales,Bengaluru,Campus Hiring,MBA/PGDM,G1,485000,1062,,,,3.37,0,3.4,0.0388,2.37,0
+917,Kavya More,Male,2025-05-09,,Active,Sales,Sales Manager,Sales,Bengaluru,LinkedIn,Diploma,G4,1200000,460,,,,3.1,0,2.8,0.046,0.65,0
+918,Sakshi Naik,Female,2022-06-30,,Active,Sales,Sales Executive,Sales,Mumbai,Recruitment Agency,MBA/PGDM,G1,450000,683,,,,3.92,0,2.8,0.0518,3.5,0
+919,Vivek Patel,Male,2023-09-12,,Active,Information Technology,Data Analyst,IT,Pune,Employee Referral,Master's,G3,955000,1135,,,,3.7,1,2.27,0.0458,2.3,0
+920,Tanvi Singh,Female,2024-07-13,2024-11-03,Resigned,Operations,Operations Manager,Operations,Chennai,Recruitment Agency,Diploma,G3,960000,1120,Better Career Opportunity,3.0,No,,0,,0.0588,0.31,1
+921,Meera Naik,Male,2023-05-08,,Active,Operations,Operations Manager,Operations,Bengaluru,Employee Referral,Master's,G4,1120000,1073,,,,3.2,0,2.87,0.0462,2.65,0
+922,Mohit Shinde,Male,2023-03-01,2023-06-07,Resigned,Sales,Sales Manager,Sales,Delhi,Employee Referral,Diploma,G4,1120000,687,Higher Education,3.0,Yes,,0,,0.0824,0.27,1
+923,Ananya Mehta,Male,2024-05-11,2024-11-16,Resigned,Operations,Operations Executive,Operations,Mumbai,Employee Referral,Master's,G1,490000,677,Compensation,5.0,Yes,,0,,0.0544,0.52,1
+924,Trisha Menon,Female,2024-07-30,,Active,Finance,Financial Analyst,Finance,Mumbai,Campus Hiring,Master's,G3,795000,1134,,,,3.4,0,3.3,0.031,1.42,0
+925,Aditya Bansal,Male,2021-12-18,,Active,Human Resources,HR Executive,HR,Mumbai,Employee Referral,Master's,G2,530000,252,,,,2.45,1,2.93,0.0532,4.04,0
+926,Kavya Thakur,Male,2022-02-03,2025-07-05,Resigned,Finance,Financial Analyst,Finance,Bengaluru,LinkedIn,MBA/PGDM,G2,560000,782,Better Career Opportunity,1.0,Yes,3.63,0,3.07,0.0457,3.42,1
+927,Isha Chopra,Male,2021-06-16,,Active,Sales,Sales Manager,Sales,Pune,Company Website,Diploma,G5,1575000,747,,,,3.3,0,3.2,0.0484,4.54,0
+928,Ananya Bansal,Male,2022-12-25,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Naukri,Bachelor's,G1,445000,352,,,,2.73,1,3.13,0.039,3.02,0
+929,Nisha Patel,Female,2021-10-26,2024-11-02,Resigned,Operations,Operations Executive,Operations,Delhi,Campus Hiring,Master's,G3,760000,95,Better Career Opportunity,3.0,Yes,3.43,0,3.5,0.0447,3.02,1
+930,Sahil Pawar,Female,2021-07-05,2023-01-26,Resigned,Finance,Finance Manager,Finance,Mumbai,Employee Referral,MBA/PGDM,G4,1260000,501,Better Career Opportunity,4.0,Yes,3.45,0,2.7,0.0561,1.56,1
+931,Dhruv Khan,Male,2021-05-25,2024-05-25,Resigned,Sales,Sales Executive,Sales,Gurugram,Company Website,MBA/PGDM,G2,660000,576,Retirement,5.0,Yes,3.4,0,3.5,0.0528,3.0,1
+932,Rohit Naik,Male,2022-05-15,,Active,Operations,Operations Manager,Operations,Delhi,Campus Hiring,Diploma,G5,1415000,277,,,,3.05,0,3.8,0.0453,3.63,0
+933,Amit Khan,Male,2024-10-24,,Active,Sales,Sales Manager,Sales,Hyderabad,Naukri,Diploma,G4,1220000,243,,,,2.85,0,3.1,0.0381,1.19,0
+934,Ankita Patel,Male,2023-10-13,,Active,Information Technology,IT Manager,IT,Hyderabad,Campus Hiring,Diploma,G4,1365000,904,,,,3.67,0,3.3,0.0466,2.22,0
+935,Aditya Sawant,Male,2021-12-01,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Campus Hiring,Master's,G3,980000,738,,,,3.64,0,3.6,0.0406,4.08,0
+936,Sanjay Sawant,Female,2025-03-13,,Active,Information Technology,Software Engineer,IT,Chennai,LinkedIn,Diploma,G3,815000,1030,,,,3.9,0,3.2,0.0605,0.8,0
+937,Sameer Jadhav,Male,2021-11-26,2025-09-16,Resigned,Sales,Sales Executive,Sales,Pune,Recruitment Agency,MBA/PGDM,G1,485000,1034,Compensation,1.0,Yes,3.82,1,3.4,0.0439,3.81,1
+938,Aditi Jain,Female,2023-11-21,,Active,Sales,Sales Executive,Sales,Chennai,Recruitment Agency,Master's,G2,730000,1034,,,,4.37,0,2.73,0.0286,2.11,0
+939,Abhishek Mishra,Male,2025-11-28,,Active,Sales,Sales Manager,Sales,Bengaluru,Campus Hiring,Diploma,G3,870000,583,,,,4.0,0,,0.093,0.09,0
+940,Vidya Kulkarni,Female,2025-07-06,,Active,Sales,Sales Executive,Sales,Bengaluru,Company Website,Master's,G2,530000,558,,,,2.6,0,3.8,0.0551,0.49,0
+941,Shreya Jain,Male,2025-07-26,,Active,Procurement,Procurement Manager,Procurement,Pune,Recruitment Agency,Master's,G4,1270000,882,,,,3.3,0,3.0,0.0781,0.43,0
+942,Dhruv Iyer,Female,2025-06-09,,Active,Finance,Financial Analyst,Finance,Delhi,Company Website,Bachelor's,G2,650000,831,,,,2.5,0,3.4,0.0526,0.56,0
+943,Tanya Kulkarni,Female,2025-01-28,2025-10-24,Terminated,Finance,Finance Manager,Finance,Mumbai,LinkedIn,MBA/PGDM,G4,1040000,1059,Better Career Opportunity,2.0,No,,0,,0.033,0.74,1
+944,Nisha Verma,Male,2023-07-25,,Active,Marketing,Marketing Analyst,Marketing,Pune,Campus Hiring,Master's,G2,550000,4,,,,3.87,1,2.8,0.0524,2.44,0
+945,Mohit Thakur,Female,2022-09-28,,Active,Human Resources,HR Executive,HR,Delhi,Naukri,Master's,G2,670000,9,,,,3.1,0,2.6,0.043,3.26,0
+946,Riya Pawar,Female,2022-03-27,2023-09-04,Resigned,Operations,Operations Manager,Operations,Mumbai,LinkedIn,Bachelor's,G5,1595000,908,Compensation,5.0,Yes,4.8,0,2.6,0.0416,1.44,1
+947,Neha Malhotra,Male,2023-07-10,,Active,Information Technology,Data Analyst,IT,Hyderabad,Company Website,MBA/PGDM,G2,655000,445,,,,3.8,0,2.7,0.0421,2.48,0
+948,Neha Naik,Male,2023-01-15,,Active,Marketing,Marketing Analyst,Marketing,Pune,Naukri,Master's,G3,755000,604,,,,3.13,0,3.5,0.0424,2.96,0
+949,Dev Chopra,Male,2024-09-29,2025-07-02,Resigned,Operations,Operations Executive,Operations,Gurugram,Company Website,Bachelor's,G2,710000,331,Performance Termination,5.0,Yes,2.7,0,1.6,0.0207,0.76,1
+950,Dhruv Menon,Male,2023-02-14,,Active,Marketing,Marketing Analyst,Marketing,Pune,Campus Hiring,MBA/PGDM,G3,770000,246,,,,3.47,1,2.67,0.0544,2.88,0
+951,Aniket Gupta,Female,2025-02-24,2025-11-06,Resigned,Sales,Sales Executive,Sales,Hyderabad,Recruitment Agency,Master's,G2,675000,357,Personal Reasons,5.0,Yes,,0,,0.0514,0.7,1
+952,Nisha Bansal,Male,2022-07-04,2024-08-05,Terminated,Human Resources,HR Executive,HR,Hyderabad,Company Website,MBA/PGDM,G2,630000,954,Role/Workload,3.0,Yes,3.5,1,3.2,0.0516,2.09,1
+953,Sakshi Deshmukh,Female,2021-09-09,,Active,Sales,Sales Executive,Sales,Mumbai,Recruitment Agency,MBA/PGDM,G2,565000,105,,,,4.3,0,2.92,0.0393,4.31,0
+954,Rahul More,Female,2023-11-09,,Active,Human Resources,HR Manager,HR,Chennai,Naukri,Bachelor's,G4,1235000,252,,,,3.6,0,3.0,0.0413,2.14,0
+955,Rhea Mishra,Female,2023-09-08,,Active,Information Technology,Data Analyst,IT,Delhi,Recruitment Agency,Diploma,G3,990000,44,,,,2.97,1,2.2,0.0503,2.31,0
+956,Sameer Verma,Female,2024-10-20,,Active,Procurement,Procurement Analyst,Procurement,Pune,Naukri,MBA/PGDM,G2,550000,568,,,,4.0,0,,0.0389,1.2,0
+957,Rahul Saxena,Female,2021-02-28,,Active,Sales,Sales Manager,Sales,Gurugram,Recruitment Agency,MBA/PGDM,G4,1260000,1062,,,,3.36,0,2.95,0.0456,4.84,0
+958,Pallavi Sawant,Male,2025-07-28,,Active,Information Technology,Software Engineer,IT,Bengaluru,Campus Hiring,Master's,G2,720000,712,,,,3.3,0,3.4,0.053,0.43,0
+959,Amit Joshi,Female,2024-06-03,,Active,Sales,Sales Manager,Sales,Bengaluru,Employee Referral,MBA/PGDM,G4,1225000,460,,,,2.7,0,3.2,0.0393,1.58,0
+960,Karan Kapoor,Female,2022-05-27,2025-02-02,Resigned,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,Master's,G1,480000,392,Role/Workload,4.0,Yes,4.0,0,3.13,0.0493,2.69,1
+961,Ashish Rao,Female,2023-06-03,2024-05-21,Resigned,Marketing,Marketing Analyst,Marketing,Bengaluru,Recruitment Agency,Master's,G3,835000,493,Higher Education,1.0,Yes,4.3,0,4.0,0.0386,0.97,1
+962,Rohit More,Female,2022-10-23,,Active,Human Resources,HR Executive,HR,Delhi,Company Website,Diploma,G2,540000,851,,,,3.4,1,2.6,0.0459,3.19,0
+963,Rohan Joshi,Female,2023-03-16,2023-06-05,Resigned,Information Technology,Data Analyst,IT,Gurugram,Employee Referral,MBA/PGDM,G2,650000,1135,Better Career Opportunity,2.0,Yes,,0,,0.0482,0.22,1
+964,Sameer Sharma,Male,2025-06-09,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,Diploma,G2,715000,465,,,,4.1,0,3.2,0.0464,0.56,0
+965,Isha Verma,Male,2023-02-02,2025-11-23,Resigned,Human Resources,HR Executive,HR,Gurugram,LinkedIn,MBA/PGDM,G2,665000,1140,Personal Reasons,5.0,No,3.65,1,2.8,0.0561,2.81,1
+966,Shreya Thakur,Female,2023-06-12,2024-03-11,Resigned,Sales,Sales Executive,Sales,Delhi,Company Website,Master's,G2,650000,52,Better Career Opportunity,2.0,No,4.2,0,2.6,0.0329,0.75,1
+967,Akash Khan,Female,2023-02-21,,Active,Information Technology,Software Engineer,IT,Bengaluru,Naukri,MBA/PGDM,G4,1280000,141,,,,3.13,0,3.8,0.0472,2.86,0
+968,Ananya Naik,Female,2023-04-25,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Company Website,Master's,G3,890000,234,,,,3.13,0,2.9,0.0563,2.69,0
+969,Neha Rao,Female,2024-11-17,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,LinkedIn,Diploma,G2,560000,856,,,,3.05,1,,0.0557,1.12,0
+970,Dhruv Sharma,Male,2023-05-27,,Active,Information Technology,IT Manager,IT,Chennai,LinkedIn,Master's,G4,1195000,712,,,,3.2,0,3.5,0.0329,2.6,0
+971,Akash Sawant,Male,2023-01-21,,Active,Operations,Operations Executive,Operations,Mumbai,Employee Referral,Bachelor's,G2,535000,198,,,,3.2,0,3.0,0.05,2.94,0
+972,Sanjay Deshmukh,Male,2022-03-15,,Active,Sales,Sales Manager,Sales,Delhi,Naukri,Bachelor's,G5,1480000,957,,,,3.83,0,3.0,0.0475,3.8,0
+973,Harsh Saxena,Male,2021-09-21,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Naukri,Master's,G4,1165000,123,,,,3.74,0,3.87,0.0401,4.28,0
+974,Trisha Saxena,Female,2022-02-12,,Active,Procurement,Procurement Analyst,Procurement,Pune,Employee Referral,Bachelor's,G2,580000,895,,,,3.33,0,3.0,0.0439,3.88,0
+975,Anjali Menon,Male,2022-10-25,,Active,Information Technology,Software Engineer,IT,Bengaluru,LinkedIn,MBA/PGDM,G4,1115000,466,,,,4.25,0,2.85,0.0492,3.18,0
+976,Shreya Menon,Male,2025-05-02,,Active,Operations,Operations Manager,Operations,Mumbai,Employee Referral,MBA/PGDM,G4,1005000,1099,,,,3.8,0,3.6,0.0465,0.67,0
+977,Aarav Gupta,Male,2023-07-14,,Active,Customer Support,Customer Support Executive,Support,Ahmedabad,Naukri,Master's,G2,575000,695,,,,3.33,1,2.6,0.0546,2.47,0
+978,Amit Mishra,Male,2025-09-08,,Active,Information Technology,Software Engineer,IT,Mumbai,Company Website,Bachelor's,G3,855000,1179,,,,2.7,0,,0.0568,0.31,0
+979,Abhishek Kulkarni,Male,2022-02-14,,Active,Information Technology,IT Manager,IT,Mumbai,Employee Referral,Bachelor's,G5,1600000,1179,,,,2.95,0,3.3,0.0476,3.88,0
+980,Tanvi Chopra,Male,2021-12-23,,Active,Information Technology,Data Analyst,IT,Mumbai,Naukri,MBA/PGDM,G3,845000,354,,,,2.88,1,3.0,0.0466,4.02,0
+981,Sakshi Iyer,Female,2023-07-10,,Active,Human Resources,HR Manager,HR,Chennai,LinkedIn,MBA/PGDM,G3,905000,837,,,,2.77,0,2.8,0.0434,2.48,0
+982,Rohan Saxena,Female,2021-01-04,,Active,Sales,Sales Manager,Sales,Mumbai,Campus Hiring,MBA/PGDM,G4,1180000,319,,,,3.8,0,3.45,0.0444,4.99,0
+983,Pallavi Iyer,Male,2025-05-23,2025-10-23,Resigned,Human Resources,HR Manager,HR,Delhi,Company Website,Bachelor's,G4,1310000,642,Retirement,5.0,Yes,,0,,0.0458,0.42,1
+984,Diya Khan,Female,2024-04-02,,Active,Operations,Operations Executive,Operations,Hyderabad,Company Website,MBA/PGDM,G3,800000,517,,,,3.4,0,3.0,0.0424,1.75,0
+985,Arjun Mishra,Female,2023-11-26,2025-04-28,Resigned,Information Technology,IT Manager,IT,Pune,Recruitment Agency,Bachelor's,G5,1765000,656,Role/Workload,3.0,Yes,3.45,0,2.9,0.0485,1.42,1
+986,Ananya Mehta,Male,2023-02-10,,Active,Customer Support,Customer Support Manager,Support,Pune,Campus Hiring,Diploma,G3,910000,787,,,,3.57,0,3.7,0.044,2.89,0
+987,Anjali More,Male,2023-05-22,2023-11-15,Resigned,Sales,Sales Manager,Sales,Bengaluru,LinkedIn,MBA/PGDM,G4,1280000,93,Personal Reasons,2.0,No,,0,,0.0577,0.48,1
+988,Nisha Joshi,Male,2023-03-04,2023-06-01,Resigned,Operations,Operations Executive,Operations,Pune,Recruitment Agency,Diploma,G2,670000,702,Better Career Opportunity,4.0,Yes,,0,,0.0714,0.24,1
+989,Aditi Gupta,Female,2024-10-18,,Active,Marketing,Marketing Manager,Marketing,Ahmedabad,Naukri,MBA/PGDM,G5,1600000,1013,,,,3.5,0,3.6,0.0508,1.2,0
+990,Vivek Kapoor,Female,2022-07-24,,Active,Information Technology,Data Analyst,IT,Pune,Recruitment Agency,MBA/PGDM,G2,750000,121,,,,2.35,2,2.7,0.0432,3.44,0
+991,Neha Rao,Male,2024-07-10,2025-12-28,Terminated,Sales,Sales Executive,Sales,Pune,Naukri,Bachelor's,G2,590000,294,Better Career Opportunity,3.0,No,3.15,0,4.0,0.0463,1.47,1
+992,Riya Pillai,Female,2024-05-13,,Active,Information Technology,IT Manager,IT,Mumbai,Company Website,MBA/PGDM,G5,1780000,640,,,,3.1,0,3.4,0.054,1.63,0
+993,Mohit Gupta,Male,2021-06-07,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Employee Referral,Master's,G3,935000,1053,,,,3.02,0,3.13,0.0431,4.57,0
+994,Sameer Sawant,Female,2023-11-02,,Active,Information Technology,IT Manager,IT,Gurugram,LinkedIn,Diploma,G5,1875000,873,,,,2.93,0,2.93,0.046,2.16,0
+995,Ashish Kulkarni,Male,2021-12-17,,Active,Operations,Operations Executive,Operations,Delhi,LinkedIn,Master's,G2,660000,148,,,,3.45,1,2.93,0.0509,4.04,0
+996,Sonali Shinde,Male,2024-04-25,,Active,Information Technology,Data Analyst,IT,Hyderabad,LinkedIn,Bachelor's,G2,690000,77,,,,4.15,0,2.5,0.0533,1.68,0
+997,Ankita Pillai,Female,2022-01-03,,Active,Human Resources,HR Executive,HR,Mumbai,Company Website,Master's,G2,645000,776,,,,3.45,0,2.93,0.0486,3.99,0
+998,Rhea More,Male,2022-03-10,,Active,Information Technology,Data Analyst,IT,Gurugram,LinkedIn,Master's,G4,1040000,779,,,,3.13,0,2.9,0.0406,3.81,0
+999,Rhea Bansal,Female,2025-01-20,,Active,Marketing,Marketing Manager,Marketing,Pune,Recruitment Agency,Diploma,G4,1190000,470,,,,2.9,0,,0.0386,0.94,0
+1000,Ananya Menon,Male,2024-03-30,,Active,Information Technology,Data Analyst,IT,Bengaluru,Recruitment Agency,Bachelor's,G2,720000,1180,,,,2.45,0,3.6,0.0464,1.75,0
+1001,Ananya Chopra,Female,2024-01-07,2024-10-20,Terminated,Information Technology,IT Manager,IT,Delhi,Company Website,Bachelor's,G5,1495000,302,Personal Reasons,4.0,No,,0,,0.0516,0.79,1
+1002,Tanvi Deshmukh,Male,2025-06-13,,Active,Human Resources,HR Executive,HR,Bengaluru,Campus Hiring,MBA/PGDM,G2,555000,662,,,,2.9,0,3.8,0.0329,0.55,0
+1003,Aniket Iyer,Male,2022-10-29,,Active,Information Technology,Data Analyst,IT,Mumbai,Employee Referral,Master's,G2,655000,1018,,,,4.35,0,3.8,0.0586,3.17,0
+1004,Aditya Shinde,Male,2021-08-22,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Employee Referral,Diploma,G2,620000,55,,,,3.44,0,3.2,0.041,4.36,0
+1005,Yash Mehta,Female,2025-03-28,,Active,Human Resources,HR Executive,HR,Chennai,Naukri,Bachelor's,G2,610000,727,,,,3.4,0,3.6,0.0607,0.76,0
+1006,Rohan Khan,Male,2021-08-03,,Active,Customer Support,Customer Support Manager,Support,Chennai,Recruitment Agency,Master's,G4,1220000,215,,,,3.48,0,3.45,0.0411,4.41,0
+1007,Karan Iyer,Male,2022-05-24,,Active,Finance,Finance Manager,Finance,Hyderabad,LinkedIn,Diploma,G4,1050000,1143,,,,3.15,0,3.2,0.0464,3.61,0
+1008,Yash Kulkarni,Male,2024-03-29,,Active,Human Resources,HR Executive,HR,Gurugram,Company Website,Bachelor's,G2,750000,398,,,,3.45,0,3.0,0.0511,1.76,0
+1009,Tanya Patel,Female,2025-10-06,2025-12-08,Resigned,Customer Support,Customer Support Manager,Support,Pune,Company Website,Bachelor's,G4,1240000,1133,Personal Reasons,5.0,No,,0,,0.0597,0.17,1
+1010,Priya Deshmukh,Male,2023-12-12,,Active,Sales,Sales Executive,Sales,Pune,Recruitment Agency,MBA/PGDM,G1,485000,683,,,,4.03,0,,0.0351,2.05,0
+1011,Manish Deshmukh,Male,2024-12-26,,Active,Sales,Sales Manager,Sales,Gurugram,Recruitment Agency,Master's,G3,950000,771,,,,3.7,0,3.0,0.0351,1.01,0
+1012,Yash Iyer,Female,2023-07-14,,Active,Human Resources,HR Executive,HR,Mumbai,LinkedIn,Diploma,G2,580000,447,,,,3.53,0,3.2,0.0416,2.47,0
+1013,Pooja Malhotra,Female,2023-12-05,,Active,Marketing,Marketing Manager,Marketing,Mumbai,LinkedIn,Diploma,G4,1140000,304,,,,2.93,0,2.9,0.0407,2.07,0
+1014,Vivek Mishra,Male,2022-05-29,,Active,Information Technology,IT Manager,IT,Hyderabad,Recruitment Agency,Diploma,G4,1370000,121,,,,3.75,0,3.1,0.0539,3.59,0
+1015,Vidya Kulkarni,Male,2025-07-21,,Active,Human Resources,HR Manager,HR,Hyderabad,LinkedIn,Diploma,G4,1105000,800,,,,3.8,0,2.6,0.08,0.45,0
+1016,Dhruv Malhotra,Female,2024-06-27,,Active,Operations,Operations Executive,Operations,Bengaluru,LinkedIn,Diploma,G2,585000,654,,,,3.35,0,3.2,0.052,1.51,0
+1017,Harsh Deshmukh,Male,2023-09-15,2025-09-12,Resigned,Sales,Sales Manager,Sales,Hyderabad,Campus Hiring,MBA/PGDM,G3,890000,792,Better Career Opportunity,4.0,Yes,4.35,0,,0.0516,1.99,1
+1018,Sonali Khan,Male,2025-01-01,,Active,Information Technology,IT Manager,IT,Mumbai,LinkedIn,Diploma,G5,1565000,934,,,,2.8,0,,0.0463,1.0,0
+1019,Sonali Menon,Female,2022-04-27,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Recruitment Agency,Diploma,G1,445000,986,,,,3.6,1,2.47,0.0472,3.68,0
+1020,Sneha Joshi,Female,2022-11-23,,Active,Finance,Finance Manager,Finance,Mumbai,Employee Referral,Diploma,G4,1400000,48,,,,3.4,0,2.53,0.0505,3.1,0
+1021,Vidya Deshmukh,Female,2024-04-14,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Naukri,Diploma,G3,785000,231,,,,3.6,0,,0.0513,1.71,0
+1022,Dev Jadhav,Male,2023-02-02,,Active,Sales,Sales Executive,Sales,Bengaluru,Company Website,Diploma,G2,720000,1166,,,,3.43,0,2.7,0.0489,2.91,0
+1023,Priya Deshmukh,Female,2022-12-13,,Active,Information Technology,Data Analyst,IT,Mumbai,LinkedIn,Diploma,G4,1015000,1182,,,,3.33,0,3.07,0.0403,3.05,0
+1024,Nikhil Iyer,Male,2024-09-11,,Active,Information Technology,IT Manager,IT,Bengaluru,Recruitment Agency,Diploma,G4,1130000,554,,,,4.1,0,3.2,0.0484,1.3,0
+1025,Rahul Mehta,Male,2022-07-19,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Company Website,Bachelor's,G3,870000,787,,,,2.9,0,3.67,0.0474,3.45,0
+1026,Vivek Joshi,Male,2025-11-27,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Naukri,Master's,G4,1290000,286,,,,3.5,0,2.8,0.093,0.09,0
+1027,Isha Reddy,Male,2022-05-26,,Active,Information Technology,IT Manager,IT,Gurugram,LinkedIn,Diploma,G5,1680000,1018,,,,3.52,0,2.8,0.0416,3.6,0
+1028,Meera Rao,Male,2021-06-09,,Active,Human Resources,HR Executive,HR,Ahmedabad,Campus Hiring,Master's,G2,725000,808,,,,3.4,1,2.93,0.0466,4.56,0
+1029,Amit Mishra,Male,2021-11-03,,Active,Finance,Finance Manager,Finance,Chennai,Campus Hiring,Diploma,G4,1385000,831,,,,3.22,0,3.05,0.0483,4.16,0
+1030,Nikhil Shinde,Male,2022-04-30,,Active,Information Technology,IT Manager,IT,Chennai,Employee Referral,Diploma,G5,1725000,535,,,,3.45,0,3.07,0.0484,3.67,0
+1031,Aniket Iyer,Male,2024-01-29,2024-12-08,Resigned,Information Technology,Software Engineer,IT,Mumbai,Employee Referral,MBA/PGDM,G3,845000,1083,Better Career Opportunity,1.0,No,,0,,0.0392,0.86,1
+1032,Varun Sawant,Male,2022-12-31,,Active,Information Technology,Data Analyst,IT,Delhi,Employee Referral,Master's,G2,730000,14,,,,2.67,1,3.05,0.0504,3.0,0
+1033,Manish More,Female,2022-02-01,,Active,Operations,Operations Executive,Operations,Pune,Employee Referral,Bachelor's,G3,815000,273,,,,3.98,0,2.6,0.0441,3.91,0
+1034,Tanvi Kapoor,Female,2024-04-19,,Active,Sales,Sales Manager,Sales,Chennai,Campus Hiring,Master's,G4,1285000,696,,,,3.45,0,2.6,0.0415,1.7,0
+1035,Rohit Nair,Male,2025-09-13,2025-11-26,Terminated,Operations,Operations Manager,Operations,Mumbai,LinkedIn,MBA/PGDM,G5,1515000,748,Personal Reasons,5.0,Yes,,0,,0.0154,0.2,1
+1036,Sameer Joshi,Male,2023-06-22,,Active,Human Resources,HR Manager,HR,Pune,LinkedIn,MBA/PGDM,G4,1330000,801,,,,3.4,0,3.07,0.0409,2.53,0
+1037,Sanjay Singh,Male,2023-06-20,,Active,Information Technology,Software Engineer,IT,Mumbai,Employee Referral,Master's,G4,1075000,656,,,,3.53,0,2.8,0.046,2.53,0
+1038,Tanya Rao,Male,2025-01-21,,Active,Operations,Operations Manager,Operations,Pune,Campus Hiring,MBA/PGDM,G5,1500000,1167,,,,2.6,0,4.0,0.0421,0.94,0
+1039,Sanjay Iyer,Male,2024-01-27,,Active,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,MBA/PGDM,G2,685000,874,,,,3.15,0,3.6,0.0343,1.93,0
+1040,Tanvi Gupta,Female,2021-01-22,,Active,Procurement,Procurement Manager,Procurement,Hyderabad,LinkedIn,MBA/PGDM,G4,1130000,543,,,,3.66,0,3.05,0.0408,4.94,0
+1041,Isha Khan,Male,2022-08-12,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,Recruitment Agency,Bachelor's,G3,825000,657,,,,3.15,0,2.65,0.037,3.39,0
+1042,Priya Menon,Male,2023-10-04,,Active,Sales,Sales Manager,Sales,Ahmedabad,Campus Hiring,Diploma,G3,990000,982,,,,3.07,0,3.4,0.041,2.24,0
+1043,Sameer Jain,Female,2024-01-14,,Active,Information Technology,IT Manager,IT,Chennai,Recruitment Agency,Diploma,G5,1525000,985,,,,4.15,0,4.0,0.0558,1.96,0
+1044,Neha Shinde,Male,2025-06-15,,Active,Information Technology,Data Analyst,IT,Bengaluru,Recruitment Agency,Bachelor's,G2,750000,549,,,,2.4,0,1.8,0.0506,0.54,0
+1045,Isha Nair,Female,2025-05-30,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Campus Hiring,MBA/PGDM,G1,425000,787,,,,4.1,0,,0.0479,0.59,0
+1046,Tanya Mehta,Male,2022-01-22,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,Diploma,G3,790000,1042,,,,3.5,0,3.0,0.0471,3.94,0
+1047,Rahul Kapoor,Male,2024-09-25,2025-03-17,Resigned,Information Technology,IT Manager,IT,Gurugram,Company Website,Master's,G5,1700000,133,Compensation,3.0,No,2.6,0,2.0,0.0196,0.47,1
+1048,Vidya Rao,Female,2022-02-01,,Active,Information Technology,IT Manager,IT,Chennai,Campus Hiring,Diploma,G4,1255000,1069,,,,3.77,0,3.4,0.0575,3.91,0
+1049,Akash Deshmukh,Male,2024-06-03,,Active,Finance,Financial Analyst,Finance,Mumbai,Naukri,Diploma,G3,925000,782,,,,3.35,0,2.2,0.0493,1.58,0
+1050,Ananya Singh,Male,2022-02-06,,Active,Sales,Sales Manager,Sales,Gurugram,Naukri,MBA/PGDM,G5,1465000,792,,,,2.6,0,3.15,0.0451,3.9,0
+1051,Karan Thakur,Male,2025-09-17,,Active,Human Resources,HR Manager,HR,Pune,Naukri,Diploma,G4,1245000,954,,,,5.0,0,3.8,0.0455,0.29,0
+1052,Rohan More,Female,2021-09-23,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Naukri,Bachelor's,G2,560000,882,,,,3.04,0,2.6,0.0492,4.27,0
+1053,Isha Chopra,Male,2021-02-01,,Active,Customer Support,Customer Support Manager,Support,Delhi,Recruitment Agency,Bachelor's,G4,1295000,149,,,,3.78,0,2.84,0.048,4.91,0
+1054,Ankita Jain,Female,2024-03-20,,Active,Human Resources,HR Executive,HR,Hyderabad,Company Website,Diploma,G2,570000,694,,,,3.05,0,1.4,0.0476,1.78,0
+1055,Yash Thakur,Male,2021-10-18,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Company Website,Master's,G2,545000,604,,,,2.56,1,2.72,0.0452,4.2,0
+1056,Sameer Joshi,Female,2024-02-25,2024-06-21,Resigned,Sales,Sales Executive,Sales,Ahmedabad,Company Website,Diploma,G2,690000,440,Personal Reasons,3.0,Yes,,0,,0.0636,0.32,1
+1057,Rhea Chopra,Female,2022-11-01,2023-07-28,Resigned,Sales,Sales Manager,Sales,Bengaluru,Recruitment Agency,Master's,G3,865000,106,Better Career Opportunity,4.0,Yes,3.6,0,,0.0366,0.74,1
+1058,Aditya Jain,Male,2022-03-01,,Active,Sales,Sales Manager,Sales,Hyderabad,Naukri,Master's,G3,890000,200,,,,3.5,0,2.87,0.0484,3.84,0
+1059,Trisha Shinde,Male,2025-01-05,,Active,Finance,Finance Manager,Finance,Delhi,Employee Referral,Diploma,G4,1375000,871,,,,2.6,0,3.2,0.0275,0.99,0
+1060,Shreya Nair,Male,2024-09-30,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Bachelor's,G2,715000,690,,,,3.5,0,2.1,0.0353,1.25,0
+1061,Dhruv Sawant,Female,2022-11-17,2024-03-12,Resigned,Information Technology,Data Analyst,IT,Mumbai,Campus Hiring,Bachelor's,G4,1005000,910,Role/Workload,5.0,Yes,3.0,0,3.1,0.0525,1.32,1
+1062,Sahil Rao,Male,2021-11-10,,Active,Sales,Sales Manager,Sales,Mumbai,Recruitment Agency,Master's,G5,1580000,181,,,,3.42,0,3.7,0.041,4.14,0
+1063,Sahil Thakur,Male,2022-03-19,,Active,Information Technology,Data Analyst,IT,Bengaluru,LinkedIn,Master's,G4,1040000,524,,,,3.52,0,2.8,0.0482,3.79,0
+1064,Vidya Rao,Male,2022-05-13,,Active,Operations,Operations Manager,Operations,Delhi,Campus Hiring,Master's,G4,1140000,663,,,,2.88,0,2.65,0.0461,3.64,0
+1065,Manish More,Male,2022-11-15,,Active,Finance,Finance Manager,Finance,Chennai,LinkedIn,MBA/PGDM,G5,1760000,877,,,,3.17,0,2.8,0.0416,3.13,0
+1066,Pooja Reddy,Female,2025-02-11,,Active,Information Technology,Data Analyst,IT,Mumbai,Campus Hiring,Bachelor's,G3,860000,1014,,,,3.7,0,,0.0328,0.88,0
+1067,Tanya Mehta,Male,2021-09-05,,Active,Information Technology,Software Engineer,IT,Chennai,Campus Hiring,Diploma,G4,1185000,41,,,,3.84,0,2.96,0.0483,4.32,0
+1068,Manish Kulkarni,Male,2024-07-23,,Active,Marketing,Marketing Manager,Marketing,Hyderabad,Naukri,MBA/PGDM,G5,1590000,476,,,,3.15,0,2.4,0.0182,1.44,0
+1069,Tanvi Sharma,Female,2023-12-28,2024-05-07,Resigned,Information Technology,IT Manager,IT,Delhi,Recruitment Agency,Master's,G5,1810000,994,Retirement,1.0,Yes,,0,2.0,0.0488,0.36,1
+1070,Ananya Pawar,Female,2022-06-18,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Company Website,Diploma,G3,850000,632,,,,3.08,1,2.9,0.052,3.54,0
+1071,Aditya Mishra,Female,2023-03-24,2024-04-26,Resigned,Human Resources,HR Manager,HR,Mumbai,Naukri,Diploma,G5,1430000,1140,Compensation,1.0,No,3.5,0,3.0,0.0533,1.09,1
+1072,Mohit Verma,Female,2023-10-03,,Active,Information Technology,Software Engineer,IT,Mumbai,LinkedIn,Bachelor's,G3,970000,466,,,,3.43,0,2.8,0.0521,2.25,0
+1073,Ananya Sawant,Male,2021-12-27,,Active,Operations,Operations Manager,Operations,Ahmedabad,Campus Hiring,MBA/PGDM,G5,1555000,582,,,,3.05,0,3.0,0.0429,4.01,0
+1074,Nisha Bansal,Female,2024-05-30,,Active,Information Technology,Data Analyst,IT,Bengaluru,Employee Referral,MBA/PGDM,G2,690000,455,,,,3.8,0,3.4,0.0424,1.59,0
+1075,Priya Naik,Male,2022-09-22,,Active,Customer Support,Customer Support Executive,Support,Pune,LinkedIn,Diploma,G2,550000,127,,,,2.95,0,3.2,0.0467,3.27,0
+1076,Mohit Mishra,Male,2021-12-03,2023-03-19,Resigned,Customer Support,Customer Support Manager,Support,Pune,Recruitment Agency,Master's,G4,1055000,352,Relocation,5.0,No,3.6,0,2.6,0.0497,1.29,1
+1077,Isha Patel,Female,2023-05-09,,Active,Sales,Sales Manager,Sales,Pune,LinkedIn,MBA/PGDM,G4,1025000,902,,,,4.1,0,3.4,0.0437,2.65,0
+1078,Abhishek Kulkarni,Male,2022-03-11,,Active,Sales,Sales Manager,Sales,Hyderabad,Naukri,Diploma,G4,1180000,179,,,,3.73,0,3.1,0.0373,3.81,0
+1079,Isha Patel,Female,2022-04-30,,Active,Information Technology,Software Engineer,IT,Gurugram,Campus Hiring,Bachelor's,G4,1020000,284,,,,3.65,1,2.5,0.0418,3.67,0
+1080,Isha Menon,Female,2023-04-07,,Active,Procurement,Procurement Manager,Procurement,Bengaluru,Campus Hiring,Diploma,G5,1585000,895,,,,3.13,0,3.0,0.0436,2.74,0
+1081,Vidya Bansal,Male,2021-08-21,2024-09-09,Resigned,Sales,Sales Executive,Sales,Gurugram,Naukri,Master's,G2,555000,576,Retirement,4.0,Yes,3.43,1,3.4,0.0441,3.05,1
+1082,Abhishek Singh,Female,2023-07-24,,Active,Sales,Sales Executive,Sales,Bengaluru,Recruitment Agency,MBA/PGDM,G2,570000,38,,,,3.43,0,3.9,0.0354,2.44,0
+1083,Aniket Verma,Male,2021-03-04,,Active,Information Technology,IT Manager,IT,Bengaluru,Naukri,Master's,G5,1725000,14,,,,3.3,0,2.7,0.0493,4.83,0
+1084,Dhruv Menon,Female,2023-05-21,2025-05-03,Resigned,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,Master's,G4,1080000,275,Compensation,4.0,Yes,3.85,0,3.6,0.0505,1.95,1
+1085,Anjali Menon,Male,2025-05-09,2025-11-23,Resigned,Finance,Finance Manager,Finance,Chennai,LinkedIn,Master's,G4,1185000,1143,Retirement,2.0,No,,0,,0.0467,0.54,1
+1086,Vidya Mishra,Male,2022-01-12,,Active,Human Resources,HR Executive,HR,Mumbai,Employee Referral,Master's,G2,600000,800,,,,3.25,1,3.1,0.0437,3.97,0
+1087,Ashish Pawar,Male,2023-05-02,,Active,Operations,Operations Manager,Operations,Hyderabad,Company Website,Diploma,G3,915000,693,,,,3.0,0,3.2,0.045,2.67,0
+1088,Riya Rao,Male,2023-08-15,2025-09-08,Resigned,Sales,Sales Manager,Sales,Mumbai,Employee Referral,Master's,G5,1475000,747,Better Career Opportunity,4.0,No,3.25,0,3.2,0.0378,2.07,1
+1089,Riya Nair,Female,2024-12-04,2025-10-04,Resigned,Operations,Operations Manager,Operations,Pune,Company Website,Bachelor's,G4,1260000,677,Higher Education,4.0,No,3.0,0,2.6,0.0563,0.83,1
+1090,Sneha Mehta,Female,2023-01-27,,Active,Finance,Financial Analyst,Finance,Mumbai,Recruitment Agency,Bachelor's,G3,895000,796,,,,3.57,1,2.2,0.0542,2.93,0
+1091,Riya Mehta,Male,2022-12-29,2024-08-13,Terminated,Operations,Operations Executive,Operations,Mumbai,LinkedIn,Diploma,G3,795000,748,Compensation,5.0,No,3.1,0,2.9,0.0527,1.62,1
+1092,Ankita Naik,Male,2025-08-22,,Active,Information Technology,Software Engineer,IT,Hyderabad,Recruitment Agency,MBA/PGDM,G2,660000,757,,,,4.1,0,2.8,0.0374,0.36,0
+1093,Yash Pawar,Male,2024-06-08,2024-11-10,Terminated,Information Technology,Software Engineer,IT,Mumbai,Naukri,Bachelor's,G4,1140000,466,Personal Reasons,1.0,No,,0,,0.0565,0.42,1
+1094,Vidya Pillai,Male,2024-07-23,,Active,Operations,Operations Executive,Operations,Pune,Naukri,Master's,G1,500000,611,,,,3.7,0,3.0,0.0596,1.44,0
+1095,Shreya Naik,Female,2025-10-28,,Active,Sales,Sales Executive,Sales,Delhi,Naukri,MBA/PGDM,G2,710000,38,,,,3.5,0,2.4,0.0476,0.18,0
+1096,Nisha Shinde,Female,2021-04-05,,Active,Customer Support,Customer Support Executive,Support,Pune,Company Website,Master's,G1,440000,1170,,,,3.12,1,3.1,0.0545,4.74,0
+1097,Ankita Kulkarni,Male,2021-01-15,,Active,Procurement,Procurement Analyst,Procurement,Hyderabad,Employee Referral,Diploma,G2,630000,623,,,,3.38,0,3.25,0.049,4.96,0
+1098,Vidya Mehta,Female,2022-01-18,,Active,Operations,Operations Manager,Operations,Gurugram,Campus Hiring,MBA/PGDM,G4,1395000,157,,,,3.02,0,3.45,0.0483,3.95,0
+1099,Varun Nair,Male,2023-06-27,,Active,Operations,Operations Manager,Operations,Ahmedabad,Company Website,Diploma,G4,1110000,663,,,,2.87,0,3.2,0.0525,2.51,0
+1100,Neha Singh,Male,2023-06-16,,Active,Operations,Operations Manager,Operations,Chennai,Naukri,Bachelor's,G5,1590000,187,,,,4.07,0,2.33,0.0532,2.54,0
+1101,Anjali Sharma,Male,2021-02-07,,Active,Information Technology,Software Engineer,IT,Hyderabad,Recruitment Agency,Diploma,G3,860000,751,,,,3.78,1,3.53,0.0541,4.9,0
+1102,Amit Menon,Male,2024-10-29,,Active,Operations,Operations Manager,Operations,Pune,Company Website,Diploma,G5,1410000,1167,,,,3.5,0,3.2,0.0345,1.17,0
+1103,Priya Kapoor,Male,2025-05-03,2025-12-25,Resigned,Information Technology,Data Analyst,IT,Mumbai,Employee Referral,Bachelor's,G2,720000,424,Relocation,1.0,Yes,3.3,0,3.2,0.0545,0.65,1
+1104,Manish More,Male,2021-07-04,2023-11-24,Resigned,Information Technology,Software Engineer,IT,Bengaluru,Recruitment Agency,Bachelor's,G2,745000,141,Relocation,4.0,No,4.2,0,4.2,0.0464,2.39,1
+1105,Aditi Jain,Female,2023-10-08,,Active,Marketing,Marketing Analyst,Marketing,Mumbai,Recruitment Agency,Bachelor's,G2,585000,999,,,,3.1,0,3.2,0.0451,2.23,0
+1106,Zoya Joshi,Female,2022-06-15,,Active,Sales,Sales Manager,Sales,Gurugram,Naukri,Diploma,G5,1570000,330,,,,3.27,0,2.8,0.049,3.55,0
+1107,Sakshi Kapoor,Male,2022-04-15,,Active,Finance,Financial Analyst,Finance,Bengaluru,LinkedIn,Diploma,G2,635000,180,,,,4.17,0,2.65,0.051,3.71,0
+1108,Isha Iyer,Male,2022-10-20,2023-06-16,Resigned,Marketing,Marketing Analyst,Marketing,Chennai,Company Website,Bachelor's,G2,705000,246,Better Career Opportunity,2.0,Yes,3.1,0,,0.0402,0.65,1
+1109,Sakshi Sawant,Male,2025-07-19,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Recruitment Agency,Diploma,G2,640000,1009,,,,3.3,0,3.0,0.0543,0.45,0
+1110,Aarav Verma,Female,2021-09-28,2025-07-23,Resigned,Finance,Finance Manager,Finance,Hyderabad,Employee Referral,MBA/PGDM,G5,1740000,1020,Role/Workload,4.0,Yes,3.2,0,3.2,0.0386,3.82,1
+1111,Sakshi Reddy,Female,2025-07-18,,Active,Customer Support,Customer Support Manager,Support,Pune,Campus Hiring,Diploma,G4,1150000,603,,,,3.2,0,2.4,0.053,0.45,0
+1112,Manish Bansal,Male,2025-03-26,,Active,Sales,Sales Executive,Sales,Bengaluru,LinkedIn,Bachelor's,G2,555000,330,,,,4.0,0,2.6,0.0421,0.77,0
+1113,Amit Chopra,Female,2025-10-15,,Active,Finance,Finance Manager,Finance,Mumbai,Company Website,Diploma,G5,1460000,699,,,,3.7,0,3.0,0.0156,0.21,0
+1114,Shreya Menon,Male,2021-09-11,,Active,Operations,Operations Executive,Operations,Hyderabad,Recruitment Agency,MBA/PGDM,G2,645000,824,,,,3.2,0,2.76,0.0546,4.3,0
+1115,Mohit Khan,Male,2023-09-04,,Active,Human Resources,HR Manager,HR,Pune,Company Website,MBA/PGDM,G4,1265000,727,,,,3.1,0,3.07,0.0479,2.32,0
+1116,Riya Jadhav,Male,2023-07-17,,Active,Finance,Financial Analyst,Finance,Pune,LinkedIn,Master's,G2,700000,673,,,,3.33,0,3.3,0.05,2.46,0
+1117,Sameer Naik,Male,2021-01-07,,Active,Human Resources,HR Executive,HR,Bengaluru,LinkedIn,Bachelor's,G2,575000,1164,,,,4.04,0,3.3,0.0401,4.98,0
+1118,Aditi Kapoor,Female,2024-06-10,,Active,Information Technology,Data Analyst,IT,Pune,Company Website,Diploma,G3,785000,979,,,,4.5,0,3.1,0.059,1.56,0
+1119,Abhishek Thakur,Male,2024-03-10,,Active,Marketing,Marketing Analyst,Marketing,Gurugram,Naukri,Master's,G3,860000,879,,,,3.1,0,2.5,0.0409,1.81,0
+1120,Riya Sawant,Male,2025-08-08,,Active,Operations,Operations Manager,Operations,Bengaluru,LinkedIn,Bachelor's,G4,1160000,814,,,,3.6,0,,0.0187,0.4,0
+1121,Dev Kulkarni,Male,2021-04-29,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Naukri,Bachelor's,G3,830000,149,,,,3.86,0,3.2,0.0474,4.67,0
+1122,Zoya Iyer,Female,2025-07-03,,Active,Information Technology,Data Analyst,IT,Bengaluru,Campus Hiring,Master's,G2,725000,97,,,,4.5,0,3.0,0.0308,0.5,0
+1123,Meera Iyer,Female,2024-05-31,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Naukri,Bachelor's,G2,640000,905,,,,3.05,0,2.6,0.0418,1.59,0
+1124,Nisha Malhotra,Male,2021-07-14,,Active,Sales,Sales Executive,Sales,Gurugram,Employee Referral,Master's,G2,735000,720,,,,3.56,0,3.05,0.0447,4.47,0
+1125,Rohit Reddy,Male,2024-04-21,,Active,Procurement,Procurement Manager,Procurement,Bengaluru,Employee Referral,MBA/PGDM,G4,1200000,478,,,,3.5,0,,0.049,1.69,0
+1126,Shreya Kapoor,Male,2022-08-08,2025-04-10,Resigned,Marketing,Marketing Manager,Marketing,Mumbai,LinkedIn,Bachelor's,G3,945000,632,Compensation,3.0,Yes,3.17,0,2.1,0.0453,2.67,1
+1127,Ananya Mishra,Female,2025-09-21,,Active,Procurement,Procurement Analyst,Procurement,Ahmedabad,Recruitment Agency,Diploma,G2,725000,568,,,,2.8,0,2.8,0.0337,0.28,0
+1128,Manish Joshi,Male,2023-06-29,,Active,Information Technology,Data Analyst,IT,Pune,Naukri,Diploma,G3,955000,178,,,,3.8,1,3.0,0.0487,2.51,0
+1129,Nikhil Khan,Male,2021-10-08,,Active,Sales,Sales Executive,Sales,Mumbai,Naukri,MBA/PGDM,G2,605000,1034,,,,3.84,0,3.67,0.0391,4.23,0
+1130,Ashish Pawar,Male,2024-02-03,,Active,Information Technology,Data Analyst,IT,Bengaluru,Company Website,Diploma,G2,700000,354,,,,3.1,0,2.7,0.0378,1.91,0
+1131,Diya Mishra,Male,2025-05-21,,Active,Information Technology,Data Analyst,IT,Pune,Recruitment Agency,Diploma,G4,1065000,77,,,,3.6,0,4.4,0.0405,0.61,0
+1132,Arjun Deshmukh,Male,2024-09-19,,Active,Operations,Operations Manager,Operations,Gurugram,LinkedIn,Bachelor's,G4,1345000,844,,,,3.3,0,3.3,0.0616,1.28,0
+1133,Meera Naik,Female,2022-11-04,2024-04-24,Resigned,Customer Support,Customer Support Manager,Support,Bengaluru,LinkedIn,Bachelor's,G4,1085000,713,Better Career Opportunity,1.0,No,3.35,0,3.1,0.0389,1.47,1
+1134,Vaishnavi Bansal,Male,2023-07-06,,Active,Finance,Finance Manager,Finance,Delhi,Campus Hiring,Bachelor's,G4,1090000,692,,,,4.17,0,2.7,0.0411,2.49,0
+1135,Maya Joshi,Female,2021-04-14,,Active,Information Technology,IT Manager,IT,Delhi,Employee Referral,Diploma,G5,1620000,716,,,,3.34,0,3.25,0.0555,4.71,0
+1136,Trisha Saxena,Male,2023-05-13,,Active,Marketing,Marketing Analyst,Marketing,Hyderabad,Campus Hiring,Diploma,G3,785000,827,,,,3.07,1,3.0,0.0491,2.64,0
+1137,Kavya Chopra,Female,2025-11-15,,Active,Sales,Sales Manager,Sales,Mumbai,Company Website,Diploma,G4,1025000,51,,,,3.5,0,2.0,0.05,0.13,0
+1138,Rohan Kapoor,Male,2025-11-15,,Active,Operations,Operations Executive,Operations,Bengaluru,Company Website,Bachelor's,G3,765000,1100,,,,3.3,0,4.0,0.0,0.13,0
+1139,Akash Malhotra,Male,2021-08-02,,Active,Operations,Operations Manager,Operations,Pune,LinkedIn,Diploma,G4,1235000,1160,,,,3.48,0,3.28,0.0533,4.41,0
+1140,Rahul Thakur,Female,2021-09-30,,Active,Human Resources,HR Manager,HR,Hyderabad,Campus Hiring,MBA/PGDM,G5,1415000,1015,,,,3.18,0,3.0,0.053,4.25,0
+1141,Mohit Sawant,Male,2021-12-10,2025-06-16,Resigned,Finance,Financial Analyst,Finance,Mumbai,Company Website,Master's,G2,605000,1007,Performance Termination,4.0,No,2.98,1,2.85,0.0467,3.52,1
+1142,Riya Verma,Male,2023-05-24,,Active,Sales,Sales Executive,Sales,Pune,Campus Hiring,MBA/PGDM,G1,405000,1078,,,,3.2,0,2.93,0.0439,2.61,0
+1143,Varun Thakur,Female,2021-01-03,,Active,Finance,Finance Manager,Finance,Mumbai,LinkedIn,Master's,G4,1330000,943,,,,3.22,0,3.45,0.038,4.99,0
+1144,Arjun Mishra,Female,2023-11-29,,Active,Operations,Operations Manager,Operations,Bengaluru,Campus Hiring,Bachelor's,G4,1155000,655,,,,4.03,0,3.2,0.0584,2.09,0
+1145,Anjali Kapoor,Female,2025-07-09,,Active,Information Technology,Software Engineer,IT,Bengaluru,LinkedIn,Bachelor's,G2,700000,100,,,,3.8,0,,0.0469,0.48,0
+1146,Rahul Malhotra,Female,2021-03-06,,Active,Sales,Sales Manager,Sales,Hyderabad,Naukri,MBA/PGDM,G5,1510000,679,,,,3.48,0,2.93,0.0436,4.82,0
+1147,Aditya More,Female,2022-09-17,,Active,Information Technology,Data Analyst,IT,Mumbai,Employee Referral,Diploma,G2,625000,1018,,,,2.77,0,3.13,0.039,3.29,0
+1148,Trisha Jadhav,Female,2024-01-25,,Active,Information Technology,Data Analyst,IT,Hyderabad,Naukri,Master's,G2,635000,910,,,,3.45,0,2.6,0.0463,1.93,0
+1149,Arjun More,Female,2024-07-09,,Active,Information Technology,Data Analyst,IT,Mumbai,Campus Hiring,Diploma,G2,680000,347,,,,3.0,0,2.3,0.0499,1.48,0
+1150,Kavya Kulkarni,Male,2024-04-27,,Active,Operations,Operations Manager,Operations,Delhi,Naukri,Bachelor's,G4,1400000,164,,,,3.9,0,3.0,0.042,1.68,0
+1151,Riya Bansal,Male,2023-07-16,,Active,Marketing,Marketing Manager,Marketing,Bengaluru,Company Website,Master's,G4,1010000,27,,,,3.17,0,2.9,0.0478,2.46,0
+1152,Sneha Patel,Male,2021-10-21,,Active,Sales,Sales Executive,Sales,Mumbai,Campus Hiring,MBA/PGDM,G2,645000,51,,,,3.86,0,2.47,0.0421,4.19,0
+1153,Aditi Mehta,Male,2022-01-09,,Active,Information Technology,IT Manager,IT,Mumbai,Campus Hiring,Master's,G5,1920000,208,,,,3.33,0,3.55,0.0481,3.98,0
+1154,Trisha Pillai,Male,2022-09-07,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Employee Referral,Bachelor's,G1,405000,225,,,,3.77,0,2.73,0.0584,3.32,0
+1155,Aditi Gupta,Male,2022-03-19,,Active,Sales,Sales Manager,Sales,Mumbai,Company Website,MBA/PGDM,G5,1565000,1166,,,,3.33,0,3.5,0.0484,3.79,0
+1156,Vaishnavi Mehta,Male,2024-12-01,,Active,Customer Support,Customer Support Manager,Support,Bengaluru,Recruitment Agency,MBA/PGDM,G4,1275000,513,,,,2.65,0,3.0,0.0607,1.08,0
+1157,Tanvi Joshi,Male,2021-09-05,,Active,Customer Support,Customer Support Executive,Support,Bengaluru,Recruitment Agency,Master's,G2,600000,336,,,,2.96,1,2.55,0.0519,4.32,0
+1158,Rahul More,Female,2023-04-30,,Active,Finance,Financial Analyst,Finance,Mumbai,LinkedIn,MBA/PGDM,G3,795000,40,,,,3.17,0,3.07,0.049,2.67,0
+1159,Dhruv Sawant,Female,2025-02-28,,Active,Information Technology,Software Engineer,IT,Bengaluru,Employee Referral,Bachelor's,G4,1005000,483,,,,2.5,0,3.2,0.0293,0.84,0
+1160,Arjun Gupta,Male,2022-12-09,2025-07-31,Resigned,Operations,Operations Manager,Operations,Hyderabad,Recruitment Agency,Diploma,G5,1540000,431,Compensation,1.0,No,3.77,0,3.9,0.0526,2.64,1
+1161,Aarav Singh,Female,2024-06-24,,Active,Finance,Financial Analyst,Finance,Mumbai,Employee Referral,Master's,G2,730000,765,,,,3.25,0,3.6,0.0421,1.52,0
+1162,Harsh Joshi,Female,2023-05-19,,Active,Finance,Financial Analyst,Finance,Ahmedabad,Recruitment Agency,Master's,G2,740000,699,,,,3.2,0,2.33,0.0418,2.62,0
+1163,Sahil Sharma,Male,2021-07-30,,Active,Marketing,Marketing Analyst,Marketing,Pune,LinkedIn,Diploma,G2,560000,296,,,,3.14,1,2.95,0.0439,4.42,0
+1164,Aarav Sawant,Female,2022-09-18,2025-06-30,Resigned,Human Resources,HR Manager,HR,Pune,Employee Referral,MBA/PGDM,G4,1060000,680,Better Career Opportunity,4.0,Yes,3.77,0,4.2,0.0559,2.78,1
+1165,Dev Khan,Female,2025-02-12,,Active,Marketing,Marketing Manager,Marketing,Chennai,Recruitment Agency,Diploma,G4,1275000,308,,,,3.3,0,3.4,0.0211,0.88,0
+1166,Priya Thakur,Male,2022-01-28,,Active,Sales,Sales Manager,Sales,Delhi,Employee Referral,MBA/PGDM,G3,960000,26,,,,3.4,0,3.0,0.0523,3.92,0
+1167,Zoya Deshmukh,Male,2023-11-03,,Active,Operations,Operations Manager,Operations,Pune,Company Website,MBA/PGDM,G4,1070000,198,,,,4.47,0,3.3,0.0441,2.16,0
+1168,Sakshi Pawar,Male,2023-03-22,,Active,Customer Support,Customer Support Executive,Support,Hyderabad,Company Website,Diploma,G1,420000,1111,,,,3.47,1,4.2,0.0396,2.78,0
+1169,Varun Verma,Female,2021-02-25,,Active,Operations,Operations Executive,Operations,Delhi,Recruitment Agency,Diploma,G2,740000,497,,,,3.74,0,3.33,0.0451,4.85,0
+1170,Rahul Saxena,Male,2022-11-30,,Active,Customer Support,Customer Support Manager,Support,Mumbai,Company Website,Master's,G3,860000,33,,,,3.48,0,2.45,0.0438,3.09,0
+1171,Diya Thakur,Male,2022-06-20,,Active,Procurement,Procurement Analyst,Procurement,Delhi,Recruitment Agency,Master's,G2,615000,895,,,,3.88,0,2.95,0.0401,3.53,0
+1172,Vidya Verma,Male,2025-07-12,,Active,Sales,Sales Manager,Sales,Mumbai,Company Website,Bachelor's,G3,975000,143,,,,3.9,0,,0.0476,0.47,0
+1173,Tanya Joshi,Female,2021-06-12,,Active,Finance,Financial Analyst,Finance,Mumbai,Company Website,Master's,G3,910000,832,,,,3.0,1,2.68,0.059,4.55,0
+1174,Diya Iyer,Male,2023-06-08,,Active,Human Resources,HR Executive,HR,Bengaluru,Naukri,MBA/PGDM,G2,590000,1071,,,,3.2,1,3.3,0.0555,2.57,0
+1175,Rohan Verma,Male,2021-02-22,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Company Website,Bachelor's,G2,590000,895,,,,3.6,1,3.35,0.0378,4.85,0
+1176,Shreya Rao,Male,2022-07-23,,Active,Information Technology,IT Manager,IT,Gurugram,LinkedIn,Master's,G5,1505000,44,,,,2.95,0,2.7,0.0501,3.44,0
+1177,Vaishnavi Menon,Male,2022-12-10,,Active,Marketing,Marketing Analyst,Marketing,Bengaluru,Recruitment Agency,Bachelor's,G2,605000,99,,,,3.05,1,3.35,0.0444,3.06,0
+1178,Abhishek Naik,Male,2025-08-09,,Active,Operations,Operations Executive,Operations,Delhi,LinkedIn,MBA/PGDM,G3,805000,824,,,,3.6,0,3.4,0.036,0.39,0
+1179,Pallavi Thakur,Male,2024-01-13,2024-10-12,Resigned,Information Technology,IT Manager,IT,Bengaluru,Campus Hiring,MBA/PGDM,G5,1965000,471,Better Career Opportunity,2.0,No,,0,,0.0369,0.75,1
+1180,Ashish Rao,Male,2021-11-21,,Active,Information Technology,IT Manager,IT,Delhi,Recruitment Agency,MBA/PGDM,G5,1500000,455,,,,3.44,0,2.8,0.0394,4.11,0
+1181,Mohit Iyer,Female,2025-10-15,,Active,Procurement,Procurement Analyst,Procurement,Mumbai,Naukri,Master's,G2,700000,657,,,,3.4,0,,0.0469,0.21,0
+1182,Isha Pawar,Female,2022-01-29,,Active,Information Technology,IT Manager,IT,Hyderabad,LinkedIn,MBA/PGDM,G5,1790000,156,,,,3.27,0,2.4,0.0416,3.92,0
+1183,Vidya Thakur,Female,2024-03-24,2025-04-03,Resigned,Marketing,Marketing Analyst,Marketing,Delhi,Employee Referral,Diploma,G2,695000,304,Retirement,4.0,Yes,3.3,0,2.6,0.0397,1.03,1
+1184,Aditi Saxena,Female,2025-02-25,,Active,Customer Support,Customer Support Manager,Support,Hyderabad,Recruitment Agency,Master's,G3,780000,421,,,,4.1,0,2.0,0.0385,0.85,0
+1185,Manish Mishra,Male,2025-09-01,2025-11-30,Resigned,Information Technology,Data Analyst,IT,Hyderabad,Company Website,MBA/PGDM,G2,635000,847,Better Career Opportunity,5.0,Yes,,0,,0.0313,0.25,1
+1186,Arjun Bansal,Female,2022-10-14,,Active,Marketing,Marketing Analyst,Marketing,Hyderabad,Naukri,Master's,G3,775000,989,,,,4.22,0,2.8,0.0531,3.21,0
+1187,Dev Joshi,Male,2023-05-03,2023-07-16,Terminated,Sales,Sales Manager,Sales,Pune,Campus Hiring,Bachelor's,G4,1045000,917,Compensation,4.0,Yes,,0,,0.0156,0.2,1
+1188,Trisha Verma,Male,2025-07-12,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,Recruitment Agency,Master's,G2,515000,378,,,,3.9,0,,0.0385,0.47,0
+1189,Pooja Shinde,Female,2021-02-19,2024-05-23,Resigned,Finance,Financial Analyst,Finance,Delhi,Employee Referral,Master's,G2,625000,669,Personal Reasons,5.0,Yes,4.07,0,2.87,0.0535,3.26,1
+1190,Trisha Gupta,Male,2023-07-18,,Active,Customer Support,Customer Support Executive,Support,Mumbai,Employee Referral,Diploma,G1,500000,494,,,,2.37,0,2.8,0.0558,2.46,0
+1191,Vaishnavi Malhotra,Female,2022-05-11,,Active,Information Technology,Data Analyst,IT,Delhi,Naukri,Diploma,G4,1040000,190,,,,3.92,0,3.33,0.0522,3.64,0
+1192,Rohan Pillai,Female,2023-08-18,,Active,Human Resources,HR Manager,HR,Bengaluru,Employee Referral,Bachelor's,G4,1215000,222,,,,4.37,0,2.6,0.0454,2.37,0
+1193,Pallavi Pawar,Female,2022-06-27,,Active,Sales,Sales Manager,Sales,Bengaluru,Company Website,MBA/PGDM,G4,1320000,1172,,,,3.28,0,2.07,0.0416,3.51,0
+1194,Isha Malhotra,Female,2022-08-05,,Active,Information Technology,Software Engineer,IT,Hyderabad,Employee Referral,MBA/PGDM,G4,1210000,1030,,,,3.15,0,3.2,0.048,3.41,0
+1195,Aarav Khan,Female,2022-09-08,2025-01-16,Resigned,Sales,Sales Executive,Sales,Chennai,Recruitment Agency,Master's,G2,700000,334,Relocation,2.0,No,3.53,0,3.0,0.0375,2.36,1
+1196,Tanvi Menon,Male,2023-08-26,,Active,Marketing,Marketing Analyst,Marketing,Hyderabad,LinkedIn,Master's,G2,730000,73,,,,3.5,1,2.7,0.0435,2.35,0
+1197,Nisha Gupta,Male,2025-06-15,,Active,Operations,Operations Executive,Operations,Mumbai,Campus Hiring,MBA/PGDM,G2,680000,1167,,,,2.0,0,3.2,0.0616,0.54,0
+1198,Riya Gupta,Female,2021-01-22,,Active,Sales,Sales Executive,Sales,Chennai,Company Website,Bachelor's,G2,710000,84,,,,3.12,1,2.64,0.0525,4.94,0
+1199,Sameer Reddy,Female,2021-02-10,,Active,Procurement,Procurement Analyst,Procurement,Bengaluru,Company Website,Bachelor's,G2,690000,623,,,,3.52,0,2.8,0.0469,4.89,0
+1200,Riya Reddy,Female,2022-10-12,,Active,Sales,Sales Executive,Sales,Mumbai,Company Website,Bachelor's,G2,720000,440,,,,3.6,0,2.8,0.0404,3.22,0
