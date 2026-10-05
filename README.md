@@ -1,74 +1,46 @@
 HR ANALYTICS SQL PROJECT
-========================
+69 SQL queries solving real HR business problems | MySQL | 24 tables | 1,200 employees
 
-69 SQL questions (Easy, Intermediate, Advanced) that solve real HR business
-problems on a 24-table employee database: attrition, pay equity, hiring
-funnel, performance, training, benefits, engagement and attendance.
+WHAT THIS IS
+An HR database of 1,200 employees. I answered the questions that the CHRO,
+Finance, Hiring and L&D teams would ask, from basic reports to advanced analysis.
 
-Every question is written as a business request, for example "The CHRO wants
-to know the biggest drivers of exits", followed by the SQL that answers it.
+BUSINESS PROBLEMS SOLVED
 
+EASY (20 queries): "What does our workforce look like?"
+- How many employees do we have, and how many left?
+- Headcount, gender mix and salary spread by department and city
+- Which hiring sources, exit reasons and benefits matter most?
 
-BUSINESS PROBLEM
-----------------
-A mid-sized Indian company with 1,200 employees, 8 departments and 8 cities
-has a 22.5% attrition rate, slow hiring and no single view of its people
-data. As the People Analytics analyst, I answer the questions sent by the
-CHRO, Finance, Talent Acquisition, L&D and department heads, and turn the
-results into actions.
+INTERMEDIATE (25 queries): "Where is the problem?"
+- Which departments and cities have the highest attrition?
+- Why do people leave, and how do leavers rate their managers?
+- Is there a gender pay gap? Who is paid near the bottom of their band?
+- Which recruitment source converts best? How long do vacancies stay open?
+- Do departments differ in absenteeism and work-from-home use?
 
+ADVANCED (24 queries): "What should we do about it?"
+- Who is likely to leave next? (flight-risk list)
+- Who is under-paid for their role? (compa-ratio)
+- How many people quit in their first year, and what does attrition cost?
+- Where does the hiring funnel leak? Which source gives staff who stay?
+- Do promotions or training improve retention and performance?
+- One department scorecard with a risk rank for leadership
 
-DATASET
--------
-24 tables, 73,106 rows. Hires from Jan 2021 to Nov 2025. As-of date:
-31-Dec-2025. Salaries are annual, in INR.
+KEY FINDINGS
+- Attrition is 22.5%; Finance is highest at 24.7%
+- 46% of leavers quit within their first year
+- Top exit reason: better career opportunity (34%)
+- LinkedIn hires stay longest (96.7% retained after 1 year)
+- Promoted employees leave less (18.3% vs 23.0%)
+- 24 high performers are disengaged and under-paid (flight risk)
 
-Workforce core:
-  employees, departments, job_roles, locations, salary_grades, salary_history
-Attrition:
-  employee_exit_details, exit_reasons
-Recruitment:
-  job_requisitions, candidates, job_applications, interviews, job_offers
-Performance and L&D:
-  performance_reviews, promotions, training_programs, employee_training
-Engagement and attendance:
-  engagement_surveys, survey_questions, attendance_monthly
-Benefits and onboarding:
-  benefits, employee_benefits, onboarding
-Summary table:
-  employee_analytics_master (one flat row per employee)
+HOW TO RUN
+1. Run sql/01_create_and_load_database.sql  (creates the database and loads the data)
+2. USE hr_analytics;
+3. Run queries from sql/02_hr_analytics_queries_mysql.sql, one at a time
 
-The full schema (columns, keys, relationships, allowed values) is documented
-at the top of sql/02_hr_analytics_queries_mysql.sql.
+SKILLS
+SQL (joins, CTEs, window functions) | HR analytics | Power BI | Tableau
 
-
-REPOSITORY STRUCTURE
---------------------
-data/
-  24 source CSV files
-sql/
-  01_create_and_load_database.sql    creates the database, tables and all data
-  02_hr_analytics_queries_mysql.sql  all 69 queries with schema docs (MySQL 8+)
-  sqlite_version/                    same queries with SQLite-style dates
-docs/
-  HR_Analytics_SQL_Project.md        project write-up with all solutions
-  Dashboard_Build_Guide_PowerBI_Tableau.md
-dashboards/
-  Power BI and Tableau files and screenshots
-
-
-QUESTIONS AT A GLANCE
----------------------
-Easy (Q1-Q20)
-  SELECT, WHERE, GROUP BY, ORDER BY, simple JOIN, CASE
-
-Intermediate (Q21-Q45)
-  Multi-table joins, rates and percentages, self-join, SUM() OVER (),
-  date arithmetic
-
-Advanced (Q46-Q69)
-  CTEs, RANK, ROW_NUMBER, LAG, NTILE, PERCENT_RANK, cohort logic,
-  data-quality audits, risk lists, scorecards
-
-Example questions:
-  Q21  What is the attrition rate (%) of each
+Author: Your Name | your LinkedIn or email
