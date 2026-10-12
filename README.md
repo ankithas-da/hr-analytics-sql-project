@@ -1,4 +1,4 @@
-HR ANALYTICS SQL PROJECT
+HR ANALYTICS PROJECT
 ========================
 
 69 SQL questions (Easy, Intermediate, Advanced) that solve real HR business
