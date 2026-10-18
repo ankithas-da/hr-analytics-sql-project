@@ -50,7 +50,7 @@ The company has no shared view of its people data. Leadership cannot see where p
 
 Six headline measures for a five-second read: attrition, leavers, offer acceptance, compa-ratio, promotion rate and average engagement.
 
-![Overview page]()
+![Overview page](Overview_hr_analytics_powerbi_db.png)
 
 #### Page 2: Attrition
 
@@ -61,7 +61,7 @@ Answers who is leaving, why, and in which teams.
 - **Leavers by department:** Information Technology (59), Sales (50), Operations (39), Customer Support (34).
 - **Early attrition** is 46.3% and **regretted attrition** (high performers who left) is 12.6%.
 
-![Attrition page]()
+![Attrition page](Attrition_powerbi_db.png)
 
 #### Page 3: Hiring and Pay
 
